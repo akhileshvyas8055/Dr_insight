@@ -23,7 +23,9 @@ CREATE TABLE IF NOT EXISTS cities (
     city_id TEXT PRIMARY KEY,
     city TEXT NOT NULL,
     state TEXT NOT NULL,
-    coverage_type TEXT
+    coverage_type TEXT,
+    latitude NUMERIC,
+    longitude NUMERIC
 );
 
 CREATE TABLE IF NOT EXISTS procedures (
@@ -93,6 +95,17 @@ CREATE TABLE IF NOT EXISTS hospital_locations (
 CREATE INDEX IF NOT EXISTS idx_hospital_prices_city_procedure ON hospital_prices(city, procedure_name);
 CREATE INDEX IF NOT EXISTS idx_hospitals_city ON hospitals(city);
 CREATE INDEX IF NOT EXISTS idx_hospitals_pincode ON hospitals(pincode);
+
+CREATE TABLE IF NOT EXISTS city_distances (
+    from_city TEXT,
+    to_city TEXT,
+    distance_km NUMERIC,
+    travel_time_hours NUMERIC,
+    bus_cost NUMERIC,
+    train_cost NUMERIC,
+    flight_cost NUMERIC,
+    avg_hotel_per_night NUMERIC
+);
 """)
 print("✅ Tables created")
 
@@ -149,6 +162,52 @@ def load_hospital_locations():
         print(f"  📥 hospital_locations: {count} rows loaded")
 
 load_hospital_locations()
+
+# Propagate latitude/longitude mapped from hospital_locations to cities!
+print("🌍 Syncing city coordinates...")
+cur.execute('''
+    UPDATE cities
+    SET latitude = (SELECT latitude FROM hospital_locations WHERE hospital_locations.city = cities.city AND latitude IS NOT NULL LIMIT 1),
+        longitude = (SELECT longitude FROM hospital_locations WHERE hospital_locations.city = cities.city AND longitude IS NOT NULL LIMIT 1)
+''')
+conn.commit()
+
+# Autogenerate city_distances
+print("🚗 Generating smart city distances internally...")
+cur.execute('SELECT city, latitude, longitude FROM cities WHERE latitude IS NOT NULL')
+valid_cities = cur.fetchall()
+
+distance_batch = []
+for i, c1 in enumerate(valid_cities):
+    for c2 in valid_cities[i+1:]:
+        import math
+        # Quick Haversine approx
+        lat1, lon1 = c1[1], c1[2]
+        lat2, lon2 = c2[1], c2[2]
+        R = 6371
+        dLat = math.radians(lat2 - lat1)
+        dLon = math.radians(lon2 - lon1)
+        a = math.sin(dLat/2)**2 + math.cos(math.radians(lat1)) * math.cos(math.radians(lat2)) * math.sin(dLon/2)**2
+        c = 2 * math.asin(math.sqrt(a))
+        distance = round(R * c)
+        
+        # Omit cities far away
+        if distance > 1000: continue
+        
+        time_hrs = round(distance / 50.0, 1) # avg 50km/h
+        bus = distance * 2 # 2₹/km
+        train = distance * 1.5
+        flight = distance * 8 if distance > 300 else None
+        
+        distance_batch.append((c1[0], c2[0], distance, time_hrs, bus, train, flight, 1500))
+        distance_batch.append((c2[0], c1[0], distance, time_hrs, bus, train, flight, 1500))
+
+if distance_batch:
+    cur.executemany("INSERT INTO city_distances VALUES (?, ?, ?, ?, ?, ?, ?, ?)", distance_batch)
+    conn.commit()
+    print(f"✅ Generated {len(distance_batch)} cross-city connections!")
+
+
 
 # ── Verify ─────────────────────────────────────────────────────────────────
 print("\n📊 Verification:")
