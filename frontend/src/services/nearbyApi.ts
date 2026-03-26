@@ -1,6 +1,6 @@
 import type { NearestHospitalsResponse, DirectionsResponse } from '../types/nearbyHospitals';
 
-const API = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000/api/v1';
+const API = 'https://dr-insights-backend.onrender.com/api/v1';
 
 export async function fetchNearbyHospitals(
   lat: number, lng: number,

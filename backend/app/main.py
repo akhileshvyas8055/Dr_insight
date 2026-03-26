@@ -10,16 +10,12 @@ logger = logging.getLogger(__name__)
 app = FastAPI(title="D₹ Insights API", version="1.0.0")
 
 frontend_url = os.getenv("FRONTEND_URL", "http://localhost:5173")
-origins = [
-    "http://localhost:5173",
-    "http://localhost:3000",
-    frontend_url,
-]
+origins = ["*"]
 
 app.add_middleware(
     CORSMiddleware,
     allow_origins=origins,
-    allow_credentials=True,
+    allow_credentials=False,
     allow_methods=["*"],
     allow_headers=["*"],
 )

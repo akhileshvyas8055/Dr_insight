@@ -1,6 +1,6 @@
 import type { SmartSavingsRequest, SmartSavingsResponse } from '../types/smartSavings';
 
-const API = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000/api/v1';
+const API = 'https://dr-insights-backend.onrender.com/api/v1';
 
 export async function fetchSmartSavings(req: SmartSavingsRequest): Promise<SmartSavingsResponse> {
   const res = await fetch(`${API}/smart-savings/`, {
