@@ -12,4 +12,4 @@ services:
       - key: DATABASE_URL
         value: sqlite:///./dr_insights.db
       - key: PYTHON_VERSION
-        value: 3.10.0
+        value: 3.11.0
