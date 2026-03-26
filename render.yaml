@@ -4,7 +4,7 @@ services:
     env: python
     region: frankfurt
     rootDir: backend
-    buildCommand: "./build.sh"
+    buildCommand: "bash build.sh"
     startCommand: "gunicorn -c gunicorn.conf.py app.main:app"
     plan: free
     healthCheckPath: /
