@@ -1,0 +1,51 @@
+procedure_id,procedure_name,benchmark_rate,source_count,category,data_nature
+PROC001,CT Scan - Brain,3500.0,1,Imaging,realistic_benchmark_rates
+PROC002,CT Scan - Chest,4000.0,1,Imaging,realistic_benchmark_rates
+PROC003,CT Scan - Abdomen,4500.0,1,Imaging,realistic_benchmark_rates
+PROC004,MRI - Brain,7000.0,1,Imaging,realistic_benchmark_rates
+PROC005,MRI - Spine,8000.0,1,Imaging,realistic_benchmark_rates
+PROC006,MRI - Knee,6500.0,1,Imaging,realistic_benchmark_rates
+PROC007,X-Ray - Chest,500.0,1,Imaging,realistic_benchmark_rates
+PROC008,X-Ray - Limb,400.0,1,Imaging,realistic_benchmark_rates
+PROC009,Ultrasound - Abdomen,1200.0,1,Imaging,realistic_benchmark_rates
+PROC010,Ultrasound - Pelvis,1500.0,1,Imaging,realistic_benchmark_rates
+PROC011,Complete Blood Count (CBC),350.0,1,Blood Test,realistic_benchmark_rates
+PROC012,Lipid Profile,600.0,1,Blood Test,realistic_benchmark_rates
+PROC013,Thyroid Function Test (TFT),700.0,1,Blood Test,realistic_benchmark_rates
+PROC014,Liver Function Test (LFT),800.0,1,Blood Test,realistic_benchmark_rates
+PROC015,Kidney Function Test (KFT),750.0,1,Blood Test,realistic_benchmark_rates
+PROC016,Blood Sugar Fasting,100.0,1,Blood Test,realistic_benchmark_rates
+PROC017,HbA1c,500.0,1,Blood Test,realistic_benchmark_rates
+PROC018,Vitamin D Test,1200.0,1,Blood Test,realistic_benchmark_rates
+PROC019,Vitamin B12 Test,900.0,1,Blood Test,realistic_benchmark_rates
+PROC020,Full Body Checkup - Basic,2500.0,1,Health Checkup,realistic_benchmark_rates
+PROC021,Full Body Checkup - Advanced,5000.0,1,Health Checkup,realistic_benchmark_rates
+PROC022,Full Body Checkup - Premium,8000.0,1,Health Checkup,realistic_benchmark_rates
+PROC023,ECG (Electrocardiogram),300.0,1,Cardiology,realistic_benchmark_rates
+PROC024,2D Echocardiography,2000.0,1,Cardiology,realistic_benchmark_rates
+PROC025,TMT (Treadmill Test),1500.0,1,Cardiology,realistic_benchmark_rates
+PROC026,Colonoscopy,5000.0,1,Procedure,realistic_benchmark_rates
+PROC027,Endoscopy (Upper GI),3500.0,1,Procedure,realistic_benchmark_rates
+PROC028,Dental Cleaning,1000.0,1,Dental,realistic_benchmark_rates
+PROC029,Dental Root Canal,5000.0,1,Dental,realistic_benchmark_rates
+PROC030,Eye Checkup - Comprehensive,800.0,1,Ophthalmology,realistic_benchmark_rates
+PROC031,Cataract Surgery,25000.0,1,Ophthalmology,realistic_benchmark_rates
+PROC032,Normal Delivery,20000.0,1,Maternity,realistic_benchmark_rates
+PROC033,C-Section Delivery,45000.0,1,Maternity,realistic_benchmark_rates
+PROC034,Knee Replacement,200000.0,1,Orthopaedics,realistic_benchmark_rates
+PROC035,Hip Replacement,250000.0,1,Orthopaedics,realistic_benchmark_rates
+PROC036,Appendectomy,35000.0,1,General Surgery,realistic_benchmark_rates
+PROC037,Hernia Repair,40000.0,1,General Surgery,realistic_benchmark_rates
+PROC038,Gallbladder Removal (Cholecystectomy),50000.0,1,General Surgery,realistic_benchmark_rates
+PROC039,Tonsillectomy,20000.0,1,ENT,realistic_benchmark_rates
+PROC040,Hearing Test (Audiometry),500.0,1,ENT,realistic_benchmark_rates
+PROC041,PET Scan,15000.0,1,Imaging,realistic_benchmark_rates
+PROC042,Mammography,2000.0,1,Imaging,realistic_benchmark_rates
+PROC043,Bone Density Test (DEXA Scan),2500.0,1,Imaging,realistic_benchmark_rates
+PROC044,Allergy Panel Test,3000.0,1,Blood Test,realistic_benchmark_rates
+PROC045,COVID-19 RT-PCR Test,500.0,1,Blood Test,realistic_benchmark_rates
+PROC046,Urine Routine Test,200.0,1,Blood Test,realistic_benchmark_rates
+PROC047,Stool Test,250.0,1,Blood Test,realistic_benchmark_rates
+PROC048,PSA Test (Prostate),800.0,1,Blood Test,realistic_benchmark_rates
+PROC049,Pap Smear Test,600.0,1,Procedure,realistic_benchmark_rates
+PROC050,Physiotherapy Session,800.0,1,Rehabilitation,realistic_benchmark_rates

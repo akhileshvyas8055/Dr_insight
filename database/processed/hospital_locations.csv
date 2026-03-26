@@ -1,0 +1,598 @@
+Hospital Name,City,Type,Latitude,Longitude
+AIIMS Delhi,Delhi,Government,28.5672,77.2100
+Safdarjung Hospital,Delhi,Government,28.5681,77.2066
+Ram Manohar Lohia Hospital,Delhi,Government,28.6268,77.2065
+Lok Nayak Hospital,Delhi,Government,28.6372,77.2393
+GTB Hospital,Delhi,Government,28.6863,77.3105
+Deen Dayal Upadhyay Hospital,Delhi,Government,28.5924,77.1712
+Lady Hardinge Medical College,Delhi,Government,28.6335,77.2083
+Hindu Rao Hospital,Delhi,Government,28.6810,77.2112
+Kasturba Hospital Delhi,Delhi,Government,28.6399,77.2355
+Sucheta Kriplani Hospital,Delhi,Government,28.6267,77.2103
+Aruna Asaf Ali Hospital,Delhi,Government,28.6533,77.2312
+Babu Jagjivan Ram Hospital,Delhi,Government,28.6200,77.1735
+Bhagwan Mahavir Hospital,Delhi,Government,28.5888,77.1752
+Baba Saheb Ambedkar Hospital,Delhi,Government,28.6944,77.1536
+Maharishi Valmiki Hospital,Delhi,Government,28.7127,77.2287
+Rao Tula Ram Memorial Hospital,Delhi,Government,28.5283,77.1609
+Janakpuri Super Specialty Hospital,Delhi,Government,28.6240,77.0860
+Rajiv Gandhi Super Specialty Hospital,Delhi,Government,28.6983,77.2973
+Dr Baba Saheb Ambedkar Medical College,Delhi,Government,28.6950,77.1523
+Chacha Nehru Bal Chikitsalaya,Delhi,Government,28.6399,77.2415
+Fortis Escorts Heart Institute,Delhi,Private-Premium,28.5494,77.2221
+Max Super Speciality Hospital Saket,Delhi,Private-Premium,28.5275,77.2137
+Apollo Hospital Delhi,Delhi,Private-Premium,28.5588,77.2841
+BLK Super Speciality Hospital,Delhi,Private-Premium,28.6525,77.1860
+Sir Ganga Ram Hospital,Delhi,Private-Premium,28.6400,77.1911
+Medanta The Medicity,Gurugram,Private-Premium,28.4395,77.0469
+Artemis Hospital,Gurugram,Private-Premium,28.4401,77.0670
+Primus Super Speciality Hospital,Delhi,Private-Premium,28.5746,77.1808
+Moolchand Hospital,Delhi,Private-Premium,28.5722,77.2360
+Indraprastha Apollo Hospital,Delhi,Private-Premium,28.5589,77.2842
+Fortis Hospital Vasant Kunj,Delhi,Private-Premium,28.5207,77.1575
+Max Super Speciality Hospital Patparganj,Delhi,Private-Premium,28.6286,77.2973
+Venkateshwar Hospital,Delhi,Private-Premium,28.5861,77.0448
+Manipal Hospital Dwarka,Delhi,Private-Premium,28.5890,77.0450
+Aakash Healthcare,Delhi,Private-Premium,28.5860,77.0500
+Metro Hospital Noida,Noida,Private-Mid,28.5802,77.3275
+Jaypee Hospital Noida,Noida,Private-Premium,28.4670,77.4884
+Kailash Hospital Noida,Noida,Private-Mid,28.5736,77.3231
+Yatharth Super Speciality Hospital,Noida,Private-Mid,28.4960,77.4139
+Sharda Hospital,Greater Noida,Private-Mid,28.4585,77.5373
+Felix Hospital,Noida,Private-Mid,28.5702,77.3192
+Fortis Hospital Noida,Noida,Private-Premium,28.5685,77.3240
+Max Super Speciality Hospital Vaishali,Ghaziabad,Private-Premium,28.6460,77.3400
+Columbia Asia Hospital Ghaziabad,Ghaziabad,Private-Mid,28.6337,77.4099
+Yashoda Super Speciality Hospital Ghaziabad,Ghaziabad,Private-Mid,28.6592,77.4386
+MMG District Hospital Ghaziabad,Ghaziabad,Government,28.6653,77.4341
+Santosh Medical College,Ghaziabad,Private-Mid,28.6750,77.4280
+Lilavati Hospital,Mumbai,Private-Premium,19.0509,72.8294
+Hinduja Hospital,Mumbai,Private-Premium,19.0380,72.8410
+Breach Candy Hospital,Mumbai,Private-Premium,18.9710,72.8048
+Jaslok Hospital,Mumbai,Private-Premium,18.9713,72.8081
+Kokilaben Dhirubhai Ambani Hospital,Mumbai,Private-Premium,19.1310,72.8268
+Nanavati Max Super Speciality Hospital,Mumbai,Private-Premium,19.0889,72.8399
+Bombay Hospital,Mumbai,Private-Premium,18.9384,72.8318
+KEM Hospital Mumbai,Mumbai,Government,19.0002,72.8420
+JJ Hospital Mumbai,Mumbai,Government,18.9624,72.8336
+Sion Hospital,Mumbai,Government,19.0408,72.8617
+Nair Hospital,Mumbai,Government,18.9880,72.8290
+Cooper Hospital,Mumbai,Government,19.1040,72.8383
+Rajawadi Hospital,Mumbai,Government,19.0686,72.8971
+Lokmanya Tilak Municipal Hospital,Mumbai,Government,19.0410,72.8620
+Holy Family Hospital Mumbai,Mumbai,Private-Mid,19.0456,72.8419
+Saifee Hospital,Mumbai,Private-Premium,18.9605,72.8110
+Wockhardt Hospital Mumbai,Mumbai,Private-Premium,19.0186,72.8360
+Global Hospital Mumbai,Mumbai,Private-Premium,19.0031,72.8340
+Fortis Hospital Mulund,Mumbai,Private-Premium,19.1764,72.9568
+Hiranandani Hospital Powai,Mumbai,Private-Premium,19.1210,72.9070
+SevenHills Hospital Mumbai,Mumbai,Private-Mid,19.1505,72.9391
+SRCC Children Hospital,Mumbai,Private-Premium,18.9920,72.8100
+Tata Memorial Hospital,Mumbai,Government,19.0041,72.8440
+Asian Heart Institute,Mumbai,Private-Premium,19.0230,72.8480
+Jupiter Hospital Thane,Thane,Private-Premium,19.2000,72.9653
+Bethany Hospital Thane,Thane,Private-Mid,19.2100,72.9700
+Vedant Hospital Thane,Thane,Private-Mid,19.1960,72.9630
+Hiranandani Hospital Vashi,Navi Mumbai,Private-Premium,19.0726,72.9987
+MGM Hospital Vashi,Navi Mumbai,Private-Mid,19.0720,72.9980
+Apollo Hospital Navi Mumbai,Navi Mumbai,Private-Premium,19.0730,73.0060
+DY Patil Hospital Navi Mumbai,Navi Mumbai,Private-Mid,19.0440,73.0240
+NMMC Hospital Vashi,Navi Mumbai,Government,19.0690,72.9990
+Sterling Hospital Navi Mumbai,Navi Mumbai,Private-Mid,19.0500,73.0150
+Fortis Hiranandani Hospital,Navi Mumbai,Private-Premium,19.0360,73.0180
+Manipal Hospital Bangalore,Bangalore,Private-Premium,12.9588,77.6463
+Narayana Health Bangalore,Bangalore,Private-Premium,12.8920,77.5961
+Apollo Hospital Bangalore,Bangalore,Private-Premium,12.9543,77.5960
+Fortis Hospital Bangalore,Bangalore,Private-Premium,12.9591,77.6481
+Columbia Asia Hospital Bangalore,Bangalore,Private-Mid,12.9762,77.5937
+Aster CMI Hospital,Bangalore,Private-Premium,13.0245,77.5946
+Sakra World Hospital,Bangalore,Private-Premium,12.9336,77.6141
+BGS Gleneagles Global Hospital,Bangalore,Private-Premium,12.9100,77.5450
+MS Ramaiah Memorial Hospital,Bangalore,Private-Mid,13.0320,77.5650
+Sparsh Hospital Bangalore,Bangalore,Private-Mid,12.9070,77.5970
+St Johns Medical College Hospital,Bangalore,Private-Mid,12.9300,77.6200
+Vikram Hospital Bangalore,Bangalore,Private-Mid,12.9538,77.5993
+Sagar Hospitals,Bangalore,Private-Mid,12.9190,77.5473
+KC General Hospital,Bangalore,Government,12.9998,77.5722
+Bowring Hospital,Bangalore,Government,12.9840,77.5980
+Victoria Hospital Bangalore,Bangalore,Government,12.9565,77.5736
+Nimhans Bangalore,Bangalore,Government,12.9416,77.5968
+Vani Vilas Hospital,Bangalore,Government,12.9567,77.5700
+Kidwai Memorial Institute,Bangalore,Government,12.9395,77.5756
+Baptist Hospital Bangalore,Bangalore,Private-Mid,12.9410,77.5580
+CMC Vellore,Vellore,Private-Premium,12.9239,79.1354
+Apollo Hospital Chennai,Chennai,Private-Premium,13.0068,80.2612
+MIOT International Chennai,Chennai,Private-Premium,13.0073,80.1737
+Fortis Malar Hospital,Chennai,Private-Premium,13.0086,80.2580
+Global Health City Chennai,Chennai,Private-Premium,12.9560,80.2460
+Kauvery Hospital Chennai,Chennai,Private-Mid,13.0400,80.2700
+Dr Mehta Hospital Chennai,Chennai,Private-Mid,13.0610,80.2600
+Vijaya Hospital Chennai,Chennai,Private-Mid,13.0367,80.2352
+Sri Ramachandra Hospital,Chennai,Private-Premium,13.0350,80.1421
+Sundaram Medical Foundation,Chennai,Private-Mid,13.0629,80.2097
+Rajiv Gandhi Government General Hospital,Chennai,Government,13.0778,80.2746
+Kilpauk Medical College Hospital,Chennai,Government,13.0830,80.2460
+Government Stanley Hospital,Chennai,Government,13.1148,80.2869
+Institute of Child Health Chennai,Chennai,Government,13.0780,80.2700
+Adyar Cancer Institute,Chennai,Government,13.0059,80.2562
+Madras Medical Mission,Chennai,Private-Premium,13.0830,80.2120
+AMRI Hospital Kolkata,Kolkata,Private-Premium,22.5091,88.3910
+Apollo Gleneagles Hospital Kolkata,Kolkata,Private-Premium,22.5155,88.3995
+Fortis Hospital Kolkata,Kolkata,Private-Premium,22.4920,88.4060
+Medica Superspecialty Hospital,Kolkata,Private-Premium,22.5185,88.4055
+Peerless Hospital Kolkata,Kolkata,Private-Mid,22.5003,88.3655
+RN Tagore International Institute,Kolkata,Private-Premium,22.4890,88.4120
+Belle Vue Clinic,Kolkata,Private-Premium,22.5351,88.3504
+SSKM Hospital Kolkata,Kolkata,Government,22.5374,88.3417
+NRS Medical College,Kolkata,Government,22.5700,88.3700
+Medical College Kolkata,Kolkata,Government,22.5678,88.3641
+RG Kar Medical College,Kolkata,Government,22.5940,88.3712
+Calcutta National Medical College,Kolkata,Government,22.5500,88.3510
+Chittaranjan National Cancer Institute,Kolkata,Government,22.5200,88.3560
+Institute of Post Graduate Medical Education,Kolkata,Government,22.5375,88.3420
+Woodlands Multispeciality Hospital,Kolkata,Private-Mid,22.5240,88.3503
+Desun Hospital Kolkata,Kolkata,Private-Mid,22.4837,88.3975
+Ruby General Hospital,Kolkata,Private-Mid,22.5126,88.3950
+Sanjay Gandhi Post Graduate Institute,Lucknow,Government,26.8940,80.9462
+KGMU Lucknow,Lucknow,Government,26.8565,80.9440
+Ram Manohar Lohia Institute Lucknow,Lucknow,Government,26.8630,80.9380
+Medanta Hospital Lucknow,Lucknow,Private-Premium,26.8500,80.9950
+Sahara Hospital Lucknow,Lucknow,Private-Mid,26.8460,80.9900
+Apollomedics Hospital Lucknow,Lucknow,Private-Premium,26.8540,80.9750
+Era Medical College,Lucknow,Private-Mid,26.9290,80.9560
+Mayo Hospital Lucknow,Lucknow,Private-Mid,26.8580,80.9530
+Vivekananda Polyclinic Lucknow,Lucknow,Private-Mid,26.8900,80.9320
+Chandan Hospital Lucknow,Lucknow,Private-Mid,26.8600,80.9360
+PGIMER Chandigarh,Chandigarh,Government,30.7647,76.7754
+GMCH Chandigarh,Chandigarh,Government,30.7545,76.7675
+Fortis Hospital Mohali,Mohali,Private-Premium,30.7130,76.7223
+Max Super Speciality Hospital Mohali,Mohali,Private-Premium,30.7079,76.7134
+Ivy Hospital Mohali,Mohali,Private-Mid,30.7040,76.7110
+Alchemist Hospital Panchkula,Panchkula,Private-Mid,30.6950,76.8480
+Mukat Hospital Chandigarh,Chandigarh,Private-Mid,30.7294,76.7632
+Silver Oaks Hospital Mohali,Mohali,Private-Mid,30.7054,76.7190
+Indus International Hospital Mohali,Mohali,Private-Mid,30.7100,76.7080
+Apollo Hospital Hyderabad,Hyderabad,Private-Premium,17.4050,78.4833
+KIMS Hospital Hyderabad,Hyderabad,Private-Premium,17.3925,78.5540
+Yashoda Hospital Hyderabad,Hyderabad,Private-Premium,17.4200,78.5080
+Continental Hospital,Hyderabad,Private-Premium,17.4249,78.3518
+Care Hospital Hyderabad,Hyderabad,Private-Premium,17.4350,78.4490
+AIG Hospital Hyderabad,Hyderabad,Private-Premium,17.3985,78.5520
+Aware Gleneagles Global Hospital,Hyderabad,Private-Premium,17.4332,78.4416
+Star Hospital Hyderabad,Hyderabad,Private-Mid,17.4241,78.4438
+Maxcure Hospital,Hyderabad,Private-Mid,17.4425,78.3866
+Citizens Hospital Hyderabad,Hyderabad,Private-Mid,17.3950,78.5350
+Sunshine Hospital Hyderabad,Hyderabad,Private-Mid,17.4295,78.4360
+Osmania General Hospital,Hyderabad,Government,17.3897,78.4841
+Gandhi Hospital Hyderabad,Hyderabad,Government,17.4022,78.4722
+Niloufer Hospital,Hyderabad,Government,17.4015,78.4745
+MNJ Institute of Oncology,Hyderabad,Government,17.3870,78.4910
+Nizam Institute of Medical Sciences,Hyderabad,Government,17.3948,78.5513
+Ruby Hall Clinic,Pune,Private-Premium,18.5288,73.8778
+Sahyadri Hospital Pune,Pune,Private-Premium,18.5363,73.8931
+KEM Hospital Pune,Pune,Private-Mid,18.5240,73.8520
+Jehangir Hospital Pune,Pune,Private-Premium,18.5326,73.8777
+Deenanath Mangeshkar Hospital,Pune,Private-Premium,18.5059,73.8298
+Jupiter Hospital Pune,Pune,Private-Premium,18.5617,73.9195
+Aditya Birla Memorial Hospital,Pune,Private-Premium,18.6400,73.7700
+Noble Hospital Pune,Pune,Private-Mid,18.5400,73.8950
+Inamdar Multispeciality Hospital,Pune,Private-Mid,18.4810,73.8730
+Sancheti Hospital,Pune,Private-Mid,18.5310,73.8490
+Poona Hospital,Pune,Private-Mid,18.5220,73.8540
+Sassoon General Hospital,Pune,Government,18.5170,73.8680
+Bharati Vidyapeeth Hospital Pune,Pune,Private-Mid,18.4620,73.8510
+Command Hospital Pune,Pune,Government,18.5070,73.8900
+Symbiosis University Hospital,Pune,Private-Mid,18.5180,73.8350
+Narayana Health Ahmedabad,Ahmedabad,Private-Premium,23.0270,72.5130
+Apollo Hospital Ahmedabad,Ahmedabad,Private-Premium,23.0315,72.5260
+Sterling Hospital Ahmedabad,Ahmedabad,Private-Mid,23.0330,72.5470
+CIMS Hospital Ahmedabad,Ahmedabad,Private-Premium,23.0360,72.5130
+HCG Cancer Centre Ahmedabad,Ahmedabad,Private-Premium,23.0322,72.5149
+Zydus Hospital Ahmedabad,Ahmedabad,Private-Premium,23.0290,72.5160
+SAL Hospital Ahmedabad,Ahmedabad,Private-Mid,23.0350,72.5320
+Shalby Hospital Ahmedabad,Ahmedabad,Private-Mid,23.0120,72.5280
+VS General Hospital Ahmedabad,Ahmedabad,Government,23.0401,72.6010
+Civil Hospital Ahmedabad,Ahmedabad,Government,23.0460,72.5990
+Gujarat Cancer Research Institute,Ahmedabad,Government,23.0430,72.5970
+UN Mehta Institute of Cardiology,Ahmedabad,Government,23.0449,72.5990
+KD Hospital Ahmedabad,Ahmedabad,Private-Mid,23.0520,72.5307
+GCS Hospital Ahmedabad,Ahmedabad,Private-Mid,23.0260,72.5580
+Wockhardt Hospital Rajkot,Rajkot,Private-Mid,22.3039,70.8022
+Sterling Hospital Rajkot,Rajkot,Private-Mid,22.3100,70.7970
+Rajkot Civil Hospital,Rajkot,Government,22.3029,70.8024
+Galaxy Hospital Rajkot,Rajkot,Private-Mid,22.3050,70.8000
+Synergy Hospital Rajkot,Rajkot,Private-Mid,22.3015,70.7985
+Apollo Hospital Rajkot,Rajkot,Private-Mid,22.3060,70.7950
+Kiran Hospital Surat,Surat,Private-Mid,21.1950,72.8300
+SMIMER Hospital Surat,Surat,Government,21.1660,72.8230
+Mahavir Hospital Surat,Surat,Private-Mid,21.1930,72.8250
+New Civil Hospital Surat,Surat,Government,21.1700,72.8130
+Surat Municipal Hospital,Surat,Government,21.1960,72.8310
+BAPS Pramukh Swami Hospital Surat,Surat,Private-Mid,21.1940,72.8400
+Apple Hospital Surat,Surat,Private-Mid,21.2050,72.8410
+Nirmal Hospital Surat,Surat,Private-Mid,21.1780,72.8100
+Wockhardt Hospital Surat,Surat,Private-Mid,21.2010,72.8350
+SMS Hospital Jaipur,Jaipur,Government,26.9030,75.8028
+JK Lon Hospital Jaipur,Jaipur,Government,26.9067,75.8005
+Fortis Escorts Hospital Jaipur,Jaipur,Private-Premium,26.8492,75.8057
+Narayana Multispeciality Hospital Jaipur,Jaipur,Private-Premium,26.8410,75.7670
+Manipal Hospital Jaipur,Jaipur,Private-Premium,26.8300,75.7790
+Eternal Hospital Jaipur,Jaipur,Private-Mid,26.8520,75.7890
+Mahatma Gandhi Hospital Jaipur,Jaipur,Government,26.8290,75.7759
+RUHS Hospital Jaipur,Jaipur,Government,26.8480,75.8180
+CK Birla Hospital Jaipur,Jaipur,Private-Premium,26.8900,75.7990
+Apex Hospital Jaipur,Jaipur,Private-Mid,26.8870,75.7560
+Santokba Durlabhji Hospital Jaipur,Jaipur,Private-Mid,26.8950,75.7940
+Tonk Hospital Jaipur,Jaipur,Private-Mid,26.9020,75.8010
+BDM Hospital Jaipur,Jaipur,Private-Mid,26.8460,75.7650
+Apollo Hospital Jaipur,Jaipur,Private-Premium,26.8490,75.8050
+AIIMS Jodhpur,Jodhpur,Government,26.2480,73.0220
+MDM Hospital Jodhpur,Jodhpur,Government,26.2860,73.0240
+Medipulse Hospital Jodhpur,Jodhpur,Private-Mid,26.2750,73.0050
+Goyal Hospital Jodhpur,Jodhpur,Private-Mid,26.2900,73.0100
+MBM Hospital Udaipur,Udaipur,Government,24.5764,73.7067
+GBH American Hospital Udaipur,Udaipur,Private-Mid,24.5880,73.6690
+Pacific Medical College Udaipur,Udaipur,Private-Mid,24.5970,73.6640
+Geetanjali Medical College,Udaipur,Private-Mid,24.5650,73.7240
+Mewar Hospital Udaipur,Udaipur,Private-Mid,24.5780,73.7050
+PGIMER RML Hospital Lucknow,Lucknow,Government,26.8350,80.9150
+Heritage Hospital Varanasi,Varanasi,Private-Mid,25.3190,83.0060
+Sushrut Trauma Centre Varanasi,Varanasi,Private-Mid,25.3180,83.0040
+BHU Hospital Varanasi,Varanasi,Government,25.2740,82.9910
+Apex Hospital Varanasi,Varanasi,Private-Mid,25.3100,83.0080
+Shiv Prasad Gupta Hospital Varanasi,Varanasi,Government,25.3120,83.0220
+Medanta Hospital Varanasi,Varanasi,Private-Premium,25.3050,82.9800
+Galaxy Hospital Varanasi,Varanasi,Private-Mid,25.3200,83.0050
+Marwari Hospital Varanasi,Varanasi,Private-Mid,25.3130,83.0060
+AIIMS Patna,Patna,Government,25.6220,85.0900
+PMCH Patna,Patna,Government,25.6130,85.1740
+IGIMS Patna,Patna,Government,25.6100,85.1020
+Nalanda Medical College Patna,Patna,Government,25.6140,85.1700
+Paras HMRI Hospital Patna,Patna,Private-Premium,25.6240,85.0980
+Ruban Memorial Hospital Patna,Patna,Private-Mid,25.6180,85.1120
+Mahavir Cancer Sansthan Patna,Patna,Government,25.6200,85.0940
+Kurji Holy Family Hospital Patna,Patna,Private-Mid,25.6370,85.1350
+Anand Hospital Patna,Patna,Private-Mid,25.6110,85.1430
+Big Apollo Hospital Patna,Patna,Private-Mid,25.5960,85.1090
+AIIMS Bhopal,Bhopal,Government,23.2130,77.4390
+Hamidia Hospital Bhopal,Bhopal,Government,23.2643,77.4098
+Bansal Hospital Bhopal,Bhopal,Private-Mid,23.2300,77.4580
+Chirayu Medical College,Bhopal,Private-Mid,23.2870,77.3810
+Noble Multispeciality Hospital Bhopal,Bhopal,Private-Mid,23.2320,77.4350
+People Hospital Bhopal,Bhopal,Private-Mid,23.2150,77.4640
+Jawaharlal Nehru Cancer Hospital Bhopal,Bhopal,Government,23.2100,77.4440
+AIIMS Bhubaneswar,Bhubaneswar,Government,20.2359,85.7737
+Capital Hospital Bhubaneswar,Bhubaneswar,Government,20.2736,85.8340
+Kalinga Hospital,Bhubaneswar,Private-Mid,20.2960,85.8210
+KIMS Hospital Bhubaneswar,Bhubaneswar,Private-Premium,20.3016,85.8263
+Apollo Hospital Bhubaneswar,Bhubaneswar,Private-Premium,20.2910,85.8190
+Sparsh Hospital Bhubaneswar,Bhubaneswar,Private-Mid,20.2980,85.8260
+Care Hospital Bhubaneswar,Bhubaneswar,Private-Mid,20.3040,85.8270
+SUM Hospital Bhubaneswar,Bhubaneswar,Private-Mid,20.2570,85.7700
+Hi-Tech Medical College Bhubaneswar,Bhubaneswar,Private-Mid,20.2680,85.7880
+Utkal Hospital Bhubaneswar,Bhubaneswar,Private-Mid,20.2990,85.8240
+SCB Medical College Cuttack,Cuttack,Government,20.4668,85.8837
+Ashwini Hospital Cuttack,Cuttack,Private-Mid,20.4650,85.8810
+GMCH Guwahati,Guwahati,Government,26.1460,91.7450
+Nemcare Hospital Guwahati,Guwahati,Private-Mid,26.1600,91.7660
+Dispur Hospital Guwahati,Guwahati,Private-Mid,26.1350,91.7830
+Apollo Excelcare Hospital Guwahati,Guwahati,Private-Premium,26.1520,91.7770
+Hayat Hospital Guwahati,Guwahati,Private-Mid,26.1580,91.7690
+Excelcare Hospital Guwahati,Guwahati,Private-Mid,26.1540,91.7785
+Sun Valley Hospital Guwahati,Guwahati,Private-Mid,26.1420,91.7900
+Downtown Hospital Guwahati,Guwahati,Private-Mid,26.1500,91.7690
+GNRC Hospital Guwahati,Guwahati,Private-Mid,26.1620,91.7580
+International Hospital Guwahati,Guwahati,Private-Mid,26.1380,91.7880
+AIIMS Raipur,Raipur,Government,21.2250,81.5960
+DKS Hospital Raipur,Raipur,Private-Mid,21.2350,81.6230
+Ramkrishna Care Hospital Raipur,Raipur,Private-Mid,21.2310,81.6300
+VY Hospital Raipur,Raipur,Private-Mid,21.2340,81.6280
+MMI Narayana Hospital Raipur,Raipur,Private-Premium,21.2410,81.6020
+Ambedkar Hospital Raipur,Raipur,Government,21.2400,81.6350
+Sanjeevani Hospital Raipur,Raipur,Private-Mid,21.2380,81.6330
+JLNM Hospital Raipur,Raipur,Government,21.2500,81.6290
+Apollo Hospital Raipur,Raipur,Private-Premium,21.2290,81.6180
+Amrita Hospital Faridabad,Faridabad,Private-Premium,28.3718,77.3140
+Asian Hospital Faridabad,Faridabad,Private-Premium,28.3740,77.3150
+Sarvodaya Hospital Faridabad,Faridabad,Private-Mid,28.3770,77.3200
+QRG Central Hospital Faridabad,Faridabad,Private-Mid,28.3620,77.3060
+Metro Hospital Faridabad,Faridabad,Private-Mid,28.3690,77.3100
+Escorts Hospital Faridabad,Faridabad,Private-Mid,28.3810,77.3270
+Park Hospital Panipat,Panipat,Private-Mid,29.3940,76.9730
+Apex Hospital Karnal,Karnal,Private-Mid,29.6750,76.9890
+Fortis Hospital Ludhiana,Ludhiana,Private-Premium,30.9090,75.8350
+DMCH Ludhiana,Ludhiana,Private-Mid,30.9043,75.8240
+SPS Hospital Ludhiana,Ludhiana,Private-Mid,30.9100,75.8300
+Dayanand Medical College Ludhiana,Ludhiana,Private-Mid,30.9050,75.8233
+Civil Hospital Ludhiana,Ludhiana,Government,30.9070,75.8360
+Hero DMC Heart Institute Ludhiana,Ludhiana,Private-Premium,30.9043,75.8243
+Ivy Hospital Amritsar,Amritsar,Private-Mid,31.6200,74.8680
+Fortis Hospital Amritsar,Amritsar,Private-Premium,31.6340,74.8590
+Guru Nanak Dev Hospital Amritsar,Amritsar,Government,31.6300,74.8700
+Amandeep Hospital Amritsar,Amritsar,Private-Mid,31.6250,74.8620
+Mediways Hospital Amritsar,Amritsar,Private-Mid,31.6280,74.8640
+Max Super Speciality Hospital Bathinda,Bathinda,Private-Premium,30.2050,74.9510
+Adesh Hospital Bathinda,Bathinda,Private-Mid,30.2100,74.9500
+Nandini Hospital Bathinda,Bathinda,Private-Mid,30.2070,74.9530
+Apollo Hospital Madurai,Madurai,Private-Premium,9.9400,78.1210
+Meenakshi Mission Hospital,Madurai,Private-Premium,9.9150,78.1460
+Government Rajaji Hospital Madurai,Madurai,Government,9.9235,78.1227
+Vadamalayan Hospital Madurai,Madurai,Private-Mid,9.9270,78.1310
+Velammal Medical College Madurai,Madurai,Private-Mid,9.9500,78.1080
+Devadoss Hospital Madurai,Madurai,Private-Mid,9.9330,78.1250
+GKNM Hospital Coimbatore,Coimbatore,Private-Premium,11.0187,76.9686
+PSG Hospital Coimbatore,Coimbatore,Private-Mid,11.0247,76.9935
+KMCH Hospital Coimbatore,Coimbatore,Private-Premium,11.0060,76.9660
+Sri Ramakrishna Hospital Coimbatore,Coimbatore,Private-Mid,11.0202,76.9725
+KG Hospital Coimbatore,Coimbatore,Private-Mid,11.0000,76.9600
+Royal Care Super Speciality Hospital Coimbatore,Coimbatore,Private-Mid,11.0280,76.9570
+Kovai Medical Center,Coimbatore,Private-Premium,11.0062,76.9663
+Gem Hospital Coimbatore,Coimbatore,Private-Mid,10.9990,76.9670
+Coimbatore Medical College Hospital,Coimbatore,Government,11.0159,76.9694
+ESI Hospital Coimbatore,Coimbatore,Government,11.0100,76.9580
+Amrita Hospital Kochi,Kochi,Private-Premium,10.0530,76.2870
+Aster Medcity Kochi,Kochi,Private-Premium,10.0070,76.3100
+Medical Trust Hospital Kochi,Kochi,Private-Mid,9.9740,76.2860
+Lakeshore Hospital Kochi,Kochi,Private-Premium,10.0210,76.3070
+Lisie Hospital Kochi,Kochi,Private-Mid,9.9930,76.2950
+Rajagiri Hospital Kochi,Kochi,Private-Mid,10.0620,76.3320
+PVS Memorial Hospital Kochi,Kochi,Private-Mid,10.0030,76.3010
+Ernakulam Medical Centre,Kochi,Private-Mid,9.9760,76.2880
+Government Medical College Kochi,Kochi,Government,9.9850,76.2900
+Lourdes Hospital Kochi,Kochi,Private-Mid,10.0000,76.3000
+KIMS Hospital Trivandrum,Thiruvananthapuram,Private-Premium,8.5320,76.9100
+Ananthapuri Hospital,Thiruvananthapuram,Private-Mid,8.5105,76.9504
+SK Hospital Trivandrum,Thiruvananthapuram,Private-Mid,8.5070,76.9510
+SUT Hospital Trivandrum,Thiruvananthapuram,Private-Mid,8.5030,76.9530
+Medical College Trivandrum,Thiruvananthapuram,Government,8.5176,76.9463
+Sree Chitra Tirunal Institute,Thiruvananthapuram,Government,8.5190,76.9470
+Cosmopolitan Hospital Trivandrum,Thiruvananthapuram,Private-Mid,8.5010,76.9540
+Government General Hospital Trivandrum,Thiruvananthapuram,Government,8.4990,76.9550
+MIMS Hospital Calicut,Kozhikode,Private-Premium,11.2740,75.7850
+Baby Memorial Hospital Calicut,Kozhikode,Private-Mid,11.2670,75.7790
+Aster MIMS Hospital,Kozhikode,Private-Premium,11.2680,75.7800
+Kozhikode Medical College,Kozhikode,Government,11.2587,75.7829
+Meitra Hospital Calicut,Kozhikode,Private-Mid,11.2700,75.7810
+Fathima Hospital Calicut,Kozhikode,Private-Mid,11.2590,75.7830
+Galaxy Hospital Calicut,Kozhikode,Private-Mid,11.2720,75.7820
+Narayana Health Mysore,Mysore,Private-Premium,12.3340,76.6250
+JSS Hospital Mysore,Mysore,Private-Mid,12.3100,76.6340
+Apollo BGS Hospital Mysore,Mysore,Private-Premium,12.2850,76.6020
+Columbia Asia Hospital Mysore,Mysore,Private-Mid,12.3230,76.6430
+KR Hospital Mysore,Mysore,Government,12.3070,76.6510
+Basappa Memorial Hospital Mysore,Mysore,Private-Mid,12.3150,76.6490
+Vikram Hospital Mysore,Mysore,Private-Mid,12.3200,76.6460
+Kamakshi Hospital Mysore,Mysore,Private-Mid,12.3280,76.6390
+KMC Hospital Mangalore,Mangalore,Private-Mid,12.8700,74.8400
+AJ Hospital Mangalore,Mangalore,Private-Mid,12.8650,74.8430
+Father Muller Hospital Mangalore,Mangalore,Private-Mid,12.8560,74.8320
+KS Hegde Hospital Mangalore,Mangalore,Private-Mid,12.8600,74.8350
+Yenepoya Hospital Mangalore,Mangalore,Private-Mid,12.8720,74.8500
+Government Wenlock Hospital Mangalore,Mangalore,Government,12.8660,74.8420
+Unity Hospital Mangalore,Mangalore,Private-Mid,12.8690,74.8470
+Omega Hospital Mangalore,Mangalore,Private-Mid,12.8670,74.8410
+Kasturba Hospital Manipal,Manipal,Private-Premium,13.3520,74.7870
+KMC Hospital Manipal,Manipal,Private-Premium,13.3510,74.7860
+TMA Pai Hospital Manipal,Manipal,Private-Mid,13.3530,74.7880
+AIIMS Rishikesh,Rishikesh,Government,30.0650,78.2820
+Max Super Speciality Hospital Dehradun,Dehradun,Private-Premium,30.3330,78.0130
+Synergy Hospital Dehradun,Dehradun,Private-Mid,30.3170,78.0330
+Himalayan Hospital Dehradun,Dehradun,Private-Mid,30.4070,78.0670
+Doon Hospital,Dehradun,Government,30.3210,78.0360
+CMI Hospital Dehradun,Dehradun,Private-Mid,30.3190,78.0380
+Jolly Grant Hospital Dehradun,Dehradun,Government,30.2690,78.1820
+Shri Mahant Indiresh Hospital Dehradun,Dehradun,Private-Mid,30.3150,78.0130
+Fortis Hospital Dehradun,Dehradun,Private-Premium,30.3200,78.0140
+RIMS Ranchi,Ranchi,Government,23.3650,85.3190
+Medica Hospital Ranchi,Ranchi,Private-Mid,23.3450,85.3090
+Orchid Medical Centre Ranchi,Ranchi,Private-Mid,23.3560,85.3200
+Raj Hospital Ranchi,Ranchi,Private-Mid,23.3530,85.3180
+Bhagwan Mahavir Medica Hospital Ranchi,Ranchi,Private-Mid,23.3480,85.3100
+Sadar Hospital Ranchi,Ranchi,Government,23.3590,85.3350
+Abdur Razzaque Ansari Memorial Hospital Ranchi,Ranchi,Government,23.3670,85.3210
+TMH Hospital Jamshedpur,Jamshedpur,Private-Mid,22.8046,86.2029
+MGM Hospital Jamshedpur,Jamshedpur,Government,22.7896,86.1954
+Tata Main Hospital Jamshedpur,Jamshedpur,Private-Premium,22.7870,86.2000
+Brahmananda Narayana Hospital Jamshedpur,Jamshedpur,Private-Premium,22.7750,86.1530
+Jai Hospital Jamshedpur,Jamshedpur,Private-Mid,22.7910,86.1960
+ESIC Hospital Jamshedpur,Jamshedpur,Government,22.7980,86.1850
+IGMC Shimla,Shimla,Government,31.1070,77.1600
+Kamla Nehru Hospital Shimla,Shimla,Government,31.1050,77.1620
+Deen Dayal Upadhyay Hospital Shimla,Shimla,Government,31.1080,77.1590
+Max Super Speciality Hospital Shimla,Shimla,Private-Mid,31.1040,77.1610
+DRPGMC Kangra,Kangra,Government,32.0847,76.2636
+Fortis Hospital Kangra,Kangra,Private-Mid,32.0870,76.2600
+Zonal Hospital Mandi,Mandi,Government,31.7084,76.9279
+Regional Hospital Kullu,Kullu,Government,31.9580,77.1090
+AIIMS Bilaspur HP,Bilaspur,Government,31.3340,76.7630
+Civil Hospital Dharamshala,Dharamshala,Government,32.2190,76.3234
+Tanda Medical College Kangra,Kangra,Government,32.0849,76.2640
+SMGS Hospital Jammu,Jammu,Government,32.7330,74.8510
+GMC Hospital Jammu,Jammu,Government,32.7300,74.8500
+Acharya Shri Chander College of Medical Sciences Jammu,Jammu,Private-Mid,32.6530,74.7920
+Narayana Hospital Jammu,Jammu,Private-Mid,32.7100,74.8200
+Apollo Hospital Jammu,Jammu,Private-Mid,32.7220,74.8350
+SKIMS Hospital Srinagar,Srinagar,Government,34.1530,74.8320
+SMHS Hospital Srinagar,Srinagar,Government,34.0836,74.7973
+Lal Ded Hospital Srinagar,Srinagar,Government,34.0870,74.8000
+Bone and Joint Hospital Srinagar,Srinagar,Government,34.0850,74.7990
+JLNM Hospital Srinagar,Srinagar,Government,34.0900,74.8010
+CD Hospital Srinagar,Srinagar,Government,34.0830,74.7960
+Shri Kashmir Institute of Medical Sciences,Srinagar,Government,34.1530,74.8320
+KIMS Hubli,Hubli,Private-Mid,15.3560,75.1230
+SDM Medical College Dharwad,Dharwad,Private-Mid,15.4540,75.0180
+KLES Hospital Belgaum,Belgaum,Private-Mid,15.8680,74.4980
+Jeevan Jyoti Hospital Belgaum,Belgaum,Private-Mid,15.8520,74.5060
+KLE Hospital Belgaum,Belgaum,Private-Mid,15.8650,74.5020
+District Hospital Belgaum,Belgaum,Government,15.8560,74.5090
+Belgaum Institute of Medical Sciences,Belgaum,Government,15.8590,74.5040
+Narayana Health Gulbarga,Gulbarga,Private-Mid,17.3380,76.8350
+Basaveshwar Teaching Hospital Gulbarga,Gulbarga,Private-Mid,17.3290,76.8340
+Government Hospital Gulbarga,Gulbarga,Government,17.3320,76.8310
+HKE Medical College Hospital Gulbarga,Gulbarga,Government,17.3310,76.8300
+Sparsh Hospital Gulbarga,Gulbarga,Private-Mid,17.3370,76.8320
+Mahadevappa Rampure Medical College Gulbarga,Gulbarga,Government,17.3300,76.8330
+Sigma Hospital Gulbarga,Gulbarga,Private-Mid,17.3350,76.8340
+Meenakshi Hospital Thanjavur,Thanjavur,Private-Mid,10.7870,79.1370
+Thanjavur Medical College Hospital,Thanjavur,Government,10.7743,79.1379
+Apollo Hospital Trichy,Trichy,Private-Premium,10.8030,78.6920
+Kaveri Medical Centre Trichy,Trichy,Private-Mid,10.8100,78.6870
+MGMGH Hospital Trichy,Trichy,Government,10.8100,78.6950
+KAP Viswanatham Government Medical College Trichy,Trichy,Government,10.8050,78.6900
+Ponni Hospital Madurai,Madurai,Private-Mid,9.9330,78.1260
+Lotus Hospital Erode,Erode,Private-Mid,11.3470,77.7260
+Erode Trust Hospital,Erode,Government,11.3430,77.7290
+KG Hospital Salem,Salem,Private-Mid,11.6550,78.1550
+SKS Hospital Salem,Salem,Private-Mid,11.6520,78.1530
+Government Mohan Kumaramangalam Medical College Salem,Salem,Government,11.6510,78.1540
+Vinayaka Mission Hospital Salem,Salem,Private-Mid,11.6580,78.1490
+Apollo Hospital Salem,Salem,Private-Mid,11.6600,78.1570
+Meenakshi Medical College Salem,Salem,Private-Mid,11.6620,78.1500
+Narayana Hospital Salem,Salem,Private-Mid,11.6540,78.1560
+Vikram Hospital Salem,Salem,Private-Mid,11.6560,78.1520
+KGMU Varanasi,Varanasi,Government,25.2830,82.9920
+AIIMS Gorakhpur,Gorakhpur,Government,26.7920,83.3530
+BRD Medical College Gorakhpur,Gorakhpur,Government,26.7450,83.3660
+Anand Hospital Gorakhpur,Gorakhpur,Private-Mid,26.7580,83.3690
+Horizon Hospital Gorakhpur,Gorakhpur,Private-Mid,26.7540,83.3720
+Galaxy Hospital Gorakhpur,Gorakhpur,Private-Mid,26.7600,83.3700
+MLN Medical College Prayagraj,Prayagraj,Government,25.4270,81.8560
+Beli Hospital Prayagraj,Prayagraj,Government,25.4360,81.8460
+Kamla Nehru Memorial Hospital Prayagraj,Prayagraj,Private-Mid,25.4300,81.8500
+United Medicity Prayagraj,Prayagraj,Private-Mid,25.4280,81.8530
+Fortis Hospital Kanpur,Kanpur,Private-Mid,26.4580,80.3490
+Regency Hospital Kanpur,Kanpur,Private-Mid,26.4620,80.3520
+Rama Medical College Kanpur,Kanpur,Private-Mid,26.4490,80.3400
+GSVM Medical College Kanpur,Kanpur,Government,26.4680,80.3320
+LLR Hospital Kanpur,Kanpur,Government,26.4700,80.3340
+Narayan Hospital Kanpur,Kanpur,Private-Mid,26.4550,80.3470
+Apollo Hospital Kanpur,Kanpur,Private-Mid,26.4530,80.3500
+IQ City Medical College Durgapur,Durgapur,Private-Mid,23.5531,87.3226
+Mission Hospital Durgapur,Durgapur,Private-Mid,23.5400,87.2980
+Durgapur Sub Division Hospital,Durgapur,Government,23.5500,87.3200
+Central Hospital Durgapur,Durgapur,Private-Mid,23.5480,87.3170
+ESI Hospital Durgapur,Durgapur,Government,23.5460,87.3150
+Burdwan Medical College,Bardhaman,Government,23.2370,87.8510
+Midnapore Medical College,Midnapore,Government,22.4247,87.3240
+North Bengal Medical College Siliguri,Siliguri,Government,26.7420,88.3850
+Siliguri District Hospital,Siliguri,Government,26.7230,88.4020
+Neotia Getwel Hospital Siliguri,Siliguri,Private-Mid,26.7280,88.3920
+Desun Hospital Siliguri,Siliguri,Private-Mid,26.7300,88.3900
+Manipal Comprehensive Cancer Centre Mangalore,Mangalore,Private-Premium,12.8710,74.8520
+Indira Gandhi Medical College Nagpur,Nagpur,Government,21.1500,79.0800
+Government Medical College Nagpur,Nagpur,Government,21.1450,79.0750
+Orange City Hospital Nagpur,Nagpur,Private-Mid,21.1490,79.0770
+Wockhardt Hospital Nagpur,Nagpur,Private-Mid,21.1410,79.0740
+CIIMS Hospital Nagpur,Nagpur,Private-Mid,21.1420,79.0760
+Lata Mangeshkar Hospital Nagpur,Nagpur,Private-Mid,21.1530,79.0690
+Alexis Hospital Nagpur,Nagpur,Private-Mid,21.1390,79.0810
+Care Hospital Nagpur,Nagpur,Private-Mid,21.1370,79.0720
+Kingsway Hospital Nagpur,Nagpur,Private-Mid,21.1460,79.0790
+Suretech Hospital Nagpur,Nagpur,Private-Mid,21.1440,79.0780
+Apollo Hospital Nashik,Nashik,Private-Mid,20.0050,73.7640
+Wockhardt Hospital Nashik,Nashik,Private-Mid,20.0030,73.7660
+HCG Cancer Centre Nashik,Nashik,Private-Mid,20.0010,73.7680
+Civil Hospital Nashik,Nashik,Government,19.9970,73.7710
+Bytco Hospital Nashik,Nashik,Private-Mid,19.9990,73.7690
+Ashoka Medicover Hospital Nashik,Nashik,Private-Mid,20.0070,73.7620
+Shree Hospital Nashik,Nashik,Private-Mid,20.0090,73.7600
+Lokmanya Hospital Pune,Pune,Private-Mid,18.5060,73.8640
+Hinjewadi Medicare Hospital,Pune,Private-Mid,18.5950,73.7390
+Surya Sahyadri Hospital Pune,Pune,Private-Mid,18.5300,73.8800
+Oyster and Pearl Hospital Pune,Pune,Private-Mid,18.5550,73.8750
+Medicover Hospital Aurangabad,Aurangabad,Private-Mid,19.8810,75.3330
+Government Medical College Aurangabad,Aurangabad,Government,19.8750,75.3370
+MGM Hospital Aurangabad,Aurangabad,Private-Mid,19.8800,75.3340
+United CIIGMA Hospital Aurangabad,Aurangabad,Private-Mid,19.8790,75.3350
+Kamalnayan Bajaj Hospital Aurangabad,Aurangabad,Private-Mid,19.8770,75.3360
+Apollo Hospital Aurangabad,Aurangabad,Private-Mid,19.8830,75.3310
+Krishna Hospital Karad,Karad,Private-Mid,17.2900,74.1860
+Wanless Hospital Miraj,Miraj,Private-Mid,16.8280,74.6450
+Civil Hospital Sangli,Sangli,Government,16.8540,74.5600
+Bharati Hospital Sangli,Sangli,Private-Mid,16.8510,74.5620
+Noble Hospital Solapur,Solapur,Private-Mid,17.6650,75.9150
+Civil Hospital Solapur,Solapur,Government,17.6600,75.9130
+Ashwini Hospital Solapur,Solapur,Private-Mid,17.6680,75.9120
+Government Hospital Kolhapur,Kolhapur,Government,16.7050,74.2430
+Chhatrapati Pramila Raje Hospital Kolhapur,Kolhapur,Government,16.7060,74.2440
+Lokenete Balasaheb Desai Hospital Kolhapur,Kolhapur,Private-Mid,16.7030,74.2450
+DY Patil Hospital Kolhapur,Kolhapur,Private-Mid,16.7000,74.2410
+Sahyadri Hospital Kolhapur,Kolhapur,Private-Mid,16.7080,74.2460
+Apple Saraswati Hospital Kolhapur,Kolhapur,Private-Mid,16.7070,74.2420
+Sunrise Hospital Kolhapur,Kolhapur,Private-Mid,16.7090,74.2470
+Mahatma Gandhi Hospital Nanded,Nanded,Government,19.1380,77.3210
+Jijai Hospital Nanded,Nanded,Private-Mid,19.1420,77.3240
+Godavari Hospital Nanded,Nanded,Private-Mid,19.1400,77.3220
+NKP Salve Medical College Nagpur,Nagpur,Private-Mid,21.1480,79.0810
+Daga Memorial Hospital Nagpur,Nagpur,Government,21.1510,79.0700
+Meditrina Hospital Nagpur,Nagpur,Private-Mid,21.1400,79.0730
+Krims Hospital Nagpur,Nagpur,Private-Mid,21.1380,79.0710
+Dhoot Hospital Nashik,Nashik,Private-Mid,20.0020,73.7670
+Criticare Hospital Mumbai,Mumbai,Private-Mid,19.0890,72.8690
+Zen Multispeciality Hospital Mumbai,Mumbai,Private-Mid,19.0920,72.8430
+SRV Hospital Mumbai,Mumbai,Private-Mid,19.2210,72.8530
+Surana Hospital Mumbai,Mumbai,Private-Mid,19.0230,72.8540
+Bhatia Hospital Mumbai,Mumbai,Private-Mid,18.9770,72.8210
+HN Reliance Hospital Mumbai,Mumbai,Private-Premium,18.9650,72.8180
+Masina Hospital Mumbai,Mumbai,Private-Mid,18.9710,72.8280
+Nanavati Hospital Mumbai,Mumbai,Private-Premium,19.0890,72.8400
+PD Hinduja Hospital,Mumbai,Private-Premium,19.0380,72.8410
+Raheja Hospital Mumbai,Mumbai,Private-Mid,19.0284,72.8338
+S L Raheja Hospital,Mumbai,Private-Mid,19.0290,72.8340
+Sushrut Hospital Mumbai,Mumbai,Private-Mid,19.0180,72.8320
+Siddhivinayak Hospital Mumbai,Mumbai,Private-Mid,19.0160,72.8340
+Cama Hospital Mumbai,Mumbai,Government,18.9390,72.8310
+GT Hospital Mumbai,Mumbai,Government,18.9420,72.8340
+St George Hospital Mumbai,Mumbai,Government,18.9460,72.8310
+BYL Nair Hospital Mumbai,Mumbai,Government,18.9880,72.8290
+LTMG Hospital Mumbai,Mumbai,Government,19.0410,72.8620
+HBT Hospital Mumbai,Mumbai,Government,19.0070,72.8550
+Shatabdi Hospital Mumbai,Mumbai,Government,19.2240,72.8520
+Bhagwati Hospital Mumbai,Mumbai,Government,19.2070,72.8400
+Trauma Care Hospital Mumbai,Mumbai,Government,19.0530,72.8570
+BDBA Hospital Mumbai,Mumbai,Government,19.1560,72.8460
+MW Desai Municipal Hospital Mumbai,Mumbai,Government,19.1480,72.8520
+Godrej Memorial Hospital Mumbai,Mumbai,Private-Mid,19.1360,72.9340
+Currae Hospital Mumbai,Mumbai,Private-Mid,19.0580,72.8360
+Wockhardt Hospital South Mumbai,Mumbai,Private-Premium,18.9680,72.8100
+Hospital General de Goa,Goa,Government,15.4970,73.8190
+Goa Medical College,Goa,Government,15.4965,73.8185
+Manipal Hospital Goa,Goa,Private-Premium,15.3960,73.8760
+Apollo Victor Hospital Goa,Goa,Private-Mid,15.4940,73.8230
+Vrindavan Hospital Goa,Goa,Private-Mid,15.3980,73.8740
+Healthway Hospital Goa,Goa,Private-Mid,15.3900,73.8770
+Salgaocar Medical Research Centre Goa,Goa,Private-Mid,15.4300,73.9870
+Vintage Hospital Goa,Goa,Private-Mid,15.4100,73.8730
+Columbia Asia Hospital Goa,Goa,Private-Mid,15.4020,73.8720
+Redkars Hospital Goa,Goa,Private-Mid,15.3950,73.8750
+AIIMS Nagpur,Nagpur,Government,21.0930,79.0190
+AIIMS Raebareli,Raebareli,Government,26.2130,81.2320
+AIIMS Kalyani,Kalyani,Government,22.9750,88.4340
+AIIMS Mangalagiri,Mangalagiri,Government,16.4320,80.5560
+AIIMS Bathinda,Bathinda,Government,30.1560,74.9170
+AIIMS Deoghar,Deoghar,Government,24.4850,86.6940
+AIIMS Rajkot,Rajkot,Government,22.2720,70.7860
+AIIMS Madurai,Madurai,Government,9.9050,78.0480
+AIIMS Bibinagar,Bibinagar,Government,17.4930,78.8280
+AIIMS Guwahati,Guwahati,Government,26.1950,91.6690
+Lifepoint Multispeciality Hospital Pune,Pune,Private-Mid,18.5000,73.8550
+Sahara Hospital Pune,Pune,Private-Mid,18.5450,73.8600
+Medipoint Hospital Pune,Pune,Private-Mid,18.4900,73.8530
+Chellaram Diabetes Hospital Pune,Pune,Private-Mid,18.5320,73.8270
+Inlaks Budhrani Hospital Pune,Pune,Private-Mid,18.5090,73.8310
+Galaxy Care Hospital Pune,Pune,Private-Mid,18.5280,73.8480
+Ratna Memorial Hospital Pune,Pune,Private-Mid,18.5150,73.8580
+Cloudnine Hospital Pune,Pune,Private-Mid,18.5400,73.8880
+Apple Hospital Pune,Pune,Private-Mid,18.5180,73.8620
+Manipal Hospital Kharadi Pune,Pune,Private-Premium,18.5530,73.9380
+Joshi Hospital Pune,Pune,Private-Mid,18.5260,73.8460
+Kotbagi Hospital Pune,Pune,Private-Mid,18.5190,73.8640
+Chaitanya Hospital Pune,Pune,Private-Mid,18.5070,73.8510
+Hardikar Hospital Pune,Pune,Private-Mid,18.5080,73.8430
+Jahangir Hospital Pune,Pune,Private-Premium,18.5326,73.8777
+Oyster and Pearl Hospital Pune,Pune,Private-Mid,18.5530,73.8750
+Sahyadri Hospital Nagar Road,Pune,Private-Premium,18.5610,73.9040
+National Institute of Ophthalmology Pune,Pune,Government,18.5230,73.8510
+Sassoon Hospital Pune,Pune,Government,18.5170,73.8680
+Yashwantrao Chavan Memorial Hospital Pune,Pune,Government,18.4980,73.8590
+Aundh District Hospital Pune,Pune,Government,18.5580,73.8080

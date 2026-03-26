@@ -1,0 +1,329 @@
+test_name,lab_name,city,price,rating,url
+Allergy Panel,Tata 1mg,Delhi,5850,,https://www.1mg.com/labs/test/allergy-panel-107-allergens-lia-35357
+Allergy Panel,Tata 1mg,Mumbai,5850,,https://www.1mg.com/labs/test/allergy-panel-107-allergens-lia-35357
+Allergy Panel,Tata 1mg,Bangalore,5850,,https://www.1mg.com/labs/test/allergy-panel-107-allergens-lia-35357
+Allergy Panel,Tata 1mg,Hyderabad,5850,,https://www.1mg.com/labs/test/allergy-panel-107-allergens-lia-35357
+Allergy Panel,Tata 1mg,Pune,5850,,https://www.1mg.com/labs/test/allergy-panel-107-allergens-lia-35357
+Allergy Panel,Thyrocare,Delhi,11600,,https://www.thyrocare.com/test/allergy-panel-food-inhalant-plus-drug
+Allergy Panel,Thyrocare,Mumbai,11600,,https://www.thyrocare.com/test/allergy-panel-food-inhalant-plus-drug
+Allergy Panel,Thyrocare,Bangalore,11600,,https://www.thyrocare.com/test/allergy-panel-food-inhalant-plus-drug
+Allergy Panel,Thyrocare,Chennai,11600,,https://www.thyrocare.com/test/allergy-panel-food-inhalant-plus-drug
+Allergy Panel,Thyrocare,Kolkata,11600,,https://www.thyrocare.com/test/allergy-panel-food-inhalant-plus-drug
+Allergy Panel,Thyrocare,Hyderabad,11600,,https://www.thyrocare.com/test/allergy-panel-food-inhalant-plus-drug
+Allergy Panel,Thyrocare,Pune,11600,,https://www.thyrocare.com/test/allergy-panel-food-inhalant-plus-drug
+Allergy Panel,Thyrocare,Ahmedabad,11600,,https://www.thyrocare.com/test/allergy-panel-food-inhalant-plus-drug
+Allergy Panel,Metropolis,Mumbai,5935,,https://www.metropolisindia.com/parameter/mumbai/allergy-screening
+Blood Sugar Fasting,Tata 1mg,Delhi,79,,https://www.1mg.com/labs/test/glucose-fasting-blood-fbs-1470
+Blood Sugar Fasting,Tata 1mg,Mumbai,89,,https://www.1mg.com/labs/test/glucose-fasting-blood-fbs-1470
+Blood Sugar Fasting,Tata 1mg,Bangalore,69,,https://www.1mg.com/labs/test/glucose-fasting-blood-fbs-1470
+Blood Sugar Fasting,Tata 1mg,Kolkata,79,,https://www.1mg.com/labs/test/glucose-fasting-blood-fbs-1470
+Blood Sugar Fasting,Tata 1mg,Hyderabad,80,,https://www.1mg.com/labs/test/glucose-fasting-blood-fbs-1470
+Blood Sugar Fasting,Thyrocare,Delhi,97,,https://www.thyrocare.com/test/fasting-blood-sugar
+Blood Sugar Fasting,Thyrocare,Mumbai,97,,https://www.thyrocare.com/test/fasting-blood-sugar
+Blood Sugar Fasting,Thyrocare,Bangalore,97,,https://www.thyrocare.com/test/fasting-blood-sugar
+Blood Sugar Fasting,Thyrocare,Chennai,97,,https://www.thyrocare.com/test/fasting-blood-sugar
+Blood Sugar Fasting,Thyrocare,Kolkata,97,,https://www.thyrocare.com/test/fasting-blood-sugar
+Blood Sugar Fasting,Thyrocare,Hyderabad,97,,https://www.thyrocare.com/test/fasting-blood-sugar
+Blood Sugar Fasting,Thyrocare,Pune,97,,https://www.thyrocare.com/test/fasting-blood-sugar
+Blood Sugar Fasting,Thyrocare,Ahmedabad,97,,https://www.thyrocare.com/test/fasting-blood-sugar
+Blood Sugar Fasting,Metropolis,Delhi,90,,https://www.metropolisindia.com
+Blood Sugar Fasting,Metropolis,Mumbai,90,,https://www.metropolisindia.com
+Blood Sugar Fasting,Metropolis,Bangalore,90,,https://www.metropolisindia.com
+Blood Sugar Fasting,Metropolis,Chennai,90,,https://www.metropolisindia.com
+Blood Sugar Fasting,Metropolis,Kolkata,90,,https://www.metropolisindia.com
+Blood Sugar Fasting,Metropolis,Hyderabad,90,,https://www.metropolisindia.com
+Blood Sugar Fasting,Metropolis,Pune,90,,https://www.metropolisindia.com
+Blood Sugar Fasting,Metropolis,Ahmedabad,90,,https://www.metropolisindia.com
+COVID RT-PCR,Tata 1mg,Bangalore,750,,https://www.1mg.com/labs/test/covid-19-rt-pcr-coronavirus-sars-cov-2-32718
+COVID RT-PCR,Thyrocare,Delhi,495,,https://www.thyrocare.com/profile/covid-19
+COVID RT-PCR,Thyrocare,Mumbai,495,,https://www.thyrocare.com/profile/covid-19
+COVID RT-PCR,Thyrocare,Bangalore,495,,https://www.thyrocare.com/profile/covid-19
+COVID RT-PCR,Thyrocare,Chennai,495,,https://www.thyrocare.com/profile/covid-19
+COVID RT-PCR,Thyrocare,Kolkata,495,,https://www.thyrocare.com/profile/covid-19
+COVID RT-PCR,Thyrocare,Hyderabad,495,,https://www.thyrocare.com/profile/covid-19
+COVID RT-PCR,Thyrocare,Pune,495,,https://www.thyrocare.com/profile/covid-19
+COVID RT-PCR,Thyrocare,Ahmedabad,495,,https://www.thyrocare.com/profile/covid-19
+COVID RT-PCR,Metropolis,Delhi,530,,https://www.metropolisindia.com/covid-19-test
+COVID RT-PCR,Metropolis,Mumbai,530,,https://www.metropolisindia.com/covid-19-test
+COVID RT-PCR,Metropolis,Bangalore,530,,https://www.metropolisindia.com/covid-19-test
+COVID RT-PCR,Metropolis,Chennai,530,,https://www.metropolisindia.com/covid-19-test
+COVID RT-PCR,Metropolis,Kolkata,530,,https://www.metropolisindia.com/covid-19-test
+COVID RT-PCR,Metropolis,Hyderabad,530,,https://www.metropolisindia.com/covid-19-test
+COVID RT-PCR,Metropolis,Pune,530,,https://www.metropolisindia.com/covid-19-test
+COVID RT-PCR,Metropolis,Ahmedabad,530,,https://www.metropolisindia.com/covid-19-test
+CRP (C-Reactive Protein),Tata 1mg,Delhi,439,,https://www.1mg.com/labs/test/c-reactive-protein-quantitative-crp-3881
+CRP (C-Reactive Protein),Tata 1mg,Mumbai,439,,https://www.1mg.com/labs/test/c-reactive-protein-quantitative-crp-3881
+CRP (C-Reactive Protein),Tata 1mg,Bangalore,439,,https://www.1mg.com/labs/test/c-reactive-protein-quantitative-crp-3881
+CRP (C-Reactive Protein),Tata 1mg,Kolkata,379,,https://www.1mg.com/labs/test/c-reactive-protein-quantitative-crp-3881
+CRP (C-Reactive Protein),Tata 1mg,Hyderabad,389,,https://www.1mg.com/labs/test/c-reactive-protein-quantitative-crp-3881
+CRP (C-Reactive Protein),Thyrocare,Delhi,470,,https://www.thyrocare.com/test/c-reactive-protein-crp
+CRP (C-Reactive Protein),Thyrocare,Mumbai,470,,https://www.thyrocare.com/test/c-reactive-protein-crp
+CRP (C-Reactive Protein),Thyrocare,Bangalore,470,,https://www.thyrocare.com/test/c-reactive-protein-crp
+CRP (C-Reactive Protein),Thyrocare,Chennai,470,,https://www.thyrocare.com/test/c-reactive-protein-crp
+CRP (C-Reactive Protein),Thyrocare,Kolkata,470,,https://www.thyrocare.com/test/c-reactive-protein-crp
+CRP (C-Reactive Protein),Thyrocare,Hyderabad,470,,https://www.thyrocare.com/test/c-reactive-protein-crp
+CRP (C-Reactive Protein),Thyrocare,Pune,470,,https://www.thyrocare.com/test/c-reactive-protein-crp
+CRP (C-Reactive Protein),Thyrocare,Ahmedabad,470,,https://www.thyrocare.com/test/c-reactive-protein-crp
+CRP (C-Reactive Protein),Metropolis,Delhi,400,,https://www.metropolisindia.com/parameter/mumbai/crp-quantitative
+CRP (C-Reactive Protein),Metropolis,Mumbai,620,,https://www.metropolisindia.com/parameter/mumbai/crp-quantitative
+CRP (C-Reactive Protein),Metropolis,Pune,550,,https://www.metropolisindia.com/parameter/mumbai/crp-quantitative
+Calcium,Tata 1mg,Delhi,189,,https://www.1mg.com/labs/test/calcium-total-1467
+Calcium,Tata 1mg,Mumbai,219,,https://www.1mg.com/labs/test/calcium-total-1467
+Calcium,Tata 1mg,Bangalore,219,,https://www.1mg.com/labs/test/calcium-total-1467
+Calcium,Tata 1mg,Kolkata,159,,https://www.1mg.com/labs/test/calcium-total-1467
+Calcium,Tata 1mg,Hyderabad,219,,https://www.1mg.com/labs/test/calcium-total-1467
+Calcium,Thyrocare,Delhi,237,,https://www.thyrocare.com/test/calcium
+Calcium,Thyrocare,Mumbai,237,,https://www.thyrocare.com/test/calcium
+Calcium,Thyrocare,Bangalore,237,,https://www.thyrocare.com/test/calcium
+Calcium,Thyrocare,Chennai,237,,https://www.thyrocare.com/test/calcium
+Calcium,Thyrocare,Kolkata,237,,https://www.thyrocare.com/test/calcium
+Calcium,Thyrocare,Hyderabad,237,,https://www.thyrocare.com/test/calcium
+Calcium,Thyrocare,Pune,237,,https://www.thyrocare.com/test/calcium
+Calcium,Thyrocare,Ahmedabad,237,,https://www.thyrocare.com/test/calcium
+Calcium,Metropolis,Mumbai,270,,https://www.metropolisindia.com/parameter/mumbai/calcium-total
+Complete Blood Count (CBC),Tata 1mg,Delhi,319,,https://www.1mg.com/labs/test/cbc-complete-blood-count-1717
+Complete Blood Count (CBC),Tata 1mg,Mumbai,299,,https://www.1mg.com/labs/test/cbc-complete-blood-count-1717
+Complete Blood Count (CBC),Tata 1mg,Bangalore,299,,https://www.1mg.com/labs/test/cbc-complete-blood-count-1717
+Complete Blood Count (CBC),Tata 1mg,Kolkata,299,,https://www.1mg.com/labs/test/cbc-complete-blood-count-1717
+Complete Blood Count (CBC),Tata 1mg,Hyderabad,299,,https://www.1mg.com/labs/test/cbc-complete-blood-count-1717
+Complete Blood Count (CBC),Thyrocare,Delhi,314,,https://www.thyrocare.com/profile/hemogram-6-part-diff
+Complete Blood Count (CBC),Thyrocare,Mumbai,314,,https://www.thyrocare.com/profile/hemogram-6-part-diff
+Complete Blood Count (CBC),Thyrocare,Bangalore,314,,https://www.thyrocare.com/profile/hemogram-6-part-diff
+Complete Blood Count (CBC),Thyrocare,Chennai,314,,https://www.thyrocare.com/profile/hemogram-6-part-diff
+Complete Blood Count (CBC),Thyrocare,Kolkata,314,,https://www.thyrocare.com/profile/hemogram-6-part-diff
+Complete Blood Count (CBC),Thyrocare,Hyderabad,314,,https://www.thyrocare.com/profile/hemogram-6-part-diff
+Complete Blood Count (CBC),Thyrocare,Pune,314,,https://www.thyrocare.com/profile/hemogram-6-part-diff
+Complete Blood Count (CBC),Thyrocare,Ahmedabad,314,,https://www.thyrocare.com/profile/hemogram-6-part-diff
+Complete Blood Count (CBC),Metropolis,Delhi,300,,https://www.metropolisindia.com/parameter/mumbai/complete-blood-count-cbc
+Complete Blood Count (CBC),Metropolis,Mumbai,340,,https://www.metropolisindia.com/parameter/mumbai/complete-blood-count-cbc
+Complete Blood Count (CBC),Metropolis,Bangalore,300,,https://www.metropolisindia.com/parameter/mumbai/complete-blood-count-cbc
+Complete Blood Count (CBC),Metropolis,Chennai,300,,https://www.metropolisindia.com/parameter/mumbai/complete-blood-count-cbc
+Dengue NS1,Tata 1mg,Delhi,600,,https://www.1mg.com/labs/test/dengue-ns1-antigen-elisa-serum-35506
+Dengue NS1,Tata 1mg,Mumbai,600,,https://www.1mg.com/labs/test/dengue-ns1-antigen-elisa-serum-35506
+Dengue NS1,Tata 1mg,Bangalore,300,,https://www.1mg.com/labs/test/dengue-ns1-antigen-elisa-serum-35506
+Dengue NS1,Tata 1mg,Kolkata,589,,https://www.1mg.com/labs/test/dengue-ns1-antigen-elisa-serum-35506
+Dengue NS1,Tata 1mg,Hyderabad,570,,https://www.1mg.com/labs/test/dengue-ns1-antigen-elisa-serum-35506
+Dengue NS1,Thyrocare,Delhi,720,,https://www.thyrocare.com/test/dengue-ns1-antigen
+Dengue NS1,Thyrocare,Mumbai,720,,https://www.thyrocare.com/test/dengue-ns1-antigen
+Dengue NS1,Thyrocare,Bangalore,720,,https://www.thyrocare.com/test/dengue-ns1-antigen
+Dengue NS1,Thyrocare,Chennai,720,,https://www.thyrocare.com/test/dengue-ns1-antigen
+Dengue NS1,Thyrocare,Kolkata,720,,https://www.thyrocare.com/test/dengue-ns1-antigen
+Dengue NS1,Thyrocare,Hyderabad,720,,https://www.thyrocare.com/test/dengue-ns1-antigen
+Dengue NS1,Thyrocare,Pune,720,,https://www.thyrocare.com/test/dengue-ns1-antigen
+Dengue NS1,Thyrocare,Ahmedabad,720,,https://www.thyrocare.com/test/dengue-ns1-antigen
+Dengue NS1,Metropolis,Delhi,650,,https://www.metropolisindia.com/parameter/mumbai/dengue-ns1-antigen
+Dengue NS1,Metropolis,Mumbai,800,,https://www.metropolisindia.com/parameter/mumbai/dengue-ns1-antigen
+Dengue NS1,Metropolis,Bangalore,650,,https://www.metropolisindia.com/parameter/mumbai/dengue-ns1-antigen
+Dengue NS1,Metropolis,Chennai,1050,,https://www.metropolisindia.com/parameter/mumbai/dengue-ns1-antigen
+Dengue NS1,Metropolis,Pune,650,,https://www.metropolisindia.com/parameter/mumbai/dengue-ns1-antigen
+Dengue NS1,Metropolis,Ahmedabad,650,,https://www.metropolisindia.com/parameter/mumbai/dengue-ns1-antigen
+ESR,Tata 1mg,Delhi,129,,https://www.1mg.com/labs/test/erythrocyte-sedimentation-rate-esr-1509
+ESR,Tata 1mg,Mumbai,139,,https://www.1mg.com/labs/test/erythrocyte-sedimentation-rate-esr-1509
+ESR,Tata 1mg,Bangalore,139,,https://www.1mg.com/labs/test/erythrocyte-sedimentation-rate-esr-1509
+ESR,Tata 1mg,Kolkata,109,,https://www.1mg.com/labs/test/erythrocyte-sedimentation-rate-esr-1509
+ESR,Tata 1mg,Hyderabad,149,,https://www.1mg.com/labs/test/erythrocyte-sedimentation-rate-esr-1509
+ESR,Thyrocare,Delhi,127,,https://www.thyrocare.com/test/erythrocyte-sedimentation-rate-esr
+ESR,Thyrocare,Mumbai,127,,https://www.thyrocare.com/test/erythrocyte-sedimentation-rate-esr
+ESR,Thyrocare,Bangalore,127,,https://www.thyrocare.com/test/erythrocyte-sedimentation-rate-esr
+ESR,Thyrocare,Chennai,127,,https://www.thyrocare.com/test/erythrocyte-sedimentation-rate-esr
+ESR,Thyrocare,Kolkata,127,,https://www.thyrocare.com/test/erythrocyte-sedimentation-rate-esr
+ESR,Thyrocare,Hyderabad,127,,https://www.thyrocare.com/test/erythrocyte-sedimentation-rate-esr
+ESR,Thyrocare,Pune,127,,https://www.thyrocare.com/test/erythrocyte-sedimentation-rate-esr
+ESR,Thyrocare,Ahmedabad,127,,https://www.thyrocare.com/test/erythrocyte-sedimentation-rate-esr
+ESR,Metropolis,Mumbai,200,,https://www.metropolisindia.com/parameter/mumbai/erythrocyte-sedimentation-rate-esr
+ESR,Metropolis,Hyderabad,120,,https://www.metropolisindia.com/parameter/mumbai/erythrocyte-sedimentation-rate-esr
+ESR,Metropolis,Pune,140,,https://www.metropolisindia.com/parameter/mumbai/erythrocyte-sedimentation-rate-esr
+Full Body Checkup,Tata 1mg,Delhi,2249,,https://www.1mg.com/labs/test/comprehensive-gold-full-body-checkup-with-vitamin-d-b12-fasting-required-33498
+Full Body Checkup,Tata 1mg,Mumbai,2499,,https://www.1mg.com/labs/test/comprehensive-gold-full-body-checkup-with-vitamin-d-b12-fasting-required-33498
+Full Body Checkup,Tata 1mg,Bangalore,2249,,https://www.1mg.com/labs/test/comprehensive-gold-full-body-checkup-with-vitamin-d-b12-fasting-required-33498
+Full Body Checkup,Tata 1mg,Hyderabad,2249,,https://www.1mg.com/labs/test/comprehensive-gold-full-body-checkup-with-vitamin-d-b12-fasting-required-33498
+Full Body Checkup,Tata 1mg,Pune,2249,,https://www.1mg.com/labs/test/comprehensive-gold-full-body-checkup-with-vitamin-d-b12-fasting-required-33498
+Full Body Checkup,Thyrocare,Delhi,5099,,https://www.thyrocare.com/profile/aarogyam-1_7-with-utsh
+Full Body Checkup,Thyrocare,Mumbai,5099,,https://www.thyrocare.com/profile/aarogyam-1_7-with-utsh
+Full Body Checkup,Thyrocare,Bangalore,5099,,https://www.thyrocare.com/profile/aarogyam-1_7-with-utsh
+Full Body Checkup,Thyrocare,Chennai,5099,,https://www.thyrocare.com/profile/aarogyam-1_7-with-utsh
+Full Body Checkup,Thyrocare,Kolkata,5099,,https://www.thyrocare.com/profile/aarogyam-1_7-with-utsh
+Full Body Checkup,Thyrocare,Hyderabad,5099,,https://www.thyrocare.com/profile/aarogyam-1_7-with-utsh
+Full Body Checkup,Thyrocare,Pune,5099,,https://www.thyrocare.com/profile/aarogyam-1_7-with-utsh
+Full Body Checkup,Thyrocare,Ahmedabad,5099,,https://www.thyrocare.com/profile/aarogyam-1_7-with-utsh
+Full Body Checkup,Metropolis,Delhi,6500,,https://www.metropolisindia.com/health-packages/truhealth-pro-active-male
+Full Body Checkup,Metropolis,Mumbai,6500,,https://www.metropolisindia.com/health-packages/truhealth-pro-active-male
+Full Body Checkup,Metropolis,Bangalore,6500,,https://www.metropolisindia.com/health-packages/truhealth-pro-active-male
+Full Body Checkup,Metropolis,Chennai,6500,,https://www.metropolisindia.com/health-packages/truhealth-pro-active-male
+Full Body Checkup,Metropolis,Pune,6500,,https://www.metropolisindia.com/health-packages/truhealth-pro-active-male
+Full Body Checkup,Metropolis,Ahmedabad,6500,,https://www.metropolisindia.com/health-packages/truhealth-pro-active-male
+HbA1c (Diabetes),Tata 1mg,Mumbai,379,,https://www.1mg.com/labs/test/glycated-hemoglobin-hba1c-1489
+HbA1c (Diabetes),Tata 1mg,Bangalore,329,,https://www.1mg.com/labs/test/glycated-hemoglobin-hba1c-1489
+HbA1c (Diabetes),Tata 1mg,Kolkata,329,,https://www.1mg.com/labs/test/glycated-hemoglobin-hba1c-1489
+HbA1c (Diabetes),Tata 1mg,Hyderabad,379,,https://www.1mg.com/labs/test/glycated-hemoglobin-hba1c-1489
+HbA1c (Diabetes),Tata 1mg,Pune,329,,https://www.1mg.com/labs/test/glycated-hemoglobin-hba1c-1489
+HbA1c (Diabetes),Thyrocare,Delhi,368,,https://www.thyrocare.com/test/hba1c
+HbA1c (Diabetes),Thyrocare,Mumbai,368,,https://www.thyrocare.com/test/hba1c
+HbA1c (Diabetes),Thyrocare,Bangalore,368,,https://www.thyrocare.com/test/hba1c
+HbA1c (Diabetes),Thyrocare,Chennai,368,,https://www.thyrocare.com/test/hba1c
+HbA1c (Diabetes),Thyrocare,Kolkata,368,,https://www.thyrocare.com/test/hba1c
+HbA1c (Diabetes),Thyrocare,Hyderabad,368,,https://www.thyrocare.com/test/hba1c
+HbA1c (Diabetes),Thyrocare,Pune,368,,https://www.thyrocare.com/test/hba1c
+HbA1c (Diabetes),Thyrocare,Ahmedabad,368,,https://www.thyrocare.com/test/hba1c
+HbA1c (Diabetes),Metropolis,Delhi,550,,https://www.metropolisindia.com/parameter/mumbai/hba1c-hba1c-glycosylated-hemoglobin
+HbA1c (Diabetes),Metropolis,Mumbai,640,,https://www.metropolisindia.com/parameter/mumbai/hba1c-hba1c-glycosylated-hemoglobin
+HbA1c (Diabetes),Metropolis,Bangalore,550,,https://www.metropolisindia.com/parameter/mumbai/hba1c-hba1c-glycosylated-hemoglobin
+HbA1c (Diabetes),Metropolis,Chennai,550,,https://www.metropolisindia.com/parameter/mumbai/hba1c-hba1c-glycosylated-hemoglobin
+Iron Profile,Tata 1mg,Delhi,499,,https://www.1mg.com/labs/test/serum-iron-studies-basic-35465
+Iron Profile,Tata 1mg,Mumbai,609,,https://www.1mg.com/labs/test/serum-iron-studies-basic-35465
+Iron Profile,Tata 1mg,Bangalore,609,,https://www.1mg.com/labs/test/serum-iron-studies-basic-35465
+Iron Profile,Tata 1mg,Hyderabad,458,,https://www.1mg.com/labs/test/serum-iron-studies-basic-35465
+Iron Profile,Tata 1mg,Pune,609,,https://www.1mg.com/labs/test/serum-iron-studies-basic-35465
+Iron Profile,Thyrocare,Delhi,670,,https://www.thyrocare.com/profile/iron-deficiency-profile
+Iron Profile,Thyrocare,Mumbai,670,,https://www.thyrocare.com/profile/iron-deficiency-profile
+Iron Profile,Thyrocare,Bangalore,670,,https://www.thyrocare.com/profile/iron-deficiency-profile
+Iron Profile,Thyrocare,Chennai,670,,https://www.thyrocare.com/profile/iron-deficiency-profile
+Iron Profile,Thyrocare,Kolkata,670,,https://www.thyrocare.com/profile/iron-deficiency-profile
+Iron Profile,Thyrocare,Hyderabad,670,,https://www.thyrocare.com/profile/iron-deficiency-profile
+Iron Profile,Thyrocare,Pune,670,,https://www.thyrocare.com/profile/iron-deficiency-profile
+Iron Profile,Thyrocare,Ahmedabad,670,,https://www.thyrocare.com/profile/iron-deficiency-profile
+Iron Profile,Metropolis,Delhi,1000,,https://www.metropolisindia.com/parameter/mumbai/iron-studies
+Iron Profile,Metropolis,Mumbai,1000,,https://www.metropolisindia.com/parameter/mumbai/iron-studies
+Iron Profile,Metropolis,Bangalore,1000,,https://www.metropolisindia.com/parameter/mumbai/iron-studies
+Iron Profile,Metropolis,Chennai,1000,,https://www.metropolisindia.com/parameter/mumbai/iron-studies
+Iron Profile,Metropolis,Pune,1000,,https://www.metropolisindia.com/parameter/mumbai/iron-studies
+Iron Profile,Metropolis,Ahmedabad,1000,,https://www.metropolisindia.com/parameter/mumbai/iron-studies
+Kidney Function Test (KFT),Tata 1mg,Delhi,399,,https://www.1mg.com/labs/test/kidney-function-test-with-electrolytes-kft-3696
+Kidney Function Test (KFT),Tata 1mg,Mumbai,399,,https://www.1mg.com/labs/test/kidney-function-test-with-electrolytes-kft-3696
+Kidney Function Test (KFT),Tata 1mg,Bangalore,399,,https://www.1mg.com/labs/test/kidney-function-test-with-electrolytes-kft-3696
+Kidney Function Test (KFT),Tata 1mg,Kolkata,399,,https://www.1mg.com/labs/test/kidney-function-test-with-electrolytes-kft-3696
+Kidney Function Test (KFT),Tata 1mg,Hyderabad,329,,https://www.1mg.com/labs/test/kidney-function-test-with-electrolytes-kft-3696
+Kidney Function Test (KFT),Thyrocare,Delhi,880,,https://www.thyrocare.com/profile/kidpro
+Kidney Function Test (KFT),Thyrocare,Mumbai,880,,https://www.thyrocare.com/profile/kidpro
+Kidney Function Test (KFT),Thyrocare,Bangalore,880,,https://www.thyrocare.com/profile/kidpro
+Kidney Function Test (KFT),Thyrocare,Chennai,880,,https://www.thyrocare.com/profile/kidpro
+Kidney Function Test (KFT),Thyrocare,Kolkata,880,,https://www.thyrocare.com/profile/kidpro
+Kidney Function Test (KFT),Thyrocare,Hyderabad,880,,https://www.thyrocare.com/profile/kidpro
+Kidney Function Test (KFT),Thyrocare,Pune,880,,https://www.thyrocare.com/profile/kidpro
+Kidney Function Test (KFT),Thyrocare,Ahmedabad,880,,https://www.thyrocare.com/profile/kidpro
+Kidney Function Test (KFT),Metropolis,Mumbai,1250,,https://www.metropolisindia.com/parameter/mumbai/kidney-function-test-kft
+Lipid Profile,Tata 1mg,Delhi,399,,https://www.1mg.com/labs/test/lipid-profile-1690
+Lipid Profile,Tata 1mg,Mumbai,399,,https://www.1mg.com/labs/test/lipid-profile-1690
+Lipid Profile,Tata 1mg,Bangalore,399,,https://www.1mg.com/labs/test/lipid-profile-1690
+Lipid Profile,Tata 1mg,Kolkata,359,,https://www.1mg.com/labs/test/lipid-profile-1690
+Lipid Profile,Tata 1mg,Hyderabad,319,,https://www.1mg.com/labs/test/lipid-profile-1690
+Lipid Profile,Thyrocare,Delhi,590,,https://www.thyrocare.com/profile/lipid-profile
+Lipid Profile,Thyrocare,Mumbai,590,,https://www.thyrocare.com/profile/lipid-profile
+Lipid Profile,Thyrocare,Bangalore,590,,https://www.thyrocare.com/profile/lipid-profile
+Lipid Profile,Thyrocare,Chennai,590,,https://www.thyrocare.com/profile/lipid-profile
+Lipid Profile,Thyrocare,Kolkata,590,,https://www.thyrocare.com/profile/lipid-profile
+Lipid Profile,Thyrocare,Hyderabad,590,,https://www.thyrocare.com/profile/lipid-profile
+Lipid Profile,Thyrocare,Pune,590,,https://www.thyrocare.com/profile/lipid-profile
+Lipid Profile,Thyrocare,Ahmedabad,590,,https://www.thyrocare.com/profile/lipid-profile
+Lipid Profile,Metropolis,Delhi,375,,https://www.metropolisindia.com/parameter/mumbai/lipid-profile
+Lipid Profile,Metropolis,Mumbai,775,,https://www.metropolisindia.com/parameter/mumbai/lipid-profile
+Lipid Profile,Metropolis,Bangalore,675,,https://www.metropolisindia.com/parameter/mumbai/lipid-profile
+Lipid Profile,Metropolis,Chennai,675,,https://www.metropolisindia.com/parameter/mumbai/lipid-profile
+Liver Function Test (LFT),Tata 1mg,Delhi,399,,https://www.1mg.com/labs/test/liver-function-test-1739
+Liver Function Test (LFT),Tata 1mg,Mumbai,399,,https://www.1mg.com/labs/test/liver-function-test-1739
+Liver Function Test (LFT),Tata 1mg,Bangalore,399,,https://www.1mg.com/labs/test/liver-function-test-1739
+Liver Function Test (LFT),Tata 1mg,Kolkata,399,,https://www.1mg.com/labs/test/liver-function-test-1739
+Liver Function Test (LFT),Tata 1mg,Hyderabad,308,,https://www.1mg.com/labs/test/liver-function-test-1739
+Liver Function Test (LFT),Thyrocare,Delhi,880,,https://www.thyrocare.com/profile/liver-function-tests
+Liver Function Test (LFT),Thyrocare,Mumbai,880,,https://www.thyrocare.com/profile/liver-function-tests
+Liver Function Test (LFT),Thyrocare,Bangalore,880,,https://www.thyrocare.com/profile/liver-function-tests
+Liver Function Test (LFT),Thyrocare,Chennai,880,,https://www.thyrocare.com/profile/liver-function-tests
+Liver Function Test (LFT),Thyrocare,Kolkata,880,,https://www.thyrocare.com/profile/liver-function-tests
+Liver Function Test (LFT),Thyrocare,Hyderabad,880,,https://www.thyrocare.com/profile/liver-function-tests
+Liver Function Test (LFT),Thyrocare,Pune,880,,https://www.thyrocare.com/profile/liver-function-tests
+Liver Function Test (LFT),Thyrocare,Ahmedabad,880,,https://www.thyrocare.com/profile/liver-function-tests
+Liver Function Test (LFT),Metropolis,Delhi,550,,https://www.metropolisindia.com/parameter/mumbai/liver-function-tests
+Liver Function Test (LFT),Metropolis,Mumbai,550,,https://www.metropolisindia.com/parameter/mumbai/liver-function-tests
+Liver Function Test (LFT),Metropolis,Bangalore,550,,https://www.metropolisindia.com/parameter/mumbai/liver-function-tests
+Liver Function Test (LFT),Metropolis,Chennai,655,,https://www.metropolisindia.com/parameter/mumbai/liver-function-tests
+Liver Function Test (LFT),Metropolis,Pune,550,,https://www.metropolisindia.com/parameter/mumbai/liver-function-tests
+Liver Function Test (LFT),Metropolis,Ahmedabad,550,,https://www.metropolisindia.com/parameter/mumbai/liver-function-tests
+Testosterone,Tata 1mg,Bangalore,599,,https://www.1mg.com/labs/test/testosterone-total-1590
+Testosterone,Thyrocare,Delhi,670,,https://www.thyrocare.com/test/testosterone
+Testosterone,Thyrocare,Mumbai,670,,https://www.thyrocare.com/test/testosterone
+Testosterone,Thyrocare,Bangalore,670,,https://www.thyrocare.com/test/testosterone
+Testosterone,Thyrocare,Chennai,670,,https://www.thyrocare.com/test/testosterone
+Testosterone,Thyrocare,Kolkata,670,,https://www.thyrocare.com/test/testosterone
+Testosterone,Thyrocare,Hyderabad,670,,https://www.thyrocare.com/test/testosterone
+Testosterone,Thyrocare,Pune,670,,https://www.thyrocare.com/test/testosterone
+Testosterone,Thyrocare,Ahmedabad,670,,https://www.thyrocare.com/test/testosterone
+Testosterone,Metropolis,Mumbai,850,,https://www.metropolisindia.com/parameter/mumbai/testosterone-total
+"Thyroid Profile (T3, T4, TSH)",Tata 1mg,Delhi,490,,https://www.1mg.com/labs/test/thyroid-profile-total-t3-t4-tsh-2571
+"Thyroid Profile (T3, T4, TSH)",Tata 1mg,Mumbai,490,,https://www.1mg.com/labs/test/thyroid-profile-total-t3-t4-tsh-2571
+"Thyroid Profile (T3, T4, TSH)",Tata 1mg,Bangalore,439,,https://www.1mg.com/labs/test/thyroid-profile-total-t3-t4-tsh-2571
+"Thyroid Profile (T3, T4, TSH)",Tata 1mg,Hyderabad,298,,https://www.1mg.com/labs/test/thyroid-profile-total-t3-t4-tsh-2571
+"Thyroid Profile (T3, T4, TSH)",Tata 1mg,Pune,459,,https://www.1mg.com/labs/test/thyroid-profile-total-t3-t4-tsh-2571
+"Thyroid Profile (T3, T4, TSH)",Thyrocare,Delhi,399,,https://www.thyrocare.com/profile/t3-t4-ustsh
+"Thyroid Profile (T3, T4, TSH)",Thyrocare,Mumbai,399,,https://www.thyrocare.com/profile/t3-t4-ustsh
+"Thyroid Profile (T3, T4, TSH)",Thyrocare,Bangalore,399,,https://www.thyrocare.com/profile/t3-t4-ustsh
+"Thyroid Profile (T3, T4, TSH)",Thyrocare,Chennai,399,,https://www.thyrocare.com/profile/t3-t4-ustsh
+"Thyroid Profile (T3, T4, TSH)",Thyrocare,Kolkata,399,,https://www.thyrocare.com/profile/t3-t4-ustsh
+"Thyroid Profile (T3, T4, TSH)",Thyrocare,Hyderabad,399,,https://www.thyrocare.com/profile/t3-t4-ustsh
+"Thyroid Profile (T3, T4, TSH)",Thyrocare,Pune,399,,https://www.thyrocare.com/profile/t3-t4-ustsh
+"Thyroid Profile (T3, T4, TSH)",Thyrocare,Ahmedabad,399,,https://www.thyrocare.com/profile/t3-t4-ustsh
+"Thyroid Profile (T3, T4, TSH)",Metropolis,Delhi,425,,https://www.metropolisindia.com/parameter/mumbai/thyroid-profile-total
+"Thyroid Profile (T3, T4, TSH)",Metropolis,Mumbai,600,,https://www.metropolisindia.com/parameter/mumbai/thyroid-profile-total
+"Thyroid Profile (T3, T4, TSH)",Metropolis,Bangalore,575,,https://www.metropolisindia.com/parameter/mumbai/thyroid-profile-total
+"Thyroid Profile (T3, T4, TSH)",Metropolis,Chennai,625,,https://www.metropolisindia.com/parameter/mumbai/thyroid-profile-total
+Uric Acid,Tata 1mg,Delhi,159,,https://www.1mg.com/labs/test/uric-acid-serum-1747
+Uric Acid,Tata 1mg,Mumbai,179,,https://www.1mg.com/labs/test/uric-acid-serum-1747
+Uric Acid,Tata 1mg,Bangalore,179,,https://www.1mg.com/labs/test/uric-acid-serum-1747
+Uric Acid,Tata 1mg,Kolkata,139,,https://www.1mg.com/labs/test/uric-acid-serum-1747
+Uric Acid,Tata 1mg,Hyderabad,160,,https://www.1mg.com/labs/test/uric-acid-serum-1747
+Uric Acid,Thyrocare,Delhi,216,,https://www.thyrocare.com/test/uric-acid
+Uric Acid,Thyrocare,Mumbai,216,,https://www.thyrocare.com/test/uric-acid
+Uric Acid,Thyrocare,Bangalore,216,,https://www.thyrocare.com/test/uric-acid
+Uric Acid,Thyrocare,Chennai,216,,https://www.thyrocare.com/test/uric-acid
+Uric Acid,Thyrocare,Kolkata,216,,https://www.thyrocare.com/test/uric-acid
+Uric Acid,Thyrocare,Hyderabad,216,,https://www.thyrocare.com/test/uric-acid
+Uric Acid,Thyrocare,Pune,216,,https://www.thyrocare.com/test/uric-acid
+Uric Acid,Thyrocare,Ahmedabad,216,,https://www.thyrocare.com/test/uric-acid
+Uric Acid,Metropolis,Mumbai,270,,https://www.metropolisindia.com/parameter/mumbai/uric-acid-serum
+Urine Routine,Tata 1mg,Bangalore,159,,https://www.1mg.com/labs/test/urine-routine-microscopy-r-m-1738
+Urine Routine,Thyrocare,Delhi,500,,https://www.thyrocare.com/profile/complete-urine-analysis
+Urine Routine,Thyrocare,Mumbai,500,,https://www.thyrocare.com/profile/complete-urine-analysis
+Urine Routine,Thyrocare,Bangalore,500,,https://www.thyrocare.com/profile/complete-urine-analysis
+Urine Routine,Thyrocare,Chennai,500,,https://www.thyrocare.com/profile/complete-urine-analysis
+Urine Routine,Thyrocare,Kolkata,500,,https://www.thyrocare.com/profile/complete-urine-analysis
+Urine Routine,Thyrocare,Hyderabad,500,,https://www.thyrocare.com/profile/complete-urine-analysis
+Urine Routine,Thyrocare,Pune,500,,https://www.thyrocare.com/profile/complete-urine-analysis
+Urine Routine,Thyrocare,Ahmedabad,500,,https://www.thyrocare.com/profile/complete-urine-analysis
+Urine Routine,Metropolis,Delhi,175,,https://www.metropolisindia.com/parameter/mumbai/urine-routine-microscopy
+Urine Routine,Metropolis,Mumbai,200,,https://www.metropolisindia.com/parameter/mumbai/urine-routine-microscopy
+Urine Routine,Metropolis,Bangalore,175,,https://www.metropolisindia.com/parameter/mumbai/urine-routine-microscopy
+Urine Routine,Metropolis,Chennai,175,,https://www.metropolisindia.com/parameter/mumbai/urine-routine-microscopy
+Urine Routine,Metropolis,Pune,175,,https://www.metropolisindia.com/parameter/mumbai/urine-routine-microscopy
+Urine Routine,Metropolis,Ahmedabad,175,,https://www.metropolisindia.com/parameter/mumbai/urine-routine-microscopy
+Vitamin B12,Tata 1mg,Delhi,680,,https://www.1mg.com/labs/test/vitamin-b12-cyanocobalamin-3863
+Vitamin B12,Tata 1mg,Mumbai,680,,https://www.1mg.com/labs/test/vitamin-b12-cyanocobalamin-3863
+Vitamin B12,Tata 1mg,Bangalore,679,,https://www.1mg.com/labs/test/vitamin-b12-cyanocobalamin-3863
+Vitamin B12,Tata 1mg,Hyderabad,359,,https://www.1mg.com/labs/test/vitamin-b12-cyanocobalamin-3863
+Vitamin B12,Tata 1mg,Pune,679,,https://www.1mg.com/labs/test/vitamin-b12-cyanocobalamin-3863
+Vitamin B12,Thyrocare,Delhi,1337,,https://www.thyrocare.com/test/vitamin-b-12
+Vitamin B12,Thyrocare,Mumbai,1337,,https://www.thyrocare.com/test/vitamin-b-12
+Vitamin B12,Thyrocare,Bangalore,1337,,https://www.thyrocare.com/test/vitamin-b-12
+Vitamin B12,Thyrocare,Chennai,1337,,https://www.thyrocare.com/test/vitamin-b-12
+Vitamin B12,Thyrocare,Kolkata,1337,,https://www.thyrocare.com/test/vitamin-b-12
+Vitamin B12,Thyrocare,Hyderabad,1337,,https://www.thyrocare.com/test/vitamin-b-12
+Vitamin B12,Thyrocare,Pune,1337,,https://www.thyrocare.com/test/vitamin-b-12
+Vitamin B12,Thyrocare,Ahmedabad,1337,,https://www.thyrocare.com/test/vitamin-b-12
+Vitamin B12,Metropolis,Mumbai,1250,,https://www.metropolisindia.com/parameter/mumbai/vitamin-b12-cyanocobalamin
+Vitamin D,Tata 1mg,Delhi,499,,https://www.1mg.com/labs/test/vitamin-d-total-25-hydroxy-3825
+Vitamin D,Tata 1mg,Mumbai,499,,https://www.1mg.com/labs/test/vitamin-d-total-25-hydroxy-3825
+Vitamin D,Tata 1mg,Bangalore,649,,https://www.1mg.com/labs/test/vitamin-d-total-25-hydroxy-3825
+Vitamin D,Tata 1mg,Kolkata,649,,https://www.1mg.com/labs/test/vitamin-d-total-25-hydroxy-3825
+Vitamin D,Tata 1mg,Hyderabad,308,,https://www.1mg.com/labs/test/vitamin-d-total-25-hydroxy-3825
+Vitamin D,Thyrocare,Delhi,1199,,https://www.thyrocare.com/test/25-oh-vitamin-d-total
+Vitamin D,Thyrocare,Mumbai,1199,,https://www.thyrocare.com/test/25-oh-vitamin-d-total
+Vitamin D,Thyrocare,Bangalore,1199,,https://www.thyrocare.com/test/25-oh-vitamin-d-total
+Vitamin D,Thyrocare,Chennai,1199,,https://www.thyrocare.com/test/25-oh-vitamin-d-total
+Vitamin D,Thyrocare,Kolkata,1199,,https://www.thyrocare.com/test/25-oh-vitamin-d-total
+Vitamin D,Thyrocare,Hyderabad,1199,,https://www.thyrocare.com/test/25-oh-vitamin-d-total
+Vitamin D,Thyrocare,Pune,1199,,https://www.thyrocare.com/test/25-oh-vitamin-d-total
+Vitamin D,Thyrocare,Ahmedabad,1199,,https://www.thyrocare.com/test/25-oh-vitamin-d-total
+Vitamin D,Metropolis,Delhi,1400,,https://www.metropolisindia.com/parameter/mumbai/vitamin-d-total-25-hydroxy
+Vitamin D,Metropolis,Mumbai,1800,,https://www.metropolisindia.com/parameter/mumbai/vitamin-d-total-25-hydroxy
+Vitamin D,Metropolis,Bangalore,1400,,https://www.metropolisindia.com/parameter/mumbai/vitamin-d-total-25-hydroxy
+Vitamin D,Metropolis,Chennai,1400,,https://www.metropolisindia.com/parameter/mumbai/vitamin-d-total-25-hydroxy
+Vitamin D,Metropolis,Pune,1400,,https://www.metropolisindia.com/parameter/mumbai/vitamin-d-total-25-hydroxy
+Vitamin D,Metropolis,Ahmedabad,1400,,https://www.metropolisindia.com/parameter/mumbai/vitamin-d-total-25-hydroxy

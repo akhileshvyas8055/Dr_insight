@@ -1,0 +1,19 @@
+services:
+  - type: web
+    name: dr-insights-backend
+    env: python
+    region: frankfurt
+    rootDir: backend
+    buildCommand: "./build.sh"
+    startCommand: "gunicorn -c gunicorn.conf.py app.main:app"
+    plan: free
+    healthCheckPath: /
+    disk:
+      name: dr-sqlite-data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: DATABASE_URL
+        value: sqlite:////data/dr_insights.db
+      - key: PYTHON_VERSION
+        value: 3.10.0

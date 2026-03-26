@@ -1,0 +1,1845 @@
+serial_no,procedure_name,cghs_rate,nabh_hospital_rate,non_nabh_hospital_rate,category
+1,Consultation OPD,350.0,350.0,350.0,Test
+2,Consultation- for Inpatients,350.0,350.0,350.0,Test
+3,Dressings of wounds,255.0,300.0,255.0,Surgery
+4,Suturing of wounds with local anesthesia,108.0,124.0,108.0,Surgery
+5,Aspiration Plural Effusion - Diagnostic,595.0,700.0,595.0,Surgery
+6,Aspiration Plural Effusion - Therapeutic,595.0,700.0,595.0,Surgery
+7,Abdominal / Peritoneal Aspiration - Diagnostic / Ascitic tapping/ paracentesis - Diagnostic,595.0,700.0,595.0,Surgery
+8,Abdominal / Peritoneal Aspiration - Therapeutic / Ascitic tapping/ paracentesis - Therapeutic,640.0,750.0,640.0,Surgery
+9,Pericardial Aspiration,380.0,437.0,380.0,Surgery
+10,Joints Aspiration,317.0,365.0,317.0,Surgery
+11,Biopsy Skin,230.0,265.0,230.0,Surgery
+12,Removal of Stitches / Sutures (7-12 sutures),170.0,200.0,170.0,Surgery
+13,Venesection,595.0,700.0,595.0,Surgery
+14,Phimosis correction / Paraphimosis reduction / circumcision Under LA,5100.0,6000.0,5100.0,Surgery
+15,Sternal puncture,173.0,199.0,173.0,Surgery
+16,Injection / Sclerotherapy / Banding of Haemorrhoids,595.0,700.0,595.0,Surgery
+17,Injection for Varicose Veins,595.0,700.0,595.0,Surgery
+18,Urinary bladder Catheterisation,595.0,700.0,595.0,Surgery
+19,Dilatation of Urethral stricture,1955.0,2300.0,1955.0,Surgery
+20,Incision & Drainage under local Anaesthesia (Large),1955.0,2300.0,1955.0,Surgery
+21,Intercostal Drainage,125.0,144.0,125.0,Surgery
+22,Peritoneal Dialysis,1466.0,1686.0,1466.0,Surgery
+23,Excision of Moles,345.0,397.0,345.0,Surgery
+24,Excision of Warts,310.0,357.0,310.0,Surgery
+25,Excision of Molluscum contagiosum,130.0,150.0,130.0,Surgery
+26,Excision of Venereal Warts,160.0,184.0,160.0,Surgery
+27,Excision of Corns,140.0,161.0,140.0,Surgery
+28,I/D Injection Keloid(Intralesional Injection),97.0,112.0,97.0,Surgery
+29,Chemical Cautery (s),110.0,127.0,110.0,Surgery
+30,Subconjunctival/subtenon’s injections in one eyes,69.0,79.0,69.0,Surgery
+31,Subconjunctival/subtenon’s injections in both eyes,138.0,159.0,138.0,Surgery
+32,Pterygium Surgery,5500.0,6325.0,5500.0,Surgery
+33,Conjunctival Peritomy,58.0,67.0,58.0,Surgery
+34,Conjunctival wound repair or exploration following blunt trauma,3300.0,3795.0,3300.0,Surgery
+35,Removal of corneal foreign body,115.0,132.0,115.0,Surgery
+36,Cauterization of ulcer/subconjunctival injection in one eye,69.0,79.0,69.0,Surgery
+37,Cauterization of ulcer/subconjunctival injection in both eyes,138.0,159.0,138.0,Surgery
+38,Corneal grafting—Penetrating keratoplasty,5750.0,6613.0,5750.0,Surgery
+39,Corneal grafting—Lamellar keratoplasty,5000.0,5750.0,5000.0,Surgery
+40,Cyanoacrylate /fibrin glue application for corneal perforation,690.0,794.0,690.0,Surgery
+41,Bandage contact lenses for corneal perforation,460.0,529.0,460.0,Scan
+42,Scleral grafting or conjunctival flap for corneal perforation,2300.0,2645.0,2300.0,Surgery
+43,Keratoconus correction with therapeutic contact lenses,1200.0,1380.0,1200.0,Scan
+44,Ultraviolet (UV) radiation for cross-linking for keratoconus,1800.0,2070.0,1800.0,Surgery
+45,EDTA for band shaped keratopathy,863.0,992.0,863.0,Surgery
+46,Arcuate keratotomy for astigmatism,2800.0,3220.0,2800.0,Surgery
+47,Re-suturing (Primary suturing) of corneal wound,1150.0,1323.0,1150.0,Surgery
+48,Penetrating keratoplasty with glaucoma surgery,12144.0,13966.0,12144.0,Surgery
+49,Penetrating keratoplasty with vitrectomy,12144.0,13966.0,12144.0,Surgery
+50,Penetrating keratoplasty with IOL implantation,13656.0,15704.0,13656.0,Surgery
+51,DALK- Deep anterior lamellar keratoplasty,17250.0,19838.0,17250.0,Surgery
+52,Keratoprosthesis stage I and II,11500.0,13225.0,11500.0,Surgery
+53,DSAEK- Descemet’s stripping automated endothelial keratoplasty,16675.0,19176.0,16675.0,Surgery
+54,ALTK- Automated lamellar therapeutic keratoplasty,16500.0,18975.0,16500.0,Surgery
+55,Probing and Syringing of lacrimal sac- in one eye,69.0,79.0,69.0,Surgery
+56,Probing and Syringing of lacrimal sac- in both eye,138.0,159.0,138.0,Surgery
+57,Dacryocystorhinostomy—Plain,2875.0,3306.0,2875.0,Surgery
+58,Dacryocystorhinostomy—Plain with intubation and/or with lacrimal implants,9750.0,11213.0,9750.0,Surgery
+59,Dacryocystorhinostomy—conjunctival with implant,9200.0,10580.0,9200.0,Surgery
+60,Caliculoplasty,2300.0,2645.0,2300.0,Surgery
+61,Dacryocystectomy,1725.0,1984.0,1725.0,Surgery
+62,Punctal plugs for dry eyes,130.0,150.0,130.0,Surgery
+63,Refraction,40.0,46.0,40.0,Test
+64,Indirect Ophthalmoscopy,67.0,77.0,67.0,Scan
+65,Orthoptic check-up- with synoptophore,44.0,51.0,44.0,Surgery
+66,Lees’ charting or Hess’ charting,100.0,115.0,100.0,Surgery
+67,Orthoptic exercises,50.0,58.0,50.0,Surgery
+68,Pleoptic exercises,50.0,58.0,50.0,Surgery
+69,Perimetry/field test—Goldman,144.0,166.0,144.0,Scan
+70,Perimetry/field test— automated,144.0,166.0,144.0,Scan
+71,Fluorescein angiography for fundus or iris,920.0,1058.0,920.0,Scan
+72,Ultrasound A- Scan,863.0,992.0,863.0,Scan
+73,Ultrasound B- Scan,230.0,265.0,230.0,Scan
+74,Fundus Photo Test,200.0,230.0,200.0,Scan
+75,Indocyanin green angiography,920.0,1058.0,920.0,Scan
+76,Corneal endothelial cell count with specular microscopy,230.0,265.0,230.0,Scan
+77,Corneal topography,331.0,381.0,331.0,Scan
+78,Corneal pachymetry,230.0,265.0,230.0,Scan
+79,Auto-refraction,35.0,40.0,35.0,Test
+80,Macular function tests,44.0,51.0,44.0,Test
+81,Potential acuity metry,100.0,115.0,100.0,Surgery
+82,Laser interferometry,173.0,199.0,173.0,Surgery
+83,OCT-Optical coherence tomography,2125.0,2444.0,2125.0,Scan
+84,HRT- Heidelberg’s retinal tomogram,150.0,173.0,150.0,Surgery
+85,GDx Nerve fibre layer analyzer,88.0,101.0,88.0,Surgery
+86,UBM- Ultrasound bio microscopy,150.0,173.0,150.0,Scan
+87,Non Contact tonometry (NCT),50.0,58.0,50.0,Scan
+88,IOP measurement with schiotz,30.0,35.0,30.0,Surgery
+89,IOP measurement with applation tonometry,50.0,58.0,50.0,Surgery
+90,Three mirror examination for retina,58.0,67.0,58.0,Surgery
+91,90 D lens examination,50.0,58.0,50.0,Surgery
+92,Gonioscopy,58.0,67.0,58.0,Surgery
+93,Chalazion incision and curettage in one eye,400.0,460.0,400.0,Surgery
+94,Chalazion incision and curettage in both eyes,431.0,496.0,431.0,Surgery
+95,Ptosis surgery with fasanella servat procedure,2300.0,2645.0,2300.0,Surgery
+96,Ptosis surgery with LPS resection one lid,5500.0,6325.0,5500.0,Surgery
+97,Ptosis surgery with Sling surgery one lid,6670.0,7671.0,6670.0,Surgery
+98,Ectropion surgery- one lid,1400.0,1610.0,1400.0,Surgery
+99,Ectropion surgery- both lids,2500.0,2875.0,2500.0,Surgery
+100,Epicanthus correction,1550.0,1783.0,1550.0,Surgery
+101,Cantholysis and canthotomy,575.0,661.0,575.0,Surgery
+102,Entropion surgery- one lid,1380.0,1587.0,1380.0,Surgery
+103,Entropion surgery- both lids,2000.0,2300.0,2000.0,Surgery
+104,Tarsorraphy,650.0,748.0,650.0,Surgery
+105,Suturing of lid lacerations,1150.0,1323.0,1150.0,Surgery
+106,Lid retraction repair,1700.0,1955.0,1700.0,Surgery
+107,Concretions removal,115.0,132.0,115.0,Surgery
+108,Bucket handle procedure for lid tumors,345.0,397.0,345.0,Surgery
+109,Cheek rotation flap for lid tumors,6900.0,7935.0,6900.0,Surgery
+110,Orbitotomy,8050.0,9258.0,8050.0,Surgery
+111,Enucleation,3000.0,3450.0,3000.0,Surgery
+112,Enucleation with orbital implants and artificial prosthesis,3000.0,3450.0,3000.0,Surgery
+113,Evisceration,3450.0,3968.0,3450.0,Surgery
+114,Evisceration with orbital implants and artificial prosthesis,5693.0,6547.0,5693.0,Surgery
+115,Telecanthus correction,5175.0,5951.0,5175.0,Surgery
+116,Orbital decompression,5750.0,6613.0,5750.0,Surgery
+117,Exenteration,5750.0,6613.0,5750.0,Surgery
+118,Exenteration with skin grafting,6900.0,7935.0,6900.0,Surgery
+119,Fracture orbital repair,9200.0,10580.0,9200.0,Surgery
+120,Retinal laser procedures,1500.0,1725.0,1500.0,Surgery
+121,Retinal detachment surgery (RDS),11500.0,13225.0,11500.0,Surgery
+122,Retinal detachment surgery (RDS) with scleral buckling,13800.0,15870.0,13800.0,Surgery
+123,Buckle removal,1150.0,1323.0,1150.0,Surgery
+124,Silicone oil removal,2800.0,3220.0,2800.0,Surgery
+125,Anterior retinal cryopexy,1162.0,1336.0,1162.0,Surgery
+126,Squint correction for one eye,5000.0,5750.0,5000.0,Surgery
+127,Squint correction for both eyes,7500.0,8625.0,7500.0,Surgery
+128,Trabeculectomy,6900.0,7935.0,6900.0,Surgery
+129,Trabeculotomy,6900.0,7935.0,6900.0,Surgery
+130,Trabeculectomy with Trabeculotomy,10350.0,11903.0,10350.0,Surgery
+131,Trephination,2300.0,2645.0,2300.0,Surgery
+132,Goniotomy,345.0,397.0,345.0,Surgery
+133,Glaucoma surgery with Glaucoma valves,6900.0,7935.0,6900.0,Surgery
+134,Cyclocryotherapy,1150.0,1323.0,1150.0,Surgery
+135,YAG laser iridotomy,1500.0,1725.0,1500.0,Surgery
+136,YAG laser capsulotomy,1093.0,1257.0,1093.0,Surgery
+137,ALT-Argon laser trabeculoplasty,1495.0,1719.0,1495.0,Surgery
+138,PDT-Photodymic therapy,3450.0,3968.0,3450.0,Surgery
+139,TTT- Transpupillary thermal therapy,3000.0,3450.0,3000.0,Surgery
+140,PTK- Phototherapeutic keratectomy,7500.0,8625.0,7500.0,Surgery
+141,Argon/diode laser for retinal detatchment,1150.0,1323.0,1150.0,Surgery
+142,Intralase application for keratoconus,5750.0,6613.0,5750.0,Surgery
+143,EOG- electro-oculogram,900.0,1035.0,900.0,Surgery
+144,ERG- Electro-retinogram,794.0,913.0,794.0,Surgery
+145,VEP- visually evoked potential,800.0,920.0,800.0,Surgery
+146,Vitrectomy- pars plana,11500.0,13225.0,11500.0,Surgery
+147,Intravitreal injections of antibiotics,1150.0,1323.0,1150.0,Surgery
+148,Intravitreal injections of Ranibizumab excluding cost of drug,3000.0,3450.0,3000.0,Surgery
+149,X Ray orbit,115.0,132.0,115.0,Scan
+150,CT orbit and brain,1600.0,1840.0,1600.0,Scan
+151,MRI- Orbit and brain,3450.0,3968.0,3450.0,Scan
+152,Dacryocystography,340.0,391.0,340.0,Surgery
+153,Orbital angio-graphical studies,1500.0,1725.0,1500.0,Surgery
+154,Extracapsular cataract extraction (ECCE) with IOL,3450.0,3968.0,3450.0,Scan
+155,Small Incision Cataract Surgery (SICS) with IOL,5000.0,5750.0,5000.0,Scan
+156,Phaco with foldable IOL (silicone and acrylic)/PMMA IOL,10781.0,12398.0,10781.0,Surgery
+157,Pars plana lensectomy with/without IOL,10350.0,11903.0,10350.0,Surgery
+158,Secondary IOL implantation- AC IOL PC IOL or scleral fixated IOL,6900.0,7935.0,6900.0,Surgery
+159,Cataract extraction with IOL with capsular tension rings (Cionni’s ring),13500.0,15525.0,13500.0,Scan
+160,Optic nerve sheathotomy,7500.0,8625.0,7500.0,Surgery
+161,Iridodialysis repair or papillary reconstruction,5000.0,5750.0,5000.0,Surgery
+162,Iris cyst removal,850.0,978.0,850.0,Surgery
+163,Lid Abscess incision and Drainage,1700.0,1955.0,1700.0,Surgery
+164,Orbital Abscess incision and Drainage,3000.0,3450.0,3000.0,Surgery
+165,Biopsy (eye),460.0,529.0,460.0,Surgery
+166,Paracentesis (eye),230.0,265.0,230.0,Surgery
+167,Scleral graft for scleral melting or perforation,2800.0,3220.0,2800.0,Surgery
+168,Amniotic membrane grafting,1100.0,1265.0,1100.0,Surgery
+169,Cyclodiathermy,2300.0,2645.0,2300.0,Surgery
+170,Intraocular foreign body removal,187.0,215.0,187.0,Surgery
+171,Electrolysis (eye),230.0,265.0,230.0,Surgery
+172,Perforating injury repair (eye),4500.0,5175.0,4500.0,Surgery
+173,Botulinum injection for blepharospasm or squint,2500.0,2875.0,2500.0,Surgery
+174,Flap Operation per quadrant,360.0,414.0,360.0,Surgery
+175,Gingivectomy per quadrant,234.0,269.0,234.0,Surgery
+176,Reduction & immobilization of fracture- Maxilla Under LA,900.0,1035.0,900.0,Surgery
+177,Reduction & immobilization of fracture-Mandible Under LA,3500.0,4025.0,3500.0,Surgery
+178,Splints/Circummandibular wiring under LA,510.0,587.0,510.0,Surgery
+179,splints/Circummandibular wiring under GA,990.0,1139.0,990.0,Surgery
+180,Internal wire fixation/plate fixation of Maxilla under LA,3000.0,3450.0,3000.0,Surgery
+181,Internal wire fixation/plate fixation of Maxilla under GA,4000.0,4600.0,4000.0,Surgery
+182,Internal wire fixation/plate fixation of Mandible under LA,3500.0,4025.0,3500.0,Surgery
+183,Internal wire fixation/plate fixation of Mandible under GA,4250.0,4888.0,4250.0,Surgery
+184,Extraction per tooth under LA,80.0,92.0,80.0,Surgery
+185,Complicated Extraction per Tooth under LA,100.0,115.0,100.0,Surgery
+186,Extraction of impacted tooth under LA,160.0,184.0,160.0,Surgery
+187,Extraction in mentally retarded/patients with systemic diseases/patient with special needs under short term GA,939.0,1080.0,939.0,Surgery
+188,Cyst & tumour of Maxilla /mandible by enucleation/ excision/ marsupialisation upto 4 cms under LA,244.0,281.0,244.0,Surgery
+189,Cyst & tumour of Maxilla / mandible by enucleation / excision / marsupialisation size more than 4 cms,406.0,467.0,406.0,Surgery
+190,Cyst & tumour of Maxilla/mandible by enucleation/excision/marsupialisation size more than 4 cms under GA,1000.0,1150.0,1000.0,Surgery
+191,TM joint ankylosis- under GA,7500.0,8625.0,7500.0,Surgery
+192,Biopsy Intraoral-Soft tissue,374.0,430.0,374.0,Surgery
+193,Biopsy Intraoral-Bone,374.0,430.0,374.0,Surgery
+194,Hemi-mandibulectomy with graft,21000.0,24150.0,21000.0,Surgery
+195,Hemi-mandibulectomy without graft,21000.0,24150.0,21000.0,Surgery
+196,Segmental-mandibulectomy with graft,3400.0,3910.0,3400.0,Surgery
+197,Segmental-mandibulectomy without graft,990.0,1139.0,990.0,Surgery
+198,Maxillectomy- Total with graft,2500.0,2875.0,2500.0,Surgery
+199,Maxillectomy- Total without graft,1950.0,2243.0,1950.0,Surgery
+200,Maxillectomy- partial with graft,3000.0,3450.0,3000.0,Surgery
+201,Maxillectomy- partial without graft,2500.0,2875.0,2500.0,Surgery
+202,Release of fibrous bands & grafting -in (OSMF) treatment under GA,1500.0,1725.0,1500.0,Surgery
+203,Pre-prosthetic surgery- Alveoloplasty,500.0,575.0,500.0,Surgery
+204,Pre-prosthetic surgery - ridge augmentation,1200.0,1380.0,1200.0,Surgery
+205,Root canal Treatment(RCT) Anterior teeth(per tooth),500.0,575.0,500.0,Scan
+206,Root canal Treatment(RCT) Posterior teeth (per tooth),700.0,805.0,700.0,Scan
+207,Apicoectomy- Single root,500.0,575.0,500.0,Surgery
+208,Apicoectomy-Multiple roots,650.0,748.0,650.0,Surgery
+209,Metal Crown-per unit,500.0,575.0,500.0,Surgery
+210,Metal Crown with Acrylic facing per unit,700.0,805.0,700.0,Surgery
+211,Complete single denture-metal based,1500.0,1725.0,1500.0,Surgery
+212,Complete denture- acrylic based per arch,950.0,1093.0,950.0,Surgery
+213,Removable partial denture-Metal based-upto 3 teeth,700.0,805.0,700.0,Scan
+214,Removable partial denture-Metal based-more than 3 teeth,900.0,1035.0,900.0,Scan
+215,Removable partial denture-Acrylic based-upto 3 teeth,500.0,575.0,500.0,Scan
+216,Removable partial denture-Acrylic based-more than 3 teeth / Per tooth,264.0,304.0,264.0,Scan
+217,Amalgam restoration-per tooth,200.0,230.0,200.0,Surgery
+218,Composite Restoration-per tooth-anterior tooth,250.0,288.0,250.0,Surgery
+219,Glass Ionomer filling-per tooth,200.0,230.0,200.0,Surgery
+220,Scaling & polishing,300.0,345.0,300.0,Surgery
+221,Removable Orthodontics appliance- per Arch,700.0,805.0,700.0,Surgery
+222,Fixed Orthodontics-per Arch,1150.0,1323.0,1150.0,Surgery
+223,Space maintainers-Fixed,500.0,575.0,500.0,Surgery
+224,Habit breaking appliances-removable,800.0,920.0,800.0,Surgery
+225,Habit breaking appliances-Fixed,1500.0,1725.0,1500.0,Surgery
+226,Expansion plate,1000.0,1150.0,1000.0,Surgery
+227,Feeding appliance for cleft palate,1500.0,1725.0,1500.0,Surgery
+228,Maxillo-facial prosthesis (sal/auricular/orbital/facial lost part),3500.0,4025.0,3500.0,Surgery
+229,Functional orthodontic appliances,3000.0,3450.0,3000.0,Surgery
+230,Obturator (Maxillo-facial),1500.0,1725.0,1500.0,Surgery
+231,Occlusal night guard(splint),800.0,920.0,800.0,Surgery
+232,Pure Tone Audiogram,172.0,198.0,172.0,Scan
+233,Impedence with stepedeal reflex,230.0,265.0,230.0,Surgery
+234,Short Increment Sensitivity Index (SISI) Tone Decay,132.0,152.0,132.0,Surgery
+235,Multiple hearing assessment test to Adults,115.0,132.0,115.0,Test
+236,Speech Discrimination Score,90.0,104.0,90.0,Surgery
+237,Speech Assessment,120.0,138.0,120.0,Surgery
+238,Speech therapy per session of 30-40 minutes,131.0,151.0,131.0,Surgery
+239,Cold Calorie Test for Vestibular function,172.0,198.0,172.0,Test
+240,Removal of foreign body From Nose,345.0,397.0,345.0,Surgery
+241,Removal of foreign body From Ear,230.0,265.0,230.0,Surgery
+242,Syringing (Ear),166.0,191.0,166.0,Surgery
+243,Polyp removal under LA,575.0,661.0,575.0,Surgery
+244,Polyp removal under GA,850.0,978.0,850.0,Surgery
+245,Peritonsillar abscess Drainage under LA,1449.0,1666.0,1449.0,Surgery
+246,Myringoplasty,6900.0,7935.0,6900.0,Surgery
+247,Staepedectomy,9200.0,10580.0,9200.0,Surgery
+248,Myringotomy with Grommet insertion,4600.0,5290.0,4600.0,Surgery
+249,Tympanotomy,8625.0,9919.0,8625.0,Surgery
+250,Tympanoplasty,13800.0,15870.0,13800.0,Surgery
+251,Mastoidectomy,14950.0,17193.0,14950.0,Surgery
+252,Otoplasty,16100.0,18515.0,16100.0,Surgery
+253,Labyrinthectomy,13800.0,15870.0,13800.0,Surgery
+254,Skull Base surgery,25000.0,28750.0,25000.0,Surgery
+255,Facial Nerve Decompression,17250.0,19838.0,17250.0,Surgery
+256,Septoplasty,5750.0,6613.0,5750.0,Surgery
+257,Submucous Resection,7314.0,8411.0,7314.0,Surgery
+258,Septo-rhinoplasty,16100.0,18515.0,16100.0,Surgery
+259,Rhinoplasty- Non-cosmetic,11500.0,13225.0,11500.0,Surgery
+260,Fracture Reduction of Nasal Bone,4250.0,4888.0,4250.0,Surgery
+261,Intra nasal Diathermy,1150.0,1323.0,1150.0,Surgery
+262,Turbinectomy,5750.0,6613.0,5750.0,Surgery
+263,Endoscopic Dacryocystorhinostomy (DCR),13000.0,14950.0,13000.0,Surgery
+264,Endoscopic Surgery ENT,13800.0,15870.0,13800.0,Surgery
+265,Septal Perforation Repair,13800.0,15870.0,13800.0,Surgery
+266,Antrum Puncture,950.0,1093.0,950.0,Surgery
+267,Lateral Rhinotomy,1000.0,1150.0,1000.0,Surgery
+268,Cranio-facial resection,25500.0,29325.0,25500.0,Surgery
+269,Caldwell Luc Surgery (Radical Antrostomy for maxillary sinus),10626.0,12220.0,10626.0,Surgery
+270,Angiofibroma Excision,17000.0,19550.0,17000.0,Surgery
+271,Endoscopic Hypophysectomy,21500.0,24725.0,21500.0,Surgery
+272,Endoscopic Optic Nerve Decompression,32775.0,37691.0,32775.0,Surgery
+273,Decompression of Orbit,25500.0,29325.0,25500.0,Surgery
+274,Punch/Wedge biopsy,674.0,775.0,674.0,Surgery
+275,Tonsillectomy,5000.0,5750.0,5000.0,Surgery
+276,Uvulo-palatoplasty,15000.0,17250.0,15000.0,Surgery
+277,Functional Endoscopic Sinus Surgery (FESS) for Antrochoanal polyp,5750.0,6613.0,5750.0,Surgery
+278,Functional Endoscopic Sinus Surgery (FESS) for ethmoidal polyp,5750.0,6613.0,5750.0,Surgery
+279,Polyp removal ear,748.0,860.0,748.0,Surgery
+280,Polyp removal Nose(Septal polyp),748.0,860.0,748.0,Surgery
+281,"Mastoidectomy plus Ossiculoplasty including TORP (Total Ossicular Replacement Prosthesis) or PORP (Partial Ossicular Replacement Prosthesis)""",2415.0,2777.0,2415.0,Surgery
+282,Endolymphatic sac decompression,2875.0,3306.0,2875.0,Surgery
+283,Diagnostic endoscopy under GA,2300.0,2645.0,2300.0,Scan
+284,Young's operation for Atrophic rhinitis,6900.0,7935.0,6900.0,Surgery
+285,Vidian neurectomy for vasomotor Rhinitis,10350.0,11903.0,10350.0,Surgery
+286,Nasal Packing-anterior,345.0,397.0,345.0,Surgery
+287,Nasal Packing-posterior,805.0,926.0,805.0,Surgery
+288,Ranula Excision,6843.0,7869.0,6843.0,Surgery
+289,Tongue Tie excision,1500.0,1725.0,1500.0,Surgery
+290,Sub Mandibular Duct Lithotomy,269.0,309.0,269.0,Scan
+291,Adenoidectomy,5640.0,6486.0,5640.0,Surgery
+292,Palatopharyngoplasty,8165.0,9390.0,8165.0,Surgery
+293,Pharyngoplasty,17193.0,19772.0,17193.0,Surgery
+294,Styloidectomy,9200.0,10580.0,9200.0,Surgery
+295,Direct laryngoscopy including Biopsy under GA,5000.0,5750.0,5000.0,Scan
+296,Oesophagoscopy with foreign body removal from Oesophagus,1800.0,2070.0,1800.0,Scan
+297,Bronchoscopy with foreign body (FB) removal,2438.0,2804.0,2438.0,Scan
+298,Other Major Surgery-ENT,15000.0,17250.0,15000.0,Surgery
+299,Other Minor Surgery-ENT,8500.0,9775.0,8500.0,Surgery
+300,Ear Lobe Repair one side,500.0,575.0,500.0,Surgery
+301,Excision of Pinna for Growth (Squamous/Basal/ Injuries) Skin Only,4000.0,4600.0,4000.0,Surgery
+302,Excision of Pinna for Growth (Squamous/Basal/ Injuries) Skin and Cartilage,3800.0,4370.0,3800.0,Surgery
+303,Partial Amputation of Pinna,4500.0,5175.0,4500.0,Surgery
+304,Total Amputation of Pinna,6200.0,7130.0,6200.0,Surgery
+305,Total Amputation & Excision of External Auditory Meatus,1500.0,1725.0,1500.0,Surgery
+306,Excision of Cystic Hygroma,5175.0,5951.0,5175.0,Surgery
+307,Excision of Cystic Hygroma Extensive,7452.0,8570.0,7452.0,Surgery
+308,Excision of Branchial Cyst,10350.0,11903.0,10350.0,Surgery
+309,Excision of Branchial Sinus,10350.0,11903.0,10350.0,Surgery
+310,Excision of Pharyngeal Diverticulum,10580.0,12167.0,10580.0,Surgery
+311,Excision of Carotid Body-Tumours,11615.0,13357.0,11615.0,Surgery
+312,Operation for Cervical Rib,12500.0,14375.0,12500.0,Surgery
+313,Block Dissection of Cervical Lymph Nodes,15000.0,17250.0,15000.0,Surgery
+314,Pharyngectomy & Reconstruction,15000.0,17250.0,15000.0,Surgery
+315,Operation for Carcinoma Lip - Wedge-Excision,8050.0,9258.0,8050.0,Surgery
+316,Operation for Carcinoma Lip - Vermilionectomy,5758.0,6622.0,5758.0,Surgery
+317,Operation for Carcinoma Lip - Wedge Excision and Vermilionectomy,9292.0,10686.0,9292.0,Surgery
+318,Estlander Operation (Estlander flap in plastic surgey of lips),7475.0,8596.0,7475.0,Surgery
+319,Abbe Operation (Abbe flap in plastic surgery of lips),9800.0,11270.0,9800.0,Surgery
+320,Cheek Advancement,9775.0,11241.0,9775.0,Surgery
+321,Excision of the Maxilla,19320.0,22218.0,19320.0,Surgery
+322,Excision of mandible-segmental,15525.0,17854.0,15525.0,Surgery
+323,Mandibulectomy,21000.0,24150.0,21000.0,Surgery
+324,Partial Glossectomy,5520.0,6348.0,5520.0,Surgery
+325,Hemiglossectomy,7000.0,8050.0,7000.0,Surgery
+326,Total Glossectomy,22885.0,26318.0,22885.0,Surgery
+327,Combined Mandibulectomy and Neck Dissection Operation (Commando Operation),22000.0,25300.0,22000.0,Surgery
+328,Parotidectomy - Superficial,12075.0,13886.0,12075.0,Surgery
+329,Parotidectomy - Total,15000.0,17250.0,15000.0,Surgery
+330,Parotidectomy - Radical,19550.0,22483.0,19550.0,Surgery
+331,Repair of Parotid Duct,11500.0,13225.0,11500.0,Surgery
+332,Removal of Submandibular Salivary gland,8625.0,9919.0,8625.0,Surgery
+333,Hemithyroidectomy,9500.0,10925.0,9500.0,Surgery
+334,Partial Thyroidectomy (lobectomy),11500.0,13225.0,11500.0,Surgery
+335,Subtotal Thyroidectomy,13053.0,15011.0,13053.0,Surgery
+336,Total Thyroidectomy,19000.0,21850.0,19000.0,Surgery
+337,Resection Enucleation of thyroid Adenoma,10580.0,12167.0,10580.0,Surgery
+338,Total Thyroidectomy and Block Dissection,26450.0,30418.0,26450.0,Surgery
+339,Excision of Lingual Thyroid,16882.0,19414.0,16882.0,Surgery
+340,Excision of Thyroglossal Cyst/Fistula,13225.0,15209.0,13225.0,Surgery
+341,Excision of Parathyroid Adenoma/Carcinoma,21275.0,24466.0,21275.0,Surgery
+342,Laryngectomy,17825.0,20499.0,17825.0,Surgery
+343,Laryngo Pharyngectomy,30000.0,34500.0,30000.0,Surgery
+344,Hyoid Suspension,10350.0,11903.0,10350.0,Surgery
+345,Genioplasty,12000.0,13800.0,12000.0,Surgery
+346,Direct Laryngoscopy including biopsy under GA,5175.0,5951.0,5175.0,Scan
+347,Phonosurgery,13800.0,15870.0,13800.0,Surgery
+348,Fibreoptic examination of Larynx (FOL) under LA,1725.0,1984.0,1725.0,Surgery
+349,Microlaryngeal Surgery,10350.0,11903.0,10350.0,Surgery
+350,Laryngofissure,17250.0,19838.0,17250.0,Surgery
+351,Tracheal Stenosis Excision,19780.0,22747.0,19780.0,Surgery
+352,Excisional Biopsies,5750.0,6613.0,5750.0,Surgery
+353,Benign Tumour Excisions,9500.0,10925.0,9500.0,Surgery
+354,Temporal Bone subtotal resection,20700.0,23805.0,20700.0,Surgery
+355,Modified Radical Neck Dissection,25300.0,29095.0,25300.0,Surgery
+356,Carotid Body Excision,26000.0,29900.0,26000.0,Surgery
+357,Total Laryngectomy,39192.0,45071.0,39192.0,Surgery
+358,Flap Reconstructive Surgery,41400.0,47610.0,41400.0,Surgery
+359,Parapharyngeal Tumour Excision,39330.0,45230.0,39330.0,Surgery
+360,Other Major Surgery-Head and Neck Cancer,21250.0,24438.0,21250.0,Surgery
+361,Other Minor Surgery-Head and Neck Cancer,5000.0,5750.0,5000.0,Surgery
+362,Drainage of abscess,6000.0,6900.0,6000.0,Surgery
+363,Excision of lumps,6969.0,8014.0,6969.0,Surgery
+364,Local mastectomy-simple,12650.0,14548.0,12650.0,Surgery
+365,Radical mastectomy-formal or modified.,28750.0,33063.0,28750.0,Surgery
+366,Excision of mammary fistula,15525.0,17854.0,15525.0,Surgery
+367,Segmental resection of breast,16100.0,18515.0,16100.0,Surgery
+368,Other Major Surgery-Breast,25000.0,28750.0,25000.0,Surgery
+369,Other Minor Surgery-Breast,5000.0,5750.0,5000.0,Surgery
+370,Injury Of Superficial Soft Tissues,425.0,489.0,425.0,Surgery
+371,Suturing of small wounds,1060.0,1250.0,1060.0,Surgery
+372,Secondary suture of wounds,3400.0,4000.0,3400.0,Surgery
+373,Debridement of wounds,1275.0,1500.0,1275.0,Surgery
+374,Removal Of Foreign Bodies - without C-ARM,1275.0,1500.0,1275.0,Surgery
+375,Excision of Cervical Lymph Node under LA,2635.0,3100.0,2635.0,Surgery
+376,Excision of Axillary Lymph Node under GI Anaesthesia,6715.0,7900.0,6715.0,Surgery
+377,Excision of Inguinal Lymph Node under LA,2550.0,3000.0,2550.0,Surgery
+378,Excision Biopsy of Ulcers,1470.0,1691.0,1470.0,Surgery
+379,Excision Biopsy of Superficial Lumps,3220.0,3703.0,3220.0,Surgery
+380,Incision Biopsy of Growths/Ulcers,1470.0,1691.0,1470.0,Surgery
+381,Trucut Needle Biopsy (including Needle),2975.0,3500.0,2975.0,Surgery
+382,Percutaneous Kidney Biopsy,1470.0,1691.0,1470.0,Surgery
+383,Marrow Biopsy (Open),1060.0,1219.0,1060.0,Surgery
+385,Scalene Node Biopsy,1350.0,1553.0,1350.0,Surgery
+386,Excision of Sebaceous Cysts,1242.0,1428.0,1242.0,Surgery
+387,Excision of Superficial Lipoma,1932.0,2222.0,1932.0,Surgery
+388,Excision of Superficial Neurofibroma,2500.0,2875.0,2500.0,Surgery
+389,Excision of Dermoid Cysts,2277.0,2619.0,2277.0,Surgery
+390,Haemorrhoidectomy,25500.0,30000.0,25500.0,Surgery
+391,Stappler haemorrhoidectomy,37145.0,43700.0,37145.0,Surgery
+392,keloid excision,1150.0,1323.0,1150.0,Surgery
+393,Varicose vein surgery-Trendelenburg operation with suturing or ligation,19550.0,23000.0,19550.0,Surgery
+394,Atresia of Oesophagus and Tracheo Oesophageal Fistula,28750.0,33063.0,28750.0,Surgery
+395,Operations for Replacement of Oesophagus by Colon,25000.0,28750.0,25000.0,Surgery
+396,Oesophagectomy for Carcinoma Easophagus,25000.0,28750.0,25000.0,Surgery
+397,Oesophageal Intubation (Mausseau Barbin Tube),11500.0,13225.0,11500.0,Surgery
+398,Achalasia Cardia Transthoracic,14950.0,17193.0,14950.0,Surgery
+399,Achalasia Cardia Abdominal,12650.0,14548.0,12650.0,Surgery
+400,Oesophago Gastrectomy for mid 1/3 lesion,24495.0,28169.0,24495.0,Surgery
+401,Heller’s Operation,19750.0,22713.0,19750.0,Surgery
+402,Colon-Inter position or Replacement of Oesophagus,22540.0,25921.0,22540.0,Surgery
+403,Oesophago Gastrectomy – Lower Corringers procedure,21390.0,24599.0,21390.0,Surgery
+404,Other Major Surgery-Oesophagus,27625.0,31769.0,27625.0,Surgery
+405,Other Minor Surgery-Oesophagus,5000.0,5750.0,5000.0,Surgery
+406,Gastroscopy,1725.0,1984.0,1725.0,Scan
+407,Gastric & Duodenal Biopsy (Endoscopic),1950.0,2243.0,1950.0,Surgery
+408,Pyloromyotomy,2800.0,3220.0,2800.0,Surgery
+409,Gastrostomy,8625.0,9919.0,8625.0,Surgery
+410,Simple Closure of Perforated peptic Ulcer,9775.0,11241.0,9775.0,Surgery
+411,Vagotomy Pyleroplasty / Gastro Jejunostomy,13800.0,15870.0,13800.0,Surgery
+412,Duodenojejunostomy,18950.0,21793.0,18950.0,Surgery
+413,Partial/Subtotal Gastrectomy for Carcinoma,23000.0,26450.0,23000.0,Surgery
+414,Partial/Subtotal Gastrectomy for Ulcer,22425.0,25789.0,22425.0,Surgery
+415,Operation for Bleeding Peptic Ulcer,20976.0,24122.0,20976.0,Surgery
+416,Operation for Gastrojejunal Ulcer,19780.0,22747.0,19780.0,Surgery
+417,Total Gastrectomy for Cancer,22368.0,25723.0,22368.0,Surgery
+418,Highly Selective Vagotomy,18630.0,21425.0,18630.0,Surgery
+419,Selective Vagotomy & Drainage,18630.0,21425.0,18630.0,Surgery
+420,Congenital Diaphragmatic Hernia,34000.0,40000.0,34000.0,Surgery
+421,Hiatus Hernia Repair- Abdominal,28050.0,33000.0,28050.0,Surgery
+422,Hiatus Hernia Repair- Transthoracic,28050.0,33000.0,28050.0,Surgery
+423,Exploratory Laparotomy (open),21250.0,25000.0,21250.0,Surgery
+424,Epigastric Hernia Repair,21250.0,25000.0,21250.0,Surgery
+425,Umbilical Hernia Repair,11385.0,13093.0,11385.0,Surgery
+426,Ventral /incisional Hernia Repair,10293.0,11837.0,10293.0,Surgery
+427,Inguinal Hernia Herniorrhaphy,22100.0,26000.0,22100.0,Surgery
+428,Inguinal Hernia - Hernioplasty,27200.0,32000.0,27200.0,Surgery
+429,Femoral Hernia Repair,27200.0,32000.0,27200.0,Surgery
+430,"Rare Hernias Repair (Spigalion, Obturator, Lumbar, Sciatic)",18975.0,21821.0,18975.0,Surgery
+431,Splenectomy - For Trauma,18975.0,21821.0,18975.0,Surgery
+432,Splenectomy - For Hypersplenism,14490.0,16664.0,14490.0,Surgery
+433,Splenorenal Anastomosis,23000.0,26450.0,23000.0,Surgery
+434,Portocaval Anastomosis,28750.0,33063.0,28750.0,Surgery
+435,Direct Operation on Oesophagus for Portal Hypertension,22885.0,26318.0,22885.0,Scan
+436,Mesentericocaval Anastomosis,25450.0,29268.0,25450.0,Surgery
+437,Warren Shunt (Distal Splenorenal Shunt),28750.0,33063.0,28750.0,Surgery
+438,Pancreatico Duodenectomy (Whipple's procedure),21735.0,24995.0,21735.0,Surgery
+439,By Pass Procedure for Inoperable Carcinoma of Pancreas,23000.0,26450.0,23000.0,Surgery
+440,Cystojejunostomy or Cystogastrostomy,14490.0,16664.0,14490.0,Surgery
+441,Cholecystectomy,20400.0,24000.0,20400.0,Surgery
+442,Cholecystectomy & Exploration of CBD,28050.0,33000.0,28050.0,Surgery
+443,Repair of Common Bile Duct (CBD),13600.0,15640.0,13600.0,Scan
+444,Operation for Hydatid Cyst of Liver,22950.0,27000.0,22950.0,Surgery
+445,Cholecystostomy,10292.0,11836.0,10292.0,Surgery
+446,Hepatic Resections (Lobectomy /Hepatectomy),28050.0,33000.0,28050.0,Surgery
+447,Operation on Adrenal Glands - Bilateral,26105.0,30021.0,26105.0,Surgery
+448,Operation on Adrenal Glands - Unilateral,13800.0,15870.0,13800.0,Surgery
+449,Appendicectomy,16150.0,19000.0,16150.0,Surgery
+450,Appendicular Abscess – Drainage,9775.0,11241.0,9775.0,Surgery
+451,Mesenteric Cyst- Excision,11040.0,12696.0,11040.0,Surgery
+452,Peritonioscopy/Laparoscopy,4600.0,5290.0,4600.0,Surgery
+453,Jejunostomy,5750.0,6613.0,5750.0,Surgery
+454,Ileostomy,15410.0,17722.0,15410.0,Surgery
+455,Resection & Anastomosis of Small Intestine including exploratory Laparotomy,40375.0,47500.0,40375.0,Test
+456,Duodenal Diverticulum,18400.0,21160.0,18400.0,Surgery
+457,Operation for Intestinal Obstruction,10350.0,11903.0,10350.0,Test
+458,Operation for Intestinal perforation,38000.0,43700.0,38000.0,Test
+459,Benign Tumours of Small Intestine,19550.0,22483.0,19550.0,Test
+460,Excision of Small Intestine Fistula,38250.0,45000.0,38250.0,Test
+461,Operations for GI Bleed,16000.0,18400.0,16000.0,Surgery
+462,Operations for Haemorrhage of Small Intestines,19550.0,22483.0,19550.0,Test
+463,Operations of the Duplication of the Intestines --- including exploratory Laparotomy,34850.0,41000.0,34850.0,Test
+464,Operations for Recurrent Intestinal Obstruction (Noble Plication & Other Operations for Adhesions),23000.0,26450.0,23000.0,Test
+465,Ileosigmoidostomy and related resection,16790.0,19309.0,16790.0,Surgery
+466,Ileotransverse Colostomy and related resection,16790.0,19309.0,16790.0,Surgery
+467,Caecostomy,3903.0,4488.0,3903.0,Surgery
+468,Loop Colostomy Transverse Sigmoid,13110.0,15077.0,13110.0,Surgery
+469,Terminal Colostomy,25500.0,30000.0,25500.0,Surgery
+470,Closure of Colostomy,25500.0,30000.0,25500.0,Surgery
+471,Right Hemi-colectomy,27200.0,32000.0,27200.0,Surgery
+472,Left Hemi-colectomy,27200.0,32000.0,27200.0,Surgery
+473,Total Colectomy,34000.0,40000.0,34000.0,Surgery
+474,Operations for Volvulus of Large Bowel,24920.0,28658.0,24920.0,Surgery
+475,Operations for Sigmoid Diverticulitis,18630.0,21425.0,18630.0,Surgery
+476,Fissure in Ano with Internal sphinctrectomy with fissurectomy.,27200.0,32000.0,27200.0,Surgery
+477,Fissure in Ano - Fissurectomy,24650.0,29000.0,24650.0,Surgery
+478,Rectal Polyp-Excision,11645.0,13700.0,11645.0,Surgery
+479,Fistula in Ano - High Fistulectomy,29750.0,35000.0,29750.0,Surgery
+480,Fistula in Ano - Low Fistulectomy,19550.0,23000.0,19550.0,Surgery
+481,Prolapse Rectum - Thiersch Wiring,10350.0,11903.0,10350.0,Surgery
+482,Prolapse Rectum - Rectopexy,11900.0,14000.0,11900.0,Surgery
+484,Operations for Hirschsprungs Disease,14260.0,16399.0,14260.0,Surgery
+485,Excision of Pilonidal Sinus (open),18700.0,22000.0,18700.0,Surgery
+486,Excision of Pilonidal Sinus with closure,21250.0,25000.0,21250.0,Surgery
+487,Abdomino-Perineal Excision of Rectum,18300.0,21045.0,18300.0,Surgery
+488,Anterior Resection of rectum,21850.0,25128.0,21850.0,Surgery
+489,Pull Through Abdominal Resection,17170.0,19746.0,17170.0,Surgery
+490,Retro Peritoneal Tumor Removal,18000.0,20700.0,18000.0,Surgery
+491,Radio ablation of varicose veins (RFA Ablation),7225.0,8500.0,7225.0,Surgery
+492,Laser ablation of varicose veins,34000.0,40000.0,34000.0,Surgery
+493,Laparoscopic Fundoplication,19300.0,22195.0,19300.0,Surgery
+494,Laparoscopic Splenectomy,25000.0,28750.0,25000.0,Surgery
+495,Laparoscopic Removal of hydatid cyst,18000.0,20700.0,18000.0,Surgery
+496,Laparoscopic treatment of Pseudo Pancreatic cyst,18000.0,20700.0,18000.0,Surgery
+497,Laparoscopic Whipple's operation (Laparoscopic Pancreatico Duodenectomy,20000.0,23000.0,20000.0,Surgery
+498,Laparoscopic GI bypass operation,22000.0,25300.0,22000.0,Surgery
+499,Laparoscopic Total Colectomy,25000.0,28750.0,25000.0,Surgery
+500,Laparoscopic Hemicolectomy,23000.0,26450.0,23000.0,Surgery
+501,Laparoscopic Anterior Resection (of Intestine/ Rectum),23000.0,26450.0,23000.0,Test
+502,Laparoscopic Cholecystetomy,28050.0,33000.0,28050.0,Surgery
+503,Laparoscopic Appedicectomy,25500.0,30000.0,25500.0,Surgery
+504,Laparoscopic Hernia inguinoplasty (including Tacker and Mesh),29750.0,35000.0,29750.0,Surgery
+505,Laparoscopic ventral Hernia Repair,17500.0,20125.0,17500.0,Surgery
+506,Laparoscopic Paraumblical Hernia Repair,17500.0,20125.0,17500.0,Surgery
+507,Laparoscopic Adrenelectomy,12000.0,13800.0,12000.0,Surgery
+508,Laparoscopic Nephrectomy,22000.0,25300.0,22000.0,Surgery
+511,Coronary Care with Cardiac Monitoring (Room Rent extra),750.0,863.0,750.0,Test
+512,Compressed air / piped oxygen /per hour,50.0,58.0,50.0,Surgery
+513,Ventilator charges (Per day),531.0,611.0,531.0,Surgery
+514,Paediatric care for New born (Per day),186.0,214.0,186.0,Surgery
+515,Incubator charges (Per day),345.0,397.0,345.0,Surgery
+516,Neonatal ICU charges (Per day),391.0,450.0,391.0,Surgery
+517,Resuscitation,184.0,212.0,184.0,Surgery
+518,Exchange Transfusion,265.0,305.0,265.0,Surgery
+519,Pneupack ventilator in Nursery (Per day),575.0,661.0,575.0,Surgery
+520,Atrial Septal Defect(ASD) closure,84065.0,98900.0,84065.0,Surgery
+521,Ventricular septal defect (VSD) closure,93415.0,109900.0,93415.0,Scan
+522,TOF/TAPVC/TCPC/REV/RSOV repair,127075.0,146136.0,127075.0,Surgery
+523,BD Glenn/Left atrium myxoma,80750.0,92863.0,80750.0,Surgery
+524,Senning/Arterial Switch Operation (ASO) with graft,122188.0,140516.0,122188.0,Surgery
+525,Double Switch Operation (DSO),103615.0,119157.0,103615.0,Surgery
+526,Atrioventricular(AV) canal repair,161000.0,185150.0,161000.0,Surgery
+527,Fontan procedure,169000.0,194350.0,169000.0,Surgery
+528,Conduit repair,169000.0,194350.0,169000.0,Surgery
+529,Coronary Artery Bypass Graft surgery (CABG),127075.0,146136.0,127075.0,Surgery
+530,CABG + Intra-Aortic Balloon Pump (IABP),169000.0,194350.0,169000.0,Surgery
+531,CABG + Valve.,169000.0,194350.0,169000.0,Surgery
+532,CABG without bypass.,140000.0,161000.0,140000.0,Surgery
+533,Ascending aorta replacement,130000.0,149500.0,130000.0,Surgery
+534,Double Valve Replacement (DVR),155422.0,178735.0,155422.0,Surgery
+535,Mitral valve Replacement(MVR)/ Aortic valve Replacement(AVR),103615.0,119157.0,103615.0,Surgery
+536,Mitral Valve repair + Aortic Valve repair,103615.0,119157.0,103615.0,Surgery
+537,Aorta femoral bypass,52000.0,59800.0,52000.0,Surgery
+538,Blalock-Taussig shunt (BT Shunt) / Coarctation,51980.0,59777.0,51980.0,Surgery
+539,Pulmonary Artery Banding (PA Banding) Septostomy,51980.0,59777.0,51980.0,Surgery
+540,Pericardectomy,42320.0,48668.0,42320.0,Surgery
+541,"Patent ductus arteriosus (PDA), device closure",46750.0,55000.0,46750.0,Surgery
+542,Gunshot injury,51980.0,59777.0,51980.0,Surgery
+543,Heart transplant,276000.0,317400.0,276000.0,Surgery
+544,Balloon coronary angioplasty/Percutaneous transluminal coronary angioplasty (PTCA) / Percutaneous coronary intervention (PCI) with Vascular closure device (VCD),78200.0,92000.0,78200.0,Surgery
+545,Balloon coronary angioplasty/Percutaneous transluminal coronary angioplasty (PTCA) / Percutaneous coronary intervention (PCI) without Vascular closure device (VCD),71150.0,83725.0,71150.0,Surgery
+546,Rotablation,47775.0,56206.0,47775.0,Surgery
+547,Balloon Mitral Valvotomy / Percutaneous transvenous mitral commissurotomy (PTMC),77000.0,90700.0,77000.0,Surgery
+548,Cardiac Catheterization (CATH),11510.0,13545.0,11510.0,Test
+549,Aortic Arch Replacement,10350.0,11903.0,10350.0,Surgery
+550,Aortic Dissection,12650.0,14548.0,12650.0,Surgery
+551,Thoraco Abdominal Aneurism Repair,15000.0,17250.0,15000.0,Surgery
+552,Embolectomy,21000.0,24150.0,21000.0,Surgery
+553,Vascular Repair,36000.0,41400.0,36000.0,Surgery
+554,Bentall Repair with Prosthetic Valve,30000.0,34500.0,30000.0,Surgery
+555,Bentall Repair with Biologic Valve,127500.0,146625.0,127500.0,Surgery
+556,Coaractation dilatation/ Balloon dilatation of Aortic coarctation - including cost of Balloon,60860.0,71600.0,60860.0,Surgery
+557,Coaractation dilatation with Stenting,18500.0,21275.0,18500.0,Surgery
+558,Temporary Pacemaker implantation (TPI) (Temporary Cardiac Pacing) Singlecardiac pacing (TPI) Single Chamber,16320.0,19200.0,16320.0,Surgery
+559,Temporary cardiac pacing (TPI) Dual Chamber,8160.0,9384.0,8160.0,Surgery
+560,Permanent pacemaker implantation (PPI)- Single Chamber,27200.0,32000.0,27200.0,Surgery
+561,Permanent pacemaker implantation- Dual Chamber,36550.0,43000.0,36550.0,Surgery
+562,Permanent pacemaker implantation (PPI)-Biventricular,42180.0,49625.0,42180.0,Surgery
+563,Automatic implantable cardioverter defibrillator (AICD) Single Chamber,42500.0,50000.0,42500.0,Surgery
+564,Automatic implantable cardioverter defibrillator (AICD) Dual Chamber,44500.0,52350.0,44500.0,Surgery
+565,Combo device implantation,50150.0,59000.0,50150.0,Surgery
+566,Diagnostic Electrophysiological studies conventional (including catheter),56100.0,66000.0,56100.0,Surgery
+567,Ambulatory BP monitoring,1000.0,1000.0,1000.0,Test
+568,External Loop/event recording (Maximum up to 7 days),1500.0,1500.0,1500.0,Surgery
+569,Radiofrequency (RF) ablation conventional,81600.0,96000.0,81600.0,Surgery
+570,Radiofrequency (RF) ablation Atrial Tachycardia/ with 3-D mapping-All inclusive,153850.0,181000.0,153850.0,Surgery
+572,Intra-aortic balloon pump (IABP) - including Cost of Balloon,42500.0,50000.0,42500.0,Surgery
+573,Intra vascular coils,63750.0,75000.0,63750.0,Surgery
+574,Septostomy- Balloon,25500.0,30000.0,25500.0,Surgery
+575,Septostomy- Blade,19550.0,22483.0,19550.0,Surgery
+576,Aortic valve balloon dilatation (AVBD) / pulmonary valve balloon dilatation (PVBD),47940.0,56400.0,47940.0,Surgery
+577,Digital subtraction angiography-Peripheral artery,12400.0,14610.0,12400.0,Scan
+578,Digital subtraction angiography- venogram,12400.0,14610.0,12400.0,Scan
+579,CT Guided biopsy,1265.0,1455.0,1265.0,Scan
+580,Sinogram,863.0,992.0,863.0,Surgery
+581,Peripheral Angioplasty with VCD,46750.0,55500.0,46750.0,Surgery
+582,Peripheral Angioplasty without VCD,11500.0,13225.0,11500.0,Surgery
+583,Renal Angioplasty,46750.0,55000.0,46750.0,Surgery
+584,Intravascular ultrasound (IVUS),50000.0,50000.0,50000.0,Scan
+585,Fractional flow reserve (FFR) - inclusive of cost of wire,30000.0,30000.0,30000.0,Surgery
+586,Holter analysis,2125.0,2500.0,2125.0,Scan
+587,Aortic stent grafting for aortic aneurysm,78500.0,90275.0,78500.0,Surgery
+588,Inferior Vena Cava (IVC) filter implantation (Cost of Filter extra),25500.0,30000.0,25500.0,Surgery
+590,ECG,150.0,175.0,150.0,Scan
+591,Head--up tilt test (HUTT),3400.0,4000.0,3400.0,Scan
+592,Echo,1255.0,1475.0,1255.0,Scan
+593,3D echocardiography,1403.0,1613.0,1403.0,Scan
+594,Fetal Echo,1360.0,1600.0,1360.0,Scan
+595,2D Transesophageal Echocardiography (TEE),1403.0,1613.0,1403.0,Scan
+596,3D Transesophageal Echocardiography (TEE),1403.0,1613.0,1403.0,Scan
+597,Stress Echo,2040.0,2400.0,2040.0,Scan
+598,D-Stress Echo,2550.0,3000.0,2550.0,Scan
+599,Stress Myocardial Perfusion Imaging (MPI)- exercise,7650.0,9000.0,7650.0,Surgery
+600,Stress Myocardial Perfusion Imaging (MPI) - pharmacological,7650.0,9000.0,7650.0,Surgery
+601,Coronary angiography,11240.0,13225.0,11240.0,Scan
+602,CT coronary angiography,6030.0,6935.0,6030.0,Scan
+603,Cardiac CT scan,2272.0,2613.0,2272.0,Scan
+604,MRI Cardiac,6800.0,8000.0,6800.0,Scan
+605,Stress Cardiac MRI,3000.0,3450.0,3000.0,Scan
+606,MR angiography.,5635.0,6480.0,5635.0,Scan
+607,Cardiac PET,1500.0,1725.0,1500.0,Scan
+608,Pericardiocentesis,8500.0,10000.0,8500.0,Surgery
+609,Other Major Surgery-Cardiovascular and Cardiac Surgery & Investigations,20000.0,23000.0,20000.0,Surgery
+610,Other Minor Surgery-Cardiovascular and Cardiac Surgery & Investigations,4250.0,4888.0,4250.0,Surgery
+611,Normal delivery with or without Episiotomy & P. repair,8000.0,9200.0,8000.0,Surgery
+612,vacuum delivery,8625.0,9919.0,8625.0,Surgery
+613,Forceps Delivery,9200.0,10580.0,9200.0,Surgery
+614,Cesarean Section(CS),14050.0,16158.0,14050.0,Surgery
+615,Cesarean Hysterectomy,18975.0,21821.0,18975.0,Surgery
+616,Rupture Uterus closure & repair with Tubal Ligation,17250.0,19838.0,17250.0,Surgery
+617,Perforation of Uterus after D/E Laparotomy & Closure,13800.0,15870.0,13800.0,Surgery
+618,Laparotomy for Ectopic pregnancy,13800.0,15870.0,13800.0,Surgery
+619,Laparotomy-peritonitis Lavage and Drainage,11500.0,13225.0,11500.0,Surgery
+620,Salphingo-Oophorectomy/ Oophorectomy Laparoscopic,10000.0,11500.0,10000.0,Surgery
+621,Ovarian Cystectomy-laparoscopic.,10350.0,11903.0,10350.0,Surgery
+622,Ovarian Cystectomy -laparotomy.,13800.0,15870.0,13800.0,Surgery
+623,Salpingo-Oophorectomy-laparotomy,11520.0,13248.0,11520.0,Surgery
+624,Laparoscopic Broad Ligament Hematoma Drainage with repair,6900.0,7935.0,6900.0,Surgery
+625,Exploration of perineal Haematoma & Repair,8000.0,9200.0,8000.0,Surgery
+626,Exploration of abdominal Haematoma (after laparotomy + LSCS),8050.0,9258.0,8050.0,Surgery
+627,Manual Removal of Placenta,3450.0,3968.0,3450.0,Surgery
+628,Examination under anesthesia (EUA),1000.0,1150.0,1000.0,Surgery
+629,Burst-abdomen Repair,10000.0,11500.0,10000.0,Surgery
+630,Gaping Perineal Wound Secondary Suturing,1656.0,1904.0,1656.0,Surgery
+631,Gaping abdominal wound Secondary Suturing,3450.0,3968.0,3450.0,Surgery
+632,Complete perineal tear-repair,2128.0,2447.0,2128.0,Surgery
+633,Exploration of PPH-tear repair,3500.0,4025.0,3500.0,Surgery
+634,Suction evacuation vesicular mole,5000.0,5750.0,5000.0,Surgery
+635,Suction evacuation Missed abortion/ incomplete abortion,5175.0,5951.0,5175.0,Surgery
+636,Colpotomy,3450.0,3968.0,3450.0,Surgery
+637,Repair of post-coital tear/ perineal injury,3508.0,4034.0,3508.0,Surgery
+638,Excision of urethral caruncle,3450.0,3968.0,3450.0,Surgery
+639,Shirodhkar/ McDonald stitch,3220.0,3703.0,3220.0,Surgery
+640,Abdominal Hysterectomy with or without salpingo- oophorectomy,17250.0,19838.0,17250.0,Surgery
+641,Non-descent Vaginal Hysterectomy (NDVH),17250.0,19838.0,17250.0,Surgery
+642,Vaginal Hysterectomy with repairs (UV Prolapse),17250.0,19838.0,17250.0,Surgery
+643,Myomectomy -laparotomy,14000.0,16100.0,14000.0,Surgery
+644,Myomectomy -laparoscopic,6325.0,7274.0,6325.0,Surgery
+645,Vaginoplasty,14950.0,17193.0,14950.0,Surgery
+646,Vulvectomy -Simple,9200.0,10580.0,9200.0,Surgery
+647,Vulvectomy-Radical,9200.0,10580.0,9200.0,Surgery
+648,Rectovaginal Fistula (RVF) Repair,18975.0,21821.0,18975.0,Surgery
+649,Manchester Operation,15000.0,17250.0,15000.0,Surgery
+650,Shirodkar’s sling Operation or other sling operations for prolapse uterus,3450.0,3968.0,3450.0,Surgery
+651,Laparoscopic sling operations for prolapse uterus,28000.0,32200.0,28000.0,Surgery
+652,Diagnostic Curettage,2484.0,2857.0,2484.0,Surgery
+653,Cervical Biopsy,1800.0,2070.0,1800.0,Surgery
+654,Polypectomy,1518.0,1746.0,1518.0,Surgery
+655,Other-Minor Operation Endometrial,2300.0,2645.0,2300.0,Surgery
+656,Excision Vaginal Cyst/Bartholin Cyst,3450.0,3968.0,3450.0,Surgery
+657,Excision Vaginal Septum,4600.0,5290.0,4600.0,Surgery
+658,Laparoscopy -Diagnostic with chromopertubation and or adhesiolysis and drilling,4025.0,4629.0,4025.0,Scan
+659,Laparoscopy Sterilization,3450.0,3968.0,3450.0,Surgery
+660,Laparoscopically Assisted Vaginal Hysterectomy (LAVH),25243.0,29029.0,25243.0,Surgery
+661,Balloon Temponade for Post Partum Haemorrhage (PPH),2800.0,3220.0,2800.0,Surgery
+662,Total laparoscopic hysterectomy,25243.0,29029.0,25243.0,Surgery
+663,Laparoscopic treatment of Ectopic pregnancy-salpingectomy/salpingostomy conservative,9775.0,11241.0,9775.0,Surgery
+664,Conisation of cervix,4025.0,4629.0,4025.0,Surgery
+665,Trachelectomy of cervix for early CA cervix,5500.0,6325.0,5500.0,Surgery
+666,Hysteroscopic cannulation,2875.0,3306.0,2875.0,Surgery
+667,Laparotomy recannalization of Fallopian tubes- (Tubuloplasty),22425.0,25789.0,22425.0,Surgery
+668,Laparoscopic recannalization of Fallopian tubes- (Tubuloplasty),19500.0,22425.0,19500.0,Surgery
+669,Colposcopy,958.0,1102.0,958.0,Scan
+670,Inversion of Uterus – Vaginal Reposition,2500.0,2875.0,2500.0,Surgery
+671,Inversion of Uterus – Abdominal Reposition,2500.0,2875.0,2500.0,Surgery
+672,Laparoscopic Vesicovaginal Fistula (VVF) Repair,28000.0,32200.0,28000.0,Surgery
+673,Abdominal Vesicovaginal Fistula (VVF) Repair,28000.0,32200.0,28000.0,Surgery
+674,Vaginal Vesicovaginal Fistula (VVF) Repair,28000.0,32200.0,28000.0,Surgery
+675,Interventional Ultrasonography- Chorionic villus sampling (CVS),880.0,1012.0,880.0,Surgery
+676,Amniocentesis,880.0,1012.0,880.0,Surgery
+677,Karyotyping,800.0,920.0,800.0,Test
+678,Thermal balloon ablation.,11500.0,13225.0,11500.0,Surgery
+679,Ultrasonographic myolysis,10293.0,11837.0,10293.0,Surgery
+680,Vaginal Myomectomy,10000.0,11500.0,10000.0,Surgery
+681,Intra Uterine Inseminition,920.0,1058.0,920.0,Surgery
+682,Intracytoplasmic sperm injection (ICSI),11500.0,13225.0,11500.0,Surgery
+683,Laparotomy abdominal sacro-colpopexy,15000.0,17250.0,15000.0,Surgery
+684,Vaginal Colpopexy,22000.0,25300.0,22000.0,Surgery
+685,Laparoscopic abdominal sacro-colpopexy,20000.0,23000.0,20000.0,Surgery
+686,Laparotomy pelvic Lymphadenectomy,1200.0,1380.0,1200.0,Surgery
+687,Laparoscopic pelvic Lymphadenectomy,3500.0,4025.0,3500.0,Surgery
+688,Endometrial aspiration cytology/biopsy,570.0,656.0,570.0,Surgery
+689,Transvaginal sonography (TVS for Follicular monitioring /aspiration),460.0,529.0,460.0,Scan
+690,laparoscopic treatment for stress incontinence,15000.0,17250.0,15000.0,Surgery
+691,Transvaginal tapes for Stress incontinence,15000.0,17250.0,15000.0,Surgery
+692,trans-obturator tapes for Stress incontinence,12000.0,13800.0,12000.0,Surgery
+693,Interventional radiographic arterial embolization,18000.0,20700.0,18000.0,Surgery
+694,Diagnostic cystoscopy,2875.0,3306.0,2875.0,Scan
+695,Staging laparotomy surgery for Carcinoma Ovary,6325.0,7274.0,6325.0,Surgery
+696,Internal Iliac ligation,3393.0,3902.0,3393.0,Surgery
+697,stepwise devascularisation,9200.0,10580.0,9200.0,Surgery
+698,Assisted breech delivery,10925.0,12564.0,10925.0,Surgery
+699,Intra-uterine fetal blood transfusion,21275.0,24466.0,21275.0,Test
+700,Hysteroscopy Transcervical Resection of Endometrium (TCRE),8500.0,9775.0,8500.0,Scan
+701,Hysteroscopy Removal of Intra-uterine Contraceptive Device (IUCD),7500.0,8625.0,7500.0,Scan
+702,Hysteroscopy Removal of Septum,11000.0,12650.0,11000.0,Scan
+703,Hysteroscopy Diagnostic,7500.0,8625.0,7500.0,Scan
+704,Radical Hysterectomy for Cancer cervix with pelvic lymphadenectomy,8500.0,9775.0,8500.0,Surgery
+705,Radical Hysterectomy for Cancer endometrium extending to cervix with pelvic and para aortic lymphadenectomy,8500.0,9775.0,8500.0,Surgery
+706,Sterilization Post partum (minilap),3750.0,4313.0,3750.0,Surgery
+707,Sterilization interval (minilap),3750.0,4313.0,3750.0,Surgery
+708,Ultrasonography Level II scan/Anomaly Scan,1700.0,2000.0,1700.0,Scan
+709,Fetal nuchal Translucency,300.0,345.0,300.0,Test
+710,USG Colour Doppler Pregnancy,1425.0,1675.0,1425.0,Scan
+711,Medical Termination of Pregnancy (MTP)- 1st Trimester,3000.0,3450.0,3000.0,Surgery
+712,Medical Termination of Pregnancy (MTP) - 2nd Trimester,4370.0,5026.0,4370.0,Surgery
+713,Quadruple test,2000.0,2300.0,2000.0,Test
+714,Biophysical score,600.0,690.0,600.0,Test
+715,Other Major Surgery-Obstetrics and Gynaecology,28000.0,32200.0,28000.0,Surgery
+716,Other Minor Surgery-Obstetrics and Gynaecology,5000.0,5750.0,5000.0,Surgery
+717,Partial Nephrectomy -open,16215.0,18647.0,16215.0,Surgery
+718,Partial Nephrectomy-Laparoscopic/endoscopic,14490.0,16664.0,14490.0,Surgery
+719,Nephrolithomy -open,12000.0,13800.0,12000.0,Surgery
+720,Nephrolithomy -Laparoscopic/endoscopic,14000.0,16100.0,14000.0,Surgery
+721,Pyelolithotomy-open,13000.0,14950.0,13000.0,Surgery
+722,Pyelolithotomy -Laparoscopic/endoscopic,10580.0,12167.0,10580.0,Surgery
+723,Operations for Hydronephrosis -pyeloplasty open,18400.0,21160.0,18400.0,Surgery
+724,Operations for Hydronephrosis -pyeloplasty Lap/endoscopic,19000.0,21850.0,19000.0,Surgery
+725,Operations for Hydronephrosis Endopyelotomy antegrade,20000.0,23000.0,20000.0,Surgery
+726,Operations for Hydronephrosis Endoplyelotomy retrograde,20000.0,23000.0,20000.0,Surgery
+727,Operations for Hydronephrosis -ureterocalicostomy,18000.0,20700.0,18000.0,Surgery
+728,Operations for Hydronephrosis-Ileal ureter,18000.0,20700.0,18000.0,Surgery
+729,Open Drainage of Perinephric Abscess,8000.0,9200.0,8000.0,Surgery
+730,Percutaneous Drainage of Perinephric Abscess -Ultrasound guided,5750.0,6613.0,5750.0,Scan
+731,Cavernostomy,9775.0,11241.0,9775.0,Surgery
+732,Operations for Cyst of the Kidney -open,11960.0,13754.0,11960.0,Surgery
+733,Operations for Cyst of the Kidney -Lap/endoscopic,14030.0,16135.0,14030.0,Surgery
+734,Ureterolithotomy -open,13248.0,15235.0,13248.0,Surgery
+735,Ureterolithotomy-Lap/Endoscopic,10000.0,11500.0,10000.0,Surgery
+736,Nephroureterectomy open,16100.0,18515.0,16100.0,Surgery
+737,Nephroureterectomy -Lap/Endoscopic,16100.0,18515.0,16100.0,Surgery
+738,Operations for Ureter for -Double Ureters,19000.0,21850.0,19000.0,Surgery
+739,Operations for Ureter -for Ectopia of Single Ureter,18000.0,20700.0,18000.0,Surgery
+740,Operations for Vesicoureteric Reflux (VUR) -Open,18000.0,20700.0,18000.0,Surgery
+741,Operations for Vesicoureteric Reflux (VUR)-Lap/Endoscopic,18000.0,20700.0,18000.0,Surgery
+742,Operations for Vesicoureteric Reflux (VUR)/ Urinary incontinence with bulking agents,20700.0,23805.0,20700.0,Surgery
+743,Ureterostomy - Cutaneous,12000.0,13800.0,12000.0,Surgery
+744,Uretero-Colic anastomosis,16000.0,18400.0,16000.0,Surgery
+745,Formation of an Ileal Conduit,17250.0,19838.0,17250.0,Surgery
+746,Ureteric Catheterisation,8278.0,10950.0,8278.0,Surgery
+747,Biopsy of Bladder (Cystoscopic),2300.0,2645.0,2300.0,Surgery
+748,Cysto-Litholapaxy,10925.0,12564.0,10925.0,Surgery
+749,Operations for Injuries of the Bladder,10000.0,11500.0,10000.0,Surgery
+750,Suprapubic Drainage (Cystostomy/vesicostomy),6000.0,6900.0,6000.0,Surgery
+751,Simple Cystectomy,17250.0,19838.0,17250.0,Surgery
+752,Diverticulectomy -open,16000.0,18400.0,16000.0,Surgery
+753,Diverticulectomy- Lap/Endoscopic,18400.0,21160.0,18400.0,Surgery
+754,Diverticulectomy -Endoscopic incision of neck,1725.0,1984.0,1725.0,Surgery
+755,Augmentation Cystoplasty,6670.0,7671.0,6670.0,Surgery
+756,Operations for Exstrophy of the Bladder- Single stage repair,22300.0,25645.0,22300.0,Surgery
+757,Operations for Exstrophy of the Bladder- Multistage repair,20815.0,23937.0,20815.0,Surgery
+758,Operations for Exstrophy of the Bladder- simple cystectomy with urinary diversion,22500.0,25875.0,22500.0,Surgery
+759,Repair of Ureterocoel -Open,13800.0,15870.0,13800.0,Surgery
+760,Repair of Ureterocoel -Lap/Endoscopic,14375.0,16531.0,14375.0,Surgery
+761,Repair of Ureterocoel -Endoscopic incision,13000.0,14950.0,13000.0,Surgery
+762,Open Suprapubic Prostatectomy,20700.0,23805.0,20700.0,Surgery
+763,Open Retropubic Prostatectomy,20125.0,23144.0,20125.0,Surgery
+764,Transurethral Resection of Prostate (TURP),18630.0,21425.0,18630.0,Surgery
+765,Urethroscopy/ Cystopanendoscopy,4600.0,5290.0,4600.0,Scan
+766,Internal urethrotomy -optical,5750.0,6613.0,5750.0,Surgery
+767,Internal urethrotomy -Core through urethroplasty,11040.0,12696.0,11040.0,Surgery
+768,Urethral Reconstruction -End to end ansatamosis,3450.0,3968.0,3450.0,Surgery
+769,Urethral Reconstruction - substitution urethroplasty (Transpubic urethroplasty),19550.0,22483.0,19550.0,Surgery
+770,Abdomino Perineal urethroplasty,14000.0,16100.0,14000.0,Surgery
+771,Posterior Urethral Valve fulguration.,11270.0,12961.0,11270.0,Surgery
+772,Operations for Incontinence of Urine - Male -Open,17250.0,19838.0,17250.0,Surgery
+773,Operations for Incontinence of Urine - Male -Sling,18400.0,21160.0,18400.0,Surgery
+774,Operations for Incontinence of Urine - Male-Bulking agent,19435.0,22350.0,19435.0,Surgery
+775,Operations for Incontinence of Urine - Female -Open,17250.0,19838.0,17250.0,Surgery
+776,Operations for Incontinence of Urine - Female-Sling,18400.0,21160.0,18400.0,Surgery
+777,Operations for Incontinence of Urine - Female-Bulking agent,19435.0,22350.0,19435.0,Surgery
+778,Reduction of Paraphimosis,1725.0,1984.0,1725.0,Surgery
+779,Circumcision,3000.0,3450.0,3000.0,Surgery
+780,Meatotomy,2346.0,2698.0,2346.0,Surgery
+781,Meatoplasty,3220.0,3703.0,3220.0,Surgery
+782,Operations for Hypospadias + Chordee Correction,9200.0,10580.0,9200.0,Surgery
+783,Operations for Hypospadias - Second Stage,15000.0,17250.0,15000.0,Surgery
+784,Operations for Hypospadias - One Stage Repair,9200.0,10580.0,9200.0,Surgery
+785,Operations for Crippled Hypospadias,11500.0,13225.0,11500.0,Surgery
+786,Operations for Epispadias _primary repair,12593.0,14482.0,12593.0,Surgery
+787,Operations for Epispadias-crippled epispadias,11385.0,13093.0,11385.0,Surgery
+788,Partial Amputation of the Penis,10764.0,12379.0,10764.0,Surgery
+789,Total amputation of the Penis,12000.0,13800.0,12000.0,Surgery
+790,Orchidectomy-Simple,9775.0,11241.0,9775.0,Surgery
+791,Orchidectomy -Radical,12075.0,13886.0,12075.0,Surgery
+792,Post Radical Orchidectomy retroperitoneal lymph node dissection.,14000.0,16100.0,14000.0,Surgery
+793,Epididymectomy,15938.0,18750.0,15938.0,Surgery
+794,Adreneclectomy Unilateral/Bilateral for Tumour/For Carcinoma- Open,25300.0,29095.0,25300.0,Surgery
+795,Adreneclectomy Unilateral/Bilateral for Tumour/For Carcinoma -Lap/Endoscopic,14375.0,16531.0,14375.0,Surgery
+796,Operations for Hydrocele - Unilateral,5865.0,6745.0,5865.0,Surgery
+797,Operations for Hydrocele - Bilateral,8556.0,9839.0,8556.0,Surgery
+798,Operation for Torsion of Testis,11500.0,13225.0,11500.0,Test
+799,Micro-surgical Vasovasostomy /Vaso epidedymal ansatamosis .,11040.0,12696.0,11040.0,Surgery
+800,Operations for Varicocele Unilateral-Microsurgical,7705.0,8861.0,7705.0,Surgery
+801,Operations for Varicocele Palomo’s Unilateral - Lap,9200.0,10580.0,9200.0,Surgery
+802,Operations for Varicocele Bilateral --Microsurgical,12650.0,14548.0,12650.0,Surgery
+803,Operations for Varicocele Bilateral – Lap/ Palomo,14950.0,17193.0,14950.0,Surgery
+804,Block Dissection of ilio-inguinal Nodes - One Side (For Ca- Penis),6325.0,7274.0,6325.0,Surgery
+805,Block Dissection of ilio-inguinal Nodes -Both Sides (For Ca- Penis),23000.0,26450.0,23000.0,Surgery
+806,Excision of Filarial Scrotum,11500.0,13225.0,11500.0,Surgery
+807,Kidney Transplantation (related),200000.0,230000.0,200000.0,Surgery
+808,Kidney Transplantation (Spousal/ unrelated) Including immunosuppressant therapy,300000.0,345000.0,300000.0,Surgery
+809,ABO incompatible Transplantation,490000.0,563500.0,490000.0,Surgery
+810,Swap Transplantation,388000.0,446200.0,388000.0,Surgery
+811,Kidney Transplant Graft Nephrectomy,59500.0,68425.0,59500.0,Surgery
+812,Donor Nephrectomy (open),28750.0,33063.0,28750.0,Surgery
+813,Donor Nephrectomy (Laparoscopic),46000.0,52900.0,46000.0,Surgery
+814,Cadaver Transplantation,83300.0,95795.0,83300.0,Surgery
+815,Kidney Transplant with Native Kidney Nephrectomy (Related)/ Unilateral,28000.0,32200.0,28000.0,Surgery
+816,Kidney Transplant with Native Kidney Nephrectomy (Related)/ Bilateral,85000.0,97750.0,85000.0,Surgery
+817,Kidney Transplant with Native Kidney Nephrectomy (Spousal/ Unrelated) Unilateral,85000.0,97750.0,85000.0,Surgery
+818,Kidney Transplant with Native Kidney Nephrectomy (Spousal/ Unrelated) Bilateral,85000.0,97750.0,85000.0,Surgery
+819,Post-Transplant Collection drainage for Lymphocele (open),6800.0,7820.0,6800.0,Surgery
+820,Post-Transplant Collection drainage for Lymphocele (percutaneous),6800.0,7820.0,6800.0,Surgery
+821,Post-Transplant Collection drainage for Lymphocele (Laparoscopic),7650.0,8798.0,7650.0,Surgery
+822,Arteriovenous Fistula for Haemodialysis,2300.0,2645.0,2300.0,Surgery
+823,Arteriovenous Shunt for Haemodialysis,3500.0,4025.0,3500.0,Surgery
+824,Jugular Catheterization for Haemodialysis,1500.0,1725.0,1500.0,Test
+825,Subclavian Catheterization for Haemodialysis,2250.0,2588.0,2250.0,Test
+826,One sided (single Lumen) Femoral Catheterization for Haemodialysis,1000.0,1150.0,1000.0,Test
+827,Bilateral (single Lumen) Femoral Catheterization for Haemodialysis,1500.0,1725.0,1500.0,Test
+828,Double Lumen Femoral Catheterization for Haemodialysis,1850.0,2128.0,1850.0,Test
+829,Permcath Insertion,2800.0,3220.0,2800.0,Surgery
+830,Arterio venous Prosthetic Graft,1850.0,2128.0,1850.0,Surgery
+831,Single lumen Jugular Catheterization,1500.0,1725.0,1500.0,Test
+832,Single lumen Subclavian Catheterization,1700.0,1955.0,1700.0,Test
+833,Plasma Exchange/ Plasmapheresis,1725.0,1984.0,1725.0,Surgery
+834,Continuous Ambulatory Peritoneal Dialysis (CAPD) catheter insertion- Open method,3500.0,4025.0,3500.0,Surgery
+835,Continuous Ambulatory Peritoneal Dialysis (CAPD) catheter insertion- Schlendinger/ Seldinger method,3500.0,4025.0,3500.0,Surgery
+836,Sustained low efficiency haemodialysis / hemodialysis,1250.0,1438.0,1250.0,Surgery
+837,Continuous Veno venous/Arteriovenous Haemofilteration /Hemofilteration,2250.0,2588.0,2250.0,Surgery
+838,Haemodialysis / Hemodialysis for Sero negative cases,1400.0,1610.0,1400.0,Surgery
+839,Haemodialysis / Hemodialysis for Sero Positive cases,1650.0,1898.0,1650.0,Surgery
+840,Acute Peritoneal Dialysis,1450.0,1668.0,1450.0,Surgery
+841,Fistulogram for Arteriovenous Fistula,2500.0,2875.0,2500.0,Surgery
+842,Ultrasound guided Kidney Bipsy,850.0,978.0,850.0,Scan
+843,Fistula stenosis dilation,3000.0,3450.0,3000.0,Surgery
+844,Slow continuous Ultrafilteration,2500.0,2875.0,2500.0,Surgery
+845,Percutaneous Nephrolithotomy (PCNL) - Unilateral,20000.0,23000.0,20000.0,Surgery
+846,Percutaneous Nephrolithotomy (PCNL) - Bilateral,25000.0,28750.0,25000.0,Surgery
+847,Endoscopic Bulking agent Inject,4500.0,5175.0,4500.0,Surgery
+848,Testicular Biopsy,1955.0,2248.0,1955.0,Test
+849,Radical Nephrectomy -Open,17250.0,19838.0,17250.0,Surgery
+850,Radical Nephrectomy -Lap/Endoscopic,20700.0,23805.0,20700.0,Surgery
+851,Radical Nephrectomy plus IV thrombus,23000.0,26450.0,23000.0,Surgery
+852,Radical Nephrectomy plus IV thrombus plus cardiac bypass.,23000.0,26450.0,23000.0,Surgery
+853,Vesicovaginal Fistula (VVF) Repair (Open),16000.0,18400.0,16000.0,Surgery
+854,Vesicovaginal Fistula (VVF) Repair (Laparoscopic),22000.0,25300.0,22000.0,Surgery
+855,Radical Cystectomy -Ileal conduit,17000.0,19550.0,17000.0,Surgery
+856,Radical Cystectomy - continent diversion.,15000.0,17250.0,15000.0,Surgery
+857,Radical Cystectomy – Neo bladder,18500.0,21275.0,18500.0,Surgery
+858,Nephrectomy Simple -Open,10074.0,11585.0,10074.0,Surgery
+859,Nephrectomy Simple-lap/Endoscopic,12593.0,14482.0,12593.0,Surgery
+860,Nephrostomy -Open,10000.0,11500.0,10000.0,Surgery
+861,Nephrostomy -Lap/Endoscopic,10704.0,12310.0,10704.0,Surgery
+862,Ureteric Reimplant for Megaureter/Vesicoureteric reflux/ ureterocele (open),10494.0,12068.0,10494.0,Surgery
+863,Ureteric Reimplant for Megaureter/Vesicoureteric reflux/ ureterocele (Laparoscopic),10494.0,12068.0,10494.0,Surgery
+864,Partial Cystectomy,13800.0,15870.0,13800.0,Surgery
+865,Transurethral Resection of Prostate (TURP) & Transurethral Resection of Bladder Tumour (TURBT),17250.0,19838.0,17250.0,Surgery
+866,Transurethral Resection of Prostate (TURP) with Cystolithotripsy,17000.0,19550.0,17000.0,Surgery
+867,Closure of Urethral Fistula,11000.0,12650.0,11000.0,Surgery
+868,Orchidopexy - Unilateral -Open,9867.0,11347.0,9867.0,Surgery
+869,Orchidopexy - Unilateral- Lap/Endoscopic,12334.0,14184.0,12334.0,Surgery
+870,Orchidopexy - Bilateral -Open,12282.0,14124.0,12282.0,Surgery
+871,Orchidopexy - Bilateral -Lap/Endoscopic,14500.0,16675.0,14500.0,Surgery
+872,Cystolithotomy -Suprapubic,9775.0,11241.0,9775.0,Surgery
+873,Endoscopic Removal of Stone in Bladder,3450.0,3968.0,3450.0,Surgery
+874,Resection Bladder Neck Endoscopic /Bladder neck incision/transurethral incision on prostrate,10925.0,12564.0,10925.0,Surgery
+875,Ureteroscopic Surgery,10350.0,11903.0,10350.0,Surgery
+876,Urethroplasty 1st Stage,10925.0,12564.0,10925.0,Surgery
+877,Scrotal Exploration,8556.0,9839.0,8556.0,Surgery
+878,Perineal Urethrostomy,4715.0,5422.0,4715.0,Surgery
+879,Dilatation of Stricture Urethra under G.A.,2000.0,2300.0,2000.0,Surgery
+880,Dilatation of Stricture Urethra under LA,1725.0,1984.0,1725.0,Surgery
+881,Laparoscopic Nephrectomy (Select CGHS rate Code 508 for approved rate),33350.0,38353.0,33350.0,Scan
+882,Laparoscopic partial Nephrectomy,10000.0,11500.0,10000.0,Surgery
+883,Laparoscopic pyelolithotomy,12650.0,14548.0,12650.0,Surgery
+884,Laparoscopic Pyeloplasty,9775.0,11241.0,9775.0,Surgery
+885,Laparoscopic surgery for Renal cyst,9775.0,11241.0,9775.0,Surgery
+886,Laparoscopic ureterolithotomy,11500.0,13225.0,11500.0,Surgery
+887,Laparoscopic Nephroureterectomy,13225.0,15209.0,13225.0,Surgery
+888,Extracorporeal Shock Wave Lithotripsy (ESWL),19550.0,22483.0,19550.0,Surgery
+889,Uroflow Study (Uroflometry),450.0,518.0,450.0,Surgery
+890,Urodynamic Study (Cystometry),480.0,552.0,480.0,Surgery
+891,Cystoscopy with Retrograde Catheter -Unilateral /RGP,2803.0,3223.0,2803.0,Scan
+892,Cystoscopy with Retrograde Catheter - Bilateral /RGP,4675.0,5376.0,4675.0,Scan
+893,Cystoscopy with Bladder Biopsy (Cold Cup Biopsy),3381.0,3888.0,3381.0,Scan
+894,Voiding-cysto-urethrogram and retrograde urethrogram (Nephrostogram),414.0,476.0,414.0,Surgery
+895,Radical prostatectomy-Open,17825.0,20499.0,17825.0,Surgery
+896,Radical prostatectomy-Laparoscopic,20125.0,23144.0,20125.0,Surgery
+897,Radical prostatectomy- Robotic (Robotic Partial Nephrectomy),20125.0,23144.0,20125.0,Surgery
+898,Holmium YAG Prostate Surgery,15000.0,17250.0,15000.0,Surgery
+899,Holmium YAG Optical Internal Urethrotomy (OIU),4600.0,5290.0,4600.0,Surgery
+900,Holmium YAG Core through internal Urethrotomy,17250.0,19838.0,17250.0,Surgery
+901,Holmium YAG Stone Lithotripsy,10200.0,11730.0,10200.0,Surgery
+902,Green Light laser for prostate,17250.0,19838.0,17250.0,Surgery
+903,Retrograde Intrarenal Surgery (RIRS)/ Flexible Ureteroscopy,6800.0,7820.0,6800.0,Surgery
+904,Microscopic Vaso-Epididymal Anastomosis (VEA)/ Vasovasostomy (reversal of vasectomy for Infertility treatment) (Select CGHS rate code 799 for approved rate),13500.0,15525.0,13500.0,Scan
+905,Cystoscopic Botulinum Toxin Injection ( Over active bladder/ Neurogenic bladder),6800.0,7820.0,6800.0,Surgery
+906,Peyronie’s disease – Plaque excision with grafting,3400.0,3910.0,3400.0,Surgery
+907,High Intensity Focus Ultrasound (HIFU) (Robotic) for Carcinoma prostrate and renal cell carcinoma,4600.0,5290.0,4600.0,Scan
+908,Prosthetic surgery for urinary incontinence,2300.0,2645.0,2300.0,Surgery
+909,Transrectal Ultrasound (TRUS) guided prostate biopsy,575.0,661.0,575.0,Scan
+910,Ultrasound Guided Percutaneous Nephrostomy (PCN),720.0,828.0,720.0,Scan
+911,Other Major Surgery-Nephrology and Urology,15000.0,17250.0,15000.0,Surgery
+912,Other Minor Surgery-Nephrology and Urology,6800.0,7820.0,6800.0,Surgery
+913,Craniotomy and Evacuation of Haematoma -Subdural,50715.0,58322.0,50715.0,Surgery
+914,Craniotomy and Evacuation of Haematoma -Extradural,50000.0,57500.0,50000.0,Surgery
+915,Evacuation /Excision of Brain Abscess by craniotomy,40000.0,46000.0,40000.0,Surgery
+916,Excision of Lobe (Frontal Temporal Cerebellum etc.),41000.0,47150.0,41000.0,Surgery
+917,Excision of Brain Tumours -Supratentorial,39123.0,44991.0,39123.0,Surgery
+918,Excision of Brain Tumours -Infratentorial,45000.0,51750.0,45000.0,Surgery
+919,Surgery of spinal Cord Tumours,45000.0,51750.0,45000.0,Surgery
+920,Ventriculoatrial /Ventriculoperitoneal Shunt (Select CGHS rate code 938 for approved rates),25000.0,28750.0,25000.0,Scan
+921,Twist Drill Craniostomy,4250.0,4888.0,4250.0,Surgery
+922,Subdural Tapping,2456.0,2824.0,2456.0,Surgery
+923,Ventricular Tapping,2967.0,3412.0,2967.0,Surgery
+924,Abscess Tapping,2875.0,3306.0,2875.0,Surgery
+925,Placement of Intracranial pressure (ICP) Monitor,2875.0,3306.0,2875.0,Surgery
+926,Skull Traction Application,2300.0,2645.0,2300.0,Surgery
+927,Lumbar Pressure Monitoring,4250.0,4888.0,4250.0,Test
+928,Vascular Malformations,22000.0,25300.0,22000.0,Surgery
+929,Meningo Encephalocoele excision and repair,15000.0,17250.0,15000.0,Surgery
+930,Meningomyelocoele Repair,24995.0,28744.0,24995.0,Surgery
+931,CSF Rhinorrhoea Repair,28750.0,33063.0,28750.0,Surgery
+932,Cranioplasty,24150.0,27773.0,24150.0,Surgery
+933,Anterior Cervical Discectomy,16600.0,19090.0,16600.0,Surgery
+934,Brachial Plexus Exploration and neurotization,15525.0,17854.0,15525.0,Surgery
+935,Median Nerve Decompression,14000.0,16100.0,14000.0,Surgery
+936,Peripheral Nerve Surgery – Major,17250.0,19838.0,17250.0,Surgery
+937,Peripheral Nerve Surgery Minor,8280.0,9522.0,8280.0,Surgery
+938,Ventriculoatrial /Ventriculoperitoneal Shunt,11615.0,13357.0,11615.0,Surgery
+939,Nerve Biopsy,6900.0,7935.0,6900.0,Surgery
+940,Brain Biopsy,5808.0,6679.0,5808.0,Surgery
+941,Anterior Cervical Spine Surgery with fusion,32200.0,37030.0,32200.0,Surgery
+942,Anterio Lateral Decompression of spine,28750.0,33063.0,28750.0,Surgery
+943,Brain Mapping,837.0,963.0,837.0,Surgery
+944,Cervical or Dorsal or Lumbar Laminectomy,23000.0,26450.0,23000.0,Surgery
+945,Combined Trans-oral Surgery & Craniovertebral (CV) Junction Fusion,34500.0,39675.0,34500.0,Surgery
+946,Craniovertebral Junction (CVJ) Fusion procedures,30000.0,34500.0,30000.0,Surgery
+947,Depressed Fracture Elevation,25000.0,28750.0,25000.0,Surgery
+948,Lumbar Discectomy,27600.0,31740.0,27600.0,Surgery
+949,Endarterectomy (Carotid),20000.0,23000.0,20000.0,Surgery
+950,Radiofrequency Ablation (RFA) for Trigeminal Neuralgia,11500.0,13225.0,11500.0,Surgery
+951,Spasticity Surgery -,39675.0,45626.0,39675.0,Surgery
+952,Spinal Fusion Procedure,30000.0,34500.0,30000.0,Surgery
+953,Spinal Intra Medullary Tumours,34500.0,39675.0,34500.0,Surgery
+954,Spinal Bifida Surgery Major,18975.0,21821.0,18975.0,Surgery
+955,Spinal Bifida Surgery Minor,15000.0,17250.0,15000.0,Surgery
+956,Stereotaxic Procedures- biopsy/aspiration of cyst,23000.0,26450.0,23000.0,Surgery
+957,Trans Sphenoidal Surgery,30000.0,34500.0,30000.0,Surgery
+958,Trans Oral Surgery,30000.0,34500.0,30000.0,Surgery
+959,Implantation of Deep Brain Stimulation (DBS) -One electrode,34500.0,39675.0,34500.0,Surgery
+960,Implantation of Deep Brain Stimulation (DBS) -two electrodes,40250.0,46288.0,40250.0,Surgery
+961,Endoscopic aqueductoplasty,15000.0,17250.0,15000.0,Surgery
+962,Facial nerve reconstruction,30000.0,34500.0,30000.0,Surgery
+963,Carotid stenting,42263.0,48602.0,42263.0,Surgery
+964,Cervical disc arthroplasty,27600.0,31740.0,27600.0,Surgery
+965,Lumbar disc arthroplasty,13800.0,15870.0,13800.0,Surgery
+966,Corpus callostomy for Epilepsy,35000.0,40250.0,35000.0,Surgery
+967,Hemispherotomy for Epilepsy,32200.0,37030.0,32200.0,Surgery
+968,Endoscopic CSF rhinorrhoea repair,30000.0,34500.0,30000.0,Surgery
+969,Burr hole evacuation of chronic subdural haematoma,24150.0,27773.0,24150.0,Surgery
+970,Epilepsy surgery other than at S No. 966 and 967,36225.0,41659.0,36225.0,Surgery
+971,Radiofrequency Ablation (RFA) for facet joint pain syndrome,17250.0,19838.0,17250.0,Surgery
+972,Cervical laminoplasty,32000.0,36800.0,32000.0,Surgery
+973,Lateral mass C1-C2 screw fixation,23000.0,26450.0,23000.0,Surgery
+974,Microsurgical decompression for Trigeminal nerve,38000.0,43700.0,38000.0,Surgery
+975,Microsurgical decompression for hemifacial spasm,4646.0,5343.0,4646.0,Surgery
+976,Extracranial-Intracranial Bypass Procedures (EC-IC) bypass procedures,32000.0,36800.0,32000.0,Surgery
+977,Image guided craniotomy,28980.0,33327.0,28980.0,Surgery
+978,Baclofen pump implantation,39000.0,44850.0,39000.0,Surgery
+979,Programmable Ventriculo-Peritoneal (VP) shunt,25000.0,28750.0,25000.0,Surgery
+980,Endoscopic sympathectomy,17107.0,19673.0,17107.0,Surgery
+981,Lumbar puncture,207.0,238.0,207.0,Surgery
+982,External ventricular drainage (EVD),4600.0,5290.0,4600.0,Surgery
+983,Endoscopic 3rd ventriculostomy,40000.0,46000.0,40000.0,Surgery
+984,Endoscopic cranial surgery/Biopsy/aspiration,31536.0,36266.0,31536.0,Surgery
+985,"Endoscopic discectomy (Lumbar, Cervical)",35621.0,40964.0,35621.0,Surgery
+986,Aneurysm coiling (Endovascular),34400.0,39560.0,34400.0,Surgery
+987,Surgery for skull fractures,40000.0,46000.0,40000.0,Surgery
+988,Carpel Tunnel decompression,15000.0,17250.0,15000.0,Surgery
+989,Clipping of intracranial aneurysm,24150.0,27773.0,24150.0,Surgery
+990,Surgery for intracranial Arteriovenous malformations(AVM),40000.0,46000.0,40000.0,Surgery
+991,Foramen magnum decompression for Chiari Malformation,93750.0,107813.0,93750.0,Surgery
+992,Dorsal column stimulation for backache in failed back syndrome,28750.0,33063.0,28750.0,Surgery
+993,Surgery for recurrent disc prolapse/epidural fibrosis,32200.0,37030.0,32200.0,Surgery
+994,Surgery for brain stem tumours,43988.0,50586.0,43988.0,Surgery
+995,Decompressive craniotomy for hemispherical acute subdural haematoma/brain swelling/large infarct,40000.0,46000.0,40000.0,Surgery
+996,Intra-arterial thrombolysis with Tissue Plasminogen Activator (TPA) (for ischemic stroke ),4600.0,5290.0,4600.0,Surgery
+997,Stereotactic aspiration of intracerebral haematoma,32545.0,37427.0,32545.0,Surgery
+998,Endoscopic aspiration of intracerebellar haematoma,40000.0,46000.0,40000.0,Surgery
+999,Stereotactic Radiosurgery for brain pathology(X knife/Gamma ) - ONE session,27560.0,31694.0,27560.0,Surgery
+1000,Stereotactic Radiosurgery for brain pathology(X knife /Gamma knife -Two or more sessions,57500.0,66125.0,57500.0,Surgery
+1001,Chemotheraphy wafers for malignant brain tumors,14450.0,16618.0,14450.0,Surgery
+1002,Battery Placement for Deep Brain Stimulation (DBS),22000.0,25300.0,22000.0,Surgery
+1003,Baclofen pump implantation for spasticity,17330.0,19930.0,17330.0,Surgery
+1004,Peripheral Nerve tumor surgery,24000.0,27600.0,24000.0,Surgery
+1005,Surgery Intra Cranial Meningioma,20000.0,23000.0,20000.0,Surgery
+1006,Surgery for Intracranial Schwannoma,35000.0,40250.0,35000.0,Surgery
+1007,Surgery for Gliomas,45000.0,51750.0,45000.0,Surgery
+1008,Surgery for Orbital tumors,40000.0,46000.0,40000.0,Surgery
+1009,Surgery for Cranial (Skull) tumors,38500.0,44275.0,38500.0,Surgery
+1010,Surgery for Scalp Arteriovenous Malformations (AVMs),25000.0,28750.0,25000.0,Surgery
+1011,Kyphoplasty,40000.0,46000.0,40000.0,Surgery
+1012,Balloon Kyphoplasty,40000.0,46000.0,40000.0,Surgery
+1013,"Lesioning procedures for Parkinson’s disease, Dystonia etc.",35000.0,40250.0,35000.0,Surgery
+1014,Other Major Surgery-Neuro-surgery,42500.0,48875.0,42500.0,Surgery
+1015,Other Minor Surgery-Neuro-surgery,17000.0,19550.0,17000.0,Surgery
+1016,Excision of thyroglossal Duct/Cyst,16000.0,18400.0,16000.0,Scan
+1017,Diaphragmatic Hernia Repair (Thoracic or Abdominal Approach),17250.0,19838.0,17250.0,Surgery
+1018,Tracheo Oesophageal Fistula (Correction Surgery),23000.0,26450.0,23000.0,Surgery
+1019,Colon Replacement of Oesophagus,23000.0,26450.0,23000.0,Surgery
+1020,Omphalo Mesenteric Cyst Excision,17250.0,19838.0,17250.0,Surgery
+1021,Omphalo Mesenteric Duct- Excision,15525.0,17854.0,15525.0,Scan
+1022,Meckels Diverticulectomy,3347.0,3849.0,3347.0,Surgery
+1023,Omphalocele 1st Stage (Hernia Repair),15525.0,17854.0,15525.0,Surgery
+1024,Omphalocele 2nd Stge (Hernia Repair),17250.0,19838.0,17250.0,Surgery
+1025,Gastroschisis Repair,16100.0,18515.0,16100.0,Surgery
+1026,Inguinal Herniotomy,12558.0,14442.0,12558.0,Surgery
+1027,Congenital Hydrocele,12000.0,13800.0,12000.0,Surgery
+1028,Hydrocele of Cord,12000.0,13800.0,12000.0,Surgery
+1029,Torsion Testis Operation,15000.0,17250.0,15000.0,Test
+1030,Congenital Pyloric Stenosis- operation,13938.0,16029.0,13938.0,Surgery
+1031,Duodenal Atresia Operation,14000.0,16100.0,14000.0,Surgery
+1032,Pancreatic Ring Operation,22425.0,25789.0,22425.0,Surgery
+1033,Meconium Ileus Operation,14500.0,16675.0,14500.0,Surgery
+1034,Malrotation of Intestines Operation,13000.0,14950.0,13000.0,Test
+1035,Rectal Biopsy (Megacolon),9736.0,11196.0,9736.0,Surgery
+1036,Colostomy Transverse,15000.0,17250.0,15000.0,Surgery
+1037,Colostomy Left Iliac,15000.0,17250.0,15000.0,Surgery
+1038,Abdominal Perineal Pull Through (Hirschsprung's Disease),19000.0,21850.0,19000.0,Surgery
+1039,Imperforate Anus Low Anomaly -Cut Back Operation,10235.0,11770.0,10235.0,Surgery
+1040,Imperforate Anus Low Anomaly - Perineal Anoplasty,12000.0,13800.0,12000.0,Surgery
+1041,Imperforate Anus High Anomaly -Sacroabdomino Perineal Pull Through,12500.0,14375.0,12500.0,Surgery
+1042,Imperforate Anus High Anomaly - Closure of Colostomy,8625.0,9919.0,8625.0,Surgery
+1043,Intussusception Operation,20700.0,23805.0,20700.0,Surgery
+1044,Choledochoduodenostomy for Atresia of Extra Hepatic Billiary Duct,15000.0,17250.0,15000.0,Surgery
+1045,Operation of Choledochal Cyst,16000.0,18400.0,16000.0,Surgery
+1046,Nephrectomy for -Pyonephrosis,17000.0,19550.0,17000.0,Surgery
+1047,Nephrectomy for - Hydronephrosis,15000.0,17250.0,15000.0,Surgery
+1048,Nephrectomy for -Wilms Tumour,15000.0,17250.0,15000.0,Surgery
+1049,Paraortic Lymphadenectomy with Nephrectomy for Wilms Tumour,20000.0,23000.0,20000.0,Surgery
+1050,Sacro-Coccygeal Teratoma Excision,14000.0,16100.0,14000.0,Surgery
+1051,Neuroblastoma Debulking,16000.0,18400.0,16000.0,Surgery
+1052,Neuroblastoma Total Excision,20700.0,23805.0,20700.0,Surgery
+1053,Rhabdomyosarcoma wide Excision,15000.0,17250.0,15000.0,Surgery
+1054,Congenital Atresia & Stenosis of Small Intestine,19000.0,21850.0,19000.0,Test
+1056,Malrotation & Volvulus of the Midgut,15000.0,17250.0,15000.0,Surgery
+1057,Excision of Meckel’s Deverticulum,12000.0,13800.0,12000.0,Surgery
+1058,Other Major Surgery-Paediatric Surgery,27000.0,31050.0,27000.0,Surgery
+1059,Other Minor Surgery-Paediatric Surgery,11050.0,12708.0,11050.0,Surgery
+1060,Primary Suturing of Wound,300.0,345.0,300.0,Surgery
+1061,Injection of Keloids - Ganglion,1099.0,1264.0,1099.0,Surgery
+1062,Injection of Keloids - Haemangioma,1150.0,1323.0,1150.0,Surgery
+1063,Free Grafts - Wolfe Grafts,1725.0,1984.0,1725.0,Surgery
+1064,Free Grafts - Thiersch- Small Area 5%,7475.0,8596.0,7475.0,Surgery
+1065,Free Grafts - Large Area 10%,8000.0,9200.0,8000.0,Surgery
+1066,Free Grafts - Very Large Area 20% and above.,10350.0,11903.0,10350.0,Surgery
+1067,Skin Flaps - Rotation Flaps,8970.0,10316.0,8970.0,Surgery
+1068,Skin Flaps - Advancement Flaps,12500.0,14375.0,12500.0,Surgery
+1069,Skin Flaps - Direct- cross Leg Flaps- Cross Arm Flap,12500.0,14375.0,12500.0,Scan
+1070,Skin Flaps - Cross Finger,12500.0,14375.0,12500.0,Surgery
+1071,Skin Flaps - Abdominal,9350.0,10753.0,9350.0,Surgery
+1072,Skin Flaps - Thoracic,9350.0,10753.0,9350.0,Surgery
+1073,Skin Flaps - Arm Etc.,11000.0,12650.0,11000.0,Surgery
+1074,Subcutaneous Pedicle Flaps Raising,6900.0,7935.0,6900.0,Surgery
+1075,Subcutaneous Pedicle Flaps Delay,5950.0,6843.0,5950.0,Surgery
+1076,Subcutaneous Pedicle Flaps Transfer,5950.0,6843.0,5950.0,Surgery
+1077,Cartilage Grafting,8625.0,9919.0,8625.0,Surgery
+1078,Reduction of Facial Fractures of Nose,1380.0,1587.0,1380.0,Surgery
+1079,Reduction of Facial Fractures of Maxilla,8000.0,9200.0,8000.0,Surgery
+1080,Reduction of Fractures of Mandible & Maxilla - Eyelet Splinting,7475.0,8596.0,7475.0,Surgery
+1081,Reduction of Fractures of Mandible & Maxilla - Cast Metal Splints,6900.0,7935.0,6900.0,Surgery
+1082,Reduction of Fractures of Mandible & Maxilla - Gunning Splints,7500.0,8625.0,7500.0,Surgery
+1083,Internal Wire Fixation of Mandible & Maxilla,11500.0,13225.0,11500.0,Surgery
+1084,Cleft Lip - repair.,11500.0,13225.0,11500.0,Surgery
+1085,Cleft Palate Repair,12650.0,14548.0,12650.0,Surgery
+1086,Primary Bone Grafting for alveolar cleft in Cleft Lip,11500.0,13225.0,11500.0,Surgery
+1087,Secondary Surgery for Cleft Lip Deformity,10000.0,11500.0,10000.0,Surgery
+1088,Secondary Surgery for Cleft Palate,12650.0,14548.0,12650.0,Surgery
+1089,Reconstruction of Eyelid Defects - Minor,6325.0,7274.0,6325.0,Surgery
+1090,Reconstruction of Eyelid Defects - Major,8500.0,9775.0,8500.0,Surgery
+1091,Plastic Surgery of Different Regions of the Ear - Minor,8050.0,9258.0,8050.0,Surgery
+1092,Plastic Surgery of Different Regions of the Ear - Major,10350.0,11903.0,10350.0,Surgery
+1093,Plastic Surgery of the Nose - Minor,8050.0,9258.0,8050.0,Surgery
+1094,Plastic Surgery of the Nose - Major,9500.0,10925.0,9500.0,Surgery
+1095,Plastic Surgery for Facial Paralysis (Support with Reanimation),16100.0,18515.0,16100.0,Surgery
+1096,Pendulous Breast - Mammoplasty,13000.0,14950.0,13000.0,Surgery
+1097,Underdeveloped Breast Mammoplasty,12000.0,13800.0,12000.0,Surgery
+1098,After Mastectomy (Reconstruction)Mammoplasty,12000.0,13800.0,12000.0,Surgery
+1099,Syndactyly Repair,12750.0,14663.0,12750.0,Surgery
+1100,Dermabrasion Face,13225.0,15209.0,13225.0,Surgery
+1101,upto 30% Burns 1st Dressing,152.0,175.0,152.0,Surgery
+1102,upto 30% Burns Subsequent Dressing,124.0,143.0,124.0,Surgery
+1103,30% to 50% Burns 1st Dressing,193.0,222.0,193.0,Surgery
+1104,30% to 50% Burns Subsequent Dressing,152.0,175.0,152.0,Surgery
+1105,Extensive Burn -above 50% Frist Dressing,276.0,317.0,276.0,Surgery
+1106,Extensive Burn -above 50% Subsequent dressing,193.0,222.0,193.0,Surgery
+1107,Plaster Work,255.0,293.0,255.0,Surgery
+1108,Fingers (post slab),259.0,298.0,259.0,Surgery
+1109,Fingers full plaster,259.0,298.0,259.0,Surgery
+1110,Colles Fracture - Below elbow,978.0,1125.0,978.0,Surgery
+1111,Colles Fracture - Full plaster,994.0,1143.0,994.0,Surgery
+1112,Colles fracture Ant. Or post. slab,400.0,460.0,400.0,Surgery
+1113,Above elbow full plaster,173.0,199.0,173.0,Surgery
+1114,Above Knee post-slab,575.0,661.0,575.0,Surgery
+1115,Below Knee full plaster,173.0,199.0,173.0,Surgery
+1116,Below Knee post-slab,718.0,826.0,718.0,Surgery
+1117,Tube Plaster (or plaster cylinder),800.0,920.0,800.0,Surgery
+1118,Above knee full plaster,1265.0,1455.0,1265.0,Surgery
+1119,Above knee full slab,1158.0,1332.0,1158.0,Surgery
+1120,Minerva Jacket,2415.0,2777.0,2415.0,Surgery
+1121,Plaster Jacket,2185.0,2513.0,2185.0,Surgery
+1122,Shoulder spica,1955.0,2248.0,1955.0,Surgery
+1123,Single Hip spica,2243.0,2579.0,2243.0,Surgery
+1124,Double Hip spica,2760.0,3174.0,2760.0,Surgery
+1125,Strapping of Finger,179.0,206.0,179.0,Surgery
+1126,Strapping of Toes,180.0,207.0,180.0,Surgery
+1127,Strapping of Wrist,230.0,265.0,230.0,Surgery
+1128,Strapping of Elbow,262.0,301.0,262.0,Surgery
+1129,Strapping of Knee,345.0,397.0,345.0,Surgery
+1130,Strapping of Ankle,345.0,397.0,345.0,Surgery
+1131,Strapping of Chest,460.0,529.0,460.0,Surgery
+1132,Strapping of Shoulder,518.0,596.0,518.0,Surgery
+1133,Figure of 8 bandage,518.0,596.0,518.0,Surgery
+1134,Collar and cuff sling,255.0,293.0,255.0,Surgery
+1135,Ball bandage,400.0,460.0,400.0,Surgery
+1136,Application of POP Casts for Upper & Lower Limbs,633.0,728.0,633.0,Surgery
+1137,Application of Functional Cast Brace,1350.0,1553.0,1350.0,Surgery
+1138,Application of Skin Traction,690.0,794.0,690.0,Surgery
+1139,Application of Skeletal Tractions,949.0,1091.0,949.0,Surgery
+1140,Bandage & Strappings for Fractures,552.0,635.0,552.0,Surgery
+1141,Aspiration & Intra Articular Injections,575.0,661.0,575.0,Surgery
+1142,Application of POP Spices & Jackets,2473.0,2844.0,2473.0,Surgery
+1143,Close Reduction of Fractures of Limb & POP,2600.0,2990.0,2600.0,Surgery
+1144,Reduction of Compound Fractures,2760.0,3174.0,2760.0,Surgery
+1145,Open Reduction & Internal Fixation (ORIF) of Fingers & Toes,5175.0,5951.0,5175.0,Surgery
+1146,Open Reduction of fracture of Long Bones of Upper / Lower Limb -Nailing & External Fixation,8050.0,9258.0,8050.0,Surgery
+1147,Open Reduction of fracture of Long Bones of Upper / Lower Limb -AO Procedures,9660.0,11109.0,9660.0,Surgery
+1148,Tension Band Wirings,5658.0,6507.0,5658.0,Surgery
+1149,Bone Grafting,6601.0,7591.0,6601.0,Surgery
+1150,Excision of Bone Tumours,6900.0,7935.0,6900.0,Surgery
+1151,Excision or other Operations for Scaphoid Fractures,7188.0,8266.0,7188.0,Surgery
+1152,Sequestrectomy & Saucerisation,6900.0,7935.0,6900.0,Surgery
+1153,Sequestrectomy & Saucerizations -Arthrotomy,9971.0,11467.0,9971.0,Surgery
+1154,Multiple Pinning Fracture Neck Femur,11500.0,13225.0,11500.0,Surgery
+1155,Plate Fixations for Fracture Neck Femur,13500.0,15525.0,13500.0,Surgery
+1156,AO Compression Procedures for Fracture Neck Femur,16560.0,19044.0,16560.0,Surgery
+1157,Open Reduction of Fracture Neck Femur Muscle Pedicle Graft and Internal Fixations,19500.0,22425.0,19500.0,Surgery
+1158,Close Reduction of Dislocations,3174.0,3650.0,3174.0,Surgery
+1159,Open Reduction of Dislocations,3439.0,3955.0,3439.0,Surgery
+1160,Open Reduction & Internal Fixation (ORIF) of Fracture Dislocation,13500.0,15525.0,13500.0,Surgery
+1161,Neurolysis/Nerve repair,13800.0,15870.0,13800.0,Surgery
+1162,Nerve Repair with Grafting,16675.0,19176.0,16675.0,Surgery
+1163,Tendon with Transplant or Graft,10350.0,11903.0,10350.0,Surgery
+1164,Tendon Lengthening/Tendon repair,8050.0,9258.0,8050.0,Surgery
+1165,Tendon Transfer,3105.0,3571.0,3105.0,Surgery
+1166,Laminectomy Excision Disc and Tumours,4830.0,5555.0,4830.0,Surgery
+1167,Split Osteotomy and Internal Fixations,24150.0,27773.0,24150.0,Surgery
+1168,Anterolateral decompression for tuberculosis/ Costo- Transversectomy,3450.0,3968.0,3450.0,Surgery
+1169,Antereolateral Decompression and Spine Fusion,19350.0,22253.0,19350.0,Surgery
+1170,Corrective Osteotomy & Internal Fixation- short bones,13800.0,15870.0,13800.0,Surgery
+1171,Corrective Osteotomy & Internal Fixation- long bones,11040.0,12696.0,11040.0,Surgery
+1172,Arthrodesis of - Minor Joints,10350.0,11903.0,10350.0,Surgery
+1173,Arthrodesis of - Major Joints,10000.0,11500.0,10000.0,Surgery
+1174,Soft Tissue Operations for Congenital Talipes Equinovarus (CTEV),8050.0,9258.0,8050.0,Surgery
+1175,Soft Tissue Operations for Polio,6900.0,7935.0,6900.0,Surgery
+1176,Hemiarthroplasty- Hip,20000.0,23000.0,20000.0,Surgery
+1177,Hemiarthroplasty- Shoulder,20000.0,23000.0,20000.0,Surgery
+1178,Operations for Brachial Plexus & Cervical Rib,24150.0,27773.0,24150.0,Surgery
+1179,Amputations - Below Knee,6900.0,7935.0,6900.0,Surgery
+1180,Amputations - Below Elbow,6843.0,7869.0,6843.0,Surgery
+1181,Amputations - Above Knee,8050.0,9258.0,8050.0,Surgery
+1182,Amputations - Above Elbow,6843.0,7869.0,6843.0,Surgery
+1183,Amputations - Forequarter,13225.0,15209.0,13225.0,Surgery
+1184,Amputations -Hind Quarter and Hemipelvectomy,18400.0,21160.0,18400.0,Surgery
+1185,Disarticulations - Major joint,20700.0,23805.0,20700.0,Surgery
+1186,Disarticulations - Minor joint,12650.0,14548.0,12650.0,Surgery
+1187,Arthrography,9200.0,10580.0,9200.0,Surgery
+1188,Arthroscopy - Diagnostic,8568.0,9853.0,8568.0,Surgery
+1189,Arthroscopy-therapeutic: without implant,10000.0,11500.0,10000.0,Surgery
+1190,Arthroscopy-therapeutic: with implant,17250.0,19838.0,17250.0,Surgery
+1191,Soft Tissue Operation on Joints -Small,6900.0,7935.0,6900.0,Surgery
+1192,Soft Tissue Operation on Joints -Large,13500.0,15525.0,13500.0,Surgery
+1193,Myocutaneous and Fasciocutaneous Flap Procedures for Limbs,18630.0,21425.0,18630.0,Surgery
+1194,Removal of Wires & Screw,1760.0,2024.0,1760.0,Surgery
+1195,Removal of Plates,4140.0,4761.0,4140.0,Surgery
+1196,Total Hip Replacement (THR),79000.0,90850.0,79000.0,Surgery
+1197,Total Ankle Joint Replacement,95400.0,109710.0,95400.0,Surgery
+1198,Total Knee Joint Replacement (TKR),110000.0,126500.0,110000.0,Surgery
+1199,Total Shoulder Joint Replacement,79000.0,90850.0,79000.0,Surgery
+1200,Total Elbow Joint Replacement,79000.0,90850.0,79000.0,Surgery
+1201,Total Wrist Joint Replacement,100000.0,115000.0,100000.0,Surgery
+1202,Total finger joint replacement,20000.0,23000.0,20000.0,Surgery
+1203,Tubular external fixator,4600.0,5290.0,4600.0,Surgery
+1204,Ilizarov's external fixator,7763.0,8927.0,7763.0,Surgery
+1205,Pelvi-acetebular fracture -Internal fixation,8625.0,9919.0,8625.0,Surgery
+1206,Meniscectomy,12000.0,13800.0,12000.0,Surgery
+1207,Meniscus Repair,10000.0,11500.0,10000.0,Surgery
+1208,Anterior Cruciate Ligament (ACL) Reconstruction,8500.0,9775.0,8500.0,Surgery
+1209,Posterior Cruciate Ligament (PCL) Reconstruction,13500.0,15525.0,13500.0,Surgery
+1210,Knee Collateral Ligament Reconstruction,12500.0,14375.0,12500.0,Surgery
+1211,Bankart Repair Shoulder,13200.0,15180.0,13200.0,Surgery
+1212,RC Repair,1500.0,1725.0,1500.0,Surgery
+1213,Biceps tenodesis,14000.0,16100.0,14000.0,Surgery
+1214,Distal biceps tendon repair,10380.0,11937.0,10380.0,Surgery
+1215,Arthrolysis of knee,12500.0,14375.0,12500.0,Surgery
+1216,Capsulotomy of Shoulder,15800.0,18170.0,15800.0,Surgery
+1217,Conservative Plaster of Paris (POP),1200.0,1380.0,1200.0,Surgery
+1218,Application for CTEV per sitting,1200.0,1380.0,1200.0,Surgery
+1219,Total Hip Replacement (THR) Revision Stage-I,17000.0,19550.0,17000.0,Surgery
+1220,Total Hip Replacement (THR) Revision Stage-II,50000.0,57500.0,50000.0,Surgery
+1221,Total Knee Replacement (TKR) Revision Stage-I,35000.0,40250.0,35000.0,Surgery
+1222,Total Knee Replacement (TKR) Revision Stage-II,35000.0,40250.0,35000.0,Surgery
+1223,Illizarov/ external fixation for limb lengthening/ deformity correction,12500.0,14375.0,12500.0,Surgery
+1224,Discectomy/ Micro Discectomy,12500.0,14375.0,12500.0,Surgery
+1225,Laminectomy,4646.0,5343.0,4646.0,Surgery
+1226,Spinal Fixation Cervical/dorsolumbar/ lumbosacral,16000.0,18400.0,16000.0,Surgery
+1227,Fusion Surgery Cervical/ Lumbar Spine upto 2 Level,22000.0,25300.0,22000.0,Surgery
+1228,Spinal Fusion Surgery Cervical/ Lumbar Spine -More than 2 Level,12000.0,13800.0,12000.0,Surgery
+1229,Scoliosis Surgery/ Deformity Correction of Spine,25000.0,28750.0,25000.0,Surgery
+1230,Vertebroplasty,12000.0,13800.0,12000.0,Surgery
+1231,Spinal Injections,450.0,518.0,450.0,Surgery
+1232,Dynamic Hip Screw (DHS) for Fracture Neck Femur,15000.0,17250.0,15000.0,Surgery
+1233,Proximal Femoral Nail (PFN for IT Fracture),14000.0,16100.0,14000.0,Surgery
+1234,Spinal Osteotomy,1434.0,1649.0,1434.0,Surgery
+1235,Illizarov’s / External Fixation for Trauma,13000.0,14950.0,13000.0,Surgery
+1236,Soft Tissue Operations for Polio/ Cerebral Palsy,10557.0,12141.0,10557.0,Surgery
+1237,Mini Fixator for Hand/Foot,9000.0,10350.0,9000.0,Surgery
+1238,Other Major Surgery-Orthopedics,38250.0,43988.0,38250.0,Surgery
+1239,Other Minor Surgery-Orthopedics,11883.0,13665.0,11883.0,Surgery
+1240,Ultrasonic therapy,78.0,90.0,78.0,Surgery
+1241,Shortwave Diathermy (SWD),78.0,90.0,78.0,Surgery
+1242,Electrical stimulation (therapeutic),78.0,90.0,78.0,Surgery
+1243,Muscle testing and diagnostic,71.0,82.0,71.0,Test
+1244,Infrared,78.0,90.0,78.0,Surgery
+1245,Ultraviolet Therapeutic (UV Therapeutic) dose,58.0,67.0,58.0,Surgery
+1246,Intermittent Lumbar Traction,78.0,90.0,78.0,Surgery
+1247,Intermittent Cervical traction,75.0,86.0,75.0,Surgery
+1248,Wax bath,75.0,86.0,75.0,Surgery
+1249,Hot pack,78.0,90.0,78.0,Surgery
+1250,Breathing Exercises & Postural Drainage,50.0,58.0,50.0,Surgery
+1251,Cerebral Palsy – exercise,50.0,58.0,50.0,Surgery
+1252,Post – polio exercise,50.0,58.0,50.0,Surgery
+1253,Cobalt 60 therapy,63750.0,73313.0,63750.0,Surgery
+1254,Cobalt 60 therapy- Radical therapy,68425.0,78689.0,68425.0,Surgery
+1255,Cobalt 60 therapy- Palliative therapy,24438.0,28104.0,24438.0,Surgery
+1256,Linear accelerator,29750.0,34213.0,29750.0,Surgery
+1257,Linear accelerator- Radical therapy,58650.0,67448.0,58650.0,Surgery
+1258,Linear accelerator- Palliative therapy,34213.0,39345.0,34213.0,Surgery
+1259,3D Planning,4888.0,5621.0,4888.0,Surgery
+1260,2D Planning,4888.0,5621.0,4888.0,Surgery
+1261,IMRT(Intensity Modulated radiotherapy),100878.0,116010.0,100878.0,Surgery
+1262,SRT (Stereotactic radiotherapy),60996.0,70145.0,60996.0,Surgery
+1263,SRS(Stereotactic radio surgery),80546.0,92628.0,80546.0,Surgery
+1264,IGRT(Image guided radiotherapy),147016.0,169068.0,147016.0,Surgery
+1265,Respiratory Gating-alongwith Linear accelerator planning,110000.0,126500.0,110000.0,Surgery
+1266,Electron beam with Linear accelerator,67473.0,77594.0,67473.0,Surgery
+1267,Tomotherapy,79400.0,91310.0,79400.0,Surgery
+1268,Intracavitary (Brachytherapy),11730.0,13490.0,11730.0,Surgery
+1269,Interstitial (Brachytherapy),58650.0,67448.0,58650.0,Surgery
+1270,Intraluminal (Brachytherapy),9775.0,11241.0,9775.0,Surgery
+1271,Surface mould (Brachytherapy),4644.0,5341.0,4644.0,Surgery
+1272,Gliadel Wafer (Brachytherapy),93900.0,107985.0,93900.0,Surgery
+1273,Neoadjuvant Chemotherapy,863.0,992.0,863.0,Surgery
+1274,Adjuvant Chemotherapy,863.0,992.0,863.0,Surgery
+1275,Concurrent-chemoradiation,920.0,1058.0,920.0,Surgery
+1276,Single drug Chemotherapy,552.0,635.0,552.0,Surgery
+1277,Multiple drugs Chemotherapy,897.0,1032.0,897.0,Surgery
+1278,Targeted therapy,920.0,1058.0,920.0,Surgery
+1279,Chemoport facility,920.0,1058.0,920.0,Surgery
+1280,PICC line (peripherally inserted Central Cannulisation),920.0,1058.0,920.0,Surgery
+1281,Upper GI Endoscopy + Lower GI Endoscopy,1725.0,1984.0,1725.0,Scan
+1282,Diagnostic endoscopy,250.0,288.0,250.0,Scan
+1283,Endoscopic biopsy,345.0,397.0,345.0,Surgery
+1284,Endoscopic mucosal resection,1543.0,1774.0,1543.0,Surgery
+1285,Oesophageal stricture dilatation,1725.0,1984.0,1725.0,Surgery
+1286,Balloon dilatation of achalasia cardia,2875.0,3306.0,2875.0,Surgery
+1287,Foreign body removal,1725.0,1984.0,1725.0,Surgery
+1288,Oesophageal stenting,3000.0,3450.0,3000.0,Surgery
+1289,Band ligation of oesophageal varices,2500.0,2875.0,2500.0,Surgery
+1290,Sclerotherapy of oesophageal varices,2500.0,2875.0,2500.0,Surgery
+1291,Glue injection of varices,2500.0,2875.0,2500.0,Surgery
+1292,Argon plasma coagulation,4025.0,4629.0,4025.0,Surgery
+1293,Pyloric balloon dilatation,2415.0,2777.0,2415.0,Surgery
+1294,Enteranal stenting,3680.0,4232.0,3680.0,Surgery
+1295,Duodenal stricture dilation,990.0,1139.0,990.0,Surgery
+1296,Single balloon enteroscopy,4000.0,4600.0,4000.0,Surgery
+1297,Double balloon enteroscopy,3500.0,4025.0,3500.0,Surgery
+1298,Capsule endoscopy,4950.0,5693.0,4950.0,Scan
+1299,Piles banding,1099.0,1264.0,1099.0,Surgery
+1300,Colonic stricture dilatation,2737.0,3148.0,2737.0,Surgery
+1301,Hot biopsy forceps procedures,3000.0,3450.0,3000.0,Surgery
+1302,Colonic stenting,2737.0,3148.0,2737.0,Surgery
+1303,Junction biopsy,2000.0,2300.0,2000.0,Surgery
+1304,Conjugal microscopy,4000.0,4600.0,4000.0,Surgery
+1305,Endoscopic sphincterotomy,2415.0,2777.0,2415.0,Surgery
+1306,Common Bile Duct (CBD) stone extraction,2415.0,2777.0,2415.0,Scan
+1307,Common Bile Duct (CBD) stricture dilatation,6500.0,7475.0,6500.0,Scan
+1308,Biliary stenting (plastic and metallic),4830.0,5555.0,4830.0,Surgery
+1309,Mechanical lithotripsy of CBD stones,8000.0,9200.0,8000.0,Surgery
+1310,Pancreatic sphincterotomy,6375.0,7331.0,6375.0,Surgery
+1311,Pancreatic stricture dilatation,5750.0,6613.0,5750.0,Surgery
+1312,Pancreatic stone extraction,10098.0,11613.0,10098.0,Surgery
+1313,Mechanical lithotripsy of pancreatic stones,11385.0,13093.0,11385.0,Surgery
+1314,Endoscopic cysto gastrostomy,8050.0,9258.0,8050.0,Surgery
+1315,Balloon dilatation of papilla,6900.0,7935.0,6900.0,Surgery
+1317,Ultrasound guided abscess Drainage,720.0,828.0,720.0,Scan
+1318,Percutaneous Transhepatic Biliary Drainage (PTBD),1150.0,1323.0,1150.0,Surgery
+1319,Diagnostic angiography,2000.0,2300.0,2000.0,Scan
+1320,Vascular embolization,15100.0,17365.0,15100.0,Surgery
+1321,Transjugular Intrahepatic Portosystemic Shunt (TIPS),5400.0,6210.0,5400.0,Surgery
+1322,Inferior vena cava (IVC) Venography and Hepatic vein (HV) Venography,34212.0,39344.0,34212.0,Surgery
+1323,Muscular stenting,97750.0,112413.0,97750.0,Surgery
+1324,Balloon-occluded Retrograde Intravenous Obliteration (BRTO),57500.0,66125.0,57500.0,Surgery
+1325,Portal haemodymic studies,1913.0,2200.0,1913.0,Surgery
+1326,Manometry and PH metry,1612.0,1854.0,1612.0,Surgery
+1327,Oesophageal PH metry,5000.0,5750.0,5000.0,Surgery
+1328,Oesophageal manometry,5000.0,5750.0,5000.0,Surgery
+1329,Small bowel manometry,6800.0,7820.0,6800.0,Surgery
+1330,Anorectal manometry,6800.0,7820.0,6800.0,Surgery
+1331,Colonic manometry,7650.0,8798.0,7650.0,Surgery
+1332,Biliary manometry,7650.0,8798.0,7650.0,Surgery
+1333,Sengstaken blackenesse tube tempode,2875.0,3306.0,2875.0,Surgery
+1334,Lintas machles tube tempode,2875.0,3306.0,2875.0,Surgery
+1335,Faecal / Fecal fat test/ fecal chymotrypsin/ fecal elastase,350.0,403.0,350.0,Test
+1336,Breath tests,300.0,345.0,300.0,Test
+1337,Extracorporeal Shortwave Lithotripsy (ESWL) (Select CGHS rate code 888 for approved rate),41400.0,47610.0,41400.0,Scan
+1338,Liver biopsy,1380.0,1587.0,1380.0,Surgery
+1339,Dental IOPA X-ray,50.0,58.0,50.0,Scan
+1340,Occlusal X-ray,78.0,90.0,78.0,Scan
+1341,OPG X-ray,196.0,225.0,196.0,Scan
+1342,Lung Ventilation & Perfusion Scan (V/Q Scan),3600.0,4140.0,3600.0,Scan
+1343,Lung Perfusion Scan,2000.0,2300.0,2000.0,Scan
+1344,Whole Body Bone Scan with SPECT.,3421.0,3934.0,3421.0,Scan
+1345,Three phase whole body Bone Scan,3421.0,3934.0,3421.0,Scan
+1346,Brain Perfusion SPECT Scan with Technetium 99m radiopharmaceuticals.,9775.0,11241.0,9775.0,Scan
+1347,Radionuclide Cisternography for CSF leak,3740.0,4301.0,3740.0,Surgery
+1348,Gastro esophageal Reflux Study (GER Study),1955.0,2248.0,1955.0,Surgery
+1349,Gastro intestinal Bleed (GloB.) Study with Technetium 99m labeled RBCs.,3421.0,3934.0,3421.0,Test
+1350,Hepatobiliary Scintigraphy.,2444.0,2811.0,2444.0,Surgery
+1351,Meckel's Scan,1955.0,2248.0,1955.0,Scan
+1352,Hepatosplenic scintigraphy with Technetium-99m radiopharmaceuticals,1870.0,2151.0,1870.0,Surgery
+1353,Gastric emptying,1275.0,1466.0,1275.0,Surgery
+1354,Renal Cortical Scintigraphy with Technetium 99m Dimercaptosuccinic acid (DMSA),3421.0,3934.0,3421.0,Surgery
+1355,Dynamic Renography.,3421.0,3934.0,3421.0,Surgery
+1356,Dynamic Renography with Diuretic.,3421.0,3934.0,3421.0,Surgery
+1357,Dynamic Renography with Captopril,1960.0,2254.0,1960.0,Surgery
+1358,Testicular Scan,1445.0,1700.0,1445.0,Scan
+1359,Thyroid Uptake measurements with 131-Iodine.,1564.0,1799.0,1564.0,Surgery
+1360,Thyroid Scan with Technetium 99m Pertechnetate.,1615.0,1900.0,1615.0,Scan
+1361,Iodine-131 Whole Body Scan,2933.0,3373.0,2933.0,Scan
+1362,Whole Body Scan with MIBG,17595.0,20234.0,17595.0,Scan
+1363,Parathyroid Scan,4888.0,5621.0,4888.0,Scan
+1364,131-lodine Therapy,1530.0,1760.0,1530.0,Surgery
+1365,131-lodine Therapy <15mCi,3854.0,4432.0,3854.0,Surgery
+1366,131-lodine Therapy 15-50mCi,4956.0,5699.0,4956.0,Surgery
+1367,131-lodine Therapy 51-100mCi,12000.0,13800.0,12000.0,Surgery
+1368,131-lodine Therapy >100mCi,15000.0,17250.0,15000.0,Surgery
+1369,Phosphorus-32 therapy for metastatic bone pain palliation,5000.0,5750.0,5000.0,Surgery
+1370,Samarium-153 therapy for metastatic bone pain palliation,10450.0,12018.0,10450.0,Surgery
+1371,Radiosynovectomy with Yttrium,21250.0,24438.0,21250.0,Surgery
+1372,Stress thallium / Myocardial Perfusion Scintigraphy,9450.0,10868.0,9450.0,Surgery
+1373,Rest thallium / Myocardial Perfusion Scintigraphy,8000.0,9200.0,8000.0,Surgery
+1374,Venography,3300.0,3795.0,3300.0,Surgery
+1375,TMT,950.0,1120.0,950.0,Surgery
+1376,Transoesophageal Echocardiography (TEE),489.0,562.0,489.0,Scan
+1377,Lymph angiography,1613.0,1855.0,1613.0,Scan
+1378,Scintimammography.,4800.0,5520.0,4800.0,Surgery
+1379,Indium labelled octreotide Scan,73313.0,84310.0,73313.0,Scan
+1380,FDG Whole body PET / CT Scan (with or without contrast),10000.0,11500.0,10000.0,Scan
+1381,Brain / Heart FDG PET / CT Scan,10000.0,11500.0,10000.0,Scan
+1382,Gallium-68 Peptide PET / CT imaging for Neuroendocrine Tumor,10000.0,11500.0,10000.0,Scan
+1383,"Urine routine- pH, Specific gravity, sugar, protein and microscopy",35.0,40.0,35.0,Surgery
+1384,Urine Microalbumin,70.0,81.0,70.0,Surgery
+1385,Stool routine,35.0,40.0,35.0,Surgery
+1386,Stool occult blood,24.0,28.0,24.0,Surgery
+1387,Post coital smear examination,30.0,35.0,30.0,Surgery
+1388,Semen analysis,35.0,40.0,35.0,Test
+1389,Haemoglobin (Hb),18.0,21.0,18.0,Surgery
+1390,Total Leucocytic Count (TLC),31.0,36.0,31.0,Surgery
+1391,Differential Leucocytic Count (DLC),31.0,36.0,31.0,Surgery
+1392,Erythrocyte Sedimentation Rate (ESR),25.0,29.0,25.0,Surgery
+1393,"Total Red Cell count with MCV,MCH,MCHC,DRW",32.0,37.0,32.0,Surgery
+1394,"Complete Haemogram/CBC, Hb,RBC count and indices,TLC, DLC, Platelet, ESR, Peripheral smear examination",135.0,155.0,135.0,Surgery
+1395,Platelet count,48.0,55.0,48.0,Surgery
+1396,Reticulocyte count,48.0,55.0,48.0,Surgery
+1397,Absolute Eosinophil count (AEC),48.0,55.0,48.0,Surgery
+1398,Packed Cell Volume (PCV),13.0,15.0,13.0,Surgery
+1399,Peripheral Smear Examination,43.0,49.0,43.0,Surgery
+1400,Smear for Malaria parasite,41.0,47.0,41.0,Surgery
+1401,Bleeding Time,35.0,40.0,35.0,Surgery
+1402,Osmotic fragility Test,50.0,58.0,50.0,Test
+1403,Bone Marrow Smear Examination,70.0,81.0,70.0,Surgery
+1404,Bone Marrow Smear Examination with iron stain,250.0,288.0,250.0,Surgery
+1405,Bone Marrow Smear Examination and cytochemistry,440.0,506.0,440.0,Surgery
+1406,Activated partial ThromboplastinTime (APTT),102.0,117.0,102.0,Surgery
+1407,Rapid test for malaria(card test),44.0,51.0,44.0,Test
+1408,WBC cytochemistry for leukemia -Complete panel,110.0,127.0,110.0,Surgery
+1409,"Bleeding Disorder panel- PT, APTT, Thrombin Time Fibrinogen, D-Dimer/ Fibrinogen Degradation Products (FDP)",400.0,460.0,400.0,Surgery
+1410,Factor Assays-Factor VIII,720.0,828.0,720.0,Surgery
+1411,Factor Assays-Factor IX,680.0,782.0,680.0,Surgery
+1412,Platelet Function test,50.0,58.0,50.0,Test
+1413,"Tests for hypercoagulable states- Protein C, Protein S, Antithrombin",400.0,460.0,400.0,Test
+1414,Tests for lupus anticoagulant,150.0,173.0,150.0,Test
+1415,"Tests for Antiphospholipid antibody IgG, IgM ( for cardiolipin and B2 Glycoprotein 1)",500.0,575.0,500.0,Test
+1416,Thalassemia studies (Red Cell indices and Hb HPLC),560.0,644.0,560.0,Surgery
+1417,Tests for Sickling / Hb HPLC),77.0,89.0,77.0,Test
+1418,Blood Group & RH Type,30.0,35.0,30.0,Surgery
+1419,Cross match,50.0,58.0,50.0,Surgery
+1420,Coomb’s Test Direct,90.0,104.0,90.0,Test
+1421,Coomb’s Test Indirect,100.0,115.0,100.0,Test
+1422,3 cell panel- antibody screening for pregnant female,170.0,196.0,170.0,Test
+1423,11 cells panel for antibody identification,170.0,196.0,170.0,Surgery
+1424,Hepatitis B surface antigen (HBsAg),102.0,117.0,102.0,Surgery
+1425,Hepatitis C virus (HCV),128.0,147.0,128.0,Surgery
+1426,Human immunodeficiency virus- HIV I and II,150.0,173.0,150.0,Surgery
+1427,Venereal Disease Research Laboratory test (VDRL),43.0,49.0,43.0,Test
+1428,RH Antibody titer,80.0,92.0,80.0,Surgery
+1429,Platelet Concentrate,56.0,64.0,56.0,Surgery
+1430,Random Donor Platelet(RDP)- (Select CGHS rate Code 1828 for approved rate),128.0,147.0,128.0,Scan
+1431,Single Donor Platelet (SDP- Apheresis)- (Select CGHS rate Code 1830 for approved rate),150.0,173.0,150.0,Scan
+1432,Routine-H & E,90.0,104.0,90.0,Surgery
+1433,special stain,65.0,75.0,65.0,Surgery
+1434,Immunohistochemistry(IHC),750.0,863.0,750.0,Surgery
+1435,Frozen section,780.0,897.0,780.0,Surgery
+1436,Paraffin section,343.0,394.0,343.0,Surgery
+1437,Pap Smear,150.0,173.0,150.0,Surgery
+1438,Body fluid for Malignant cells,150.0,173.0,150.0,Surgery
+1439,Fine Needle Aspiration Cytology (FNAC),200.0,230.0,200.0,Surgery
+1440,Leukemia panel /Lymphoma panel,1536.0,1766.0,1536.0,Surgery
+1441,"Paroxysmal Nocturnal Hemoglobinuria (PNH) Panel-CD55,CD59",1000.0,1150.0,1000.0,Scan
+1442,Karyotyping (Select CGHS rate code 677 for approved rate),1539.0,1770.0,1539.0,Scan
+1443,Fluorescent in situ hybridization (FISH),500.0,575.0,500.0,Surgery
+1444,Blood Glucose Random,24.0,28.0,24.0,Surgery
+1445,"24 hrs urine for Proteins,Sodium, creatinine",50.0,58.0,50.0,Surgery
+1446,Blood Urea Nitrogen,54.0,62.0,54.0,Surgery
+1447,Serum Creatinine,55.0,63.0,55.0,Surgery
+1448,Urine Bile Pigment and Salt,25.0,29.0,25.0,Surgery
+1449,Urine Urobilinogen,20.0,23.0,20.0,Surgery
+1450,Urine Ketones,30.0,35.0,30.0,Surgery
+1451,Urine Occult Blood,35.0,40.0,35.0,Surgery
+1452,Urine total proteins,18.0,21.0,18.0,Surgery
+1453,Rheumatoid Factor / Rh Factor test,100.0,115.0,100.0,Test
+1454,Bence Jones protein,47.0,54.0,47.0,Surgery
+1455,Serum Uric Acid,55.0,63.0,55.0,Surgery
+1456,Serum Bilirubin total & direct,80.0,92.0,80.0,Surgery
+1457,Serum Iron,90.0,104.0,90.0,Surgery
+1458,C-reactive Protein (CRP),100.0,115.0,100.0,Surgery
+1459,C-reactive Protein (CRP) Quantitative,160.0,184.0,160.0,Surgery
+1460,"Body fluid (CSF/Ascitic Fluid etc.)Sugar, Protein etc.",90.0,104.0,90.0,Surgery
+1461,Albumin.,18.0,21.0,18.0,Surgery
+1462,Creatinine clearance.,80.0,92.0,80.0,Surgery
+1463,Serum Cholesterol,62.0,71.0,62.0,Surgery
+1464,Total Iron Binding Capacity (TIBC),80.0,92.0,80.0,Surgery
+1465,Glucose (Fasting & PP),47.0,54.0,47.0,Surgery
+1466,Serum Calcium –Total,60.0,69.0,60.0,Surgery
+1467,Serum Calcium –Ionic,44.0,51.0,44.0,Surgery
+1468,Serum Phosphorus,60.0,69.0,60.0,Surgery
+1469,Total Protein Alb/Glo Ratio,50.0,58.0,50.0,Surgery
+1470,Immunoglobulin G (IgG),250.0,288.0,250.0,Surgery
+1471,Immunoglobulin M(IgM),250.0,288.0,250.0,Surgery
+1472,Immunoglobulin A(IgA),250.0,288.0,250.0,Surgery
+1473,Antinuclear antibody (ANA),200.0,230.0,200.0,Surgery
+1474,Anti-double stranded DNA (anti-dsDNA),350.0,403.0,350.0,Surgery
+1475,Serum glutamic pyruvic transaminase (SGPT) / Alanine Aminotransferase (ALT),55.0,63.0,55.0,Surgery
+1476,Serum Glutamic oxaloacetic transaminase (SGOT) / Aspartate Aminotransferase (AST),55.0,63.0,55.0,Surgery
+1477,Serum amylase,117.0,135.0,117.0,Surgery
+1478,Serum Lipase,130.0,150.0,130.0,Surgery
+1479,Serum Lactate,72.0,83.0,72.0,Surgery
+1480,Serum Magnesium,100.0,115.0,100.0,Surgery
+1481,Serum Sodium,50.0,58.0,50.0,Surgery
+1482,Serum Potassium,50.0,58.0,50.0,Surgery
+1483,Serum Ammonia,100.0,115.0,100.0,Surgery
+1484,Anemia Profile,204.0,235.0,204.0,Test
+1485,Serum Testosterone,150.0,173.0,150.0,Test
+1486,Imprint Smear From Endoscopy,240.0,276.0,240.0,Scan
+1487,Triglycerides,75.0,86.0,75.0,Surgery
+1488,Glucose Tolerance Test (GTT),90.0,104.0,90.0,Test
+1489,Triple Marker.,800.0,920.0,800.0,Surgery
+1490,Creatine Phosphokinase (CPK)/Creatine Kinase (CK),100.0,115.0,100.0,Surgery
+1491,Foetal Haemoglobin (HbF),85.0,98.0,85.0,Surgery
+1492,Prothrombin Time (PT),110.0,127.0,110.0,Surgery
+1493,Lactate dehydrogenase (LDH),100.0,115.0,100.0,Surgery
+1494,Alkaline Phosphatase,60.0,69.0,60.0,Surgery
+1495,Acid Phosphatase,78.0,90.0,78.0,Surgery
+1496,CPK MB/CK MB,190.0,219.0,190.0,Surgery
+1497,CK MB Mass/CPK MB Mass,140.0,161.0,140.0,Surgery
+1498,Troponin I,100.0,115.0,100.0,Surgery
+1499,Troponin T,600.0,690.0,600.0,Surgery
+1500,Glucose-6-Phosphate Dehydrogenase (G6PD),100.0,115.0,100.0,Surgery
+1501,Lithium.,130.0,150.0,130.0,Surgery
+1502,Dilantin (phenytoin).,400.0,460.0,400.0,Surgery
+1503,Carbamazepine.,400.0,460.0,400.0,Surgery
+1504,Valproic acid.,300.0,345.0,300.0,Surgery
+1505,Ferritin (Select CGHS rate code 1517 for approved rate),250.0,288.0,250.0,Scan
+1506,Blood gas analysis / Arterial Blood Gas (ABG),120.0,138.0,120.0,Test
+1507,Blood gas analysis / Arterial Blood Gas (ABG) with electrolytes,460.0,529.0,460.0,Test
+1508,Urine pregnancy test,65.0,75.0,65.0,Test
+1509,Tests for Antiphospholipid antibodies syndrome.,280.0,322.0,280.0,Test
+1510,Glycosylated Haemoglobin (HbA1c),130.0,150.0,130.0,Surgery
+1511,Haemoglobin Electrophoresis/ Hb HPLC (Select CGHS rate code 1417 for approved rate),100.0,115.0,100.0,Scan
+1512,Kidney Function Test (KFT),225.0,259.0,225.0,Test
+1513,Liver Function Test (LFT),225.0,259.0,225.0,Test
+1514,"Lipid Profile. (Total cholesterol, LDL, HDL, Triglycerides)",200.0,230.0,200.0,Test
+1515,Serum Iron,90.0,104.0,90.0,Surgery
+1516,Total Iron Binding Capacity (Select CGHS rate code 1464 for approved rate),90.0,104.0,90.0,Scan
+1517,Serum Ferritin,100.0,115.0,100.0,Surgery
+1518,Vitamin B12 assay.,250.0,288.0,250.0,Surgery
+1519,Folic Acid assay.,300.0,345.0,300.0,Surgery
+1520,"Extended Lipid Profile. (Total cholesterol, LDL, HDL, Triglycerides Apo A1,Apo B,Lp (a) )",595.0,684.0,595.0,Test
+1521,Apolipoprotein A1 (ApoA1),200.0,230.0,200.0,Surgery
+1522,Apolipoprotein B (Apo B),199.0,229.0,199.0,Surgery
+1523,Lipoprotein A / Lp A,445.0,512.0,445.0,Surgery
+1524,"CD 3,4 and 8 counts",170.0,196.0,170.0,Surgery
+1525,"CD 3,4 and 8 percentage",170.0,196.0,170.0,Surgery
+1526,Low density lipoprotein (LDL),62.0,71.0,62.0,Surgery
+1527,Homocysteine.,400.0,460.0,400.0,Surgery
+1528,Haemoglobin (Hb) Electrophoresis/ (Select CGHS rate code 1417 for approved rate),440.0,506.0,440.0,Scan
+1529,Serum Electrophoresis.,220.0,253.0,220.0,Surgery
+1530,Fibrinogen.,165.0,190.0,165.0,Surgery
+1531,Chloride.,60.0,69.0,60.0,Surgery
+1532,Magnesium.,150.0,173.0,150.0,Surgery
+1533,Gamma-Glutamyl Transpeptidase (GGTP),90.0,104.0,90.0,Surgery
+1534,Lipase.,239.0,275.0,239.0,Surgery
+1535,Fructosamine.,200.0,230.0,200.0,Surgery
+1536,Beta 2 microglobulin (B2M) /β2 microglobulin,90.0,104.0,90.0,Surgery
+1537,Catecholamines.,1050.0,1208.0,1050.0,Scan
+1539,Prostate Specific antigen (PSA)- Total.,312.0,359.0,312.0,Surgery
+1540,Prostate-specific antigen (PSA) - Free.,375.0,431.0,375.0,Surgery
+1541,Alpha Fetoprotein (AFP),300.0,345.0,300.0,Surgery
+1542,Human chorionic gonadotropin (HCG),289.0,332.0,289.0,Surgery
+1543,Cancer Antigen 125 (CA 125),391.0,450.0,391.0,Surgery
+1544,Cancer Antigen 19.9 (CA 19.9),616.0,708.0,616.0,Surgery
+1545,Cancer Antigen 15.3 (CA 15.3),560.0,644.0,560.0,Surgery
+1546,Vanillylmandelic Acid (VMA),350.0,403.0,350.0,Surgery
+1547,Calcitonin,500.0,575.0,500.0,Surgery
+1548,Carcinoembryonic Antigen (CEA),340.0,391.0,340.0,Surgery
+1549,Immunofluorescence,150.0,173.0,150.0,Surgery
+1550,Direct(Skin and kidney Disease),425.0,489.0,425.0,Surgery
+1551,Indirect (antids DNA Anti Smith ANCA),425.0,489.0,425.0,Scan
+1552,Calcidiol / 25-hydroxycholecalciferol / Vitamin D3 assay (Vit D3),550.0,633.0,550.0,Surgery
+1553,Serum Protein electrophoresis with immunofixation electrophoresis (IFE),300.0,345.0,300.0,Surgery
+1554,BETA-2 Microglobulin assay (Select CGHS rate code 1536 for approved rate),100.0,115.0,100.0,Scan
+1555,Anti-Cyclic Citrullinated Peptide (Anti CCP),450.0,518.0,450.0,Surgery
+1556,Anti-tissue Transglutaminase antibody (Anti TTG Antibody),425.0,489.0,425.0,Surgery
+1557,Serum Erythropoietin,425.0,489.0,425.0,Surgery
+1558,Adrenocorticotropic Hormone (ACTH),500.0,575.0,500.0,Surgery
+1559,"T3, T4, TSH",200.0,230.0,200.0,Surgery
+1560,Triiodothyronine- T3,64.0,74.0,64.0,Surgery
+1561,Tetraiodothyronine T4,64.0,74.0,64.0,Surgery
+1562,Thyroid stimulating hormone (TSH),90.0,104.0,90.0,Surgery
+1563,Luteinizing hormone (LH),150.0,173.0,150.0,Surgery
+1564,Follicle stimulating hormone (FSH),150.0,173.0,150.0,Surgery
+1565,Prolactin,150.0,173.0,150.0,Surgery
+1566,Cortisol,250.0,288.0,250.0,Surgery
+1567,PTH(Parathormone),500.0,575.0,500.0,Surgery
+1568,C-Peptide (C Peptide / Connecting Peptide),330.0,380.0,330.0,Surgery
+1569,Insulin.,150.0,173.0,150.0,Surgery
+1570,Progesterone.,225.0,259.0,225.0,Surgery
+1571,17 Hydroxyprogesterone (17 OH Progesterone),440.0,506.0,440.0,Surgery
+1572,Dehydroepiandrosterone sulfate (DHEAS),440.0,506.0,440.0,Surgery
+1573,Androstenedione,600.0,690.0,600.0,Surgery
+1574,Growth Hormone.,340.0,391.0,340.0,Surgery
+1575,Thyroid peroxidase antibody (TPO),300.0,345.0,300.0,Surgery
+1576,Thyroglobulin.,300.0,345.0,300.0,Surgery
+1577,Hydatic Serology.,318.0,366.0,318.0,Surgery
+1578,Anti Sperm Antibodies.,380.0,437.0,380.0,Surgery
+1579,Hepatitis B Virus (HBV) DNA Qualitative,2000.0,2300.0,2000.0,Surgery
+1580,Hepatitis B Virus (HBV) DNA Quantitative.,1500.0,1725.0,1500.0,Surgery
+1581,Hepatitis C Virus (HCV) RNA Qualitative.,1691.0,1945.0,1691.0,Surgery
+1582,Human papillomaviruse (HPV) Serology,218.0,251.0,218.0,Surgery
+1583,Rota Virus serology,130.0,150.0,130.0,Surgery
+1584,PCR for Tuberculosis (TB),900.0,1035.0,900.0,Surgery
+1585,PCR for Human immunodeficiency virus (HIV),600.0,690.0,600.0,Surgery
+1586,Chlamydae antigen,850.0,978.0,850.0,Surgery
+1587,Chlamydae antibody,238.0,274.0,238.0,Surgery
+1588,Brucella serology,230.0,265.0,230.0,Surgery
+1589,Influenza A serology,943.0,1084.0,943.0,Surgery
+1590,USG for Obstetrics - Anomalies scan,1700.0,2000.0,1700.0,Scan
+1591,USG Whole abdomen/ KUB,680.0,800.0,680.0,Scan
+1592,USG Pelvis/ Gynaec,425.0,500.0,425.0,Scan
+1593,"Small parts USG ( scrotum, thyroid , parathyroid etc)",349.0,401.0,349.0,Scan
+1594,Neonatal head (Tranfontanellar),425.0,489.0,425.0,Surgery
+1595,Neonatal spine,500.0,575.0,500.0,Surgery
+1596,Contrast enhanced USG,900.0,1035.0,900.0,Scan
+1597,USG Breast,680.0,800.0,680.0,Scan
+1598,HSG,2040.0,2400.0,2040.0,Surgery
+1599,Carotid Doppler,850.0,978.0,850.0,Scan
+1600,Arterial Colour Doppler,706.0,812.0,706.0,Scan
+1601,Venous Colour Doppler,706.0,812.0,706.0,Scan
+1602,"Colour Doppler, renal arteries/any other organ",800.0,920.0,800.0,Scan
+1603,USG guided FNAC,1530.0,1800.0,1530.0,Scan
+1604,USG guided intervention - biopsy,720.0,828.0,720.0,Scan
+1605,USG guided intervention - nephrostomy,800.0,920.0,800.0,Scan
+1606,Abdomen AP Supine or Erect (One film),215.0,250.0,215.0,Scan
+1607,Abdomen Lateral view (one film),128.0,147.0,128.0,Surgery
+1608,Chest X-ray PA View (one film),195.0,230.0,195.0,Scan
+1609,Chest X-ray lateral View (one film),195.0,230.0,195.0,Scan
+1610,"Mastoids: Towne view, oblique views (3 films)",250.0,288.0,250.0,Surgery
+1611,"Extremities, bones & Joints AP & Lateral views (Two films)",255.0,293.0,255.0,Surgery
+1612,Pelvis AP (one film),110.0,127.0,110.0,Surgery
+1613,Temporomandibular (TM) Joints (one film),110.0,127.0,110.0,Surgery
+1614,Abdomen & Pelvis for KUB,128.0,147.0,128.0,Surgery
+1615,Skull AP & Lateral (2 films),255.0,293.0,255.0,Surgery
+1616,Spine AP & Lateral (2 films),250.0,288.0,250.0,Surgery
+1617,PNS view (1 film),110.0,127.0,110.0,Surgery
+1618,Barium Swallow,510.0,587.0,510.0,Surgery
+1619,Barium Upper GI study,800.0,920.0,800.0,Surgery
+1620,Barium Upper GI study (Double contrast),935.0,1075.0,935.0,Surgery
+1621,Barium Meal follow through,935.0,1075.0,935.0,Surgery
+1622,Barium Enema (Single contrast/double contrast),850.0,978.0,850.0,Surgery
+1623,Small bowel enteroclysis,1020.0,1173.0,1020.0,Surgery
+1624,ERCP (Endoscopic Retrograde Cholangio – Pancreatography),2500.0,2875.0,2500.0,Surgery
+1625,General:Fistulography / Sinography/Sialography /Dacrocystography/ T-Tube cholangiogram /Nephrostogram,638.0,734.0,638.0,Scan
+1626,Percutaneous transhepatic cholangiography (PTC),1440.0,1656.0,1440.0,Scan
+1627,Intravenous Pyelography (IVP),1400.0,1650.0,1400.0,Surgery
+1628,Micturating Cystourethrography (MCU),950.0,1120.0,950.0,Surgery
+1629,Retrograde Urethrography (RGU),950.0,1120.0,950.0,Surgery
+1630,Contrast Hystero-Salpingography (HSG),1020.0,1173.0,1020.0,Surgery
+1631,X-ray Arthrography,700.0,805.0,700.0,Scan
+1632,Cephalography,150.0,173.0,150.0,Surgery
+1633,Myelography,2750.0,3163.0,2750.0,Surgery
+1634,Diagnostic Digital Subtraction Angiography (DSA),1749.0,2011.0,1749.0,Scan
+1635,Mammography B/L,1170.0,1375.0,1170.0,Surgery
+1636,MRI Mammography,2550.0,2933.0,2550.0,Scan
+1637,NCCT Head,880.0,1035.0,880.0,Scan
+1638,CT Scan Head- with Contrast -With Contrast including CT angiography,1350.0,1553.0,1350.0,Scan
+1639,CT Scan Chest - without contrast (for lungs),1700.0,1955.0,1700.0,Scan
+1640,CT Scan Lower Abdomen (incl. Pelvis) With Contrast,1700.0,1955.0,1700.0,Scan
+1641,CT Scan Lower Abdomen (Incl. Pelvis) Without Contrast,1500.0,1725.0,1500.0,Scan
+1642,CT Scan Whole Abdomen Without Contrast,3000.0,3450.0,3000.0,Scan
+1643,CT Scan Whole Abdomen With Contrast,4500.0,5175.0,4500.0,Scan
+1644,Triple Phase CT abdomen,4500.0,5175.0,4500.0,Scan
+1645,CT Scan angiography abdomen/ Chest,4500.0,5175.0,4500.0,Scan
+1646,CT Scan Enteroclysis,6000.0,6900.0,6000.0,Scan
+1647,CT Scan Neck – Without Contrast,1500.0,1725.0,1500.0,Scan
+1648,CT Scan Neck – With Contrast,1870.0,2151.0,1870.0,Scan
+1649,CT Scan Orbits - Without Contrast,1190.0,1369.0,1190.0,Scan
+1650,CT Scan Orbits - With Contrast,1615.0,1857.0,1615.0,Scan
+1651,CT Scan of Para Nasal Sinuses- Without Contrast,900.0,1035.0,900.0,Scan
+1652,CT Scan of Para Nasal Sinuses - With Contrast,1600.0,1840.0,1600.0,Scan
+1653,"CT Scan Spine (Cervical, Dorsal, Lumbar, Sacral)–without Contrast",1500.0,1725.0,1500.0,Scan
+1654,CT Scan Temporal bone – without contrast,893.0,1027.0,893.0,Scan
+1655,CT Scan- Dental,1275.0,1466.0,1275.0,Scan
+1656,CT Scan Limbs -Without Contrast,1700.0,1955.0,1700.0,Scan
+1657,CT Scan Limbs -With Contrast including CT angiography,2253.0,2591.0,2253.0,Scan
+1658,CT Guided intervention –FNAC,1200.0,1380.0,1200.0,Scan
+1659,CT Guided Trucut Biopsy,1200.0,1380.0,1200.0,Scan
+1660,CT Guided intervention -percutaneous catheter drainage/tube placement,1305.0,1501.0,1305.0,Scan
+1661,MRI Brain,2125.0,2500.0,2125.0,Scan
+1662,MRI Head – With Contrast,2848.0,3275.0,2848.0,Scan
+1663,MRI Orbit,1445.0,1700.0,1445.0,Scan
+1664,MRI Orbits – With Contrast,2000.0,2300.0,2000.0,Scan
+1665,MRI Nasopharynx and PNS – Without Contrast,2450.0,2818.0,2450.0,Scan
+1666,MRI Nasopharynx and PNS – With Contrast,3500.0,4025.0,3500.0,Scan
+1667,MR for Salivary Glands with Sialography,3000.0,3450.0,3000.0,Surgery
+1668,MRI Neck - Without Contrast,3000.0,3450.0,3000.0,Scan
+1669,MRI Neck- with contrast,5000.0,5750.0,5000.0,Scan
+1670,MRI Shoulder – Without contrast,2000.0,2300.0,2000.0,Scan
+1671,MRI Shoulder – With contrast,2600.0,2990.0,2600.0,Scan
+1672,MRI shoulder both Joints - Without contrast,3000.0,3450.0,3000.0,Scan
+1673,MRI Shoulder both joints – With contrast,4000.0,4600.0,4000.0,Scan
+1674,MRI Wrist Single joint - Without contrast,2550.0,3000.0,2550.0,Scan
+1675,MRI Wrist Single joint - With contrast,4000.0,4600.0,4000.0,Scan
+1676,MRI Wrist Both joints - Without contrast,3400.0,4000.0,3400.0,Scan
+1677,MRI Wrist Both joints - With contrast,5000.0,5750.0,5000.0,Scan
+1678,MRI knee single joint - Without contrast,2550.0,3000.0,2550.0,Scan
+1679,MRI knee Single joint - With contrast,5000.0,5750.0,5000.0,Scan
+1680,MRI knees Both joints - Without contrast,3400.0,4000.0,3400.0,Scan
+1681,MRI knee both joints - With contrast,5000.0,5750.0,5000.0,Scan
+1682,MRI Ankle Single joint - Without contrast,2125.0,2444.0,2125.0,Scan
+1683,MRI Ankle single joint - With contrast,4250.0,5000.0,4250.0,Scan
+1684,MRI Ankle Both joints - With contrast,5525.0,6500.0,5525.0,Scan
+1685,MRI Ankle both joints - Without contrast,2500.0,2875.0,2500.0,Scan
+1686,MRI Hip - With contrast,2500.0,2875.0,2500.0,Scan
+1687,MRI Hip – without contrast,2125.0,2444.0,2125.0,Scan
+1688,MRI Pelvis – Without Contrast,2125.0,2444.0,2125.0,Scan
+1689,MRI Pelvis – with contrast,5000.0,5750.0,5000.0,Scan
+1690,MRI Extremities - With contrast,5000.0,5750.0,5000.0,Scan
+1691,MRI Extremities - Without contrast,2125.0,2444.0,2125.0,Scan
+1692,MRI Temporomandibular – B/L - With contrast,4000.0,4600.0,4000.0,Scan
+1693,MRI Temporomandibular – B/L - Without contrast,2125.0,2444.0,2125.0,Scan
+1694,MR Temporal Bone/ Inner ear with contrast,4000.0,4600.0,4000.0,Surgery
+1695,MR Temporal Bone/ Inner ear without contrast,2500.0,2875.0,2500.0,Surgery
+1696,MRI Abdomen – Without Contrast,2125.0,2444.0,2125.0,Scan
+1697,MRI Abdomen – With Contrast,5000.0,5750.0,5000.0,Scan
+1698,MRI Breast - With Contrast,4250.0,4888.0,4250.0,Scan
+1699,MRI Breast - Without Contrast,2125.0,2444.0,2125.0,Scan
+1700,MRI whole Spine Screening,1700.0,2000.0,1700.0,Scan
+1701,MRI Chest – Without Contrast,2125.0,2444.0,2125.0,Scan
+1702,MRI Chest – With Contrast,4000.0,4600.0,4000.0,Scan
+1703,MRI whole Spine,3400.0,4000.0,3400.0,Scan
+1704,MRI Cervical/ Cervico Dorsal Spine – With Contrast,4000.0,4600.0,4000.0,Scan
+1705,MRI Dorsal/ Dorso Lumbar Spine - Without Contrast,2125.0,2444.0,2125.0,Scan
+1706,MRI Dorsal/ Dorso Lumbar Spine – With Contrast,4000.0,4600.0,4000.0,Scan
+1707,MRI Lumbar/ Lumbo-Sacral Spine – Without Contrast,2125.0,2444.0,2125.0,Scan
+1708,MRI Lumbar/ Lumbo-Sacral Spine – With Contrast,5000.0,5750.0,5000.0,Scan
+1709,Whole body MRI (For oncological workup),5100.0,5865.0,5100.0,Scan
+1710,MR cholecysto-pancreatography.,5500.0,6325.0,5500.0,Surgery
+1711,MRI Angiography - with contrast,5000.0,5750.0,5000.0,Scan
+1712,MR Enteroclysis,2125.0,2444.0,2125.0,Surgery
+1713,Dexa Scan Bone Densitometry - Two sites,1500.0,1725.0,1500.0,Scan
+1714,"Dexa Scan Bone Densitometry - Three sites (Spine, Hip &extremity)",2000.0,2300.0,2000.0,Scan
+1715,Dexa Scan Bone Densitometry Whole body,2450.0,2818.0,2450.0,Scan
+1716,Electroencephalogram (EEG)/ Video EEG,298.0,343.0,298.0,Scan
+1717,Electromyography (EMG),638.0,734.0,638.0,Surgery
+1718,Nerve Conduction Velocity(NCV) (at least 2 limbs),638.0,734.0,638.0,Surgery
+1719,Repititive nerve stimulation (RNS)-Decremental response (before and after neostigmine),595.0,684.0,595.0,Surgery
+1720,Repetitive nerve stimulation (RNS)-Incremental response,595.0,684.0,595.0,Scan
+1721,Somatosensory evoked potentials (SSEP),638.0,734.0,638.0,Surgery
+1722,Polysomnography (PSG) / Sleep study,638.0,734.0,638.0,Surgery
+1723,Brachial plexus study,638.0,734.0,638.0,Surgery
+1724,Muscle biopsy,383.0,440.0,383.0,Surgery
+1725,Acetylcholine receptor (AChR) antibody titre,1848.0,2125.0,1848.0,Surgery
+1726,Anti muscle specific receptor tyrosine kinase (Anti MuSK) antibody titre,2340.0,2691.0,2340.0,Surgery
+1727,Serum copper,500.0,575.0,500.0,Surgery
+1728,Serum ceruloplasmin,450.0,518.0,450.0,Surgery
+1729,Urinary copper,500.0,575.0,500.0,Surgery
+1730,Serum homocysteine,450.0,518.0,450.0,Surgery
+1731,Serum valproate level,315.0,362.0,315.0,Surgery
+1732,Serum phenobarbitone level,350.0,403.0,350.0,Surgery
+1733,Coagulation profile,553.0,636.0,553.0,Test
+1734,"Protein C, Protein S, Antithrombin–III (Select CGHS rate code 1413 for approved rates)",2400.0,2760.0,2400.0,Scan
+1735,Serum lactate level (Select CGHS rate code 1479 for approved rate),450.0,518.0,450.0,Scan
+1736,"Basic studies including cell count, protein, sugar, gram stain,India Ink preparation and smear for AFP",240.0,276.0,240.0,Surgery
+1737,Special studies,1000.0,1150.0,1000.0,Surgery
+1738,PCR for tuberculosis/ Herpes simplex,1200.0,1380.0,1200.0,Surgery
+1739,Bacterial culture and sensitivity,200.0,230.0,200.0,Surgery
+1740,Mycobacterial culture and sensitivity,200.0,230.0,200.0,Surgery
+1741,Fungal culture,128.0,147.0,128.0,Surgery
+1742,Malignant cells,64.0,74.0,64.0,Surgery
+1743,Anti measles antibody titre (with serum antibody titre),890.0,1024.0,890.0,Surgery
+1744,Viral culture,255.0,293.0,255.0,Surgery
+1745,"Antibody titre (Herpes simplex, cytomegalo virus, flavivirus, zoster varicella virus)",760.0,874.0,760.0,Surgery
+1746,Oligoclonal band,1200.0,1380.0,1200.0,Surgery
+1747,Myelin Basic protein,1871.0,2152.0,1871.0,Surgery
+1748,Lactate (Select CGHS rate code 1479 for approved rate),298.0,343.0,298.0,Scan
+1749,Cryptococcal antigen,1138.0,1309.0,1138.0,Surgery
+1750,D-xylase test,850.0,978.0,850.0,Test
+1751,Faecal / Fecal fat test/ fecal chymotrypsin/ fecal elastase (Select CGHS rate code 1335 for approved rate),850.0,978.0,850.0,Scan
+1752,Breath tests (select CGHS rate code 1336 for approved rate),1300.0,1495.0,1300.0,Scan
+1753,H pylori serology for Coeliac disease /Celiac disease,500.0,575.0,500.0,Surgery
+1754,HBV genotyping,2500.0,2875.0,2500.0,Surgery
+1755,HCV genotyping,4875.0,5606.0,4875.0,Surgery
+1756,Urinary vanillylmandelic acid (VMA),1500.0,1725.0,1500.0,Surgery
+1757,Urinary metanephrine/Normetanephrine,1138.0,1309.0,1138.0,Surgery
+1758,Urinary free catecholamine,1690.0,1944.0,1690.0,Scan
+1759,Serum catecholamine,3400.0,3910.0,3400.0,Scan
+1760,Serum aldosterone,1125.0,1294.0,1125.0,Surgery
+1761,24 Hr urinary aldosterone,920.0,1058.0,920.0,Surgery
+1762,Plasma renin activity,1000.0,1150.0,1000.0,Surgery
+1763,Serum aldosterone/renin ratio,1200.0,1380.0,1200.0,Surgery
+1764,Osmolality urine,128.0,147.0,128.0,Surgery
+1765,Osmolality serum,128.0,147.0,128.0,Surgery
+1766,Urinary sodium,80.0,92.0,80.0,Surgery
+1767,Urinary Chloride,43.0,49.0,43.0,Surgery
+1768,Urinary potassium,80.0,92.0,80.0,Surgery
+1769,Urinary calcium,80.0,92.0,80.0,Surgery
+1770,Thyroid binding globulin,510.0,587.0,510.0,Surgery
+1771,24 hour urinary free cortisole,200.0,230.0,200.0,Surgery
+1772,Islet cell antibody,750.0,863.0,750.0,Surgery
+1773,Glutamic Acid Decarboxylase Autoantibodies test (GAD antibodies),1330.0,1530.0,1330.0,Test
+1774,Insulin associated antibody,449.0,516.0,449.0,Surgery
+1775,Insulin-like growth factor-1 (IGF-1),1500.0,1725.0,1500.0,Surgery
+1776,Insulin-like growth factor binding protein 3 (IGF-BP3),1650.0,1898.0,1650.0,Surgery
+1777,Sex hormone binding globulin,1333.0,1533.0,1333.0,Surgery
+1778,USG guided FNAC thyroid gland,387.0,445.0,387.0,Scan
+1779,Estradiol (E2),208.0,239.0,208.0,Surgery
+1780,Thyroglobulin antibody,587.0,675.0,587.0,Surgery
+1781,"Kappa Lambda Light Chains, Free, Serum/ Serum free light chains (SFLC)",3500.0,4025.0,3500.0,Surgery
+1782,Serum IGE Level,300.0,345.0,300.0,Surgery
+1783,NT-Pro BNP,1800.0,2070.0,1800.0,Surgery
+1784,CECT Thorax,2445.0,2875.0,2445.0,Scan
+1785,MRI-Prostate (Multi-parametric) (Including CD),6000.0,6900.0,6000.0,Scan
+1786,HCV RNA Quantitative,1500.0,1725.0,1500.0,Surgery
+1787,Tacrolimus,2300.0,2645.0,2300.0,Surgery
+1788,"Protein Creatinine Ratio (PCR), Urine / Albumen Creatinine Ratio (ACR), Urine",120.0,138.0,120.0,Surgery
+1789,Fibroscan Liver,1000.0,1150.0,1000.0,Scan
+1790,HLA B27 (PCR),500.0,575.0,500.0,Surgery
+1791,Mantoux Test,175.0,200.0,175.0,Test
+1792,Procalcitonin,1800.0,2070.0,1800.0,Surgery
+1793,TORCH Test,1120.0,1288.0,1120.0,Test
+1794,Intracoronary optical coherence tomography (OCT) / Intravascular) optical coherence tomography (IVOCT) Intravascular Ventricular Assist System,65000.0,65000.0,65000.0,Scan
+1796,Anti –Smooth Muscle Antibody Test (ASMA),1241.0,1460.0,1241.0,Test
+1797,C ANCA-IFA,1275.0,1500.0,1275.0,Surgery
+1798,P ANCA-IFA,1275.0,1500.0,1275.0,Surgery
+1799,Angiotensin converting enzyme (ACE),850.0,1000.0,850.0,Surgery
+1800,Endo bronchial Ultrasound (EBUS) -Trans bronchial needle aspiration (TBNA) -Using New Needle,15614.0,18370.0,15614.0,Scan
+1801,Extractable Nuclear Antigens (ENA) - Quantitative,3910.0,4600.0,3910.0,Surgery
+1802,Chromogranin A,4250.0,5000.0,4250.0,Surgery
+1803,Faecal calprotectin (fecal calprotectin),2320.0,2730.0,2320.0,Surgery
+1804,C3-COMPLEMENT,552.0,650.0,552.0,Surgery
+1805,C4-COMPLEMENT,552.0,650.0,552.0,Surgery
+1806,Genexpert Test,880.0,1035.0,880.0,Test
+1807,DJ stent removal,7395.0,8700.0,7395.0,Surgery
+1808,Pulmonary Function Test (PFT) / (Spirometry with DLCO),425.0,500.0,425.0,Test
+1809,EUS (Endoscopic Ultrasound) guided FNAC (Using with Needle),12750.0,15000.0,12750.0,Scan
+1810,CT Urography,3825.0,4500.0,3825.0,Scan
+1811,Video Laryngoscopy,5100.0,6000.0,5100.0,Surgery
+1812,CT Angio-Neck Vessels,5100.0,6000.0,5100.0,Scan
+1813,H1N1 (RT-PCR),921.0,1084.0,921.0,Surgery
+1815,Anti HEV IgM,850.0,1000.0,850.0,Surgery
+1816,Anti HAV IgM,637.0,750.0,637.0,Surgery
+1817,HBsAg Quantitative,552.0,650.0,552.0,Surgery
+1818,Typhidot IgM,340.0,400.0,340.0,Surgery
+1819,Hepatitis B Core Antibody (HBcAb) Level (Hepatitis B Core IgM Antibody),408.0,480.0,408.0,Surgery
+1820,Anti HBs,552.0,650.0,552.0,Surgery
+1821,Free Triiodothyronine (FT3),106.0,125.0,106.0,Surgery
+1822,Free Thyroxine (FT4),106.0,125.0,106.0,Surgery
+1823,Widal Test,60.0,70.0,60.0,Test
+1824,Dengue Serology,510.0,600.0,510.0,Surgery
+1825,Blood component charges - Whole Blood per Unit,1450.0,1450.0,1450.0,Surgery
+1826,Blood component charges - Packed Red Cell per Unit,1450.0,1450.0,1450.0,Surgery
+1827,Blood component charges - Fresh Frozen Plasma,400.0,400.0,400.0,Surgery
+1828,Platelet Concentrate- Random Donor Platelet (RDP),400.0,400.0,400.0,Surgery
+1829,Blood component charges - Cryoprecipitate,200.0,200.0,200.0,Surgery
+1830,Platelet Concentrate – Single Donor Platelet (SDP)-Apheresis per unit,11000.0,11000.0,11000.0,Surgery
+1831,"Annual Health Check-up, of CCS Group A Officer of above 40 years of age / Pensioner primary card holder 75 years of age and above–Male,",2000.0,2000.0,2000.0,Surgery
+1832,Annual Health Check up - CCS Group A Officer of above 40 years of age / Pensioner primary card holder 75 years of age and above - Female,2200.0,2200.0,2200.0,Surgery
+1833,Interleukin 6 (IL6/ IL 6),1360.0,1600.0,1360.0,Surgery
+1834,High resolution computed Tomography (HRCT Chest),1700.0,2000.0,1700.0,Scan
+1835,Fluid air exchange (per eye),4250.0,5000.0,4250.0,Surgery
+1836,C3F8 GAS Injection (per eye),4250.0,5000.0,4250.0,Surgery
+1837,Diurnal variation of IOP (per eye),1275.0,1500.0,1275.0,Surgery
+1838,Silicone oil injection (per eye),4250.0,5000.0,4250.0,Surgery
+1839,Epiretinal Membrane (ERM) Peeling (per eye),5950.0,7000.0,5950.0,Surgery
+1840,Epiretinal Membrane (ERM) Removal (per eye),2550.0,3000.0,2550.0,Surgery
+1841,Internal limiting membrane (ILM) peeling (per eye),2550.0,3000.0,2550.0,Surgery
+1842,Punctoplasty (per eye),5525.0,6500.0,5525.0,Surgery
+1843,Punctal plug(Collagen/silicone) (per eye),3400.0,4000.0,3400.0,Surgery
+1844,Laser Trabeculoplasty Gonioplasty (both eyes),13600.0,16000.0,13600.0,Surgery
+1845,Eye laser pulse therapy (per eye),2975.0,3500.0,2975.0,Surgery
+1846,Glaucoma valve/Glaucoma Ahmed valve,12750.0,15000.0,12750.0,Surgery
+1847,Malyugin Ring,8500.0,10.0,8500.0,Surgery
+1848,Globe exploration (eye surgery),8500.0,10.0,8500.0,Surgery
+1849,Scleral Fixation Tissue glue,7140.0,8400.0,7140.0,Surgery
+1850,Fibro optic Nasal Endoscopy,1955.0,2300.0,1955.0,Scan
+1851,Video Stroboscopy,4675.0,5500.0,4675.0,Surgery
+1852,Video Bronchoscopy with BAL,8500.0,10.0,8500.0,Scan
+1854,TAVI/ TAVR Implant,1284000.0,1284000.0,1284000.0,Surgery
+1855,Transcatheter Aortic Valve Implantation (TAVI) / Transcatheter Aortic Valve Replacement (TAVR) - Procedure Cost,85000.0,100000.0,85000.0,Surgery
+1856,IVL (Coronary Intra vascular Lithotripsy / shock wave Lithotripsy - including GST,268000.0,268000.0,268000.0,Surgery

@@ -1,0 +1,32 @@
+# dr-insights-app/.gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+venv/
+env/
+.env
+.venv
+*.sqlite3
+dr_insights.db
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+.npm/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel/
+
+# Environment variables
+.env.local
+.env.development
+.env.test
+.env.production

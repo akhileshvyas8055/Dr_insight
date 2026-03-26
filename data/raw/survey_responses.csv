@@ -1,0 +1,301 @@
+city,hospital_name,hospital_type,procedure_category,procedure_name,amount_paid,initial_quote,hidden_charges,hidden_charge_amount,insurance_type,year,rating,would_return,comments
+Mumbai,AIIMS Mumbai,Private-Mid,Surgery,C-Section,32374,27444,Yes,4930,Private,2022,3.4,Yes,Average experience
+Pune,Narayana Pune,Government,Scan,Appendectomy,9290,7599,Yes,1691,None,2022,5.0,Yes,Satisfied
+Bangalore,AIIMS Bangalore,Government,Medical,Knee Replacement,34825,34825,No,0,None,2023,3.4,Yes,Satisfied
+Delhi,AIIMS Delhi,Trust,Scan,CT Scan,62529,59468,Yes,3061,None,2023,3.6,No,Satisfied
+Hyderabad,Narayana Hyderabad,Private-Premium,Medical,Appendectomy,9487,5777,Yes,3710,Private,2023,4.7,No,Hidden charges found
+Kolkata,CMC Kolkata,Trust,Medical,Knee Replacement,44746,44746,No,0,Private,2023,2.9,Yes,Average experience
+Hyderabad,Max Hyderabad,Private-Mid,Test,MRI Scan,39481,35794,Yes,3687,Private,2022,4.5,Yes,Not recommended
+Chennai,CMC Chennai,Private-Mid,Test,MRI Scan,71952,71952,No,0,Government,2023,3.7,Yes,Hidden charges found
+Ahmedabad,AIIMS Ahmedabad,Government,Medical,MRI Scan,35377,31150,Yes,4227,Government,2024,4.6,Yes,Satisfied
+Delhi,Narayana Delhi,Government,Surgery,C-Section,35394,35394,No,0,Government,2022,4.3,No,Satisfied
+Bangalore,Apollo Bangalore,Government,Medical,Appendectomy,47042,37276,Yes,9766,Private,2023,4.8,No,Satisfied
+Hyderabad,Apollo Hyderabad,Trust,Medical,ICU Admission,78881,74214,Yes,4667,Private,2022,3.5,Yes,Good service
+Mumbai,Fortis Mumbai,Private-Premium,Test,Blood Test,35610,35610,No,0,None,2022,4.4,Yes,Too expensive
+Mumbai,Narayana Mumbai,Private-Mid,Test,Blood Test,85217,76581,Yes,8636,None,2024,4.7,No,Average experience
+Mumbai,Apollo Mumbai,Government,Surgery,Angioplasty,16053,14422,Yes,1631,None,2023,2.9,Yes,Average experience
+Mumbai,Narayana Mumbai,Government,Test,Blood Test,17035,17035,No,0,Private,2024,4.0,No,Hidden charges found
+Chennai,Fortis Chennai,Trust,Scan,Angioplasty,68667,68667,No,0,Private,2023,3.2,Yes,Average experience
+Kolkata,Max Kolkata,Government,Scan,MRI Scan,73951,72155,Yes,1796,None,2023,4.9,No,Good service
+Pune,Apollo Pune,Trust,Scan,C-Section,26226,20131,Yes,6095,Private,2024,4.7,Yes,Not recommended
+Kolkata,AIIMS Kolkata,Government,Medical,CT Scan,6233,6233,No,0,Private,2024,3.1,No,Not recommended
+Pune,AIIMS Pune,Private-Premium,Surgery,C-Section,53404,47693,Yes,5711,None,2024,3.6,Yes,Hidden charges found
+Kolkata,Narayana Kolkata,Private-Premium,Scan,ICU Admission,66713,66713,No,0,Government,2024,2.9,Yes,Hidden charges found
+Pune,Apollo Pune,Private-Mid,Surgery,CT Scan,5123,5123,No,0,Private,2024,4.2,Yes,Average experience
+Kolkata,Max Kolkata,Private-Premium,Medical,Appendectomy,24066,24066,No,0,None,2022,2.6,Yes,Satisfied
+Pune,Apollo Pune,Government,Medical,MRI Scan,76424,70911,Yes,5513,Private,2024,3.2,No,Too expensive
+Chennai,Fortis Chennai,Private-Mid,Test,C-Section,44818,44818,No,0,None,2024,5.0,Yes,Too expensive
+Pune,CMC Pune,Trust,Scan,C-Section,42056,42056,No,0,Government,2024,4.3,Yes,Not recommended
+Chennai,AIIMS Chennai,Government,Medical,Knee Replacement,56989,51429,Yes,5560,Government,2022,2.7,Yes,Hidden charges found
+Delhi,AIIMS Delhi,Trust,Medical,Angioplasty,59086,56394,Yes,2692,Private,2023,3.9,No,Good service
+Kolkata,Apollo Kolkata,Private-Mid,Scan,ICU Admission,18675,18675,No,0,Private,2022,4.0,No,Too expensive
+Kolkata,CMC Kolkata,Private-Mid,Test,C-Section,15121,15121,No,0,None,2022,4.6,Yes,Good service
+Hyderabad,Max Hyderabad,Trust,Surgery,MRI Scan,32804,32804,No,0,Government,2024,3.5,Yes,Satisfied
+Bangalore,Fortis Bangalore,Private-Premium,Surgery,Knee Replacement,18504,11398,Yes,7106,None,2022,3.9,Yes,Average experience
+Pune,CMC Pune,Private-Premium,Medical,Dialysis,16155,16155,No,0,None,2023,4.8,No,Not recommended
+Ahmedabad,Narayana Ahmedabad,Government,Scan,Appendectomy,23770,23770,No,0,Government,2023,4.1,Yes,Hidden charges found
+Hyderabad,Narayana Hyderabad,Trust,Scan,Dialysis,48201,48201,No,0,Government,2023,4.1,No,Average experience
+Bangalore,Apollo Bangalore,Government,Scan,Appendectomy,28847,24618,Yes,4229,Government,2023,4.5,No,Average experience
+Delhi,AIIMS Delhi,Private-Premium,Test,CT Scan,60999,53848,Yes,7151,None,2022,4.9,Yes,Too expensive
+Mumbai,Apollo Mumbai,Government,Medical,Appendectomy,16017,8328,Yes,7689,Private,2022,3.7,No,Good service
+Kolkata,Apollo Kolkata,Government,Scan,Appendectomy,70064,70064,No,0,Government,2022,4.2,No,Satisfied
+Ahmedabad,AIIMS Ahmedabad,Government,Scan,Blood Test,18228,9065,Yes,9163,None,2024,2.8,No,Average experience
+Bangalore,CMC Bangalore,Private-Mid,Medical,Blood Test,59515,50754,Yes,8761,None,2022,4.4,Yes,Hidden charges found
+Chennai,CMC Chennai,Government,Medical,ICU Admission,37025,37025,No,0,None,2023,4.2,No,Satisfied
+Pune,AIIMS Pune,Private-Premium,Scan,Blood Test,48854,48854,No,0,Government,2022,4.1,No,Too expensive
+Pune,Fortis Pune,Trust,Scan,Appendectomy,74122,74122,No,0,None,2022,4.0,Yes,Average experience
+Bangalore,Apollo Bangalore,Government,Test,Delivery (Normal),23108,15125,Yes,7983,Government,2023,2.9,Yes,Hidden charges found
+Delhi,Max Delhi,Trust,Scan,Delivery (Normal),49844,40853,Yes,8991,Private,2022,2.8,No,Not recommended
+Mumbai,Fortis Mumbai,Private-Mid,Surgery,MRI Scan,25750,17188,Yes,8562,Private,2022,3.3,No,Not recommended
+Hyderabad,Apollo Hyderabad,Private-Mid,Surgery,Blood Test,24410,24410,No,0,None,2022,4.0,Yes,Too expensive
+Bangalore,Narayana Bangalore,Trust,Surgery,MRI Scan,17701,14398,Yes,3303,Government,2024,3.0,Yes,Not recommended
+Pune,AIIMS Pune,Private-Mid,Scan,Delivery (Normal),53917,53917,No,0,Government,2022,4.8,Yes,Hidden charges found
+Pune,CMC Pune,Government,Medical,C-Section,39606,39606,No,0,None,2022,5.0,Yes,Average experience
+Chennai,Fortis Chennai,Private-Premium,Surgery,Appendectomy,10076,6841,Yes,3235,Private,2022,4.2,Yes,Average experience
+Ahmedabad,Apollo Ahmedabad,Private-Premium,Scan,Appendectomy,19075,12205,Yes,6870,Private,2024,4.9,Yes,Too expensive
+Ahmedabad,Apollo Ahmedabad,Private-Mid,Surgery,Angioplasty,12712,9959,Yes,2753,None,2023,4.6,No,Not recommended
+Mumbai,Max Mumbai,Private-Premium,Medical,Angioplasty,72990,72990,No,0,None,2024,3.9,Yes,Average experience
+Kolkata,CMC Kolkata,Private-Premium,Surgery,C-Section,20216,20216,No,0,Private,2022,4.1,No,Not recommended
+Mumbai,Max Mumbai,Private-Mid,Test,ICU Admission,70678,70678,No,0,None,2024,4.1,No,Satisfied
+Kolkata,Fortis Kolkata,Trust,Medical,ICU Admission,72862,72862,No,0,Government,2022,4.1,Yes,Hidden charges found
+Mumbai,Max Mumbai,Private-Mid,Surgery,Delivery (Normal),43918,36686,Yes,7232,None,2022,3.8,No,Good service
+Delhi,AIIMS Delhi,Private-Premium,Scan,Dialysis,25027,25027,No,0,None,2022,4.7,Yes,Good service
+Chennai,CMC Chennai,Private-Mid,Test,ICU Admission,77420,77420,No,0,None,2022,4.7,Yes,Too expensive
+Hyderabad,Fortis Hyderabad,Trust,Medical,Angioplasty,43153,43153,No,0,None,2023,4.0,No,Good service
+Delhi,Apollo Delhi,Private-Mid,Scan,C-Section,11511,7788,Yes,3723,Government,2022,4.6,Yes,Satisfied
+Chennai,Fortis Chennai,Trust,Medical,Delivery (Normal),24856,16869,Yes,7987,Private,2022,4.7,No,Not recommended
+Kolkata,Max Kolkata,Government,Medical,CT Scan,64897,60776,Yes,4121,Government,2022,4.9,Yes,Not recommended
+Delhi,Max Delhi,Trust,Surgery,Appendectomy,20303,20303,No,0,Government,2022,5.0,Yes,Average experience
+Hyderabad,CMC Hyderabad,Trust,Test,Blood Test,16519,16519,No,0,Private,2023,5.0,Yes,Hidden charges found
+Delhi,AIIMS Delhi,Private-Premium,Test,Delivery (Normal),52965,52965,No,0,None,2024,3.4,Yes,Average experience
+Delhi,Apollo Delhi,Government,Test,Blood Test,25012,25012,No,0,Private,2024,4.3,No,Good service
+Kolkata,Fortis Kolkata,Trust,Scan,CT Scan,70246,70246,No,0,Government,2022,2.7,Yes,Good service
+Kolkata,Apollo Kolkata,Private-Premium,Scan,ICU Admission,85440,79393,Yes,6047,Government,2023,3.2,Yes,Satisfied
+Mumbai,Narayana Mumbai,Private-Mid,Scan,Appendectomy,35886,28376,Yes,7510,None,2024,4.3,No,Satisfied
+Pune,Narayana Pune,Trust,Medical,Blood Test,18313,14184,Yes,4129,Government,2022,3.7,Yes,Hidden charges found
+Mumbai,AIIMS Mumbai,Trust,Surgery,Dialysis,11086,11086,No,0,Private,2022,3.9,Yes,Satisfied
+Hyderabad,Max Hyderabad,Private-Premium,Surgery,Appendectomy,9837,9837,No,0,Private,2022,3.2,No,Too expensive
+Mumbai,Narayana Mumbai,Government,Surgery,C-Section,15538,15538,No,0,Government,2024,2.9,No,Hidden charges found
+Delhi,Max Delhi,Trust,Test,Dialysis,7508,7508,No,0,None,2024,3.7,Yes,Average experience
+Mumbai,Narayana Mumbai,Trust,Surgery,Dialysis,46743,38448,Yes,8295,Government,2023,2.9,No,Too expensive
+Mumbai,Max Mumbai,Government,Medical,C-Section,9225,9225,No,0,Government,2022,2.7,Yes,Satisfied
+Ahmedabad,Max Ahmedabad,Private-Premium,Surgery,Dialysis,41793,36254,Yes,5539,Government,2023,4.3,No,Too expensive
+Ahmedabad,AIIMS Ahmedabad,Trust,Test,Angioplasty,37416,30836,Yes,6580,Private,2022,3.1,No,Average experience
+Pune,Narayana Pune,Private-Mid,Medical,ICU Admission,71440,71440,No,0,None,2023,4.3,Yes,Average experience
+Delhi,CMC Delhi,Trust,Scan,Delivery (Normal),18721,18721,No,0,None,2022,3.3,No,Satisfied
+Hyderabad,AIIMS Hyderabad,Private-Premium,Scan,Delivery (Normal),75940,75940,No,0,Government,2022,2.9,No,Hidden charges found
+Chennai,Max Chennai,Private-Premium,Surgery,MRI Scan,23625,18979,Yes,4646,None,2024,3.6,No,Satisfied
+Chennai,CMC Chennai,Private-Mid,Surgery,Dialysis,42312,42312,No,0,Private,2023,2.9,No,Satisfied
+Chennai,AIIMS Chennai,Private-Premium,Medical,Angioplasty,33777,33777,No,0,Government,2024,5.0,Yes,Satisfied
+Hyderabad,AIIMS Hyderabad,Government,Test,ICU Admission,28814,26131,Yes,2683,Private,2022,3.0,No,Good service
+Kolkata,Narayana Kolkata,Private-Mid,Surgery,Appendectomy,64738,56757,Yes,7981,Government,2023,2.6,Yes,Hidden charges found
+Delhi,Narayana Delhi,Trust,Test,Blood Test,40484,34877,Yes,5607,Government,2022,3.3,No,Not recommended
+Bangalore,AIIMS Bangalore,Private-Mid,Test,Delivery (Normal),8297,8297,No,0,Government,2023,4.5,Yes,Satisfied
+Ahmedabad,Apollo Ahmedabad,Government,Surgery,Angioplasty,38132,38132,No,0,Government,2022,3.9,Yes,Good service
+Hyderabad,Max Hyderabad,Trust,Test,C-Section,40533,34625,Yes,5908,None,2024,3.4,No,Satisfied
+Mumbai,Max Mumbai,Trust,Test,CT Scan,21346,16506,Yes,4840,Private,2024,4.9,No,Good service
+Delhi,Narayana Delhi,Private-Mid,Surgery,Appendectomy,76549,70151,Yes,6398,Government,2022,3.9,Yes,Average experience
+Bangalore,Narayana Bangalore,Trust,Medical,CT Scan,37925,34304,Yes,3621,Government,2024,3.6,No,Hidden charges found
+Kolkata,Fortis Kolkata,Government,Surgery,CT Scan,73607,73607,No,0,Private,2024,3.2,Yes,Too expensive
+Kolkata,Apollo Kolkata,Private-Mid,Surgery,Dialysis,45047,45047,No,0,Private,2024,2.8,No,Not recommended
+Bangalore,Fortis Bangalore,Private-Mid,Scan,CT Scan,23770,23770,No,0,Private,2022,2.8,No,Hidden charges found
+Kolkata,CMC Kolkata,Private-Mid,Test,Angioplasty,70332,70332,No,0,Private,2023,2.8,Yes,Too expensive
+Mumbai,Apollo Mumbai,Trust,Scan,Dialysis,63123,58328,Yes,4795,Private,2024,4.1,No,Good service
+Bangalore,Narayana Bangalore,Trust,Test,Angioplasty,77479,77479,No,0,Private,2022,3.5,No,Too expensive
+Delhi,AIIMS Delhi,Private-Mid,Surgery,Blood Test,13028,13028,No,0,None,2023,3.9,Yes,Hidden charges found
+Bangalore,Max Bangalore,Private-Premium,Surgery,Dialysis,72956,72956,No,0,Government,2023,3.0,No,Too expensive
+Pune,Fortis Pune,Private-Premium,Surgery,Dialysis,83621,74307,Yes,9314,None,2023,2.6,Yes,Good service
+Bangalore,Apollo Bangalore,Trust,Surgery,Dialysis,42480,42480,No,0,None,2023,4.0,Yes,Too expensive
+Chennai,CMC Chennai,Private-Mid,Medical,C-Section,17348,10741,Yes,6607,Private,2022,3.7,Yes,Good service
+Mumbai,Apollo Mumbai,Private-Mid,Scan,ICU Admission,76974,67457,Yes,9517,Private,2022,3.7,Yes,Not recommended
+Delhi,Fortis Delhi,Private-Premium,Test,MRI Scan,49084,49084,No,0,Government,2023,4.3,No,Hidden charges found
+Delhi,AIIMS Delhi,Private-Premium,Surgery,Knee Replacement,30406,20464,Yes,9942,Private,2023,3.7,Yes,Satisfied
+Hyderabad,Fortis Hyderabad,Trust,Surgery,Knee Replacement,23471,23471,No,0,None,2024,4.2,Yes,Satisfied
+Hyderabad,Narayana Hyderabad,Private-Premium,Test,CT Scan,55795,50814,Yes,4981,None,2024,2.9,Yes,Hidden charges found
+Delhi,AIIMS Delhi,Government,Test,Delivery (Normal),64373,64373,No,0,Government,2024,4.0,No,Not recommended
+Kolkata,Max Kolkata,Trust,Scan,Dialysis,40008,35671,Yes,4337,None,2023,2.6,Yes,Satisfied
+Chennai,Max Chennai,Government,Test,C-Section,7909,7909,No,0,Private,2024,4.4,Yes,Good service
+Bangalore,Narayana Bangalore,Private-Premium,Medical,ICU Admission,35568,34160,Yes,1408,Government,2024,4.1,Yes,Not recommended
+Hyderabad,Max Hyderabad,Trust,Surgery,Blood Test,9406,9406,No,0,Private,2023,2.8,No,Too expensive
+Kolkata,CMC Kolkata,Private-Premium,Scan,C-Section,73698,73698,No,0,None,2023,2.9,No,Satisfied
+Hyderabad,Max Hyderabad,Trust,Surgery,Delivery (Normal),13580,13580,No,0,Government,2024,3.1,Yes,Too expensive
+Pune,AIIMS Pune,Private-Mid,Test,C-Section,24497,24497,No,0,None,2024,4.7,Yes,Good service
+Ahmedabad,AIIMS Ahmedabad,Private-Mid,Test,MRI Scan,17296,17296,No,0,Private,2023,3.6,No,Satisfied
+Bangalore,Max Bangalore,Government,Test,CT Scan,60903,60903,No,0,Government,2022,3.4,Yes,Good service
+Hyderabad,Max Hyderabad,Private-Premium,Test,Knee Replacement,44773,42924,Yes,1849,None,2023,3.3,Yes,Average experience
+Mumbai,Max Mumbai,Private-Premium,Scan,CT Scan,59449,59449,No,0,Government,2022,3.9,Yes,Too expensive
+Ahmedabad,Apollo Ahmedabad,Private-Mid,Medical,Appendectomy,45544,42185,Yes,3359,Private,2023,3.3,No,Hidden charges found
+Hyderabad,AIIMS Hyderabad,Government,Medical,Blood Test,28507,28507,No,0,Government,2022,2.7,Yes,Not recommended
+Kolkata,Narayana Kolkata,Private-Mid,Medical,ICU Admission,9802,5610,Yes,4192,None,2022,2.8,No,Satisfied
+Chennai,Max Chennai,Government,Medical,C-Section,68569,63949,Yes,4620,None,2024,4.4,Yes,Not recommended
+Bangalore,Apollo Bangalore,Trust,Surgery,Delivery (Normal),47363,38909,Yes,8454,None,2024,3.9,No,Hidden charges found
+Chennai,Fortis Chennai,Government,Medical,Angioplasty,21754,21754,No,0,None,2023,3.5,Yes,Average experience
+Kolkata,AIIMS Kolkata,Private-Mid,Surgery,C-Section,20741,20741,No,0,None,2022,3.0,Yes,Satisfied
+Ahmedabad,Fortis Ahmedabad,Private-Mid,Surgery,Knee Replacement,77209,75014,Yes,2195,Government,2024,3.2,No,Average experience
+Mumbai,Apollo Mumbai,Private-Mid,Scan,Angioplasty,12460,12460,No,0,Government,2023,4.5,No,Satisfied
+Chennai,Fortis Chennai,Private-Mid,Scan,Appendectomy,15328,6440,Yes,8888,None,2024,4.5,Yes,Too expensive
+Delhi,Fortis Delhi,Private-Mid,Medical,Knee Replacement,18633,18633,No,0,Private,2023,3.3,Yes,Satisfied
+Mumbai,CMC Mumbai,Trust,Test,Dialysis,66472,61014,Yes,5458,Government,2022,4.3,No,Too expensive
+Delhi,Max Delhi,Private-Premium,Test,MRI Scan,37853,37853,No,0,Government,2024,4.5,No,Average experience
+Chennai,Narayana Chennai,Private-Premium,Scan,Knee Replacement,56928,48178,Yes,8750,Private,2024,4.1,No,Average experience
+Delhi,Narayana Delhi,Trust,Scan,Delivery (Normal),50971,50971,No,0,None,2022,4.7,No,Satisfied
+Hyderabad,Narayana Hyderabad,Government,Medical,MRI Scan,17775,8445,Yes,9330,Private,2022,4.9,Yes,Too expensive
+Delhi,Fortis Delhi,Private-Premium,Test,Blood Test,45565,45565,No,0,Private,2022,4.6,No,Hidden charges found
+Bangalore,CMC Bangalore,Private-Premium,Surgery,ICU Admission,59934,52943,Yes,6991,Private,2024,3.9,Yes,Good service
+Kolkata,Fortis Kolkata,Government,Test,Dialysis,21374,21374,No,0,Government,2023,4.9,Yes,Satisfied
+Bangalore,Narayana Bangalore,Private-Mid,Scan,Blood Test,36153,36153,No,0,Private,2022,3.5,Yes,Hidden charges found
+Hyderabad,Max Hyderabad,Trust,Medical,ICU Admission,45162,45162,No,0,None,2022,4.3,Yes,Good service
+Ahmedabad,CMC Ahmedabad,Government,Test,Delivery (Normal),9454,9454,No,0,Government,2024,2.7,No,Too expensive
+Bangalore,Fortis Bangalore,Trust,Scan,MRI Scan,20855,20855,No,0,Private,2023,2.9,Yes,Too expensive
+Mumbai,Narayana Mumbai,Trust,Surgery,Delivery (Normal),21596,16225,Yes,5371,Private,2023,3.6,Yes,Too expensive
+Kolkata,CMC Kolkata,Private-Premium,Test,MRI Scan,53344,50947,Yes,2397,Private,2023,3.5,No,Satisfied
+Ahmedabad,Fortis Ahmedabad,Private-Premium,Scan,C-Section,31497,31497,No,0,None,2023,3.5,Yes,Good service
+Ahmedabad,Apollo Ahmedabad,Trust,Medical,C-Section,72902,72902,No,0,None,2022,3.9,Yes,Average experience
+Delhi,Apollo Delhi,Trust,Medical,Angioplasty,78314,74497,Yes,3817,Government,2024,3.2,Yes,Too expensive
+Pune,CMC Pune,Private-Premium,Scan,Angioplasty,30863,30863,No,0,Private,2024,4.0,Yes,Hidden charges found
+Chennai,Apollo Chennai,Private-Mid,Surgery,Knee Replacement,66603,66603,No,0,Government,2024,4.7,No,Good service
+Pune,CMC Pune,Private-Premium,Medical,CT Scan,31741,22278,Yes,9463,Private,2023,2.7,Yes,Too expensive
+Chennai,Fortis Chennai,Private-Premium,Medical,MRI Scan,9433,9433,No,0,Private,2023,4.4,No,Hidden charges found
+Ahmedabad,AIIMS Ahmedabad,Private-Premium,Medical,Knee Replacement,60465,60465,No,0,None,2023,3.1,No,Too expensive
+Kolkata,Narayana Kolkata,Private-Premium,Test,CT Scan,54569,48809,Yes,5760,Private,2024,2.9,No,Too expensive
+Mumbai,Max Mumbai,Government,Surgery,Blood Test,37013,37013,No,0,None,2023,4.3,Yes,Hidden charges found
+Bangalore,CMC Bangalore,Government,Surgery,Knee Replacement,73101,66912,Yes,6189,Government,2023,3.5,Yes,Good service
+Bangalore,Narayana Bangalore,Trust,Test,Knee Replacement,22855,13150,Yes,9705,Private,2024,5.0,Yes,Good service
+Hyderabad,CMC Hyderabad,Private-Premium,Test,CT Scan,69605,69605,No,0,None,2023,4.4,No,Satisfied
+Hyderabad,CMC Hyderabad,Trust,Test,ICU Admission,26649,26649,No,0,Private,2023,4.6,No,Good service
+Bangalore,CMC Bangalore,Trust,Scan,Appendectomy,27299,24211,Yes,3088,Government,2024,3.2,No,Not recommended
+Mumbai,AIIMS Mumbai,Government,Scan,Knee Replacement,80539,72364,Yes,8175,Private,2024,5.0,Yes,Too expensive
+Bangalore,Apollo Bangalore,Trust,Medical,Blood Test,62581,62581,No,0,None,2022,4.1,Yes,Hidden charges found
+Mumbai,Max Mumbai,Trust,Test,Blood Test,62909,56650,Yes,6259,Private,2022,4.7,No,Not recommended
+Chennai,Narayana Chennai,Private-Premium,Surgery,Appendectomy,66900,64917,Yes,1983,Government,2024,2.8,No,Not recommended
+Bangalore,Narayana Bangalore,Government,Medical,Appendectomy,52967,44134,Yes,8833,None,2024,3.9,Yes,Satisfied
+Ahmedabad,Max Ahmedabad,Government,Scan,C-Section,55264,55264,No,0,Private,2022,2.7,Yes,Average experience
+Kolkata,AIIMS Kolkata,Government,Medical,Knee Replacement,25390,25390,No,0,None,2022,3.6,No,Hidden charges found
+Delhi,Apollo Delhi,Trust,Test,C-Section,46153,38917,Yes,7236,Government,2024,2.5,Yes,Too expensive
+Mumbai,Fortis Mumbai,Government,Medical,Knee Replacement,62935,58274,Yes,4661,Government,2024,3.8,No,Average experience
+Bangalore,Narayana Bangalore,Trust,Medical,C-Section,19674,19674,No,0,Government,2023,3.3,Yes,Not recommended
+Kolkata,Apollo Kolkata,Trust,Surgery,Blood Test,62018,62018,No,0,Private,2024,2.7,No,Satisfied
+Hyderabad,CMC Hyderabad,Private-Mid,Surgery,Dialysis,47374,47374,No,0,None,2022,2.6,No,Hidden charges found
+Hyderabad,CMC Hyderabad,Private-Premium,Surgery,CT Scan,55405,55405,No,0,Government,2024,4.3,Yes,Too expensive
+Mumbai,AIIMS Mumbai,Government,Medical,Appendectomy,34666,34666,No,0,Private,2022,3.1,No,Satisfied
+Hyderabad,Narayana Hyderabad,Trust,Surgery,Angioplasty,25729,17766,Yes,7963,Private,2024,3.9,Yes,Average experience
+Bangalore,CMC Bangalore,Trust,Surgery,Delivery (Normal),77930,77930,No,0,None,2023,2.7,Yes,Hidden charges found
+Ahmedabad,Narayana Ahmedabad,Trust,Scan,Delivery (Normal),8990,8990,No,0,None,2023,3.9,No,Not recommended
+Bangalore,Fortis Bangalore,Trust,Medical,MRI Scan,44655,36747,Yes,7908,None,2024,4.4,No,Hidden charges found
+Kolkata,Fortis Kolkata,Private-Premium,Medical,Blood Test,82859,76284,Yes,6575,Private,2022,3.6,Yes,Average experience
+Bangalore,Fortis Bangalore,Private-Mid,Surgery,CT Scan,56918,48864,Yes,8054,None,2023,4.8,No,Not recommended
+Kolkata,Max Kolkata,Government,Surgery,Blood Test,66734,63060,Yes,3674,Private,2024,3.2,Yes,Satisfied
+Delhi,Apollo Delhi,Government,Scan,Angioplasty,68908,68908,No,0,Government,2024,4.2,Yes,Too expensive
+Delhi,AIIMS Delhi,Government,Scan,ICU Admission,11606,11606,No,0,Government,2022,4.7,Yes,Too expensive
+Bangalore,Fortis Bangalore,Private-Mid,Scan,Appendectomy,68045,67424,Yes,621,None,2024,3.2,Yes,Good service
+Kolkata,Apollo Kolkata,Trust,Scan,C-Section,74984,74984,No,0,Private,2024,4.4,No,Too expensive
+Kolkata,Narayana Kolkata,Private-Premium,Scan,Appendectomy,69559,69559,No,0,Government,2023,3.3,Yes,Too expensive
+Bangalore,Fortis Bangalore,Trust,Medical,Delivery (Normal),23151,15014,Yes,8137,Private,2022,3.6,Yes,Too expensive
+Kolkata,AIIMS Kolkata,Private-Mid,Medical,C-Section,25037,18714,Yes,6323,None,2022,4.6,Yes,Satisfied
+Mumbai,AIIMS Mumbai,Government,Scan,Angioplasty,18021,15382,Yes,2639,None,2023,2.7,No,Too expensive
+Ahmedabad,CMC Ahmedabad,Private-Premium,Scan,Knee Replacement,48000,48000,No,0,Private,2024,5.0,No,Hidden charges found
+Kolkata,Narayana Kolkata,Private-Mid,Scan,ICU Admission,5097,5097,No,0,Private,2023,4.5,Yes,Too expensive
+Chennai,Narayana Chennai,Government,Scan,Knee Replacement,11084,11084,No,0,None,2023,2.9,Yes,Hidden charges found
+Ahmedabad,Apollo Ahmedabad,Private-Mid,Test,Knee Replacement,23143,21058,Yes,2085,None,2022,3.6,No,Average experience
+Ahmedabad,Apollo Ahmedabad,Trust,Medical,Delivery (Normal),65785,64289,Yes,1496,Private,2022,4.1,Yes,Average experience
+Hyderabad,AIIMS Hyderabad,Government,Test,Appendectomy,12255,12255,No,0,None,2023,3.6,No,Good service
+Chennai,Narayana Chennai,Trust,Scan,C-Section,57498,57498,No,0,None,2023,3.3,No,Satisfied
+Kolkata,Fortis Kolkata,Trust,Surgery,Blood Test,53941,49114,Yes,4827,Government,2022,3.7,No,Not recommended
+Bangalore,CMC Bangalore,Private-Mid,Test,Knee Replacement,74161,67114,Yes,7047,Government,2022,3.7,Yes,Average experience
+Mumbai,AIIMS Mumbai,Trust,Scan,Blood Test,72821,72821,No,0,Government,2023,3.3,No,Average experience
+Pune,Narayana Pune,Private-Premium,Scan,Delivery (Normal),19056,14441,Yes,4615,None,2023,2.9,No,Hidden charges found
+Hyderabad,CMC Hyderabad,Private-Premium,Scan,Dialysis,65387,65387,No,0,Private,2022,3.0,No,Average experience
+Hyderabad,Fortis Hyderabad,Government,Medical,Appendectomy,61432,60585,Yes,847,Government,2022,4.1,Yes,Too expensive
+Pune,CMC Pune,Private-Premium,Medical,MRI Scan,53894,53894,No,0,Government,2023,4.2,No,Hidden charges found
+Bangalore,Fortis Bangalore,Private-Mid,Surgery,Delivery (Normal),23084,23084,No,0,Government,2024,2.8,Yes,Too expensive
+Hyderabad,Narayana Hyderabad,Trust,Scan,ICU Admission,22198,15403,Yes,6795,Government,2022,4.1,Yes,Satisfied
+Mumbai,Apollo Mumbai,Private-Mid,Surgery,Dialysis,55922,48019,Yes,7903,None,2024,3.7,No,Satisfied
+Chennai,AIIMS Chennai,Trust,Scan,Blood Test,71079,61554,Yes,9525,Government,2024,4.4,Yes,Good service
+Bangalore,Apollo Bangalore,Private-Mid,Test,C-Section,9329,9329,No,0,Private,2024,2.7,Yes,Too expensive
+Ahmedabad,AIIMS Ahmedabad,Private-Premium,Surgery,Dialysis,46725,41558,Yes,5167,Private,2022,4.1,Yes,Not recommended
+Hyderabad,Max Hyderabad,Government,Surgery,CT Scan,10155,10155,No,0,Private,2023,2.6,No,Hidden charges found
+Mumbai,CMC Mumbai,Trust,Medical,Knee Replacement,13517,10851,Yes,2666,None,2023,4.1,No,Good service
+Chennai,Max Chennai,Trust,Scan,Dialysis,72982,72982,No,0,Private,2024,4.0,Yes,Not recommended
+Chennai,Fortis Chennai,Private-Mid,Scan,Dialysis,67098,64154,Yes,2944,Private,2023,2.8,No,Average experience
+Pune,AIIMS Pune,Private-Mid,Test,Blood Test,47117,47117,No,0,None,2022,2.6,No,Average experience
+Chennai,Max Chennai,Government,Scan,Knee Replacement,37531,37531,No,0,None,2022,4.9,Yes,Average experience
+Mumbai,AIIMS Mumbai,Private-Mid,Scan,Dialysis,50386,41113,Yes,9273,Government,2024,4.4,Yes,Average experience
+Kolkata,CMC Kolkata,Private-Premium,Surgery,Blood Test,30933,29791,Yes,1142,None,2023,4.0,No,Not recommended
+Chennai,Fortis Chennai,Government,Test,Knee Replacement,52936,52936,No,0,Government,2024,4.0,No,Too expensive
+Hyderabad,AIIMS Hyderabad,Government,Medical,Knee Replacement,29723,21992,Yes,7731,None,2022,4.3,Yes,Too expensive
+Pune,AIIMS Pune,Government,Surgery,C-Section,79580,79580,No,0,Private,2022,4.7,No,Good service
+Mumbai,Max Mumbai,Private-Premium,Test,ICU Admission,41275,41275,No,0,None,2022,3.0,No,Good service
+Pune,Max Pune,Private-Premium,Surgery,ICU Admission,66291,66291,No,0,Government,2022,2.9,No,Average experience
+Hyderabad,Fortis Hyderabad,Private-Mid,Medical,Blood Test,36327,36327,No,0,None,2022,4.2,No,Satisfied
+Bangalore,Apollo Bangalore,Government,Surgery,Blood Test,46364,45419,Yes,945,None,2022,4.6,Yes,Satisfied
+Bangalore,AIIMS Bangalore,Private-Mid,Medical,Dialysis,43207,35896,Yes,7311,Private,2022,3.3,Yes,Not recommended
+Chennai,Apollo Chennai,Trust,Scan,CT Scan,70123,67732,Yes,2391,None,2024,4.6,Yes,Too expensive
+Pune,Fortis Pune,Private-Premium,Medical,ICU Admission,35286,35286,No,0,Private,2024,4.1,No,Not recommended
+Chennai,Narayana Chennai,Private-Premium,Surgery,C-Section,46753,46753,No,0,Government,2023,2.6,Yes,Too expensive
+Kolkata,Fortis Kolkata,Private-Premium,Surgery,Blood Test,72520,72520,No,0,Government,2022,3.2,No,Too expensive
+Ahmedabad,Narayana Ahmedabad,Private-Premium,Medical,MRI Scan,41800,35333,Yes,6467,Government,2023,3.2,Yes,Not recommended
+Kolkata,AIIMS Kolkata,Trust,Test,Delivery (Normal),70731,65281,Yes,5450,Government,2024,3.9,Yes,Not recommended
+Bangalore,Apollo Bangalore,Private-Mid,Scan,ICU Admission,6869,5916,Yes,953,Government,2022,2.7,Yes,Hidden charges found
+Bangalore,Apollo Bangalore,Trust,Medical,Dialysis,73618,73618,No,0,None,2022,3.3,No,Too expensive
+Hyderabad,Apollo Hyderabad,Trust,Surgery,Delivery (Normal),23623,23623,No,0,Government,2023,2.8,Yes,Good service
+Bangalore,AIIMS Bangalore,Government,Test,ICU Admission,51503,51503,No,0,Government,2023,4.9,Yes,Too expensive
+Ahmedabad,Fortis Ahmedabad,Government,Test,C-Section,73551,73551,No,0,None,2023,4.3,No,Satisfied
+Bangalore,AIIMS Bangalore,Trust,Medical,C-Section,5368,5368,No,0,Government,2022,3.6,No,Not recommended
+Mumbai,Narayana Mumbai,Government,Medical,CT Scan,78961,78961,No,0,Government,2024,4.4,Yes,Good service
+Mumbai,Apollo Mumbai,Private-Premium,Medical,CT Scan,35656,28757,Yes,6899,Private,2022,3.9,Yes,Average experience
+Pune,Max Pune,Private-Mid,Medical,CT Scan,40693,40693,No,0,None,2022,3.7,No,Good service
+Delhi,Max Delhi,Private-Mid,Test,Blood Test,67202,67202,No,0,Private,2023,3.3,No,Good service
+Pune,Apollo Pune,Government,Surgery,CT Scan,79820,79820,No,0,None,2023,4.4,No,Satisfied
+Chennai,Narayana Chennai,Private-Mid,Test,CT Scan,72813,63189,Yes,9624,Private,2024,4.3,Yes,Satisfied
+Hyderabad,CMC Hyderabad,Trust,Medical,MRI Scan,44089,44089,No,0,None,2022,3.8,No,Hidden charges found
+Pune,Fortis Pune,Trust,Medical,ICU Admission,66336,66336,No,0,Private,2022,3.0,No,Hidden charges found
+Pune,Fortis Pune,Trust,Medical,CT Scan,33098,33098,No,0,Government,2024,4.1,No,Not recommended
+Kolkata,CMC Kolkata,Private-Premium,Surgery,MRI Scan,58631,52119,Yes,6512,Private,2023,4.6,No,Satisfied
+Ahmedabad,Narayana Ahmedabad,Government,Scan,Appendectomy,40439,40439,No,0,Government,2022,4.4,Yes,Good service
+Mumbai,AIIMS Mumbai,Private-Premium,Medical,MRI Scan,12493,10215,Yes,2278,None,2024,4.4,Yes,Satisfied
+Ahmedabad,Max Ahmedabad,Government,Scan,Angioplasty,36080,28534,Yes,7546,Private,2023,2.8,Yes,Too expensive
+Bangalore,Max Bangalore,Private-Mid,Medical,Blood Test,7216,7216,No,0,Private,2023,2.5,Yes,Good service
+Ahmedabad,Fortis Ahmedabad,Private-Mid,Test,ICU Admission,66523,57159,Yes,9364,None,2022,4.8,Yes,Average experience
+Kolkata,Fortis Kolkata,Government,Medical,Dialysis,24153,17623,Yes,6530,Private,2023,2.9,No,Good service
+Kolkata,AIIMS Kolkata,Private-Premium,Scan,Angioplasty,11654,10417,Yes,1237,Private,2023,3.2,Yes,Average experience
+Bangalore,AIIMS Bangalore,Trust,Test,C-Section,13332,13332,No,0,Private,2023,3.4,No,Hidden charges found
+Bangalore,Max Bangalore,Private-Mid,Test,CT Scan,42904,36115,Yes,6789,Government,2022,4.5,No,Too expensive
+Mumbai,Apollo Mumbai,Trust,Medical,Angioplasty,48041,42711,Yes,5330,Government,2022,3.4,No,Too expensive
+Ahmedabad,Narayana Ahmedabad,Government,Test,CT Scan,32973,24497,Yes,8476,None,2024,4.3,No,Average experience
+Kolkata,Apollo Kolkata,Private-Premium,Test,ICU Admission,54475,49983,Yes,4492,Government,2022,4.9,No,Hidden charges found
+Kolkata,Max Kolkata,Government,Surgery,Blood Test,12245,12245,No,0,Government,2023,3.3,No,Too expensive
+Mumbai,Apollo Mumbai,Private-Premium,Surgery,Dialysis,47028,47028,No,0,Private,2024,4.0,Yes,Too expensive
+Chennai,Max Chennai,Government,Medical,Delivery (Normal),55457,49897,Yes,5560,Government,2023,4.5,Yes,Average experience
+Delhi,Apollo Delhi,Private-Premium,Scan,Knee Replacement,84217,77261,Yes,6956,Government,2023,4.6,Yes,Good service
+Kolkata,Apollo Kolkata,Trust,Medical,ICU Admission,71894,62254,Yes,9640,Private,2024,4.9,Yes,Not recommended
+Chennai,AIIMS Chennai,Government,Scan,Knee Replacement,74390,74390,No,0,None,2023,3.2,Yes,Satisfied
+Bangalore,Max Bangalore,Private-Mid,Test,Appendectomy,80611,70880,Yes,9731,Private,2024,3.7,No,Satisfied
+Pune,Fortis Pune,Private-Premium,Surgery,Dialysis,73518,73518,No,0,None,2022,4.5,Yes,Not recommended
+Pune,Narayana Pune,Trust,Surgery,CT Scan,57812,57812,No,0,Government,2024,2.6,No,Good service
+Bangalore,CMC Bangalore,Trust,Surgery,Dialysis,28407,28407,No,0,Government,2024,5.0,Yes,Average experience
+Pune,AIIMS Pune,Private-Premium,Medical,Angioplasty,55698,55698,No,0,Private,2024,3.9,No,Average experience
+Mumbai,Narayana Mumbai,Trust,Medical,Blood Test,57977,57977,No,0,Government,2024,4.7,Yes,Not recommended
+Ahmedabad,Apollo Ahmedabad,Trust,Scan,Blood Test,75847,75847,No,0,Government,2022,4.3,No,Not recommended
+Pune,Max Pune,Private-Premium,Surgery,Knee Replacement,22362,17641,Yes,4721,Private,2024,4.6,Yes,Satisfied
+Pune,Fortis Pune,Government,Surgery,MRI Scan,72175,72175,No,0,None,2024,2.8,No,Average experience
+Bangalore,Max Bangalore,Private-Mid,Surgery,CT Scan,41562,31590,Yes,9972,Government,2022,4.4,Yes,Average experience
+Mumbai,Fortis Mumbai,Private-Premium,Surgery,Angioplasty,40700,40700,No,0,None,2022,3.2,Yes,Hidden charges found
+Chennai,CMC Chennai,Government,Medical,Blood Test,66311,57750,Yes,8561,Government,2022,3.5,Yes,Not recommended
+Pune,AIIMS Pune,Government,Test,C-Section,49086,42069,Yes,7017,None,2024,3.8,No,Too expensive
+Delhi,Narayana Delhi,Trust,Medical,Appendectomy,72161,64222,Yes,7939,None,2022,4.9,No,Average experience
+Hyderabad,Apollo Hyderabad,Private-Mid,Medical,Blood Test,19355,19355,No,0,None,2022,3.6,Yes,Not recommended
+Bangalore,Narayana Bangalore,Trust,Test,C-Section,22019,22019,No,0,Government,2022,2.8,No,Too expensive
+Mumbai,AIIMS Mumbai,Private-Premium,Medical,Appendectomy,22143,22143,No,0,None,2024,2.9,No,Satisfied
+Bangalore,AIIMS Bangalore,Private-Premium,Test,Knee Replacement,59037,59037,No,0,Government,2023,2.7,No,Satisfied
+Ahmedabad,Max Ahmedabad,Private-Mid,Surgery,CT Scan,46154,37355,Yes,8799,Private,2022,3.5,No,Not recommended
+Bangalore,Max Bangalore,Private-Mid,Scan,CT Scan,69452,66177,Yes,3275,Government,2022,3.2,No,Average experience
+Ahmedabad,Fortis Ahmedabad,Private-Premium,Test,Blood Test,71873,67860,Yes,4013,Private,2024,4.6,Yes,Hidden charges found
+Chennai,Apollo Chennai,Trust,Scan,MRI Scan,55481,55481,No,0,Government,2023,4.6,Yes,Average experience
+Ahmedabad,Narayana Ahmedabad,Government,Medical,ICU Admission,66355,66355,No,0,Government,2024,4.8,Yes,Too expensive
+Hyderabad,Narayana Hyderabad,Government,Medical,Delivery (Normal),49318,49318,No,0,None,2023,3.5,No,Good service
+Hyderabad,Narayana Hyderabad,Private-Mid,Scan,ICU Admission,52887,52887,No,0,Private,2024,4.6,No,Good service
+Bangalore,Narayana Bangalore,Government,Medical,C-Section,63476,53506,Yes,9970,Private,2023,4.8,No,Average experience
+Bangalore,Apollo Bangalore,Private-Mid,Test,Knee Replacement,23405,23405,No,0,Private,2023,2.7,No,Satisfied
+Hyderabad,Narayana Hyderabad,Government,Test,Blood Test,56995,52713,Yes,4282,Government,2023,3.2,Yes,Satisfied
+Bangalore,AIIMS Bangalore,Private-Mid,Medical,Delivery (Normal),68177,68177,No,0,None,2022,3.0,Yes,Average experience
+Ahmedabad,CMC Ahmedabad,Private-Mid,Surgery,Dialysis,51337,50672,Yes,665,Government,2023,3.0,Yes,Not recommended

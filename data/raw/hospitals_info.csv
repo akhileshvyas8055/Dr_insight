@@ -1,0 +1,25 @@
+hospital_name,city,area,type,google_rating,total_reviews,beds,nabh,specialities,latitude,longitude
+AIIMS New Delhi,Delhi,Ansari Nagar,Government,4.2,17229.0,2478.0,Unknown,"Multi-speciality, Cardiology, Oncology, Neurosciences, Trauma",28.567818,77.209562
+Indraprastha Apollo Hospital,Delhi,Sarita Vihar,Private-Premium,4.4,29750.0,710.0,Yes,"Cardiac Sciences, Neurology, Oncology, Transplants",28.540613,77.283082
+Dr Lal PathLabs (Jor Bagh),Delhi,Jor Bagh,Standalone-Diagnostic,4.6,543.0,,No,"Pathology, Diagnostics",28.587458,77.216262
+KEM Hospital,Mumbai,Parel,Government,5.0,24.0,1800.0,Unknown,"General Medicine, Surgery, Cardiology, Neurology, Orthopaedics",,
+Lilavati Hospital,Mumbai,Bandra West,Private-Premium,4.2,10068.0,323.0,Yes,"Cardiology, Oncology, Neurology, Gastroenterology",,
+Metropolis Healthcare (Prabhadevi),Mumbai,Prabhadevi,Standalone-Diagnostic,4.6,4304.0,,No,"Pathology, Diagnostics",,
+Victoria Hospital,Bangalore,Kalasipalyam,Government,4.0,3286.0,1000.0,Unknown,"Medicine, Surgery, Orthopaedics, Radiology, Gastroenterology",,
+Apollo Hospitals Bannerghatta Road,Bangalore,Bannerghatta Road,Private-Premium,4.5,32778.0,250.0,Yes,"Cardiology, Oncology, Neurology, Orthopaedics, Transplants",,
+Agilus Diagnostics (Banashankari),Bangalore,Banashankari 2nd Stage,Standalone-Diagnostic,4.0,2.0,,Unknown,"Pathology, Diagnostics",,
+Rajiv Gandhi Government General Hospital,Chennai,Park Town,Government,4.1,3238.0,2722.0,Unknown,"Multi-speciality, Cardiology, Oncology, Neurology, Orthopaedics",,
+Apollo Hospitals Greams Road,Chennai,Greams Road,Private-Premium,4.7,73470.0,550.0,Yes,"Cardiology, Oncology, Nephrology, Neurology, Gastroenterology",,
+Neuberg Diagnostics (Manapakkam),Chennai,Manapakkam,Standalone-Diagnostic,4.9,57.0,,No,"Diagnostics, Pathology, Genetics, Molecular Testing",,
+SSKM Hospital,Kolkata,Bhawanipur,Government,4.1,4020.0,,Unknown,"Multi-speciality, Emergency, Medicine, Surgery",,
+Apollo Gleneagles Hospital,Kolkata,Kankurgachhi,Private-Premium,3.4,,750.0,Yes,"Oncology, Cardiology, Orthopaedics, Nephrology, Urology",,
+Suraksha Diagnostics (Garia),Kolkata,Garia,Standalone-Diagnostic,4.5,1651.0,,Unknown,"Pathology, Diagnostics, Imaging",,
+Osmania General Hospital,Hyderabad,Afzal Gunj,Government,3.9,2572.0,1168.0,Unknown,"General Medicine, Surgery, Emergency, Teaching Hospital",,
+Yashoda Hospital (Somajiguda),Hyderabad,Somajiguda,Private-Premium,4.7,39937.0,404.0,Yes,"Multispeciality, Cardiology, Orthopaedics, Oncology",,
+Vijaya Diagnostic Centre (A S Rao Nagar),Hyderabad,A S Rao Nagar,Standalone-Diagnostic,4.5,14372.0,,Unknown,"Pathology, Diagnostics, Imaging",,
+Sassoon General Hospital,Pune,Sassoon Road,Government,4.2,1861.0,,Unknown,"General Medicine, Surgery, Teaching Hospital",,
+Ruby Hall Clinic,Pune,Sassoon Road,Trust,4.3,28493.0,750.0,Yes,"Cardiology, Cardiac Surgery, Nuclear Medicine, Multispeciality",,
+Metropolis Healthcare (Punawale),Pune,Punawale,Standalone-Diagnostic,4.8,76.0,,No,"Pathology, Diagnostics",,
+Civil Hospital Ahmedabad,Ahmedabad,Asarwa,Government,4.2,3638.0,2000.0,Unknown,"Multi-speciality, Tertiary Care, Teaching Hospital",,
+Apollo Hospital International Ltd,Ahmedabad,Bhat,Private-Premium,3.5,25.0,300.0,Yes,"Cardiac Sciences, Orthopaedics, Spine, Neuro Sciences, Cancer",,
+Dr Lal PathLabs (Relief Road),Ahmedabad,Relief Road,Standalone-Diagnostic,4.9,553.0,,No,"Pathology, Diagnostics",,

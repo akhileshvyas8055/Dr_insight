@@ -1,0 +1,301 @@
+city,hospital_name,hospital_type,procedure_category,procedure_name,amount_paid,initial_quote,hidden_charges,hidden_charge_amount,insurance_type,year,rating,would_return,comments
+Mumbai,AIIMS Mumbai,Private-Mid,Ophthalmology,Eye Checkup - Comprehensive,896,1395,Yes,147,Private,2022,3.4,Yes,Average experience
+Pune,Narayana Pune,Government,Blood Test,Stool Test,233,441,Yes,31,,2022,5.0,Yes,Satisfied
+Bangalore,AIIMS Bangalore,Government,Blood Test,PSA Test (Prostate),907,1366,No,0,,2023,3.4,Yes,Satisfied
+Delhi,AIIMS Delhi,Trust,Procedure,Pap Smear Test,688,655,Yes,59,,2023,3.6,No,Satisfied
+Hyderabad,Narayana Hyderabad,Private-Premium,Blood Test,Thyroid Function Test (TFT),928,1147,Yes,132,Private,2023,4.7,No,Hidden charges found
+Kolkata,CMC Kolkata,Trust,Blood Test,Allergy Panel Test,3051,5987,No,0,Private,2023,2.9,Yes,Average experience
+Hyderabad,Max Hyderabad,Private-Mid,Blood Test,PSA Test (Prostate),784,1000,Yes,182,Private,2022,4.5,Yes,Not recommended
+Chennai,CMC Chennai,Private-Mid,Procedure,Endoscopy (Upper GI),6264,4783,No,0,Government,2023,3.7,Yes,Hidden charges found
+Ahmedabad,AIIMS Ahmedabad,Government,Blood Test,Stool Test,254,331,Yes,64,Government,2024,4.6,Yes,Satisfied
+Delhi,Narayana Delhi,Government,Cardiology,ECG (Electrocardiogram),451,542,No,0,Government,2022,4.3,No,Satisfied
+Bangalore,Apollo Bangalore,Government,General Surgery,Gallbladder Removal (Cholecystectomy),64168,84988,Yes,6206,Private,2023,4.8,No,Satisfied
+Hyderabad,Apollo Hyderabad,Trust,Blood Test,Stool Test,424,405,Yes,45,Private,2022,3.5,Yes,Good service
+Mumbai,Fortis Mumbai,Private-Premium,ENT,Hearing Test (Audiometry),889,594,No,0,,2022,4.4,Yes,Too expensive
+Mumbai,Narayana Mumbai,Private-Mid,Blood Test,PSA Test (Prostate),860,890,Yes,201,,2024,4.7,No,Average experience
+Mumbai,Apollo Mumbai,Government,Blood Test,Kidney Function Test (KFT),1210,1431,Yes,98,,2023,2.9,Yes,Average experience
+Mumbai,Narayana Mumbai,Government,Blood Test,Urine Routine Test,180,360,No,0,Private,2024,4.0,No,Hidden charges found
+Chennai,Fortis Chennai,Trust,Ophthalmology,Cataract Surgery,36545,32380,No,0,Private,2023,3.2,Yes,Average experience
+Kolkata,Max Kolkata,Government,Ophthalmology,Cataract Surgery,36093,45516,Yes,1667,,2023,4.9,No,Good service
+Pune,Apollo Pune,Trust,Imaging,X-Ray - Limb,485,457,Yes,88,Private,2024,4.7,Yes,Not recommended
+Kolkata,AIIMS Kolkata,Government,ENT,Tonsillectomy,17418,32659,No,0,Private,2024,3.1,No,Not recommended
+Pune,AIIMS Pune,Private-Premium,Cardiology,ECG (Electrocardiogram),296,512,Yes,40,,2024,3.6,Yes,Hidden charges found
+Kolkata,Narayana Kolkata,Private-Premium,Blood Test,Urine Routine Test,338,330,No,0,Government,2024,2.9,Yes,Hidden charges found
+Pune,Apollo Pune,Private-Mid,Maternity,C-Section Delivery,60869,87351,No,0,Private,2024,4.2,Yes,Average experience
+Kolkata,Max Kolkata,Private-Premium,Blood Test,Thyroid Function Test (TFT),1084,1034,No,0,,2022,2.6,Yes,Satisfied
+Pune,Apollo Pune,Government,Ophthalmology,Cataract Surgery,36062,25765,Yes,7060,Private,2024,3.2,No,Too expensive
+Chennai,Fortis Chennai,Private-Mid,General Surgery,Appendectomy,34607,56353,No,0,,2024,5.0,Yes,Too expensive
+Pune,CMC Pune,Trust,Blood Test,PSA Test (Prostate),1300,1504,No,0,Government,2024,4.3,Yes,Not recommended
+Chennai,AIIMS Chennai,Government,Blood Test,Kidney Function Test (KFT),872,1481,Yes,51,Government,2022,2.7,Yes,Hidden charges found
+Delhi,AIIMS Delhi,Trust,Blood Test,Vitamin B12 Test,1218,1648,Yes,261,Private,2023,3.9,No,Good service
+Kolkata,Apollo Kolkata,Private-Mid,Rehabilitation,Physiotherapy Session,1027,832,No,0,Private,2022,4.0,No,Too expensive
+Kolkata,CMC Kolkata,Private-Mid,Dental,Dental Root Canal,7730,5426,No,0,,2022,4.6,Yes,Good service
+Hyderabad,Max Hyderabad,Trust,Imaging,Ultrasound - Abdomen,1993,1619,No,0,Government,2024,3.5,Yes,Satisfied
+Bangalore,Fortis Bangalore,Private-Premium,Dental,Dental Cleaning,1674,1463,Yes,220,,2022,3.9,Yes,Average experience
+Pune,CMC Pune,Private-Premium,Cardiology,2D Echocardiography,2035,2738,No,0,,2023,4.8,No,Not recommended
+Ahmedabad,Narayana Ahmedabad,Government,Imaging,PET Scan,13083,21065,No,0,Government,2023,4.1,Yes,Hidden charges found
+Hyderabad,Narayana Hyderabad,Trust,Maternity,Normal Delivery,28320,36782,No,0,Government,2023,4.1,No,Average experience
+Bangalore,Apollo Bangalore,Government,Maternity,Normal Delivery,22209,34882,Yes,5930,Government,2023,4.5,No,Average experience
+Delhi,AIIMS Delhi,Private-Premium,General Surgery,Hernia Repair,52549,53893,Yes,9827,,2022,4.9,Yes,Too expensive
+Mumbai,Apollo Mumbai,Government,Cardiology,TMT (Treadmill Test),1656,2634,Yes,248,Private,2022,3.7,No,Good service
+Kolkata,Apollo Kolkata,Government,Imaging,X-Ray - Chest,818,941,No,0,Government,2022,4.2,No,Satisfied
+Ahmedabad,AIIMS Ahmedabad,Government,Orthopaedics,Knee Replacement,320789,204013,Yes,14926,,2024,2.8,No,Average experience
+Bangalore,CMC Bangalore,Private-Mid,Ophthalmology,Eye Checkup - Comprehensive,897,948,Yes,191,,2022,4.4,Yes,Hidden charges found
+Chennai,CMC Chennai,Government,Procedure,Colonoscopy,7257,5712,No,0,,2023,4.2,No,Satisfied
+Pune,AIIMS Pune,Private-Premium,General Surgery,Appendectomy,34752,43348,No,0,Government,2022,4.1,No,Too expensive
+Pune,Fortis Pune,Trust,Ophthalmology,Eye Checkup - Comprehensive,965,1363,No,0,,2022,4.0,Yes,Average experience
+Bangalore,Apollo Bangalore,Government,Cardiology,2D Echocardiography,2143,3516,Yes,111,Government,2023,2.9,Yes,Hidden charges found
+Delhi,Max Delhi,Trust,Imaging,MRI - Knee,11518,9633,Yes,1717,Private,2022,2.8,No,Not recommended
+Mumbai,Fortis Mumbai,Private-Mid,Imaging,Ultrasound - Abdomen,1451,2081,Yes,176,Private,2022,3.3,No,Not recommended
+Hyderabad,Apollo Hyderabad,Private-Mid,Dental,Dental Root Canal,6084,8291,No,0,,2022,4.0,Yes,Too expensive
+Bangalore,Narayana Bangalore,Trust,ENT,Hearing Test (Audiometry),743,934,Yes,149,Government,2024,3.0,Yes,Not recommended
+Pune,AIIMS Pune,Private-Mid,Imaging,Mammography,2064,2890,No,0,Government,2022,4.8,Yes,Hidden charges found
+Pune,CMC Pune,Government,Imaging,CT Scan - Abdomen,4258,8682,No,0,,2022,5.0,Yes,Average experience
+Chennai,Fortis Chennai,Private-Premium,Blood Test,Lipid Profile,691,1142,Yes,130,Private,2022,4.2,Yes,Average experience
+Ahmedabad,Apollo Ahmedabad,Private-Premium,Imaging,PET Scan,18902,29596,Yes,2227,Private,2024,4.9,Yes,Too expensive
+Ahmedabad,Apollo Ahmedabad,Private-Mid,Blood Test,Thyroid Function Test (TFT),1095,1216,Yes,159,,2023,4.6,No,Not recommended
+Mumbai,Max Mumbai,Private-Premium,Blood Test,Stool Test,441,421,No,0,,2024,3.9,Yes,Average experience
+Kolkata,CMC Kolkata,Private-Premium,Blood Test,Complete Blood Count (CBC),470,603,No,0,Private,2022,4.1,No,Not recommended
+Mumbai,Max Mumbai,Private-Mid,Blood Test,Thyroid Function Test (TFT),695,1237,No,0,,2024,4.1,No,Satisfied
+Kolkata,Fortis Kolkata,Trust,Imaging,Bone Density Test (DEXA Scan),2676,2849,No,0,Government,2022,4.1,Yes,Hidden charges found
+Mumbai,Max Mumbai,Private-Mid,Blood Test,Urine Routine Test,174,284,Yes,23,,2022,3.8,No,Good service
+Delhi,AIIMS Delhi,Private-Premium,Imaging,Mammography,3540,2077,No,0,,2022,4.7,Yes,Good service
+Chennai,CMC Chennai,Private-Mid,Health Checkup,Full Body Checkup - Advanced,4703,7033,No,0,,2022,4.7,Yes,Too expensive
+Hyderabad,Fortis Hyderabad,Trust,Blood Test,Blood Sugar Fasting,83,148,No,0,,2023,4.0,No,Good service
+Delhi,Apollo Delhi,Private-Mid,Imaging,CT Scan - Abdomen,7309,5265,Yes,1336,Government,2022,4.6,Yes,Satisfied
+Chennai,Fortis Chennai,Trust,Imaging,CT Scan - Brain,5850,3853,Yes,451,Private,2022,4.7,No,Not recommended
+Kolkata,Max Kolkata,Government,Imaging,Ultrasound - Pelvis,1876,1651,Yes,334,Government,2022,4.9,Yes,Not recommended
+Delhi,Max Delhi,Trust,Imaging,CT Scan - Abdomen,5052,5900,No,0,Government,2022,5.0,Yes,Average experience
+Hyderabad,CMC Hyderabad,Trust,General Surgery,Appendectomy,43758,66226,No,0,Private,2023,5.0,Yes,Hidden charges found
+Delhi,AIIMS Delhi,Private-Premium,Orthopaedics,Knee Replacement,355192,392320,No,0,,2024,3.4,Yes,Average experience
+Delhi,Apollo Delhi,Government,Imaging,MRI - Spine,11595,15509,No,0,Private,2024,4.3,No,Good service
+Kolkata,Fortis Kolkata,Trust,Blood Test,Kidney Function Test (KFT),769,1156,No,0,Government,2022,2.7,Yes,Good service
+Kolkata,Apollo Kolkata,Private-Premium,Health Checkup,Full Body Checkup - Advanced,4269,6128,Yes,485,Government,2023,3.2,Yes,Satisfied
+Mumbai,Narayana Mumbai,Private-Mid,General Surgery,Gallbladder Removal (Cholecystectomy),56714,73575,Yes,5813,,2024,4.3,No,Satisfied
+Pune,Narayana Pune,Trust,Blood Test,Lipid Profile,508,901,Yes,146,Government,2022,3.7,Yes,Hidden charges found
+Mumbai,AIIMS Mumbai,Trust,Imaging,X-Ray - Limb,706,685,No,0,Private,2022,3.9,Yes,Satisfied
+Hyderabad,Max Hyderabad,Private-Premium,Procedure,Pap Smear Test,777,973,No,0,Private,2022,3.2,No,Too expensive
+Mumbai,Narayana Mumbai,Government,Cardiology,TMT (Treadmill Test),2258,2663,No,0,Government,2024,2.9,No,Hidden charges found
+Delhi,Max Delhi,Trust,Maternity,Normal Delivery,32257,39329,No,0,,2024,3.7,Yes,Average experience
+Mumbai,Narayana Mumbai,Trust,Ophthalmology,Eye Checkup - Comprehensive,1175,1163,Yes,53,Government,2023,2.9,No,Too expensive
+Mumbai,Max Mumbai,Government,Blood Test,Liver Function Test (LFT),792,1397,No,0,Government,2022,2.7,Yes,Satisfied
+Ahmedabad,Max Ahmedabad,Private-Premium,Imaging,X-Ray - Chest,484,906,Yes,76,Government,2023,4.3,No,Too expensive
+Ahmedabad,AIIMS Ahmedabad,Trust,Dental,Dental Root Canal,5575,7957,Yes,626,Private,2022,3.1,No,Average experience
+Pune,Narayana Pune,Private-Mid,Procedure,Pap Smear Test,985,639,No,0,,2023,4.3,Yes,Average experience
+Delhi,CMC Delhi,Trust,Dental,Dental Cleaning,1144,1542,No,0,,2022,3.3,No,Satisfied
+Hyderabad,AIIMS Hyderabad,Private-Premium,Ophthalmology,Eye Checkup - Comprehensive,1423,1158,No,0,Government,2022,2.9,No,Hidden charges found
+Chennai,Max Chennai,Private-Premium,Rehabilitation,Physiotherapy Session,1032,899,Yes,201,,2024,3.6,No,Satisfied
+Chennai,CMC Chennai,Private-Mid,Imaging,CT Scan - Chest,3268,4842,No,0,Private,2023,2.9,No,Satisfied
+Chennai,AIIMS Chennai,Private-Premium,ENT,Tonsillectomy,21293,27142,No,0,Government,2024,5.0,Yes,Satisfied
+Hyderabad,AIIMS Hyderabad,Government,Health Checkup,Full Body Checkup - Advanced,4212,8239,Yes,986,Private,2022,3.0,No,Good service
+Kolkata,Narayana Kolkata,Private-Mid,Imaging,Ultrasound - Pelvis,2006,2810,Yes,362,Government,2023,2.6,Yes,Hidden charges found
+Delhi,Narayana Delhi,Trust,ENT,Hearing Test (Audiometry),564,880,Yes,26,Government,2022,3.3,No,Not recommended
+Bangalore,AIIMS Bangalore,Private-Mid,Blood Test,PSA Test (Prostate),1395,1478,No,0,Government,2023,4.5,Yes,Satisfied
+Ahmedabad,Apollo Ahmedabad,Government,Imaging,CT Scan - Abdomen,5462,8649,No,0,Government,2022,3.9,Yes,Good service
+Hyderabad,Max Hyderabad,Trust,General Surgery,Hernia Repair,68756,75285,Yes,5088,,2024,3.4,No,Satisfied
+Mumbai,Max Mumbai,Trust,Blood Test,Urine Routine Test,161,274,Yes,41,Private,2024,4.9,No,Good service
+Delhi,Narayana Delhi,Private-Mid,Health Checkup,Full Body Checkup - Premium,13636,11824,Yes,616,Government,2022,3.9,Yes,Average experience
+Bangalore,Narayana Bangalore,Trust,Imaging,CT Scan - Brain,4737,6018,Yes,519,Government,2024,3.6,No,Hidden charges found
+Kolkata,Fortis Kolkata,Government,Blood Test,Vitamin B12 Test,1096,1050,No,0,Private,2024,3.2,Yes,Too expensive
+Kolkata,Apollo Kolkata,Private-Mid,General Surgery,Appendectomy,60558,69220,No,0,Private,2024,2.8,No,Not recommended
+Bangalore,Fortis Bangalore,Private-Mid,Imaging,X-Ray - Limb,601,543,No,0,Private,2022,2.8,No,Hidden charges found
+Kolkata,CMC Kolkata,Private-Mid,Imaging,MRI - Brain,7564,7372,No,0,Private,2023,2.8,Yes,Too expensive
+Mumbai,Apollo Mumbai,Trust,Imaging,Ultrasound - Pelvis,2250,2709,Yes,443,Private,2024,4.1,No,Good service
+Bangalore,Narayana Bangalore,Trust,Health Checkup,Full Body Checkup - Premium,10538,15864,No,0,Private,2022,3.5,No,Too expensive
+Delhi,AIIMS Delhi,Private-Mid,Maternity,C-Section Delivery,55122,86498,No,0,,2023,3.9,Yes,Hidden charges found
+Bangalore,Max Bangalore,Private-Premium,Rehabilitation,Physiotherapy Session,1399,1131,No,0,Government,2023,3.0,No,Too expensive
+Pune,Fortis Pune,Private-Premium,Blood Test,Liver Function Test (LFT),1036,1434,Yes,140,,2023,2.6,Yes,Good service
+Bangalore,Apollo Bangalore,Trust,Imaging,MRI - Knee,10905,7585,No,0,,2023,4.0,Yes,Too expensive
+Chennai,CMC Chennai,Private-Mid,Imaging,MRI - Spine,9024,14401,Yes,442,Private,2022,3.7,Yes,Good service
+Mumbai,Apollo Mumbai,Private-Mid,Cardiology,TMT (Treadmill Test),2532,1969,Yes,219,Private,2022,3.7,Yes,Not recommended
+Delhi,Fortis Delhi,Private-Premium,Blood Test,COVID-19 RT-PCR Test,882,705,No,0,Government,2023,4.3,No,Hidden charges found
+Delhi,AIIMS Delhi,Private-Premium,Imaging,PET Scan,19991,21815,Yes,3098,Private,2023,3.7,Yes,Satisfied
+Hyderabad,Fortis Hyderabad,Trust,Blood Test,Thyroid Function Test (TFT),860,1106,No,0,,2024,4.2,Yes,Satisfied
+Hyderabad,Narayana Hyderabad,Private-Premium,Orthopaedics,Hip Replacement,352979,469736,Yes,68401,,2024,2.9,Yes,Hidden charges found
+Delhi,AIIMS Delhi,Government,Orthopaedics,Hip Replacement,224044,426647,No,0,Government,2024,4.0,No,Not recommended
+Kolkata,Max Kolkata,Trust,Blood Test,Complete Blood Count (CBC),396,520,Yes,88,,2023,2.6,Yes,Satisfied
+Chennai,Max Chennai,Government,Health Checkup,Full Body Checkup - Basic,4212,3578,No,0,Private,2024,4.4,Yes,Good service
+Bangalore,Narayana Bangalore,Private-Premium,Blood Test,COVID-19 RT-PCR Test,801,798,Yes,70,Government,2024,4.1,Yes,Not recommended
+Hyderabad,Max Hyderabad,Trust,Imaging,Ultrasound - Abdomen,1073,1578,No,0,Private,2023,2.8,No,Too expensive
+Kolkata,CMC Kolkata,Private-Premium,Blood Test,COVID-19 RT-PCR Test,768,673,No,0,,2023,2.9,No,Satisfied
+Hyderabad,Max Hyderabad,Trust,Procedure,Colonoscopy,6984,7999,No,0,Government,2024,3.1,Yes,Too expensive
+Pune,AIIMS Pune,Private-Mid,Imaging,X-Ray - Chest,882,953,No,0,,2024,4.7,Yes,Good service
+Ahmedabad,AIIMS Ahmedabad,Private-Mid,General Surgery,Hernia Repair,63445,58161,No,0,Private,2023,3.6,No,Satisfied
+Bangalore,Max Bangalore,Government,General Surgery,Hernia Repair,41211,53650,No,0,Government,2022,3.4,Yes,Good service
+Hyderabad,Max Hyderabad,Private-Premium,Orthopaedics,Hip Replacement,382001,255501,Yes,17429,,2023,3.3,Yes,Average experience
+Mumbai,Max Mumbai,Private-Premium,Blood Test,HbA1c,889,984,No,0,Government,2022,3.9,Yes,Too expensive
+Ahmedabad,Apollo Ahmedabad,Private-Mid,ENT,Hearing Test (Audiometry),667,999,Yes,76,Private,2023,3.3,No,Hidden charges found
+Hyderabad,AIIMS Hyderabad,Government,Maternity,C-Section Delivery,80707,46903,No,0,Government,2022,2.7,Yes,Not recommended
+Kolkata,Narayana Kolkata,Private-Mid,ENT,Hearing Test (Audiometry),567,637,Yes,84,,2022,2.8,No,Satisfied
+Chennai,Max Chennai,Government,Imaging,CT Scan - Brain,5077,6384,Yes,315,,2024,4.4,Yes,Not recommended
+Bangalore,Apollo Bangalore,Trust,Imaging,X-Ray - Chest,564,855,Yes,35,,2024,3.9,No,Hidden charges found
+Chennai,Fortis Chennai,Government,Blood Test,Allergy Panel Test,3971,4172,No,0,,2023,3.5,Yes,Average experience
+Kolkata,AIIMS Kolkata,Private-Mid,Health Checkup,Full Body Checkup - Basic,3368,4297,No,0,,2022,3.0,Yes,Satisfied
+Ahmedabad,Fortis Ahmedabad,Private-Mid,Imaging,Mammography,2988,2667,Yes,378,Government,2024,3.2,No,Average experience
+Mumbai,Apollo Mumbai,Private-Mid,Ophthalmology,Eye Checkup - Comprehensive,684,1453,No,0,Government,2023,4.5,No,Satisfied
+Chennai,Fortis Chennai,Private-Mid,Imaging,X-Ray - Chest,461,677,Yes,149,,2024,4.5,Yes,Too expensive
+Delhi,Fortis Delhi,Private-Mid,Imaging,X-Ray - Limb,565,704,No,0,Private,2023,3.3,Yes,Satisfied
+Mumbai,CMC Mumbai,Trust,Imaging,Ultrasound - Pelvis,1222,2657,Yes,142,Government,2022,4.3,No,Too expensive
+Delhi,Max Delhi,Private-Premium,Blood Test,Urine Routine Test,335,270,No,0,Government,2024,4.5,No,Average experience
+Chennai,Narayana Chennai,Private-Premium,Ophthalmology,Cataract Surgery,43640,34627,Yes,3646,Private,2024,4.1,No,Average experience
+Delhi,Narayana Delhi,Trust,Blood Test,Thyroid Function Test (TFT),783,1294,No,0,,2022,4.7,No,Satisfied
+Hyderabad,Narayana Hyderabad,Government,Health Checkup,Full Body Checkup - Basic,2139,4927,Yes,241,Private,2022,4.9,Yes,Too expensive
+Delhi,Fortis Delhi,Private-Premium,Ophthalmology,Cataract Surgery,35792,26451,No,0,Private,2022,4.6,No,Hidden charges found
+Bangalore,CMC Bangalore,Private-Premium,ENT,Hearing Test (Audiometry),427,845,Yes,99,Private,2024,3.9,Yes,Good service
+Kolkata,Fortis Kolkata,Government,Dental,Dental Root Canal,5178,7906,No,0,Government,2023,4.9,Yes,Satisfied
+Bangalore,Narayana Bangalore,Private-Mid,General Surgery,Hernia Repair,37446,77554,No,0,Private,2022,3.5,Yes,Hidden charges found
+Hyderabad,Max Hyderabad,Trust,Blood Test,Urine Routine Test,327,342,No,0,,2022,4.3,Yes,Good service
+Ahmedabad,CMC Ahmedabad,Government,Blood Test,Blood Sugar Fasting,131,140,No,0,Government,2024,2.7,No,Too expensive
+Bangalore,Fortis Bangalore,Trust,Blood Test,Blood Sugar Fasting,117,151,No,0,Private,2023,2.9,Yes,Too expensive
+Mumbai,Narayana Mumbai,Trust,Imaging,MRI - Spine,8410,12307,Yes,670,Private,2023,3.6,Yes,Too expensive
+Kolkata,CMC Kolkata,Private-Premium,Blood Test,HbA1c,540,986,Yes,67,Private,2023,3.5,No,Satisfied
+Ahmedabad,Fortis Ahmedabad,Private-Premium,Blood Test,Kidney Function Test (KFT),1286,1261,No,0,,2023,3.5,Yes,Good service
+Ahmedabad,Apollo Ahmedabad,Trust,Blood Test,PSA Test (Prostate),1035,1481,No,0,,2022,3.9,Yes,Average experience
+Delhi,Apollo Delhi,Trust,Dental,Dental Root Canal,7085,5826,Yes,1373,Government,2024,3.2,Yes,Too expensive
+Pune,CMC Pune,Private-Premium,Imaging,X-Ray - Limb,650,747,No,0,Private,2024,4.0,Yes,Hidden charges found
+Chennai,Apollo Chennai,Private-Mid,Procedure,Pap Smear Test,522,734,No,0,Government,2024,4.7,No,Good service
+Pune,CMC Pune,Private-Premium,General Surgery,Appendectomy,58998,45635,Yes,7820,Private,2023,2.7,Yes,Too expensive
+Chennai,Fortis Chennai,Private-Premium,General Surgery,Appendectomy,51317,40420,No,0,Private,2023,4.4,No,Hidden charges found
+Ahmedabad,AIIMS Ahmedabad,Private-Premium,Orthopaedics,Knee Replacement,342935,239608,No,0,,2023,3.1,No,Too expensive
+Kolkata,Narayana Kolkata,Private-Premium,Ophthalmology,Eye Checkup - Comprehensive,1130,1105,Yes,101,Private,2024,2.9,No,Too expensive
+Mumbai,Max Mumbai,Government,Imaging,CT Scan - Abdomen,3716,5343,No,0,,2023,4.3,Yes,Hidden charges found
+Bangalore,CMC Bangalore,Government,Cardiology,TMT (Treadmill Test),2402,1648,Yes,219,Government,2023,3.5,Yes,Good service
+Bangalore,Narayana Bangalore,Trust,Procedure,Endoscopy (Upper GI),3732,4005,Yes,843,Private,2024,5.0,Yes,Good service
+Hyderabad,CMC Hyderabad,Private-Premium,Cardiology,ECG (Electrocardiogram),363,461,No,0,,2023,4.4,No,Satisfied
+Hyderabad,CMC Hyderabad,Trust,Health Checkup,Full Body Checkup - Basic,2952,4163,No,0,Private,2023,4.6,No,Good service
+Bangalore,CMC Bangalore,Trust,Ophthalmology,Eye Checkup - Comprehensive,1411,1264,Yes,41,Government,2024,3.2,No,Not recommended
+Mumbai,AIIMS Mumbai,Government,ENT,Tonsillectomy,16749,23118,Yes,1146,Private,2024,5.0,Yes,Too expensive
+Bangalore,Apollo Bangalore,Trust,Blood Test,HbA1c,530,551,No,0,,2022,4.1,Yes,Hidden charges found
+Mumbai,Max Mumbai,Trust,Procedure,Endoscopy (Upper GI),4629,6973,Yes,997,Private,2022,4.7,No,Not recommended
+Chennai,Narayana Chennai,Private-Premium,Imaging,Ultrasound - Pelvis,2343,1639,Yes,293,Government,2024,2.8,No,Not recommended
+Bangalore,Narayana Bangalore,Government,General Surgery,Appendectomy,34918,55952,Yes,7073,,2024,3.9,Yes,Satisfied
+Ahmedabad,Max Ahmedabad,Government,Blood Test,Vitamin D Test,1765,1879,No,0,Private,2022,2.7,Yes,Average experience
+Kolkata,AIIMS Kolkata,Government,Health Checkup,Full Body Checkup - Premium,13293,15619,No,0,,2022,3.6,No,Hidden charges found
+Delhi,Apollo Delhi,Trust,Blood Test,PSA Test (Prostate),843,1565,Yes,139,Government,2024,2.5,Yes,Too expensive
+Mumbai,Fortis Mumbai,Government,Blood Test,Vitamin D Test,1953,2039,Yes,250,Government,2024,3.8,No,Average experience
+Bangalore,Narayana Bangalore,Trust,Imaging,MRI - Brain,8173,11131,No,0,Government,2023,3.3,Yes,Not recommended
+Kolkata,Apollo Kolkata,Trust,Imaging,Ultrasound - Pelvis,2250,2452,No,0,Private,2024,2.7,No,Satisfied
+Hyderabad,CMC Hyderabad,Private-Mid,Blood Test,PSA Test (Prostate),940,1128,No,0,,2022,2.6,No,Hidden charges found
+Hyderabad,CMC Hyderabad,Private-Premium,Procedure,Pap Smear Test,928,1177,No,0,Government,2024,4.3,Yes,Too expensive
+Mumbai,AIIMS Mumbai,Government,Blood Test,HbA1c,676,713,No,0,Private,2022,3.1,No,Satisfied
+Hyderabad,Narayana Hyderabad,Trust,Blood Test,Blood Sugar Fasting,131,154,Yes,22,Private,2024,3.9,Yes,Average experience
+Bangalore,CMC Bangalore,Trust,Maternity,C-Section Delivery,42499,76191,No,0,,2023,2.7,Yes,Hidden charges found
+Ahmedabad,Narayana Ahmedabad,Trust,Blood Test,Lipid Profile,931,672,No,0,,2023,3.9,No,Not recommended
+Bangalore,Fortis Bangalore,Trust,Cardiology,TMT (Treadmill Test),1327,2301,Yes,286,,2024,4.4,No,Hidden charges found
+Kolkata,Fortis Kolkata,Private-Premium,Health Checkup,Full Body Checkup - Basic,3719,3944,Yes,479,Private,2022,3.6,Yes,Average experience
+Bangalore,Fortis Bangalore,Private-Mid,Imaging,Ultrasound - Abdomen,2159,1854,Yes,133,,2023,4.8,No,Not recommended
+Kolkata,Max Kolkata,Government,Rehabilitation,Physiotherapy Session,1194,1549,Yes,127,Private,2024,3.2,Yes,Satisfied
+Delhi,Apollo Delhi,Government,Health Checkup,Full Body Checkup - Premium,14252,13512,No,0,Government,2024,4.2,Yes,Too expensive
+Delhi,AIIMS Delhi,Government,Procedure,Pap Smear Test,671,1033,No,0,Government,2022,4.7,Yes,Too expensive
+Bangalore,Fortis Bangalore,Private-Mid,Imaging,CT Scan - Chest,5693,4264,Yes,593,,2024,3.2,Yes,Good service
+Kolkata,Apollo Kolkata,Trust,Cardiology,ECG (Electrocardiogram),533,307,No,0,Private,2024,4.4,No,Too expensive
+Kolkata,Narayana Kolkata,Private-Premium,Cardiology,ECG (Electrocardiogram),242,321,No,0,Government,2023,3.3,Yes,Too expensive
+Bangalore,Fortis Bangalore,Trust,Imaging,X-Ray - Limb,442,406,Yes,96,Private,2022,3.6,Yes,Too expensive
+Kolkata,AIIMS Kolkata,Private-Mid,Blood Test,PSA Test (Prostate),1353,1181,Yes,210,,2022,4.6,Yes,Satisfied
+Mumbai,AIIMS Mumbai,Government,Blood Test,Lipid Profile,1027,920,Yes,77,,2023,2.7,No,Too expensive
+Ahmedabad,CMC Ahmedabad,Private-Premium,Procedure,Endoscopy (Upper GI),3190,6826,No,0,Private,2024,5.0,No,Hidden charges found
+Kolkata,Narayana Kolkata,Private-Mid,Imaging,MRI - Brain,6652,8422,No,0,Private,2023,4.5,Yes,Too expensive
+Chennai,Narayana Chennai,Government,Cardiology,ECG (Electrocardiogram),450,578,No,0,,2023,2.9,Yes,Hidden charges found
+Ahmedabad,Apollo Ahmedabad,Private-Mid,Blood Test,Vitamin B12 Test,1331,917,Yes,233,,2022,3.6,No,Average experience
+Ahmedabad,Apollo Ahmedabad,Trust,Imaging,Ultrasound - Pelvis,1503,1990,Yes,87,Private,2022,4.1,Yes,Average experience
+Hyderabad,AIIMS Hyderabad,Government,Health Checkup,Full Body Checkup - Premium,7571,15005,No,0,,2023,3.6,No,Good service
+Chennai,Narayana Chennai,Trust,Health Checkup,Full Body Checkup - Advanced,7026,5748,No,0,,2023,3.3,No,Satisfied
+Kolkata,Fortis Kolkata,Trust,Health Checkup,Full Body Checkup - Premium,12990,15370,Yes,731,Government,2022,3.7,No,Not recommended
+Bangalore,CMC Bangalore,Private-Mid,Imaging,CT Scan - Chest,4585,5589,Yes,513,Government,2022,3.7,Yes,Average experience
+Mumbai,AIIMS Mumbai,Trust,Blood Test,HbA1c,870,506,No,0,Government,2023,3.3,No,Average experience
+Pune,Narayana Pune,Private-Premium,Blood Test,Allergy Panel Test,2615,5769,Yes,297,,2023,2.9,No,Hidden charges found
+Hyderabad,CMC Hyderabad,Private-Premium,Cardiology,TMT (Treadmill Test),2578,1708,No,0,Private,2022,3.0,No,Average experience
+Hyderabad,Fortis Hyderabad,Government,Blood Test,Lipid Profile,566,975,Yes,32,Government,2022,4.1,Yes,Too expensive
+Pune,CMC Pune,Private-Premium,Blood Test,Complete Blood Count (CBC),458,403,No,0,Government,2023,4.2,No,Hidden charges found
+Bangalore,Fortis Bangalore,Private-Mid,Imaging,CT Scan - Brain,5339,4126,No,0,Government,2024,2.8,Yes,Too expensive
+Hyderabad,Narayana Hyderabad,Trust,Blood Test,HbA1c,663,529,Yes,27,Government,2022,4.1,Yes,Satisfied
+Mumbai,Apollo Mumbai,Private-Mid,Blood Test,COVID-19 RT-PCR Test,636,729,Yes,147,,2024,3.7,No,Satisfied
+Chennai,AIIMS Chennai,Trust,Dental,Dental Cleaning,1360,1963,Yes,281,Government,2024,4.4,Yes,Good service
+Bangalore,Apollo Bangalore,Private-Mid,Blood Test,Allergy Panel Test,3366,4039,No,0,Private,2024,2.7,Yes,Too expensive
+Ahmedabad,AIIMS Ahmedabad,Private-Premium,Blood Test,Lipid Profile,768,658,Yes,86,Private,2022,4.1,Yes,Not recommended
+Hyderabad,Max Hyderabad,Government,Blood Test,Allergy Panel Test,4188,3099,No,0,Private,2023,2.6,No,Hidden charges found
+Mumbai,CMC Mumbai,Trust,Blood Test,Liver Function Test (LFT),1274,1199,Yes,139,,2023,4.1,No,Good service
+Chennai,Max Chennai,Trust,Cardiology,ECG (Electrocardiogram),367,307,No,0,Private,2024,4.0,Yes,Not recommended
+Chennai,Fortis Chennai,Private-Mid,Cardiology,ECG (Electrocardiogram),440,508,Yes,65,Private,2023,2.8,No,Average experience
+Pune,AIIMS Pune,Private-Mid,Orthopaedics,Knee Replacement,320643,327664,No,0,,2022,2.6,No,Average experience
+Chennai,Max Chennai,Government,Maternity,Normal Delivery,21575,20241,No,0,,2022,4.9,Yes,Average experience
+Mumbai,AIIMS Mumbai,Private-Mid,Cardiology,ECG (Electrocardiogram),256,531,Yes,35,Government,2024,4.4,Yes,Average experience
+Kolkata,CMC Kolkata,Private-Premium,Ophthalmology,Eye Checkup - Comprehensive,847,1348,Yes,68,,2023,4.0,No,Not recommended
+Chennai,Fortis Chennai,Government,Dental,Dental Root Canal,8813,8627,No,0,Government,2024,4.0,No,Too expensive
+Hyderabad,AIIMS Hyderabad,Government,Blood Test,HbA1c,629,585,Yes,98,,2022,4.3,Yes,Too expensive
+Pune,AIIMS Pune,Government,General Surgery,Appendectomy,61008,62437,No,0,Private,2022,4.7,No,Good service
+Mumbai,Max Mumbai,Private-Premium,Blood Test,Vitamin D Test,1831,1479,No,0,,2022,3.0,No,Good service
+Pune,Max Pune,Private-Premium,Procedure,Pap Smear Test,1022,1192,No,0,Government,2022,2.9,No,Average experience
+Hyderabad,Fortis Hyderabad,Private-Mid,Procedure,Pap Smear Test,718,748,No,0,,2022,4.2,No,Satisfied
+Bangalore,Apollo Bangalore,Government,Orthopaedics,Knee Replacement,302804,389843,Yes,52448,,2022,4.6,Yes,Satisfied
+Bangalore,AIIMS Bangalore,Private-Mid,Blood Test,Blood Sugar Fasting,147,186,Yes,10,Private,2022,3.3,Yes,Not recommended
+Chennai,Apollo Chennai,Trust,Dental,Dental Root Canal,8703,5598,Yes,447,,2024,4.6,Yes,Too expensive
+Pune,Fortis Pune,Private-Premium,Procedure,Pap Smear Test,1039,948,No,0,Private,2024,4.1,No,Not recommended
+Chennai,Narayana Chennai,Private-Premium,Blood Test,Lipid Profile,677,1004,No,0,Government,2023,2.6,Yes,Too expensive
+Kolkata,Fortis Kolkata,Private-Premium,Blood Test,Liver Function Test (LFT),1107,972,No,0,Government,2022,3.2,No,Too expensive
+Ahmedabad,Narayana Ahmedabad,Private-Premium,Ophthalmology,Eye Checkup - Comprehensive,1432,1399,Yes,232,Government,2023,3.2,Yes,Not recommended
+Kolkata,AIIMS Kolkata,Trust,Blood Test,PSA Test (Prostate),1138,800,Yes,219,Government,2024,3.9,Yes,Not recommended
+Bangalore,Apollo Bangalore,Private-Mid,Imaging,CT Scan - Brain,3003,4531,Yes,781,Government,2022,2.7,Yes,Hidden charges found
+Bangalore,Apollo Bangalore,Trust,Rehabilitation,Physiotherapy Session,1259,1018,No,0,,2022,3.3,No,Too expensive
+Hyderabad,Apollo Hyderabad,Trust,Imaging,X-Ray - Limb,425,562,No,0,Government,2023,2.8,Yes,Good service
+Bangalore,AIIMS Bangalore,Government,Imaging,MRI - Spine,7847,12674,No,0,Government,2023,4.9,Yes,Too expensive
+Ahmedabad,Fortis Ahmedabad,Government,Blood Test,Complete Blood Count (CBC),318,507,No,0,,2023,4.3,No,Satisfied
+Bangalore,AIIMS Bangalore,Trust,Blood Test,Kidney Function Test (KFT),712,1063,No,0,Government,2022,3.6,No,Not recommended
+Mumbai,Narayana Mumbai,Government,Imaging,Ultrasound - Pelvis,1389,1576,No,0,Government,2024,4.4,Yes,Good service
+Mumbai,Apollo Mumbai,Private-Premium,Maternity,Normal Delivery,22869,21056,Yes,5343,Private,2022,3.9,Yes,Average experience
+Pune,Max Pune,Private-Mid,Cardiology,2D Echocardiography,2033,2363,No,0,,2022,3.7,No,Good service
+Delhi,Max Delhi,Private-Mid,Imaging,MRI - Knee,9523,8892,No,0,Private,2023,3.3,No,Good service
+Pune,Apollo Pune,Government,Procedure,Colonoscopy,6614,7118,No,0,,2023,4.4,No,Satisfied
+Chennai,Narayana Chennai,Private-Mid,Rehabilitation,Physiotherapy Session,1208,1042,Yes,145,Private,2024,4.3,Yes,Satisfied
+Hyderabad,CMC Hyderabad,Trust,General Surgery,Gallbladder Removal (Cholecystectomy),50117,90031,No,0,,2022,3.8,No,Hidden charges found
+Pune,Fortis Pune,Trust,General Surgery,Gallbladder Removal (Cholecystectomy),83806,54917,No,0,Private,2022,3.0,No,Hidden charges found
+Pune,Fortis Pune,Trust,Health Checkup,Full Body Checkup - Advanced,4517,6325,No,0,Government,2024,4.1,No,Not recommended
+Kolkata,CMC Kolkata,Private-Premium,Blood Test,Liver Function Test (LFT),973,1243,Yes,231,Private,2023,4.6,No,Satisfied
+Ahmedabad,Narayana Ahmedabad,Government,Orthopaedics,Hip Replacement,343215,348908,No,0,Government,2022,4.4,Yes,Good service
+Mumbai,AIIMS Mumbai,Private-Premium,Health Checkup,Full Body Checkup - Premium,7929,12848,Yes,1856,,2024,4.4,Yes,Satisfied
+Ahmedabad,Max Ahmedabad,Government,Imaging,X-Ray - Limb,393,606,Yes,80,Private,2023,2.8,Yes,Too expensive
+Bangalore,Max Bangalore,Private-Mid,Orthopaedics,Hip Replacement,393317,414930,No,0,Private,2023,2.5,Yes,Good service
+Ahmedabad,Fortis Ahmedabad,Private-Mid,Ophthalmology,Eye Checkup - Comprehensive,826,813,Yes,112,,2022,4.8,Yes,Average experience
+Kolkata,Fortis Kolkata,Government,General Surgery,Hernia Repair,63627,50471,Yes,5114,Private,2023,2.9,No,Good service
+Kolkata,AIIMS Kolkata,Private-Premium,ENT,Tonsillectomy,17016,28196,Yes,4116,Private,2023,3.2,Yes,Average experience
+Bangalore,AIIMS Bangalore,Trust,Health Checkup,Full Body Checkup - Advanced,5484,7763,No,0,Private,2023,3.4,No,Hidden charges found
+Bangalore,Max Bangalore,Private-Mid,Maternity,Normal Delivery,21080,28752,Yes,2929,Government,2022,4.5,No,Too expensive
+Mumbai,Apollo Mumbai,Trust,Health Checkup,Full Body Checkup - Basic,2221,2970,Yes,454,Government,2022,3.4,No,Too expensive
+Ahmedabad,Narayana Ahmedabad,Government,Blood Test,Thyroid Function Test (TFT),945,947,Yes,180,,2024,4.3,No,Average experience
+Kolkata,Apollo Kolkata,Private-Premium,Maternity,Normal Delivery,31795,38580,Yes,5865,Government,2022,4.9,No,Hidden charges found
+Kolkata,Max Kolkata,Government,Blood Test,COVID-19 RT-PCR Test,490,526,No,0,Government,2023,3.3,No,Too expensive
+Mumbai,Apollo Mumbai,Private-Premium,Blood Test,PSA Test (Prostate),1001,855,No,0,Private,2024,4.0,Yes,Too expensive
+Chennai,Max Chennai,Government,Imaging,Bone Density Test (DEXA Scan),2900,3291,Yes,659,Government,2023,4.5,Yes,Average experience
+Delhi,Apollo Delhi,Private-Premium,Blood Test,Allergy Panel Test,3122,3016,Yes,897,Government,2023,4.6,Yes,Good service
+Kolkata,Apollo Kolkata,Trust,Blood Test,Stool Test,305,397,Yes,56,Private,2024,4.9,Yes,Not recommended
+Chennai,AIIMS Chennai,Government,Imaging,CT Scan - Brain,4884,4220,No,0,,2023,3.2,Yes,Satisfied
+Bangalore,Max Bangalore,Private-Mid,Blood Test,PSA Test (Prostate),1072,1454,Yes,116,Private,2024,3.7,No,Satisfied
+Pune,Fortis Pune,Private-Premium,Blood Test,Vitamin B12 Test,1563,915,No,0,,2022,4.5,Yes,Not recommended
+Pune,Narayana Pune,Trust,Dental,Dental Cleaning,1349,1129,No,0,Government,2024,2.6,No,Good service
+Bangalore,CMC Bangalore,Trust,Procedure,Endoscopy (Upper GI),5084,6758,No,0,Government,2024,5.0,Yes,Average experience
+Pune,AIIMS Pune,Private-Premium,Imaging,Mammography,2145,3134,No,0,Private,2024,3.9,No,Average experience
+Mumbai,Narayana Mumbai,Trust,Imaging,Bone Density Test (DEXA Scan),2534,2579,No,0,Government,2024,4.7,Yes,Not recommended
+Ahmedabad,Apollo Ahmedabad,Trust,Imaging,MRI - Knee,6521,9586,No,0,Government,2022,4.3,No,Not recommended
+Pune,Max Pune,Private-Premium,Blood Test,Stool Test,300,434,Yes,68,Private,2024,4.6,Yes,Satisfied
+Pune,Fortis Pune,Government,General Surgery,Appendectomy,59188,46120,No,0,,2024,2.8,No,Average experience
+Bangalore,Max Bangalore,Private-Mid,Imaging,Ultrasound - Abdomen,1589,2214,Yes,277,Government,2022,4.4,Yes,Average experience
+Mumbai,Fortis Mumbai,Private-Premium,Imaging,Bone Density Test (DEXA Scan),3542,3909,No,0,,2022,3.2,Yes,Hidden charges found
+Chennai,CMC Chennai,Government,Health Checkup,Full Body Checkup - Premium,12606,15960,Yes,767,Government,2022,3.5,Yes,Not recommended
+Pune,AIIMS Pune,Government,Blood Test,Lipid Profile,724,1117,Yes,135,,2024,3.8,No,Too expensive
+Delhi,Narayana Delhi,Trust,Ophthalmology,Eye Checkup - Comprehensive,1365,1149,Yes,143,,2022,4.9,No,Average experience
+Hyderabad,Apollo Hyderabad,Private-Mid,Procedure,Endoscopy (Upper GI),4418,3901,No,0,,2022,3.6,Yes,Not recommended
+Bangalore,Narayana Bangalore,Trust,Cardiology,TMT (Treadmill Test),1855,2735,No,0,Government,2022,2.8,No,Too expensive
+Mumbai,AIIMS Mumbai,Private-Premium,Blood Test,PSA Test (Prostate),1259,1037,No,0,,2024,2.9,No,Satisfied
+Bangalore,AIIMS Bangalore,Private-Premium,Blood Test,Vitamin B12 Test,947,1702,No,0,Government,2023,2.7,No,Satisfied
+Ahmedabad,Max Ahmedabad,Private-Mid,Blood Test,Lipid Profile,741,818,Yes,39,Private,2022,3.5,No,Not recommended
+Bangalore,Max Bangalore,Private-Mid,Health Checkup,Full Body Checkup - Basic,3542,4658,Yes,140,Government,2022,3.2,No,Average experience
+Ahmedabad,Fortis Ahmedabad,Private-Premium,Blood Test,Vitamin B12 Test,991,1376,Yes,177,Private,2024,4.6,Yes,Hidden charges found
+Chennai,Apollo Chennai,Trust,Imaging,Mammography,2329,3890,No,0,Government,2023,4.6,Yes,Average experience
+Ahmedabad,Narayana Ahmedabad,Government,Procedure,Colonoscopy,7778,9388,No,0,Government,2024,4.8,Yes,Too expensive
+Hyderabad,Narayana Hyderabad,Government,Blood Test,Liver Function Test (LFT),1290,1076,No,0,,2023,3.5,No,Good service
+Hyderabad,Narayana Hyderabad,Private-Mid,Imaging,X-Ray - Limb,383,781,No,0,Private,2024,4.6,No,Good service
+Bangalore,Narayana Bangalore,Government,Blood Test,Vitamin D Test,1714,1668,Yes,298,Private,2023,4.8,No,Average experience
+Bangalore,Apollo Bangalore,Private-Mid,Imaging,MRI - Knee,6423,9324,No,0,Private,2023,2.7,No,Satisfied
+Hyderabad,Narayana Hyderabad,Government,Imaging,Ultrasound - Abdomen,1033,1728,Yes,140,Government,2023,3.2,Yes,Satisfied
+Bangalore,AIIMS Bangalore,Private-Mid,Blood Test,Thyroid Function Test (TFT),847,924,No,0,,2022,3.0,Yes,Average experience
+Ahmedabad,CMC Ahmedabad,Private-Mid,Blood Test,Kidney Function Test (KFT),983,862,Yes,110,Government,2023,3.0,Yes,Not recommended

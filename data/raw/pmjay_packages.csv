@@ -1,0 +1,1577 @@
+package_code,procedure_name,speciality,package_rate,category,level_of_care
+BM001,% Total Body Surface Area Burns (TBSA) - any % (not requiring admission). Needs at least 5-6 dressing,Burns Management,7000,Surgical,Tertiary
+BM001,"% Total Body Surface Area Burns (TBSA): Upto 40 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,40000,Surgical,Tertiary
+BM001,"% Total Body Surface Area Burns (TBSA): 40% - 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,50000,Surgical,Tertiary
+BM001,"% Total Body Surface Area Burns (TBSA): > 60 %; Includes % TBSA skin grafted, flap cover, follow- up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,80000,Surgical,Tertiary
+BM002,% Total Body Surface Area Burns (TBSA) - any % (not requiring admission). Needs at least 5-6 dressing,Burns Management,7000,Surgical,Tertiary
+BM002,"% Total Body Surface Area Burns (TBSA): Upto 40 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,40000,Surgical,Tertiary
+BM002,"% Total Body Surface Area Burns (TBSA): 40% - 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,50000,Surgical,Tertiary
+BM002,"% Total Body Surface Area Burns (TBSA): > 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,80000,Surgical,Tertiary
+BM003,% Total Body Surface Area Burns (TBSA) - any % (not requiring admission). Needs at least 5-6 dressing,Burns Management,7000,Surgical,Tertiary
+BM003,"% Total Body Surface Area Burns (TBSA): Upto 40 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,40000,Surgical,Tertiary
+BM003,"% Total Body Surface Area Burns (TBSA): 40 % - 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,50000,Surgical,Tertiary
+BM003,"% Total Body Surface Area Burns (TBSA): > 60 %; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,80000,Surgical,Tertiary
+BM004,"Electrical contact burns: Low voltage - without part of limb / limb loss; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,30000,Surgical,Tertiary
+BM004,"Electrical contact burns: Low voltage - with part of limb / limb loss; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,40000,Surgical,Tertiary
+BM004,"Electrical contact burns: High voltage - with part of limb / limb loss; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,60000,Surgical,Tertiary
+BM004,"Electrical contact burns: High voltage - without part of limb / limb loss; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,50000,Surgical,Tertiary
+BM005,"Chemical burns: Without significant facial scarring and/or loss of function; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,40000,Surgical,Tertiary
+BM005,"Chemical burns: With significant facial scarring and/or loss of function; Includes % TBSA skin grafted, flap cover, follow-up dressings etc. as deemed necessary; Surgical procedures are required for deep burns that are not amenable to heal with dressings alone.",Burns Management,60000,Surgical,Tertiary
+BM006,"Post Burn Contracture surgeries for Functional Improvement (Package including splints, pressure garments, silicone - gel sheet and physiotherapy): Excluding Neck contracture; Contracture release with - Split thickness Skin Graft (STSG) / Full Thickness Skin Graft (FTSG) / Flap cover is done for each joint with post - operative regular dressings for STSG / FTSG / Flap cover.",Burns Management,50000,Surgical,Tertiary
+BM006,"Post Burn Contracture surgeries for Functional Improvement (Package including splints, pressure garments, silicone - gel sheet and physiotherapy): Neck contracture; Contracture release with - Split thickness Skin Graft (STSG) / Full Thickness Skin Graft (FTSG) / Flap cover is done for each joint with post-operative regular dressings for STSG / FTSG / Flap cover.",Burns Management,50000,Surgical,Tertiary
+ER001,Laceration - Suturing / Dressing,Emergency,2000,Unknown,Primary
+ER002,Emergency with stable cardiopulmonary status,Emergency,2000,Medical,Primary
+ER002,Emergency with unstable cardiopulmonary status with resuccitation,Emergency,10000,Unknown,Primary
+ER003,Animal bites (Excluding Snake Bite),Emergency,1700,Medical,Primary
+IN001,Dural AVMs (per sitting) with glue,Interventional Neuroradiology,70000,Surgical,Tertiary
+IN001,Dural AVFs (per sitting) with glue,Interventional Neuroradiology,70000,Surgical,Tertiary
+IN001,Dural AVMs (per sitting) with onyx,Interventional Neuroradiology,150000,Surgical,Tertiary
+IN001,Dural AVFs (per sitting) with onyx,Interventional Neuroradiology,150000,Surgical,Tertiary
+IN002,Cerebral AVM embolization - Using Histoacryl (per sitting),Interventional Neuroradiology,100000,Surgical,Tertiary
+IN002,Spinal AVM embolization - Using Histoacryl (per sitting),Interventional Neuroradiology,100000,Surgical,Tertiary
+IN003,Coil embolization for aneurysms (includes cost of first 3 coils + balloon and / or stent if used),Interventional Neuroradiology,100000,Surgical,Tertiary
+IN004,"Carotico-cavernous Fistula (CCF) embolization with coils. [includes 5 coils, guide catheter, micro-catheter, micro-guidewire, general items]",Interventional Neuroradiology,30000,Surgical,Tertiary
+IN004,"Carotid-cavernous Fistula (CCF) embolization with balloon (includes one balloon, guide catheter, micro- catheter, micro-guidewire, general items)",Interventional Neuroradiology,64000,Surgical,Tertiary
+IN005,Pre-operative tumour embolization (per session),Interventional Neuroradiology,40000,Surgical,Tertiary
+IN006,Intracranial balloon angioplasty with stenting,Interventional Neuroradiology,160000,Surgical,Tertiary
+IN007,Intracranial thrombolysis / clot retrieval,Interventional Neuroradiology,160000,Surgical,Tertiary
+IN008,Balloon test occlusion,Interventional Neuroradiology,70000,Surgical,Tertiary
+IN009,Parent vessel occlusion - Basic,Interventional Neuroradiology,30000,Surgical,Tertiary
+IN010,Vertebroplasty,Interventional Neuroradiology,40000,Surgical,Tertiary
+MC001,Right Heart Catheterization,Cardiology,5000,Unknown,Tertiary
+MC001,Left Heart Catheterization,Cardiology,5000,Unknown,Tertiary
+MC002,For Deep vein thrombosis (DVT),"Cardiology, Interventional Radiology",30800,Surgical,Tertiary
+MC002,For Mesenteric Thrombosis,"Cardiology, Interventional Radiology",30800,Surgical,Tertiary
+MC002,For Peripheral vessels,"Cardiology, Interventional Radiology",30800,Surgical,Tertiary
+MC003,Coartication of Aorta,Cardiology,38600,Surgical,Tertiary
+MC003,Pulmonary Artrey Stenosis,Cardiology,38600,Unknown,Tertiary
+MC004,Balloon Pulmonary Valvotomy,Cardiology,23400,Surgical,Tertiary
+MC004,Balloon Aortic Valvotomy,Cardiology,23400,Surgical,Tertiary
+MC005,Balloon Mitral Valvotomy,Cardiology,35700,Surgical,Tertiary
+MC006,Balloon Atrial Septostomy,Cardiology,24400,Surgical,Tertiary
+MC007,ASD Device Closure,Cardiology,36900,Surgical,Tertiary
+MC008,VSD Device Closure,Cardiology,37900,Surgical,Tertiary
+MC009,PDA Device Closure,Cardiology,25000,Surgical,Tertiary
+MC010,PDA stenting,Cardiology,40260,Surgical,Tertiary
+MC011,"PTCA, inclusive of diagnostic angiogram",Cardiology,40600,Surgical,Tertiary
+MC012,Electrophysiological Study,Cardiology,20000,Unknown,Tertiary
+MC012,Electrophysiological Study with Radio Frequency Ablation,Cardiology,20000,Unknown,Tertiary
+MC013,Percutaneous Transluminal Septal Myocardial Ablation,Cardiology,34000,Surgical,Tertiary
+MC014,Temporary Pacemaker implantation,"Cardiology, CTVS",19200,Surgical,Tertiary
+MC015,Permanent Pacemaker Implantation - Single Chamber,"Cardiology, CTVS",24500,Surgical,Tertiary
+MC016,Permanent Pacemaker Implantation - Double Chamber,"Cardiology, CTVS",33000,Surgical,Tertiary
+MC017,Peripheral Angioplasty,Cardiology,34500,Surgical,Tertiary
+MC018,Bronchial artery Embolisation (for Haemoptysis),Cardiology,32800,Surgical,Tertiary
+MC019,Pericardiocentesis,"Cardiology, General Surgery",12100,Surgical,Tertiary
+MC020,Systemic Thrombolysis (for MI),Cardiology,17900,Surgical,Tertiary
+MG001,Acute febrile illness,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG002,Severe sepsis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG002,Septic shock,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG003,Malaria,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG003,Complicated malaria,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG004,Dengue fever,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG004,Dengue hemorrhagic fever,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG004,Dengue shock syndrome,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG005,Chikungunya fever,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG006,Enteric fever,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG007,HIV with complications,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG008,Leptospirosis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG009,Acute gastroenteritis with moderate dehydration,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG009,Acute gastroenteritis with severe dehydration,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG010,Chronic diarrohea,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG010,Persistent diarrohea,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG011,Dysentery,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG012,Acute viral hepatitis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG013,Chronic Hepatitis,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG014,Liver abscess,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG015,Visceral leishmaniasis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG016,Pneumonia,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG017,Severe pneumonia,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG018,Empyema,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG019,Lung abscess,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG020,Pericardial tuberculosis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG020,Pleural tuberculosis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG021,Urinary Tract Infection,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG022,Viral encephalitis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG023,Septic Arthritis,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG024,Skin and soft tissue infections,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG025,Recurrent vomiting with dehydration,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG026,Pyrexia of unknown origin,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG027,Bronchiectasis,General Medicine,1800,Unknown,Primary
+MG028,Acute bronchitis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG029,Acute excaberation of COPD,General Medicine,1800,Medical,Primary
+MG030,Acute excaberation of Interstitial Lung Disease,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG031,Bacterial Endocarditis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG031,Fungal Endocarditis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG032,Vasculitis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG033,Acute pancreatitis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG033,Chronic pancreatitis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG034,Ascites,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG035,Acute transverse myelitis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG036,Atrial Fibrillation,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG037,Cardiac Tamponade,General Medicine,1800,Unknown,Primary
+MG038,Congestive heart failure,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG039,Acute asthmatic attack,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG039,Status asthmaticus,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG040,Type 1 respiratory failure,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG040,Type 2 respiratory failure,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG040,"Due to any cause (pneumonia, asthma, COPD, ARDS, foreign body, poisoning, head injury etc.)","General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG041,Upper GI bleeding (conservative),"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG041,Upper GI bleeding (endoscopic),"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG042,Lower GI hemorrhage,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG043,Addison’s disease,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG044,Renal colic,General Medicine,1800,Medical,Primary
+MG045,AKI / Renal failure,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG046,Seizures,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG047,Status epilepticus,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG048,Cerebrovascular accident,General Medicine,1800,Medical,Primary
+MG049,Cerebral sino-venous thrombosis,General Medicine,1800,Medical,Primary
+MG049,Acute stroke,General Medicine,1800,Unknown,Primary
+MG049,Acute ischemic stroke,General Medicine,1800,Unknown,Primary
+MG049,Acute heamorrhagic stroke,General Medicine,1800,Unknown,Primary
+MG050,Immune mediated CNS disorders,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG051,Hydrocephalus,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG052,Myxedema coma,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG053,Thyrotoxic crisis,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG054,Gout,General Medicine,1800,Unknown,Primary
+MG055,Pneumothroax,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG056,Neuromuscular disorders,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG057,Hypoglycemia,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG058,Diabetic Foot,General Medicine,1800,Unknown,Primary
+MG059,Diabetic ketoacidosis,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG060,Hypercalcemia,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG060,Hypocalcemia,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG060,Hyponatremia,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG060,Hypernatremia,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG061,Hyperosmolar Non-Ketotic coma,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG062,Accelerated hypertension,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG063,Hypertensive emergencies,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG064,Severe anemia,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG065,Sickle cell Anemia,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG066,Anaphylaxis,"General Medicine, Pediatric Medical Management",1800,Unknown,Tertiary
+MG067,Heat stroke,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG068,Systematic lupus erythematosus,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG069,Guillian Barre Syndrome,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG070,Snake bite,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG071,Acute organophosphorus poisoning,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG071,Other poisonings,"General Medicine, Pediatric Medical Management",1800,Medical,Tertiary
+MG072,Haemodialysis Dialysis,General Medicine,1500,Medical,Primary
+MG072,Peritoneal Dialysis,General Medicine,1500,Medical,Primary
+MG073,Plasmapheresis,"General Medicine, Pediatric Medical Management",2000,Medical,Tertiary
+MG074,Whole Blood transfusion,"General Medicine, Pediatric Medical Management",2000,Medical,Tertiary
+MG074,"Blood component including platelet transfusion (RDP, PC, SDP)","General Medicine, Pediatric Medical Management",2000,Medical,Tertiary
+MG075,"High end radiological diagnostic (CT, MRI, Imaging including nuclear imaging)","General Medicine, Pediatric Medical Management",5000,Medical,Tertiary
+MG076,High end histopathology (Biopsies) and advanced serology investigations,"General Medicine, Pediatric Medical Management",5000,Medical,Tertiary
+MM001,Mental Retardation,Mental Disorders,1500,Medical,Tertiary
+MM002,"Mental disorders - Organic, including symptomatic",Mental Disorders,1500,Medical,Tertiary
+MM003,"Schizophrenia, schizotypal and delusional disorders",Mental Disorders,1500,Medical,Tertiary
+MM004,"Neurotic, stress-related and somatoform disorders",Mental Disorders,1500,Medical,Tertiary
+MM005,Mood (affective) disorders,Mental Disorders,1500,Medical,Tertiary
+MM006,Behavioural syndromes associated with physiological disturbances and physical factors,Mental Disorders,1500,Medical,Tertiary
+MM007,Mental and Behavioural disorders due to psychoactive substance use,Mental Disorders,1500,Medical,Tertiary
+MM008,"Pre - Electro Convulsive Therapy (ECT) and Pre - Transcranial Magnetic Stimulation (TMS) Package (Cognitive Tests, Complete Haemogram, Liver Function Test, Renal Function Test, Serum Electrolytes, Electro Cardiogram (ECG), CT / MRI Brain, Electroencephalogram, Thyroid Function Test, VDRL, HIV Test, Vitamin B12 levels, Folate levels, Lipid Profile, Homocysteine levels)",Mental Disorders,10000,Medical,Tertiary
+MM009,Electro Convulsive Therapy (ECT) - per session,Mental Disorders,3000,Medical,Tertiary
+MM010,Transcranial Magnetic Stimulation (TMS) - per session,Mental Disorders,1000,Medical,Tertiary
+MN001,Basic neonatal care package: Babies that can be managed by side of mother in postnatal ward without requiring admission in SNCU/NICU: • Any newborn needing feeding support • Babies requiring closer monitoring or short-term care for conditions like: o Birth asphyxia (need for positive pressure ventilation; no HIE) o Moderate jaundice requiring phototherapy o Large for dates (>97 percentile) Babies o Small for gestational age (less than 3rd centile),Neo - natal Care,500,Medical,Tertiary
+MN002,"Special Neonatal Care Package: Babies that required admission to SNCU or NICU: Babies admitted for short term care for conditions like: • Mild Respiratory Distress/tachypnea • Mild encephalopathy • Severe jaundice requiring intensive phototherapy • Haemorrhagic disease of newborn • Unwell baby requiring monitoring • Some dehydration • Hypoglycaemia Mother's stay and food in the hospital for breastfeeding, family centred care and (Kangaroo Mother Care) KMC is mandatory and included in t h e p a c k a g e r a t e",Neo - natal Care,3000,Medical,Tertiary
+MN003,"Intensive Neonatal Care Package B a b i e s w i t h b i r t h w e i g h t 1 5 0 0 - 1 7 9 9 g or Babies of any birthweight and at least one of the f o l l o wing conditions: • Need for mechanical ventilation for less than 24 hours or non-invasive respiratory support (CPAP, H F F N C ) • S e p s i s / p n e u m o n i a w i t h o u t c o m p l i c a tions • Hyperbilirubinemia requiring exchange transfusion • Seizures • Major congenital malformations (pre-surgical s t a b i l i z a t i o n , n o t r e q u i r i n g v e n t i l a t i o n ) • Cholestasis significant enough requiring work up and in-hospital management • Congestive heart failure or shock Mother's stay and food in the hospital for breastfeeding, family centred care and (Kangaroo Mother Care) KMC is mandatory and included in t h e p a c k a g e rate",Neo - natal Care,5000,Medical,Tertiary
+MN004,"Advanced Neonatal Care Package: B a b i e s w i t h b i r t h w e i g h t o f 1 2 0 0 - 1 4 9 9 g or Babies of any birthweight with at least one of the following conditions: • Any condition requiring invasive ventilation l o n g e r t h a n 2 4 h o u r s • Hypoxic Ischemic encephalopathy requiring T h e r a p e u t i c H y p o t h e r m i a • Cardiac rhythm disorders needing intervention (the cost of cardiac surgery or implant will be c o v e r e d u n d e r c a r d i a c s u r g e r y p a c k a g e s ) • Sepsis with complications such as meningitis or bone and joint infection, DIC or shock • R e n a l f a i l u r e r e q u i r i n g d i a l y s i s • Inborn errors of metabolism Mother's stay and food in the hospital for breastfeeding, family centred care and (Kangaroo Mother Care) KMC is mandatory and included in t h e p a c k a g e r a t e",Neo - natal Care,6000,Medical,Tertiary
+MN005,"Critical Care Neonatal Package: B a b i e s w i t h b i r t h w e i g h t o f < 1 2 0 0 g or Babies of any birthweight with at least one of the f o l l o wing conditions: • Severe Respiratory Failure requiring High Frequency Ventilation or inhaled Nitric Oxide (iNO) • Multisystem failure requiring multiple organ support including mechanical ventilation and multiple inotropes • Critical congenital heart disease Mother's stay and food in the hospital for breastfeeding, family centred care and (Kangaroo Mother Care) KMC is mandatory and included in t h e p a c k a g e r a t e",Neo - natal Care,7000,Medical,Tertiary
+MN006,"Chronic Care Package: If the baby requires stay beyond the upper limit of usual stay in Package no MN004A or MN005A for conditions like severe BPD requiring respiratory support, severe NEC requiring prolonged TPN support",Neo - natal Care,3000,Medical,Tertiary
+MN007,High Risk Newborn Post Discharge Care Package (Protocol Driven),Neo - natal Care,2400,Medical,Tertiary
+MN008,Laser Therapy for Retinopathy of Prematurity (Irrespective of no. of eyes affected) - per session,Neo - natal Care,1500,Medical,Tertiary
+MN009,Advanced Surgery for Retinopathy of Prematurity,Neo - natal Care,15000,Medical,Tertiary
+MN010,Ventriculoperitoneal Shunt Surgery (VP) or Omaya Reservoir or External Drainage for Hydrocephalus,Neo - natal Care,5000,Medical,Tertiary
+MO001,Cyclophosphamide + Epirubcin,Medical Oncology,7200,Unknown,Tertiary
+MO001,Weekly Paclitaxel for Adjuvant Therapy,Medical Oncology,5800,Unknown,Tertiary
+MO001,Weekly Paclitaxel in metastatic setting,Medical Oncology,5800,Unknown,Tertiary
+MO001,Cyclophosphamide + Methotrexate + 5 - FU,Medical Oncology,3200,Unknown,Tertiary
+MO001,Docetaxel + Cyclophosphamide,Medical Oncology,19800,Unknown,Tertiary
+MO001,Trastuzumab,Medical Oncology,21200,Unknown,Tertiary
+MO001,Tamoxifen,Medical Oncology,1200,Unknown,Tertiary
+MO001,Letrozole,Medical Oncology,3900,Unknown,Tertiary
+MO001,Carboplatin + Paclitaxel,Medical Oncology,14900,Unknown,Tertiary
+MO001,Capecitabine,Medical Oncology,7400,Unknown,Tertiary
+MO001,Carboplatin + Gemcitabine,Medical Oncology,13900,Unknown,Tertiary
+MO001,Cyclophosphamide + Adriamycin,Medical Oncology,4500,Unknown,Tertiary
+MO001,Fulvestrant,Medical Oncology,11000,Unknown,Tertiary
+MO001,Paclitaxel,Medical Oncology,11800,Unknown,Tertiary
+MO001,Exemestane,Medical Oncology,10400,Unknown,Tertiary
+MO002,Zoledronic Acid,Medical Oncology,4500,Unknown,Tertiary
+MO003,Cisplatin + Irinotecan,Medical Oncology,10200,Unknown,Tertiary
+MO003,Lipodox + Carboplatin,Medical Oncology,17200,Unknown,Tertiary
+MO003,Etoposide,Medical Oncology,3400,Unknown,Tertiary
+MO003,Irinotecan,Medical Oncology,8400,Unknown,Tertiary
+MO003,Lipodox,Medical Oncology,14800,Unknown,Tertiary
+MO003,Carboplatin + Gemcitabine,Medical Oncology,13900,Unknown,Tertiary
+MO003,Carboplatin + Paclitaxel,Medical Oncology,14700,Unknown,Tertiary
+MO004,Carboplatin (AUC 7),Medical Oncology,5800,Unknown,Tertiary
+MO004,Bleomycin + Etoposide + Cisplatin,Medical Oncology,11600,Unknown,Tertiary
+MO004,Etoposide + Cisplatin,Medical Oncology,10000,Unknown,Tertiary
+MO004,Gemcitabine + Oxaliplatin,Medical Oncology,17500,Unknown,Tertiary
+MO004,Gemcitabine + Paclitaxel,Medical Oncology,17500,Unknown,Tertiary
+MO004,Paclitaxel + Ifosfamide + Cisplatin,Medical Oncology,24400,Unknown,Tertiary
+MO004,Vinblastin + Ifosfamide + Cisplatin,Medical Oncology,12600,Unknown,Tertiary
+MO005,EMA - CO,Medical Oncology,11400,Unknown,Tertiary
+MO005,EMA - EP,Medical Oncology,12200,Unknown,Tertiary
+MO005,Methotrexate,Medical Oncology,1100,Unknown,Tertiary
+MO006,Carboplatin + Paclitaxel,Medical Oncology,14900,Unknown,Tertiary
+MO006,Cisplatin,Medical Oncology,2200,Unknown,Tertiary
+MO007,Carboplatin + Paclitaxel,Medical Oncology,14900,Unknown,Tertiary
+MO007,Cisplatin + Doxorubicin,Medical Oncology,4200,Unknown,Tertiary
+MO008,Cisplatin + 5 FU,Medical Oncology,7600,Unknown,Tertiary
+MO008,Cisplatin,Medical Oncology,2200,Unknown,Tertiary
+MO009,VTC + ITMZ for Relapsed Ewing Sarcoma,Medical Oncology,22400,Unknown,Tertiary
+MO009,EFT 2001,Medical Oncology,9700,Unknown,Tertiary
+MO009,VAC + IE,Medical Oncology,12500,Unknown,Tertiary
+MO010,Methotrexate + Doxorubicin + Cisplatin,Medical Oncology,21800,Unknown,Tertiary
+MO010,Methotrexate + Doxorubicin + Cisplatin for Relapsed Osteogenic Sarcoma,Medical Oncology,27000,Unknown,Tertiary
+MO010,OGS - 12,Medical Oncology,29600,Unknown,Tertiary
+MO010,OGS - 12,Medical Oncology,36200,Unknown,Tertiary
+MO011,Gemcitabine + Docetaxel,Medical Oncology,30900,Unknown,Tertiary
+MO011,Ifosfamide+ Adriamycin,Medical Oncology,13700,Unknown,Tertiary
+MO012,Dacarbazine + Cisplatin,Medical Oncology,7100,Unknown,Tertiary
+MO012,Temozolamide,Medical Oncology,23100,Unknown,Tertiary
+MO013,5 FU + Mitomycin C,Medical Oncology,10500,Unknown,Tertiary
+MO013,Capecitabine + Mitomycin C,Medical Oncology,13800,Unknown,Tertiary
+MO013,Cisplatin + 5 FU,Medical Oncology,7600,Unknown,Tertiary
+MO013,Carboplatin + Paclitaxel,Medical Oncology,14900,Unknown,Tertiary
+MO013,Cisplatin + Paclitaxel,Medical Oncology,13300,Unknown,Tertiary
+MO014,5 FU + Leucovorin,Medical Oncology,4700,Unknown,Tertiary
+MO014,Capecitabine + Irinotecan,Medical Oncology,12500,Unknown,Tertiary
+MO014,Folfox,Medical Oncology,11100,Unknown,Tertiary
+MO014,Folfiri,Medical Oncology,8700,Unknown,Tertiary
+MO014,Capecitabine + Oxaliplatin,Medical Oncology,16500,Unknown,Tertiary
+MO014,Capecitabine,Medical Oncology,7200,Unknown,Tertiary
+MO014,Capecitabine,Medical Oncology,7300,Unknown,Tertiary
+MO014,Folfirinox,Medical Oncology,15100,Unknown,Tertiary
+MO015,Carboplatin + Paclitaxel,Medical Oncology,14900,Unknown,Tertiary
+MO015,Cisplatin + 5 FU,Medical Oncology,9600,Unknown,Tertiary
+MO015,Paclitaxel + Carboplatin for definitive Non - metastatic (With RT),Medical Oncology,25100,Unknown,Tertiary
+MO015,Paclitaxel + Carboplatin for metastatic (Without RT),Medical Oncology,25100,Unknown,Tertiary
+MO016,Cisplatin + Docetaxel,Medical Oncology,12100,Unknown,Tertiary
+MO016,Irinotecan,Medical Oncology,8300,Unknown,Tertiary
+MO016,5 FU,Medical Oncology,8000,Unknown,Tertiary
+MO016,Capecitabine,Medical Oncology,7200,Unknown,Tertiary
+MO016,CAPOX,Medical Oncology,16500,Unknown,Tertiary
+MO016,Docetaxel + Cisplatin + 5 FU,Medical Oncology,16400,Unknown,Tertiary
+MO016,Docetaxel + Cisplatin + Xeloda,Medical Oncology,19700,Unknown,Tertiary
+MO016,Docetaxel + Oxaliplatin + 5 FU,Medical Oncology,20400,Unknown,Tertiary
+MO016,Docetaxel + Oxaliplatin + Xeloda,Medical Oncology,24900,Unknown,Tertiary
+MO016,Folfiri,Medical Oncology,8700,Unknown,Tertiary
+MO016,Folfox,Medical Oncology,11100,Unknown,Tertiary
+MO016,Paclitaxel,Medical Oncology,5800,Unknown,Tertiary
+MO017,Doxorubicin,Medical Oncology,10000,Unknown,Tertiary
+MO017,Sorafenib,Medical Oncology,7400,Unknown,Tertiary
+MO018,Gemcitabine + Nanopaclitaxel,Medical Oncology,23500,Unknown,Tertiary
+MO018,Gemcitabine,Medical Oncology,9000,Unknown,Tertiary
+MO018,Folfirinox,Medical Oncology,15500,Unknown,Tertiary
+MO018,Capecitabine,Medical Oncology,7400,Unknown,Tertiary
+MO018,Capecitabine + Gemcitabine,Medical Oncology,31500,Unknown,Tertiary
+MO019,Capecitabine,Medical Oncology,7300,Unknown,Tertiary
+MO019,Cisplatin + Gemcitabine,Medical Oncology,10900,Unknown,Tertiary
+MO019,Folfiri,Medical Oncology,8900,Unknown,Tertiary
+MO019,Gemcitabine,Medical Oncology,9000,Unknown,Tertiary
+MO019,Gemcitabine,Medical Oncology,8900,Unknown,Tertiary
+MO019,Oxaliplatin + Gemcitabine,Medical Oncology,17100,Unknown,Tertiary
+MO019,CAPIRI,Medical Oncology,12600,Unknown,Tertiary
+MO019,Folfox,Medical Oncology,11300,Unknown,Tertiary
+MO020,Imatinib,Medical Oncology,19400,Unknown,Tertiary
+MO020,Sunitinib,Medical Oncology,24400,Unknown,Tertiary
+MO021,Temozolamide,Medical Oncology,13000,Unknown,Tertiary
+MO021,Temozolamide,Medical Oncology,67600,Unknown,Tertiary
+MO022,Gemcitabine + Cisplatin,Medical Oncology,11100,Unknown,Tertiary
+MO022,Pemetrexed + Cisplatin,Medical Oncology,9200,Unknown,Tertiary
+MO022,Pemetrexed + Carboplatin,Medical Oncology,10000,Unknown,Tertiary
+MO023,Cisplatin + Etoposide,Medical Oncology,5300,Unknown,Tertiary
+MO023,Cisplatin + Adriamycin,Medical Oncology,5000,Unknown,Tertiary
+MO024,Cisplatin + Docetaxel,Medical Oncology,12400,Unknown,Tertiary
+MO024,Cisplatin,Medical Oncology,9800,Unknown,Tertiary
+MO024,Carboplatin + Gemcitabine,Medical Oncology,14300,Unknown,Tertiary
+MO024,Docetaxel + Cisplatin + 5 FU,Medical Oncology,16500,Unknown,Tertiary
+MO024,Docetaxel,Medical Oncology,15000,Unknown,Tertiary
+MO024,Docetaxel,Medical Oncology,14400,Unknown,Tertiary
+MO024,Etoposide + Carboplatin,Medical Oncology,7100,Unknown,Tertiary
+MO024,Etoposide + Cisplatin,Medical Oncology,9200,Unknown,Tertiary
+MO024,Gemcitabine,Medical Oncology,9200,Unknown,Tertiary
+MO024,Gemcitabine + Cisplatin,Medical Oncology,11100,Unknown,Tertiary
+MO024,Paclitaxel + Carboplatin,Medical Oncology,7700,Unknown,Tertiary
+MO024,Paclitaxel + Carboplatin,Medical Oncology,15100,Unknown,Tertiary
+MO024,Paclitaxel,Medical Oncology,5700,Unknown,Tertiary
+MO024,Paclitaxel,Medical Oncology,12200,Unknown,Tertiary
+MO024,Carboplatin,Medical Oncology,2400,Unknown,Tertiary
+MO024,Cisplatin,Medical Oncology,2200,Unknown,Tertiary
+MO025,Sunitinib,Medical Oncology,26400,Unknown,Tertiary
+MO026,Cisplatin + Methotrexate + Vinblastin,Medical Oncology,6000,Unknown,Tertiary
+MO026,Carboplatin + Gemcitabine,Medical Oncology,14300,Unknown,Tertiary
+MO026,Cisplatin + Gemcitabine,Medical Oncology,11100,Unknown,Tertiary
+MO026,Cisplatin + 5 FU,Medical Oncology,7800,Unknown,Tertiary
+MO026,Cisplatin + Paclitaxel,Medical Oncology,13500,Unknown,Tertiary
+MO026,Docetaxel,Medical Oncology,14400,Unknown,Tertiary
+MO026,Gemcitabine + Paclitaxel,Medical Oncology,17500,Unknown,Tertiary
+MO026,Gemcitabine,Medical Oncology,9200,Unknown,Tertiary
+MO026,Methotrexate + Vinblastin + Doxorubicin + Cisplati,Medical Oncology,6600,Unknown,Tertiary
+MO026,Paclitaxel + Carboplatin,Medical Oncology,15100,Unknown,Tertiary
+MO026,Paclitaxel,Medical Oncology,5700,Unknown,Tertiary
+MO027,Cisplatin + Paclitaxel,Medical Oncology,13500,Unknown,Tertiary
+MO027,5 FU + Cisplatin,Medical Oncology,7800,Unknown,Tertiary
+MO027,Capecitabine,Medical Oncology,7400,Unknown,Tertiary
+MO027,Paclitaxel + Carboplatin,Medical Oncology,15100,Unknown,Tertiary
+MO027,Paclitaxel,Medical Oncology,5700,Unknown,Tertiary
+MO027,Paclitaxel,Medical Oncology,12200,Unknown,Tertiary
+MO027,Paclitaxel + Carboplatin,Medical Oncology,7900,Unknown,Tertiary
+MO028,Docetaxel,Medical Oncology,11700,Unknown,Tertiary
+MO028,Docetaxel,Medical Oncology,14100,Unknown,Tertiary
+MO028,Etoposide + Carboplatin,Medical Oncology,7100,Unknown,Tertiary
+MO028,LHRH Agonist,Medical Oncology,15300,Unknown,Tertiary
+MO028,Mitoxantrone + Prednisolone,Medical Oncology,4200,Unknown,Tertiary
+MO028,Paclitaxel + Carboplatin,Medical Oncology,7700,Unknown,Tertiary
+MO028,Paclitaxel + Carboplatin,Medical Oncology,15100,Unknown,Tertiary
+MO028,Docetaxel,Medical Oncology,14700,Unknown,Tertiary
+MO029,R - CEOP,Medical Oncology,26200,Unknown,Tertiary
+MO029,R - CHOP,Medical Oncology,27000,Unknown,Tertiary
+MO030,Rituxmab + Dexamethasone + High Dose Cytarabine + Cisplatin,Medical Oncology,34900,Unknown,Tertiary
+MO031,GDP - R,Medical Oncology,35300,Unknown,Tertiary
+MO031,ICE - R,Medical Oncology,31900,Unknown,Tertiary
+MO032,EPOCH,Medical Oncology,31700,Unknown,Tertiary
+MO033,Codox - M - IVAC / GMALL / BFM / Hyper CVAD,Medical Oncology,34500,Unknown,Tertiary
+MO034,Bendamustine + Rituximab,Medical Oncology,30700,Unknown,Tertiary
+MO034,Lenalidomide + Rituximab,Medical Oncology,27500,Unknown,Tertiary
+MO035,Rituximab,Medical Oncology,24800,Unknown,Tertiary
+MO035,Rituximab + Cyclophosphamide + Vincristine + Prednisolone,Medical Oncology,25800,Unknown,Tertiary
+MO036,Fludarabine + Cyclophosphamide,Medical Oncology,18100,Unknown,Tertiary
+MO036,Rituxmab + Chlorambucil,Medical Oncology,24900,Unknown,Tertiary
+MO036,Rituximab + Fludarabine + Cyclophosphamide,Medical Oncology,40700,Unknown,Tertiary
+MO036,Lenalidomide,Medical Oncology,4800,Unknown,Tertiary
+MO037,CHOEP,Medical Oncology,5000,Unknown,Tertiary
+MO037,CHOP,Medical Oncology,4000,Unknown,Tertiary
+MO037,SMILE,Medical Oncology,19300,Unknown,Tertiary
+MO038,GELOX,Medical Oncology,18900,Unknown,Tertiary
+MO038,LVP,Medical Oncology,7600,Unknown,Tertiary
+MO039,COPP,Medical Oncology,3600,Unknown,Tertiary
+MO039,ABVD,Medical Oncology,10200,Unknown,Tertiary
+MO039,AEVD,Medical Oncology,10200,Unknown,Tertiary
+MO040,ICE,Medical Oncology,9700,Unknown,Tertiary
+MO040,MINE,Medical Oncology,9700,Unknown,Tertiary
+MO040,PTCL - GDP,Medical Oncology,12500,Unknown,Tertiary
+MO041,DHAP,Medical Oncology,11500,Unknown,Tertiary
+MO042,LD,Medical Oncology,6000,Unknown,Tertiary
+MO042,POM DEX,Medical Oncology,6800,Unknown,Tertiary
+MO043,CTD,Medical Oncology,4000,Unknown,Tertiary
+MO043,MPT,Medical Oncology,4100,Unknown,Tertiary
+MO043,VCD,Medical Oncology,14600,Unknown,Tertiary
+MO043,VD,Medical Oncology,13300,Unknown,Tertiary
+MO043,VMP,Medical Oncology,12600,Unknown,Tertiary
+MO043,VRD,Medical Oncology,17800,Unknown,Tertiary
+MO043,VTD,Medical Oncology,15000,Unknown,Tertiary
+MO044,Imatinib,Medical Oncology,19400,Unknown,Tertiary
+MO045,Hydroxurea,Medical Oncology,2200,Unknown,Tertiary
+MO046,Consolidation,Medical Oncology,60000,Unknown,Tertiary
+MO046,Induction,Medical Oncology,96000,Unknown,Tertiary
+MO047,"Consolidation (Phase II, CNS Therapy Reinduction)",Medical Oncology,160000,Unknown,Tertiary
+MO047,Induction,Medical Oncology,80000,Unknown,Tertiary
+MO047,Maintenance,Medical Oncology,4000,Unknown,Tertiary
+MO048,"Consolidation (Phase II, CNS Therapy Reinduction)",Medical Oncology,160000,Unknown,Tertiary
+MO048,Induction,Medical Oncology,80000,Unknown,Tertiary
+MO048,Maintenance,Medical Oncology,4000,Unknown,Tertiary
+MO049,High Risk Consolidation,Medical Oncology,32000,Unknown,Tertiary
+MO049,High Risk Induction,Medical Oncology,96000,Unknown,Tertiary
+MO049,High Risk Maintenance,Medical Oncology,8000,Unknown,Tertiary
+MO050,Low Risk Consolidation,Medical Oncology,12000,Unknown,Tertiary
+MO050,Low Risk Induction,Medical Oncology,80000,Unknown,Tertiary
+MO051,First Line Antibiotics,Medical Oncology,28000,Unknown,Tertiary
+MO051,Second Line Antibiotics and Antifungals,Medical Oncology,60000,Unknown,Tertiary
+MO052,Chemotherapy Complications - Tumor Lysis Syndrome,Medical Oncology,24000,Unknown,Tertiary
+MO053,Granulocyte Colony Stimulating Factor Use,Medical Oncology,12800,Unknown,Tertiary
+MO054,Langerhans Cell Histiocytosis (Histiocytosis Protocol - Induction),Medical Oncology,22400,Unknown,Tertiary
+MO054,Langerhans Cell Histiocytosis (Histiocytosis Protocol - Maintenance),Medical Oncology,17000,Unknown,Tertiary
+MO055,Vincristine + Carboplatin,Medical Oncology,5600,Unknown,Tertiary
+MO055,Vinblastin,Medical Oncology,1900,Unknown,Tertiary
+MO056,PACKER,Medical Oncology,4900,Unknown,Tertiary
+MO056,CET,Medical Oncology,8300,Unknown,Tertiary
+MO057,Cabroplatin + Etoposide + Cyclophosphamide + Doxorubicin,Medical Oncology,7900,Unknown,Tertiary
+MO057,RAPID COJEC,Medical Oncology,6800,Unknown,Tertiary
+MO057,RETINOID,Medical Oncology,2000,Unknown,Tertiary
+MO058,JOE / COPE,Medical Oncology,7100,Unknown,Tertiary
+MO059,VCD,Medical Oncology,4800,Unknown,Tertiary
+MO059,VIE,Medical Oncology,16200,Unknown,Tertiary
+MO060,VTC + VAC,Medical Oncology,12200,Unknown,Tertiary
+MO061,VINC + ACTIN. D,Medical Oncology,3000,Unknown,Tertiary
+MO061,VINC + ACTIN. D + DOX,Medical Oncology,4200,Unknown,Tertiary
+MO061,Cyclo + Dox + Etop + Vinc + Actino . D,Medical Oncology,12300,Unknown,Tertiary
+MO062,"Consolidation (Phase II, CNS Therapy Reinduction)",Medical Oncology,208600,Unknown,Tertiary
+MO062,Induction,Medical Oncology,72000,Unknown,Tertiary
+MO062,Maintenance,Medical Oncology,2500,Unknown,Tertiary
+MO063,"Consolidation (Phase II, CNS Therapy Reinduction)",Medical Oncology,208600,Unknown,Tertiary
+MO063,Induction,Medical Oncology,72000,Unknown,Tertiary
+MO063,Maintenance,Medical Oncology,2500,Unknown,Tertiary
+MO064,Consolidation - High Dose Cytarabine,Medical Oncology,57600,Unknown,Tertiary
+MO064,Induction,Medical Oncology,94400,Unknown,Tertiary
+MO064,Induction,Medical Oncology,92800,Unknown,Tertiary
+MO065,Consolidation,Medical Oncology,36800,Unknown,Tertiary
+MO065,Induction,Medical Oncology,97600,Unknown,Tertiary
+MO065,Maintenance,Medical Oncology,39300,Unknown,Tertiary
+MO066,COPDAC,Medical Oncology,7800,Unknown,Tertiary
+MO066,OPEA,Medical Oncology,13000,Unknown,Tertiary
+MO067,ICE,Medical Oncology,21500,Unknown,Tertiary
+MO067,DECA,Medical Oncology,17800,Unknown,Tertiary
+MO067,IGVD,Medical Oncology,34000,Unknown,Tertiary
+MO068,LMB 89 - 96 - Consolidation,Medical Oncology,33500,Unknown,Tertiary
+MO068,LMB 89 - 96 - Induction - COPADAM,Medical Oncology,33100,Unknown,Tertiary
+MO068,LMB 89 - 96 - Maintenance,Medical Oncology,15400,Unknown,Tertiary
+MO068,MCP - 842,Medical Oncology,13200,Unknown,Tertiary
+MO069,PEDIATRIC-GCT/JEB,Medical Oncology,10000,Unknown,Tertiary
+MO070,Carboplatin + Cisplatin + Doxorubicin,Medical Oncology,4900,Unknown,Tertiary
+MO070,Cisplatin,Medical Oncology,5600,Unknown,Tertiary
+MO071,Docetaxel,Medical Oncology,16200,Unknown,Tertiary
+MO071,Erlotinib,Medical Oncology,13000,Unknown,Tertiary
+MO071,Gefitnib,Medical Oncology,11000,Unknown,Tertiary
+MO071,Paclitaxel + Carboplatin,Medical Oncology,15100,Unknown,Tertiary
+MO071,Pemetrexed + Carboplatin,Medical Oncology,10000,Unknown,Tertiary
+MO071,Topotecan,Medical Oncology,24600,Unknown,Tertiary
+MO071,Docetaxel,Medical Oncology,14600,Unknown,Tertiary
+MO071,Etoposide + Carboplatin,Medical Oncology,7100,Unknown,Tertiary
+MO071,Etoposide + Cisplatin,Medical Oncology,5500,Unknown,Tertiary
+MO071,Gemcitabine,Medical Oncology,8900,Unknown,Tertiary
+MO071,Gemcitabine + Carboplatin,Medical Oncology,14300,Unknown,Tertiary
+MO071,Gemcitabine + Cisplatin,Medical Oncology,11100,Unknown,Tertiary
+MO071,Paclitaxel,Medical Oncology,5800,Unknown,Tertiary
+MO071,Paclitaxel,Medical Oncology,12000,Unknown,Tertiary
+MO071,Paclitaxel + Carboplatin,Medical Oncology,7900,Unknown,Tertiary
+MO071,Paclitaxel + Cisplatin,Medical Oncology,13500,Unknown,Tertiary
+MO071,Pemetrexed + Cisplatin,Medical Oncology,9200,Unknown,Tertiary
+MO071,Pemetrexed,Medical Oncology,7600,Unknown,Tertiary
+MO071,Vinorelbine + Carboplatin,Medical Oncology,22800,Unknown,Tertiary
+MO071,Vinorelbine + Cisplatin,Medical Oncology,20600,Unknown,Tertiary
+MP001,Febrile seizures,Pediatric Medical Management,1800,Medical,Tertiary
+MP001,Flury of seizures,Pediatric Medical Management,1800,Unknown,Tertiary
+MP001,Neurocysticercosis,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP001,Epilepsy,Pediatric Medical Management,1800,Unknown,Tertiary
+MP002,Epileptic encephalopathy,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP003,Infectious - uncomplicated,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP003,Immune-mediated - uncomplicated,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP004,Acute encephalitis syndrome,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP005,Acute meningo encephalitis,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP005,Aseptic meningitis,Pediatric Medical Management,1800,Medical,Tertiary
+MP005,Febrile encephalopathy,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP005,Hypertensive encehalopathy,Pediatric Medical Management,1800,Medical,Tertiary
+MP005,Metabolic encephalopathy,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP005,Hepatic encephalopathy,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP005,Brain abcess,Pediatric Medical Management,1800,Unknown,Tertiary
+MP006,Chronic meningitis,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP006,Partially treated pyogenic meningitis,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP006,Neuro tuberculosis,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP006,Complicated bacterial meningitis,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP006,Acute meningitis,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP007,Optic neuritis,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP008,After Decompressive craniotomy / After Shunt procedure / After other emergency neuro surgical procedures / For ICP monitoring,Pediatric Medical Management,1800,Medical,Tertiary
+MP009,Intracranial hemorrhage,Pediatric Medical Management,1800,Medical,Tertiary
+MP010,Intracranial space occupying lesion,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP011,Intracranial ring enhancing lesion with complication (tuberculoma),"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP012,Cerebral herniation,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP013,Acute neuroregression / Acute worsening in neuro metabolic and neurodegenerative conditions,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP014,Acute demyelinating myelopathy,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP015,Juvenile myasthenia,Pediatric Medical Management,1800,Medical,Tertiary
+MP016,Acute ataxia,Pediatric Medical Management,1800,Medical,Tertiary
+MP017,Acute ischemic stroke,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP018,Wheezing,Pediatric Medical Management,1800,Medical,Tertiary
+MP019,Chronic cough,Pediatric Medical Management,1800,Medical,Tertiary
+MP020,Acute urticaria,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP020,Anaphylaxis acute asthma,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP021,Acute abdomen,Pediatric Medical Management,1800,Medical,Tertiary
+MP022,Celiac disease,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP023,Unexplained hepatosplenomegaly,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP024,Infantile cholestasis,Pediatric Medical Management,1800,Medical,Tertiary
+MP025,Acute glomerulonephritis,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP026,Nephrotic syndrome with peritonitis,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP027,Haemolytic uremic syndrome,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP028,CRRT,Pediatric Medical Management,8000,Medical,Tertiary
+MP029,Global developmental delay,Pediatric Medical Management,1800,Medical,Tertiary
+MP029,Intellectual disability of unknown etiology,Pediatric Medical Management,1800,Medical,Tertiary
+MP030,Rickets - requiring admission for Work Up,Pediatric Medical Management,1800,Medical,Tertiary
+MP031,Acute severe malnutrition,Pediatric Medical Management,1800,Medical,Tertiary
+MP032,Developmental and behavioral disorders,Pediatric Medical Management,1800,Medical,Tertiary
+MP033,Short stature,Pediatric Medical Management,1800,Medical,Tertiary
+MP034,Dysmorphic children,Pediatric Medical Management,1800,Medical,Tertiary
+MP035,Floppy infant,Pediatric Medical Management,1800,Medical,Tertiary
+MP036,Inborn errors of metabolism,Pediatric Medical Management,1800,Medical,Tertiary
+MP037,Wilson’s disease,Pediatric Medical Management,1800,Medical,Tertiary
+MP038,Rheumatoid arthritis,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP039,Rheumatic fever,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP040,Cyanotic spells,Pediatric Medical Management,1800,Medical,Tertiary
+MP040,Cyanotic spells with CHD,Pediatric Medical Management,1800,Medical,Tertiary
+MP040,Cyanotic spells with Chest infection,Pediatric Medical Management,1800,Medical,Tertiary
+MP040,Cyanotic spells with Sepsis,Pediatric Medical Management,1800,Medical,Tertiary
+MP041,Immune haemolytic anemia,Pediatric Medical Management,1800,Medical,Tertiary
+MP042,Idiopathic Thrombocytopenic Purpura,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP043,Kawasaki Disease,Pediatric Medical Management,1800,Medical,Tertiary
+MP044,Steven Johnson syndrome,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MP045,Trauma,Pediatric Medical Management,1800,Medical,Tertiary
+MP046,Ketogenic diet initiation in refractory epilepsy,"Pediatric Medical Management, General Medicine",1800,Medical,Tertiary
+MR001,Radical,Radiation Oncology,11000,Unknown,Tertiary
+MR001,Adjuvant,Radiation Oncology,11000,Unknown,Tertiary
+MR001,Neoadjuvant,Radiation Oncology,11000,Unknown,Tertiary
+MR002,Palliative,Radiation Oncology,10000,Unknown,Tertiary
+MR003,Radical,Radiation Oncology,20000,Medical,Tertiary
+MR003,Adjuvant,Radiation Oncology,20000,Medical,Tertiary
+MR003,Neoadjuvant,Radiation Oncology,20000,Medical,Tertiary
+MR004,Radical,Radiation Oncology,21000,Medical,Tertiary
+MR004,Adjuvant,Radiation Oncology,21000,Medical,Tertiary
+MR004,Neoadjuvant,Radiation Oncology,21000,Medical,Tertiary
+MR005,Radical,Radiation Oncology,40000,Medical,Tertiary
+MR005,Adjuvant,Radiation Oncology,40000,Medical,Tertiary
+MR005,Neoadjuvant,Radiation Oncology,40000,Medical,Tertiary
+MR006,Radical,Radiation Oncology,70000,Medical,Tertiary
+MR006,Adjuvant,Radiation Oncology,70000,Medical,Tertiary
+MR006,Neoadjuvant,Radiation Oncology,70000,Medical,Tertiary
+MR007,Radical,Radiation Oncology,42000,Medical,Tertiary
+MR007,Adjuvant,Radiation Oncology,42000,Medical,Tertiary
+MR007,Neoadjuvant,Radiation Oncology,42000,Medical,Tertiary
+MR008,Radical,Radiation Oncology,90000,Medical,Tertiary
+MR008,Adjuvant,Radiation Oncology,90000,Medical,Tertiary
+MR008,Neoadjuvant,Radiation Oncology,90000,Medical,Tertiary
+MR009,Radical,Radiation Oncology,55000,Medical,Tertiary
+MR009,Adjuvant,Radiation Oncology,55000,Medical,Tertiary
+MR009,Neoadjuvant,Radiation Oncology,55000,Medical,Tertiary
+MR010,SRT / SBRT with IGRT (Stereotacatic radiotherapy),Radiation Oncology,82000,Medical,Tertiary
+MR011,SRS with IGRT (Stereotacatic radiotherapy),Radiation Oncology,70000,Medical,Tertiary
+MR012,Respiratory Gating along with Linear Accelerator planning,Radiation Oncology,65000,Medical,Tertiary
+MR013,Intracavitory,Radiation Oncology,3500,Medical,Tertiary
+MR013,Intraluminal,Radiation Oncology,3500,Medical,Tertiary
+MR013,Endobiliary,Radiation Oncology,3500,Unknown,Tertiary
+MR013,Endobronchial,Radiation Oncology,3500,Unknown,Tertiary
+MR013,CVS,Radiation Oncology,3500,Unknown,Tertiary
+MR014,Interstitial,Radiation Oncology,42000,Medical,Tertiary
+MR014,Surface Mould,Radiation Oncology,42000,Medical,Tertiary
+SB001,Fracture - Conservative Management - Without plaster,"Orthopedics, Emergency Room Packages",2000,Unknown,Tertiary
+SB002,Skeletal Tractions with pin,Orthopedics,2000,Surgical,Tertiary
+SB002,Skin Traction,Orthopedics,700,Surgical,Tertiary
+SB003,Upper Limbs,Orthopedics,3000,Surgical,Tertiary
+SB003,Lower Limbs,Orthopedics,3000,Surgical,Tertiary
+SB004,Spikas,Orthopedics,3500,Surgical,Tertiary
+SB004,Jackets,Orthopedics,3500,Surgical,Tertiary
+SB005,Long bone,Orthopedics,14000,Surgical,Tertiary
+SB005,Small bone,Orthopedics,9500,Surgical,Tertiary
+SB005,Pelvis,Orthopedics,14000,Surgical,Tertiary
+SB005,Both bones - forearms,Orthopedics,15000,Surgical,Tertiary
+SB006,Percutaneous - Fixation of Fracture,Orthopedics,3000,Surgical,Tertiary
+SB007,Femur,Orthopedics,11000,Unknown,Tertiary
+SB007,Humerus,Orthopedics,11000,Unknown,Tertiary
+SB007,Forearm,Orthopedics,11000,Unknown,Tertiary
+SB008,Internal Fixation of Small Bones,Orthopedics,8500,Surgical,Tertiary
+SB009,Fracture - Long Bones - Metaphyseal - ORIF,Orthopedics,12700,Surgical,Tertiary
+SB010,Open Reduction Internal Fixation,Orthopedics,14900,Surgical,Tertiary
+SB010,Closed Reduction & Fixation,Orthopedics,18000,Surgical,Tertiary
+SB011,Plating,Orthopedics,11800,Surgical,Tertiary
+SB012,Fixation,Orthopedics,10000,Surgical,Tertiary
+SB012,Excision,Orthopedics,9200,Surgical,Tertiary
+SB013,Fracture - Single Bone - Forearm - ORIF - Plating / Nailing,Orthopedics,8900,Surgical,Tertiary
+SB014,Fracture - Both Bones - Forearm - ORIF - Plating / Nailing,Orthopedics,12700,Surgical,Tertiary
+SB015,Lateral Condyle,Orthopedics,8500,Surgical,Tertiary
+SB015,Medial Condyle,Orthopedics,8500,Surgical,Tertiary
+SB016,Fracture intercondylar Humerus + olecranon osteotomy,Orthopedics,15100,Surgical,Tertiary
+SB017,Open Reduction Internal Fixation,Orthopedics,17000,Surgical,Tertiary
+SB018,Single Approach,Orthopedics,28000,Surgical,Tertiary
+SB018,Combined Approach,Orthopedics,33500,Surgical,Tertiary
+SB019,Closed Reduction and Percutaneous Screw Fixation,Orthopedics,10000,Surgical,Tertiary
+SB019,Intertrochanteric Fracture with Dynamic Hip Screw,Orthopedics,15800,Surgical,Tertiary
+SB019,Intertrochanteric Fracture with Proximal Femoral Nail,Orthopedics,16100,Surgical,Tertiary
+SB020,Open Reduction Internal Fixation,Orthopedics,14000,Surgical,Tertiary
+SB021,Cervical spine fixation including odontoid,Orthopedics,20000,Unknown,Tertiary
+SB022,Anterior,Orthopedics,40000,Unknown,Tertiary
+SB022,Posterior,Orthopedics,30000,Unknown,Tertiary
+SB023,Bone grafting for Non union,Orthopedics,10000,Surgical,Tertiary
+SB024,Arthorotomy of any joint,Orthopedics,14000,Surgical,Tertiary
+SB025,Elbow,Orthopedics,15000,Surgical,Tertiary
+SB025,Knee,Orthopedics,15000,Surgical,Tertiary
+SB025,Ankle,Orthopedics,15000,Surgical,Tertiary
+SB026,Ankle / Triple with implant,Orthopedics,15000,Surgical,Tertiary
+SB026,Shoulder,Orthopedics,15000,Surgical,Tertiary
+SB026,Wrist,Orthopedics,15000,Surgical,Tertiary
+SB026,Knee,Orthopedics,15000,Surgical,Tertiary
+SB026,Hand,"Orthopedics, Surgical Oncology",27000,Surgical,Tertiary
+SB026,Foot,"Orthopedics, Surgical Oncology",27000,Unknown,Tertiary
+SB026,Ankle / Triple without implant,Orthopedics,15000,Surgical,Tertiary
+SB027,Hind quarter,Orthopedics,25000,Surgical,Tertiary
+SB027,Fore quarter,Orthopedics,25000,Surgical,Tertiary
+SB028,Hip,Orthopedics,7400,Surgical,Tertiary
+SB028,Shoulder,Orthopedics,5500,Surgical,Tertiary
+SB028,Elbow,Orthopedics,5500,Surgical,Tertiary
+SB028,Knee,Orthopedics,5500,Surgical,Tertiary
+SB029,Open Reduction of Small Joint,Orthopedics,8500,Surgical,Tertiary
+SB030,Tension Band Wiring,Orthopedics,13000,Surgical,Tertiary
+SB031,Unipolar,Orthopedics,15000,Surgical,Tertiary
+SB031,Bipolar (Non - Modular),Orthopedics,15000,Surgical,Tertiary
+SB031,Bipolar (Modular),Orthopedics,15000,Surgical,Tertiary
+SB032,Rockwood Type - I,Orthopedics,20500,Surgical,Tertiary
+SB032,Rockwood Type - II,Orthopedics,20500,Surgical,Tertiary
+SB032,Rockwood Type - III,Orthopedics,20500,Surgical,Tertiary
+SB032,Rockwood Type - IV,Orthopedics,20500,Surgical,Tertiary
+SB032,Rockwood Type - V,Orthopedics,20500,Surgical,Tertiary
+SB032,Rockwood Type - VI,Orthopedics,20500,Surgical,Tertiary
+SB033,Excision Arthoplasty of Femur head,Orthopedics,17500,Surgical,Tertiary
+SB034,Open Reduction of CDH,Orthopedics,20000,Surgical,Tertiary
+SB035,Patellectomy,Orthopedics,11000,Surgical,Tertiary
+SB036,Arthroscopic Meniscus Repair / Meniscectomy,Orthopedics,12000,Surgical,Tertiary
+SB037,Elbow replacement,Orthopedics,14100,Surgical,Tertiary
+SB038,Cemented,Orthopedics,35000,Surgical,Tertiary
+SB038,Cementless,Orthopedics,37000,Surgical,Tertiary
+SB038,Hybrid,Orthopedics,32000,Surgical,Tertiary
+SB038,Revision - Total Hip Replacement,Orthopedics,4,Unknown,Tertiary
+SB039,Primary - Total Knee Replacement,Orthopedics,25000,Surgical,Tertiary
+SB039,Revision - Total Knee Replacement,Orthopedics,3,Unknown,Tertiary
+SB040,Bone Tumour Excision (malignant) including GCT + Joint replacement (depending upon type of joint and implant),Orthopedics,57000,Surgical,Tertiary
+SB041,Bone Tumour Excision + reconstruction,"Orthopedics, Surgical Oncology",30000,Surgical,Tertiary
+SB042,Bone Tumour (benign) curettage / Excision and bone grafting,Orthopedics,20000,Surgical,Tertiary
+SB043,Above Elbow,Orthopedics,15000,Surgical,Tertiary
+SB043,Below Elbow,Orthopedics,15000,Surgical,Tertiary
+SB043,Above Knee,Orthopedics,15000,Surgical,Tertiary
+SB043,Below Knee,Orthopedics,15000,Surgical,Tertiary
+SB043,Foot,Orthopedics,15000,Surgical,Tertiary
+SB043,Hand,Orthopedics,15000,Surgical,Tertiary
+SB043,Wrist,Orthopedics,15000,Surgical,Tertiary
+SB044,Above Elbow,Orthopedics,23200,Surgical,Tertiary
+SB044,Below Elbow,Orthopedics,23200,Surgical,Tertiary
+SB044,Above Knee,Orthopedics,23200,Surgical,Tertiary
+SB044,Below Knee,Orthopedics,23200,Surgical,Tertiary
+SB044,Foot,Orthopedics,23200,Surgical,Tertiary
+SB044,Hand,Orthopedics,23200,Surgical,Tertiary
+SB044,Wrist,Orthopedics,23200,Surgical,Tertiary
+SB045,Finger(s),Orthopedics,10400,Surgical,Tertiary
+SB045,Toe(s),Orthopedics,10400,Surgical,Tertiary
+SB046,Tendon Grafting,Orthopedics,15000,Surgical,Tertiary
+SB046,Tendon Repair,Orthopedics,15000,Surgical,Tertiary
+SB047,Tendon Release / Tenotomy,Orthopedics,5000,Surgical,Tertiary
+SB048,Tenolysis,Orthopedics,5000,Surgical,Tertiary
+SB049,Anterior,Orthopedics,25700,Surgical,Tertiary
+SB049,Posterior,Orthopedics,25700,Surgical,Tertiary
+SB050,Fasciotomy,Orthopedics,10500,Surgical,Tertiary
+SB051,Duputryen’s Contracture release + rehabilitation,Orthopedics,8500,Surgical,Tertiary
+SB052,Anti-biotic + dressing - minimum of 5 sessions,Orthopedics,10900,Surgical,Tertiary
+SB052,Anti-biotic + dressing - minimum of 2 sessions,Orthopedics,3000,Surgical,Tertiary
+SB053,Sequestectomy / Curettage,Orthopedics,10000,Unknown,Tertiary
+SB054,Spine deformity correction,Orthopedics,40000,Unknown,Tertiary
+SB055,Long Bone,Orthopedics,18000,Surgical,Tertiary
+SB055,Small Bone,Orthopedics,10000,Surgical,Tertiary
+SB056,Pelvic Osteotomy and fixation,Orthopedics,20000,Surgical,Tertiary
+SB057,High Tibial Osteotomy,Orthopedics,16000,Surgical,Tertiary
+SB058,Ilizarov Fixation,Orthopedics,15000,Surgical,Tertiary
+SB059,Limb Lengthening / Bone Transport by Ilizarov,Orthopedics,23700,Surgical,Tertiary
+SB060,Growth Modulation and fixation,Orthopedics,5000,Unknown,Tertiary
+SB061,Vertical Talus,Orthopedics,15000,Unknown,Tertiary
+SB061,Other foot deformities,Orthopedics,15000,Unknown,Tertiary
+SB062,Correction of club foot per cast,Orthopedics,3000,Surgical,Tertiary
+SB063,Corrective Surgery in Club Foot / JESS Fixator,Orthopedics,12000,Surgical,Tertiary
+SB064,Osteochondroma,Orthopedics,10000,Surgical,Tertiary
+SB064,Exostosis,Orthopedics,10000,Surgical,Tertiary
+SB065,Excision of Bursa,"Orthopedics, General Surgery",3000,Surgical,Tertiary
+SB066,Nerve Transposition,Orthopedics,13000,Surgical,Tertiary
+SB066,Nerve Release,Orthopedics,13000,Surgical,Tertiary
+SB066,Nerve Neurolysis,Orthopedics,13000,Surgical,Tertiary
+SB067,Nerve Repair Surgery,Orthopedics,13800,Surgical,Tertiary
+SB068,Nerve root block,"Orthopedics, Neurosurgery",3000,Unknown,Tertiary
+SB069,Exploration and Ulnar nerve Repair,Orthopedics,9800,Surgical,Tertiary
+SB070,K - Wire,Orthopedics,5000,Unknown,Tertiary
+SB070,Screw,Orthopedics,5000,Unknown,Tertiary
+SB071,Nail,Orthopedics,15000,Unknown,Tertiary
+SB071,Plate,Orthopedics,15000,Unknown,Tertiary
+SC001,Hemiglossectomy,Surgical Oncology,24000,Surgical,Tertiary
+SC001,Total Glossectomy,Surgical Oncology,30000,Surgical,Tertiary
+SC002,Soft palate,"Surgical Oncology, ENT",20000,Surgical,Tertiary
+SC002,Hard palate,"Surgical Oncology, ENT",20000,Surgical,Tertiary
+SC003,Partial,Surgical Oncology,27000,Unknown,Tertiary
+SC003,Radical,Surgical Oncology,33000,Surgical,Tertiary
+SC003,Total,Surgical Oncology,30000,Surgical,Tertiary
+SC004,Composite resection (Oral Cavity),Surgical Oncology,40000,Surgical,Tertiary
+SC005,Oesophageal stenting,Surgical Oncology,45000,Surgical,Tertiary
+SC005,Tracheal stenting,Surgical Oncology,45000,Unknown,Tertiary
+SC006,Open,Surgical Oncology,60000,Unknown,Tertiary
+SC006,MIS,Surgical Oncology,60000,Unknown,Tertiary
+SC007,Gastric pull-up / Jejunal Graft,Surgical Oncology,36000,Unknown,Tertiary
+SC008,Open,Surgical Oncology,33000,Unknown,Tertiary
+SC008,Lap.,Surgical Oncology,33000,Surgical,Tertiary
+SC009,Open,Surgical Oncology,40200,Unknown,Tertiary
+SC009,Lap.,Surgical Oncology,40200,Unknown,Tertiary
+SC010,Abdominal wall tumour resection,Surgical Oncology,25000,Surgical,Tertiary
+SC010,Abdominal wall tumour resection with reconstruction,Surgical Oncology,39000,Surgical,Tertiary
+SC011,Exploratory laparotomy f / b diversion stoma,Surgical Oncology,30000,Unknown,Tertiary
+SC011,Exploratory laparotomy f / b diversion bypass,Surgical Oncology,30000,Unknown,Tertiary
+SC012,Open,Surgical Oncology,39600,Unknown,Tertiary
+SC012,Lap.,Surgical Oncology,39600,Unknown,Tertiary
+SC013,Omentectomy,Surgical Oncology,21000,Unknown,Tertiary
+SC014,Procedures Requiring Bypass Techniques,Surgical Oncology,35000,Surgical,Tertiary
+SC015,Segmentectomy - hepatobiliary system,Surgical Oncology,50000,Surgical,Tertiary
+SC016,Radical,Surgical Oncology,39600,Surgical,Tertiary
+SC016,Revision,Surgical Oncology,39600,Unknown,Tertiary
+SC017,Enucleation of pancreatic neoplasm,Surgical Oncology,39600,Surgical,Tertiary
+SC018,Hepatoblastoma Excision,"Surgical Oncology, Pediatric Surgery",52200,Unknown,Tertiary
+SC019,Hemipelvectomy - Internal,Surgical Oncology,54000,Surgical,Tertiary
+SC020,Anterior - Open,Surgical Oncology,58800,Unknown,Tertiary
+SC020,Anterior - Lap.,Surgical Oncology,58800,Unknown,Tertiary
+SC020,Total - Open,Surgical Oncology,58800,Unknown,Tertiary
+SC020,Total - Lap.,Surgical Oncology,58800,Unknown,Tertiary
+SC021,Wilms tumors: surgery,"Surgical Oncology, Pediatric Surgery",33000,Unknown,Tertiary
+SC022,Ureteric end to end anastomosis,Surgical Oncology,24000,Unknown,Tertiary
+SC023,Distal ureterectomy with reimplantation,"Surgical Oncology, Urology",30000,Unknown,Tertiary
+SC024,With continent diversion - Open,"Surgical Oncology, Urology",98000,Surgical,Tertiary
+SC024,With Ileal Conduit - Open,"Surgical Oncology, Urology",88000,Surgical,Tertiary
+SC024,With Ileal Conduit - Lap.,"Surgical Oncology, Urology",88000,Unknown,Tertiary
+SC024,With neobladder - Open,"Surgical Oncology, Urology",98000,Surgical,Tertiary
+SC024,With neobladder - Lap,"Surgical Oncology, Urology",98000,Unknown,Tertiary
+SC024,With ureterosigmoidostomy - Open,"Surgical Oncology, Urology",75000,Surgical,Tertiary
+SC024,With ureterosigmoidostomy - Lap,"Surgical Oncology, Urology",75000,Unknown,Tertiary
+SC024,With ureterostomy -Open,"Surgical Oncology, Urology",70000,Surgical,Tertiary
+SC024,With ureterostomy -Lap.,"Surgical Oncology, Urology",70000,Unknown,Tertiary
+SC025,Channel TURP,Surgical Oncology,22800,Unknown,Tertiary
+SC026,Radical Urethrectomy,"Surgical Oncology, Urology",30000,Unknown,Tertiary
+SC027,"Penile preserving surgery (WLE, Glansectomy, Laser)","Surgical Oncology, Urology",25000,Unknown,Tertiary
+SC028,Excision of undescended testicular mass,Surgical Oncology,24000,Unknown,Tertiary
+SC029,Germ Cell Tumour Excision,Surgical Oncology,30000,Unknown,Tertiary
+SC030,Open,"Surgical Oncology, Obstetrics & Gynecology",21000,Unknown,Tertiary
+SC030,Lap.,"Surgical Oncology, Obstetrics & Gynecology",21000,Unknown,Tertiary
+SC031,Open,Surgical Oncology,42000,Unknown,Tertiary
+SC031,MIS,Surgical Oncology,42000,Unknown,Tertiary
+SC032,Class I radical hysterectomy + bilateral salpingoophorectomy + BPLND - Lap.,"Surgical Oncology, Obstetrics & Gynecology",27000,Unknown,Tertiary
+SC032,Class I radical hysterectomy + bilateral salpingoophorectomy + BPLND - Open,"Surgical Oncology, Obstetrics & Gynecology",27000,Unknown,Tertiary
+SC032,Class I radical Hysterectomy +/- bilateral salpingoophorectomy - Lap.,"Surgical Oncology, Obstetrics & Gynecology",27000,Unknown,Tertiary
+SC032,Class I radical Hysterectomy +/- bilateral salpingoophorectomy - Open,"Surgical Oncology, Obstetrics & Gynecology",27000,Unknown,Tertiary
+SC032,Class II radical hysterctomy + BPLND,"Surgical Oncology, Obstetrics & Gynecology",27000,Unknown,Tertiary
+SC032,Class III radical hysterctomy + BPLND,"Surgical Oncology, Obstetrics & Gynecology",27000,Unknown,Tertiary
+SC032,Hysterectomy + bilateral salpingoophorectomy + omentectomy + peritonectomy and organ resections,"Surgical Oncology, Obstetrics & Gynecology",34000,Unknown,Tertiary
+SC033,Radical vaginectomy,Surgical Oncology,30000,Surgical,Tertiary
+SC034,Vulvectomy + reconstruction procedures,"Surgical Oncology, Obstetrics & Gynecology",36000,Unknown,Tertiary
+SC035,Radical Trachelectomy,Surgical Oncology,40000,Surgical,Tertiary
+SC036,Anterior + Posterior approach,Surgical Oncology,60000,Unknown,Tertiary
+SC036,Posterior approach,Surgical Oncology,54000,Unknown,Tertiary
+SC037,Resection of nasopharyngeal tumour,Surgical Oncology,40000,Surgical,Tertiary
+SC038,Total Pharyngectomy,Surgical Oncology,36000,Surgical,Tertiary
+SC039,Parapharyngeal Tumour Excision,Surgical Oncology,31200,Surgical,Tertiary
+SC040,Partial laryngectomy (voice preserving),Surgical Oncology,39000,Surgical,Tertiary
+SC040,Total Laryngectomy,Surgical Oncology,36000,Unknown,Tertiary
+SC041,Tracheal resection,Surgical Oncology,36000,Surgical,Tertiary
+SC042,Tracheal / Carinal resection,Surgical Oncology,58800,Unknown,Tertiary
+SC043,Tracheal Stenosis (End to end Anastamosis) (Throat),Surgical Oncology,36000,Surgical,Tertiary
+SC044,Central airway tumour debulking,Surgical Oncology,22800,Unknown,Tertiary
+SC045,Diagnostic thoracoscopy,Surgical Oncology,15000,Unknown,Tertiary
+SC046,Sleeve resection of lung cancer,Surgical Oncology,70000,Surgical,Tertiary
+SC047,Diagnostic,Surgical Oncology,22200,Unknown,Tertiary
+SC047,Staging,Surgical Oncology,22200,Unknown,Tertiary
+SC048,Chest Wall Tumour Excision,Surgical Oncology,36000,Surgical,Tertiary
+SC048,Removal of chest wall tumour with reconstruction,Surgical Oncology,51000,Unknown,Tertiary
+SC049,Pleurectomy Decortication,Surgical Oncology,39000,Unknown,Tertiary
+SC050,Chamberlain procedure,Surgical Oncology,22200,Unknown,Tertiary
+SC051,Extrapleural pneumonectomy,Surgical Oncology,66000,Unknown,Tertiary
+SC052,Pneumonectomy,Surgical Oncology,54000,Surgical,Tertiary
+SC053,Open,Surgical Oncology,30000,Surgical,Tertiary
+SC053,VATS,Surgical Oncology,30000,Surgical,Tertiary
+SC054,Thoracostomy,Surgical Oncology,19800,Surgical,Tertiary
+SC055,Open,Surgical Oncology,36000,Unknown,Tertiary
+SC055,Video - assisted,Surgical Oncology,36000,Unknown,Tertiary
+SC056,Mediastinal mass excision with lung resection,Surgical Oncology,60000,Unknown,Tertiary
+SC057,Open,Surgical Oncology,42000,Unknown,Tertiary
+SC057,Thoracoscopic,Surgical Oncology,42000,Unknown,Tertiary
+SC058,Open,Surgical Oncology,36000,Unknown,Tertiary
+SC058,Thoracoscopic,Surgical Oncology,36000,Unknown,Tertiary
+SC059,Breast conserving surgery (lumpectomy + axillary surgery),Surgical Oncology,22800,Surgical,Tertiary
+SC059,Breast conserving surgery with Oncoplasty,Surgical Oncology,24600,Unknown,Tertiary
+SC060,Axillary Sampling / Sentinel Node Biopsy,Surgical Oncology,16200,Unknown,Tertiary
+SC061,Axillary dissection,Surgical Oncology,19800,Surgical,Tertiary
+SC062,Scalp tumour excision with skull bone excision,Surgical Oncology,30000,Unknown,Tertiary
+SC063,Neuroblastoma Excision,Surgical Oncology,60000,Unknown,Tertiary
+SC064,Growth - Squamous,"Surgical Oncology, ENT",21600,Surgical,Tertiary
+SC064,Growth - Basal,"Surgical Oncology, ENT",21600,Surgical,Tertiary
+SC064,Injury,"Surgical Oncology, ENT",21600,Surgical,Tertiary
+SC065,Neck dissection - comprehensive,Surgical Oncology,16000,Surgical,Tertiary
+SC066,Benign Soft Tissue Tumour - Excision,Surgical Oncology,12000,Surgical,Tertiary
+SC067,Malignant Soft Tissue Tumour - Excision,Surgical Oncology,24000,Unknown,Tertiary
+SC068,Myocutaneous flap,"Surgical Oncology, Plastic & Reconstructive Surgery",30600,Surgical,Tertiary
+SC068,Fasciocutaneous flap,"Surgical Oncology, Plastic & Reconstructive Surgery",30600,Surgical,Tertiary
+SC069,Rotationplasty,Surgical Oncology,45000,Unknown,Tertiary
+SC070,Bone tumors / soft tissue sarcomas: surgery,"Surgical Oncology, Orthopedics",30000,Unknown,Tertiary
+SC071,Complete,Surgical Oncology,39000,Unknown,Tertiary
+SC071,Partial,Surgical Oncology,24000,Unknown,Tertiary
+SC072,Vertebral Tumour Excision and Reconstruction,Surgical Oncology,54000,Unknown,Tertiary
+SC073,Microvascular reconstruction (free flaps),"Surgical Oncology, Plastic & Reconstructive Surgery",45000,Surgical,Tertiary
+SC074,Vascular reconstruction,"Surgical Oncology, CTVS, Plastic & Reconstructive Surgery",57600,Unknown,Tertiary
+SC075,Curopsy / Sclerotherapy,Surgical Oncology,19200,Unknown,Tertiary
+SC076,Chemo Port Insertion,Surgical Oncology,18000,Unknown,Tertiary
+SE001,Ptosis Surgery,Ophthalmology,8000,Surgical,Primary
+SE002,Entropion correction,Ophthalmology,6600,Surgical,Primary
+SE003,Ectropion correction,Ophthalmology,6500,Surgical,Primary
+SE004,Lid Tear Repair,Ophthalmology,5000,Surgical,Primary
+SE005,Lid Abscess Drainage,Ophthalmology,3000,Unknown,Primary
+SE006,Lid Tumor excision + Lid Reconstruction,Ophthalmology,10000,Surgical,Primary
+SE007,Chalazion Removal,Ophthalmology,2000,Unknown,Primary
+SE008,Minor - upto 2 muscles,Ophthalmology,4000,Surgical,Primary
+SE008,Major - 3 or more muscles (complex surgery involving four muscles or oblique muscles),Ophthalmology,14000,Surgical,Primary
+SE009,Conjunctival tumour excision including Amniotic Membrane Graft,Ophthalmology,7000,Surgical,Primary
+SE010,Canaliculo Dacryocystorhinostomy with Silicon Tube / Stent,Ophthalmology,8000,Surgical,Primary
+SE010,Canaliculo Dacryocystorhinostomy without Silicon Tube / Stent,Ophthalmology,8000,Surgical,Primary
+SE010,Dacryocystorhinostomy with Silicon Tube / Stent,Ophthalmology,8000,Unknown,Primary
+SE010,Dacryocystorhinostomy without Silicon Tube / Stent,Ophthalmology,8000,Unknown,Primary
+SE011,Corneal Ulcer Management,Ophthalmology,4000,Unknown,Primary
+SE012,Corneal Grafting,Ophthalmology,8500,Surgical,Primary
+SE012,Corneal Graft - Follow Up,Ophthalmology,2000,Unknown,Primary
+SE013,Corneal Collagen Crosslinking,Ophthalmology,9000,Unknown,Primary
+SE014,Pterygium + Conjunctival Autograft,Ophthalmology,5000,Surgical,Primary
+SE015,Corneo / Scleral / Corneo scleral tear repair,Ophthalmology,11500,Surgical,Primary
+SE016,Corneal / Scleral Patch Graft,Ophthalmology,3000,Unknown,Primary
+SE017,Scleral buckling surgery,Ophthalmology,15000,Surgical,Primary
+SE018,Scleral Buckle Removal,Ophthalmology,5500,Surgical,Primary
+SE019,Limbal Dermoid Removal,Ophthalmology,1000,Surgical,Primary
+SE020,Phaco emulsification with foldable hydrophobic acrylic IOL,Ophthalmology,4500,Surgical,Primary
+SE020,SICS with non-foldable IOL,Ophthalmology,4000,Surgical,Primary
+SE021,Paediatric lensectomy,Ophthalmology,9200,Surgical,Primary
+SE021,Pediatric lens aspiration with posterior capsulotomy & anterior vitrectomy,Ophthalmology,9200,Surgical,Primary
+SE021,Paediatric Membranectomy & anterior vitrectomy,Ophthalmology,9200,Unknown,Primary
+SE022,Capsulotomy (YAG),Ophthalmology,1500,Surgical,Primary
+SE023,SFIOL (inclusive of Vitrectomy),Ophthalmology,15000,Unknown,Primary
+SE024,Secondary IOL / IOL Exchange / Explant,Ophthalmology,2000,Unknown,Primary
+SE025,IRIS Prolapse – Repair,Ophthalmology,4000,Surgical,Primary
+SE026,Iridectomy,Ophthalmology,2000,Surgical,Primary
+SE027,Cyclocryotherapy / Cyclophotocoagulation,Ophthalmology,3700,Surgical,Primary
+SE027,"Glaucoma Surgery (Trabeculectomy only) with or without Mitomycin C, including postoperative medications for 12 weeks (and wherever surgical or laser procedures required for bleb augmentation and anterior chamber maintenance)",Ophthalmology,11000,Surgical,Primary
+SE027,Glaucoma Shunt Surgery,Ophthalmology,13000,Unknown,Primary
+SE027,Pediatric Glaucoma Surgery,Ophthalmology,15000,Unknown,Primary
+SE028,EUA for Confirmation of Pediatric Glaucoma,Ophthalmology,3000,Unknown,Primary
+SE029,For retinal tear repair Per Eye Per Sitting,Ophthalmology,1500,Unknown,Primary
+SE029,Pan Retinal Photocoagulation (PRP) - Retinal Laser including 3 sittings / package of retino laser photocoagulation (3 sittings per eye for both eyes),Ophthalmology,8500,Unknown,Primary
+SE030,ROP Laser - Per Eye,Ophthalmology,5000,Surgical,Primary
+SE031,Retinal Cryopexy,Ophthalmology,3800,Surgical,Primary
+SE032,Vitreoretinal Surgery (with Silicon Oil Insertion),Ophthalmology,17900,Surgical,Primary
+SE033,SOR (Silicon Oil Removal),Ophthalmology,9300,Surgical,Primary
+SE034,Endophthalmitis (excluding Vitrectomy),Ophthalmology,8000,Unknown,Primary
+SE035,Without implant,Ophthalmology,8400,Surgical,Primary
+SE035,With implant,Ophthalmology,8400,Surgical,Primary
+SE036,Evisceration,Ophthalmology,3800,Surgical,Primary
+SE037,Exenteration,"Ophthalmology, Surgical Oncology",15000,Surgical,Tertiary
+SE038,Socket Reconstruction including Amniotic Membrane Graft,Ophthalmology,11200,Surgical,Primary
+SE039,Orbitotomy,Ophthalmology,14000,Surgical,Primary
+SE040,GA / EUA separate add on package,Ophthalmology,3000,Unknown,Primary
+SG001,Oesophagectomy,"General Surgery, Surgical Oncology",28300,Surgical,Tertiary
+SG002,Operations for Replacement of Oesophagus by Colon,"General Surgery, Pediatric Surgery",30500,Surgical,Tertiary
+SG003,Bleeding Ulcer - Partial Gastrectomy without Vagotomy,General Surgery,25000,Surgical,Tertiary
+SG003,Bleeding Ulcer - Partial Gastrectomy with Vagotomy,General Surgery,25000,Surgical,Tertiary
+SG003,Partial Gastrectomy for Carcinoma,"General Surgery, Surgical Oncology",27800,Surgical,Tertiary
+SG003,Subtotal Gastrectomy for Carcinoma,"General Surgery, Surgical Oncology",27800,Surgical,Tertiary
+SG003,Total Gastrectomy - Lap.,"General Surgery, Surgical Oncology",51600,Unknown,Tertiary
+SG003,Total Gastrectomy - Open,"General Surgery, Surgical Oncology",51600,Surgical,Tertiary
+SG004,Operative Gastrostomy,"General Surgery, Pediatric Surgery",15000,Surgical,Tertiary
+SG005,G J Vagotomy,General Surgery,23500,Surgical,Tertiary
+SG005,Vagotomy + Pyloroplasty,General Surgery,23500,Surgical,Tertiary
+SG006,Operation for Bleeding Peptic Ulcer,General Surgery,22500,Surgical,Tertiary
+SG007,Gastric Perforation,General Surgery,18500,Surgical,Tertiary
+SG007,Duodenal Perforation,General Surgery,18500,Surgical,Tertiary
+SG008,Pyloroplasty,"General Surgery, Pediatric Surgery",14000,Surgical,Tertiary
+SG009,Pyloromyotomy,"General Surgery, Pediatric Surgery",15000,Surgical,Tertiary
+SG010,Gastrojejunostomy,"General Surgery, Surgical Oncology",18500,Surgical,Tertiary
+SG011,CystoJejunostomy - Open,"General Surgery, Pediatric Surgery",20000,Surgical,Tertiary
+SG011,CystoJejunostomy - Lap.,"General Surgery, Pediatric Surgery",20000,Surgical,Tertiary
+SG011,Cystogastrostomy - Open,"General Surgery, Pediatric Surgery",20000,Surgical,Tertiary
+SG011,Cystogastrostomy - Lap.,"General Surgery, Pediatric Surgery",20000,Surgical,Tertiary
+SG012,Feeding Jejunostomy,"General Surgery, Surgical Oncology, Pediatric Surgery",10000,Surgical,Tertiary
+SG013,Ileostomy,"General Surgery, Pediatric Surgery",14000,Surgical,Tertiary
+SG014,Congenital Atresia & Stenosis of Small Intestine,"General Surgery, Pediatric Surgery",23000,Surgical,Tertiary
+SG015,Operation for Duplication of Intestine,"General Surgery, Pediatric Surgery",18000,Surgical,Tertiary
+SG016,Excision Duodenal Diverticulum,General Surgery,20000,Surgical,Tertiary
+SG016,Excision Meckel's Diverticulum,"General Surgery, Pediatric Surgery",15000,Surgical,Tertiary
+SG017,Open,"General Surgery, Pediatric Surgery",11000,Surgical,Tertiary
+SG017,Lap.,"General Surgery, Pediatric Surgery",11000,Surgical,Tertiary
+SG018,Appendicular Perforation,"General Surgery, Pediatric Surgery",17500,Surgical,Tertiary
+SG019,Operative drainage of Appendicular Abscess,"General Surgery, Pediatric Surgery",12000,Surgical,Tertiary
+SG020,Open,"General Surgery, Surgical Oncology",23000,Unknown,Tertiary
+SG020,Lap.,"General Surgery, Surgical Oncology",23000,Surgical,Tertiary
+SG021,Right - Open,"General Surgery, Surgical Oncology",25000,Unknown,Tertiary
+SG021,Right - Lap.,"General Surgery, Surgical Oncology",25000,Surgical,Tertiary
+SG021,Left - Open,"General Surgery, Surgical Oncology",25000,Unknown,Tertiary
+SG021,Left - Lap.,"General Surgery, Surgical Oncology",25000,Surgical,Tertiary
+SG022,Operative Management of Volvulus of Large Bowel,"General Surgery, Pediatric Surgery",25000,Surgical,Tertiary
+SG023,Colostomy,"General Surgery, Surgical Oncology, Pediatric Surgery",14000,Surgical,Tertiary
+SG024,Closure of stoma,"General Surgery, Surgical Oncology, Pediatric Surgery",14500,Surgical,Tertiary
+SG025,Sigmoid Resection,General Surgery,21500,Surgical,Tertiary
+SG026,Perineal Procedure for Rectal Prolapse,General Surgery,14000,Surgical,Tertiary
+SG027,Open,General Surgery,19000,Unknown,Tertiary
+SG027,Lap.,General Surgery,19000,Unknown,Tertiary
+SG028,Rectal Polyp Excision,"General Surgery, Surgical Oncology",9600,Surgical,Tertiary
+SG029,Open,"General Surgery, Surgical Oncology",28500,Surgical,Tertiary
+SG029,Lap.,"General Surgery, Surgical Oncology",28500,Surgical,Tertiary
+SG030,Open,"General Surgery, Pediatric Surgery",25000,Surgical,Tertiary
+SG030,Lap.,"General Surgery, Pediatric Surgery",25000,Surgical,Tertiary
+SG031,Procedure for Fissure in Ano,General Surgery,8000,Surgical,Tertiary
+SG032,without Stapler,General Surgery,15000,Surgical,Tertiary
+SG032,with Stapler,General Surgery,15000,Surgical,Tertiary
+SG033,Management of Pilonidal Sinus,General Surgery,5000,Surgical,Tertiary
+SG034,Exicision of Sinus and Curettage,General Surgery,5000,Surgical,Tertiary
+SG035,Exploratory Laparotomy,"General Surgery, Pediatric Surgery",10000,Surgical,Tertiary
+SG036,Closure of Burst Abdomen,"General Surgery, Pediatric Surgery, Obstetrics & Gynecology",15000,Surgical,Tertiary
+SG037,Open,"General Surgery, Surgical Oncology, Pediatric Surgery",20000,Surgical,Tertiary
+SG037,Lap.,"General Surgery, Surgical Oncology, Pediatric Surgery",20000,Surgical,Tertiary
+SG038,Abdominal Hydatid Cyst (Single Organ),"General Surgery, Pediatric Surgery",15800,Surgical,Tertiary
+SG039,Without Exploration of CBD - Open,"General Surgery, Pediatric Surgery",22800,Unknown,Tertiary
+SG039,With Exploration of CBD - Open,"General Surgery, Pediatric Surgery",22800,Surgical,Tertiary
+SG039,Without Exploration of CBD - Lap.,"General Surgery, Pediatric Surgery",22800,Surgical,Tertiary
+SG039,With Exploration of CBD - Lap.,"General Surgery, Pediatric Surgery",22800,Surgical,Tertiary
+SG040,Open,"General Surgery, Pediatric Surgery",10000,Surgical,Tertiary
+SG040,Lap.,"General Surgery, Pediatric Surgery",10000,Surgical,Tertiary
+SG041,Operation of Choledochal Cyst,"General Surgery, Pediatric Surgery",24500,Surgical,Tertiary
+SG042,Open,"General Surgery, Pediatric Surgery",25000,Surgical,Tertiary
+SG042,Lap.,"General Surgery, Pediatric Surgery",25000,Surgical,Tertiary
+SG043,Bypass - Inoperable Pancreas,"General Surgery, Surgical Oncology",23500,Surgical,Tertiary
+SG044,Distal Pancreatectomy with Pancreatico Jejunostomy,"General Surgery, Surgical Oncology, Pediatric Surgery",25000,Surgical,Tertiary
+SG045,PancreaticoDuodenectomy (Whipple's),"General Surgery, Surgical Oncology",30000,Surgical,Tertiary
+SG046,Porto Caval Anastomosis,General Surgery,31500,Surgical,Tertiary
+SG047,Mesenteric Caval Anastomosis,General Surgery,28500,Surgical,Tertiary
+SG048,Mesenteric Cyst – Excision,"General Surgery, Pediatric Surgery",15000,Surgical,Tertiary
+SG049,Retroperitoneal Tumor – Excision,"General Surgery, Surgical Oncology, Pediatric Surgery",23000,Surgical,Tertiary
+SG050,Inguinal - Open,General Surgery,14200,Unknown,Tertiary
+SG050,Inguinal - Lap.,General Surgery,14200,Unknown,Tertiary
+SG050,Femoral - Open,General Surgery,14200,Surgical,Tertiary
+SG050,Femoral - Lap,General Surgery,14200,Surgical,Tertiary
+SG050,Obturator - Lap.,"General Surgery, Pediatric Surgery",20000,Unknown,Tertiary
+SG051,Epigastric,"General Surgery, Pediatric Surgery",17400,Surgical,Tertiary
+SG051,Umbilical,"General Surgery, Pediatric Surgery",17400,Surgical,Tertiary
+SG051,Paraumbilical,"General Surgery, Pediatric Surgery",17400,Unknown,Tertiary
+SG051,Spigelian,"General Surgery, Pediatric Surgery",17400,Surgical,Tertiary
+SG052,Repair of Incisional Hernia,"General Surgery, Pediatric Surgery",20000,Surgical,Tertiary
+SG053,Hiatus Hernia Repair - Open,"General Surgery, Pediatric Surgery",23500,Surgical,Tertiary
+SG053,Hiatus Hernia Repair - Lap.,"General Surgery, Pediatric Surgery",23500,Surgical,Tertiary
+SG053,Fundoplication - Open,"General Surgery, Pediatric Surgery",23500,Surgical,Tertiary
+SG053,Fundoplication - Lap.,"General Surgery, Pediatric Surgery",23500,Surgical,Tertiary
+SG054,Single Cyst,General Surgery,2000,Surgical,Tertiary
+SG054,Multiple Cysts,General Surgery,7000,Surgical,Tertiary
+SG055,Excision Filarial Scrotum,General Surgery,6500,Surgical,Tertiary
+SG056,Operation for Hydrocele (U/L),"General Surgery, Pediatric Surgery",5000,Surgical,Tertiary
+SG057,Epididymal Cyst exision,"General Surgery, Pediatric Surgery",4600,Surgical,Tertiary
+SG057,Epididymal Nodule excision,"General Surgery, Pediatric Surgery",4600,Surgical,Tertiary
+SG058,Vasovasostomy,"General Surgery, Urology",12000,Surgical,Tertiary
+SG059,Orchidectomy,"General Surgery, Surgical Oncology, Pediatric Surgery",11200,Unknown,Tertiary
+SG060,Inguinal Node (dissection) - U/L,"General Surgery, Pediatric Surgery",16000,Surgical,Tertiary
+SG061,Estlander Operation (lip),"General Surgery, Surgical Oncology",9300,Surgical,Tertiary
+SG062,Wedge Excision,"General Surgery, Surgical Oncology",19000,Surgical,Tertiary
+SG062,Wedge Excision and Vermilionectomy,"General Surgery, Surgical Oncology",23800,Unknown,Tertiary
+SG062,Cheek advancement,"General Surgery, Surgical Oncology",26800,Surgical,Tertiary
+SG063,Complete Excision of Growth from Tongue only (inclusive of Histopathology),"General Surgery, Surgical Oncology, Pediatric Surgery",9400,Surgical,Tertiary
+SG064,Excision of Growth from Tongue with neck node dissection,"General Surgery, Surgical Oncology",23500,Surgical,Tertiary
+SG065,Microlaryngoscopic Surgery,General Surgery,18500,Surgical,Tertiary
+SG066,Submandibular Mass Excision,"General Surgery, Surgical Oncology",15000,Surgical,Tertiary
+SG067,Radical Neck Dissection,"General Surgery, Surgical Oncology, ENT",15000,Surgical,Tertiary
+SG068,Surgical removal of Branchial Cyst,"General Surgery, ENT",15000,Surgical,Tertiary
+SG069,Carotid Body tumour - Excision,"General Surgery, Surgical Oncology, CTVS",20000,Surgical,Tertiary
+SG070,Hemi thyroidectomy,"General Surgery, Surgical Oncology, Pediatric Surgery, ENT",17000,Surgical,Tertiary
+SG070,Total thyroidectomy,"General Surgery, Surgical Oncology, Pediatric Surgery, ENT",20000,Surgical,Tertiary
+SG070,Total Thyroidectomy with Block Dissection,"General Surgery, Surgical Oncology, Pediatric Surgery, ENT",28000,Surgical,Tertiary
+SG071,Excision of Parathyroid Adenoma,"General Surgery, Surgical Oncology, Pediatric Surgery",20400,Surgical,Tertiary
+SG071,Excision of Parathyroid Carcinoma,"General Surgery, Surgical Oncology, Pediatric Surgery",20400,Surgical,Tertiary
+SG072,Thymectomy,"General Surgery, Pediatric Surgery",28000,Surgical,Tertiary
+SG073,Sympathectomy,"General Surgery, Pediatric Surgery",15000,Surgical,Tertiary
+SG074,Breast Lump Excision (Benign),"General Surgery, Surgical Oncology",6000,Surgical,Tertiary
+SG075,Simple Mastectomy,"General Surgery, Surgical Oncology",20000,Surgical,Tertiary
+SG075,Radical / Modified Radical Mastectomy,"General Surgery, Surgical Oncology",25000,Surgical,Tertiary
+SG076,Excision Mammary Fistula,General Surgery,14500,Surgical,Tertiary
+SG077,Intercostal drainage Only,"General Surgery, Pediatric Surgery, CTVS",4800,Surgical,Tertiary
+SG078,Rib Resection & Drainage,"General Surgery, Pediatric Surgery",14000,Surgical,Tertiary
+SG079,Thoracoplasty,"General Surgery, Pediatric Surgery",20000,Surgical,Tertiary
+SG080,Decortication (Pleurectomy),"General Surgery, Pediatric Surgery",28000,Surgical,Tertiary
+SG081,Thoracoscopic,"General Surgery, Pediatric Surgery, Surgical Oncology",27500,Surgical,Tertiary
+SG081,Open,"General Surgery, Pediatric Surgery, Surgical Oncology",27500,Unknown,Tertiary
+SG082,Thoracoscopic Segmental Resection,"General Surgery, Pediatric Surgery",25000,Surgical,Tertiary
+SG083,Lung Hydatid Cyst removal,"General Surgery, Pediatric Surgery",20000,Surgical,Tertiary
+SG084,Incision & Drainage of Abscess,"General Surgery, Pediatric Surgery",5000,Surgical,Tertiary
+SG085,Lipoma Excision,General Surgery,5000,Surgical,Tertiary
+SG085,Cyst Excision,General Surgery,5000,Unknown,Tertiary
+SG085,Other cutaneous swellings Excision,General Surgery,5000,Unknown,Tertiary
+SG086,Debridement of Ulcer,General Surgery,5000,Surgical,Tertiary
+SG087,Flap Reconstructive Surgery,"General Surgery, Surgical Oncology",20000,Surgical,Tertiary
+SG088,Free Grafts - Wolfe Grafts,"General Surgery, Plastic & Reconstructive Surgery",14000,Surgical,Tertiary
+SG089,Tissue Reconstruction Flap,General Surgery,25000,Surgical,Tertiary
+SG090,Small (< 4% TBSA),"General Surgery, Plastic & Reconstructive Surgery, Pediatric Surgery",13500,Surgical,Tertiary
+SG090,Medium (4 - 8% TBSA),"General Surgery, Plastic & Reconstructive Surgery, Pediatric Surgery",13500,Surgical,Tertiary
+SG090,Large (> 8% TBSA),"General Surgery, Plastic & Reconstructive Surgery, Pediatric Surgery",13500,Surgical,Tertiary
+SG091,Skin Flaps - Rotation Flaps,"General Surgery, Surgical Oncology, Plastic & Reconstructive Surgery",11400,Surgical,Tertiary
+SG092,Tendon Transfer,"General Surgery, Orthopedics",15000,Surgical,Tertiary
+SG093,Lymphatics Excision of Subcutaneous Tissues In Lymphoedema,General Surgery,10000,Surgical,Tertiary
+SG094,AV Fistula without prosthesis,General Surgery,6000,Surgical,Tertiary
+SG095,Management of Varicose Veins,General Surgery,14000,Surgical,Tertiary
+SG096,Lymph Node,"General Surgery, Pediatric Surgery, Obstetrics & Gynecology",5000,Unknown,Tertiary
+SG096,Endometrial Aspiration,"General Surgery, Pediatric Surgery, Obstetrics & Gynecology",2000,Unknown,Tertiary
+SG096,Cervix Cancer screening (PAP + Colposcopy),"General Surgery, Pediatric Surgery, Obstetrics & Gynecology",1000,Surgical,Tertiary
+SG096,Cervical (Neck),"General Surgery, Pediatric Surgery, Obstetrics & Gynecology",1500,Unknown,Tertiary
+SG096,Vulval,"General Surgery, Pediatric Surgery, Obstetrics & Gynecology",1500,Unknown,Tertiary
+SG097,Stoma Management follow up of Ileostomy,General Surgery,4500,Unknown,Tertiary
+SG097,Stoma Management follow up of Colostomy,General Surgery,4500,Unknown,Tertiary
+SG098,Foreign Body Removal,"General Surgery, Pediatric Surgery, ENT",5000,Surgical,Tertiary
+SL001,Pinna surgery for tumour,"ENT, Surgical Oncology",8600,Surgical,Tertiary
+SL001,Pinna surgery for trauma,ENT,8600,Surgical,Primary
+SL002,Tympanoplasty,ENT,12900,Surgical,Primary
+SL003,Stapedectomy,ENT,13000,Surgical,Primary
+SL003,Tympanotomy,ENT,13000,Surgical,Primary
+SL004,Simple,"ENT, Surgical Oncology",28000,Surgical,Tertiary
+SL004,Radical,"ENT, Surgical Oncology",28000,Surgical,Tertiary
+SL005,Unilateral,"ENT, Surgical Oncology",5000,Surgical,Tertiary
+SL005,Bilateral,"ENT, Surgical Oncology",5000,Surgical,Tertiary
+SL006,Endoscopic DCR,ENT,19300,Surgical,Primary
+SL007,Epistaxis treatment - packing,ENT,1800,Unknown,Primary
+SL008,Functional septo rhinoplasty,ENT,21800,Surgical,Primary
+SL009,Septoplasty,ENT,12000,Surgical,Primary
+SL010,Fracture - setting nasal bone,ENT,8000,Surgical,Primary
+SL011,Inferior turbinate reduction under GA,ENT,5700,Surgical,Primary
+SL012,Open sinus surgery,ENT,15000,Surgical,Primary
+SL013,Functional Endoscopic Sinus (FESS),ENT,11000,Surgical,Primary
+SL014,Ant. Ethmoidal artery ligation - Open,ENT,15000,Surgical,Primary
+SL014,Ant. Ethmoidal artery ligation - Endoscopic,ENT,15000,Surgical,Primary
+SL014,Sphenopalatine artery ligation - Open,ENT,15000,Unknown,Primary
+SL014,Sphenopalatine artery ligation - Endoscopic,ENT,15000,Unknown,Primary
+SL015,Adenoidectomy,ENT,5000,Surgical,Primary
+SL016,Tonsillectomy - U/L,ENT,7500,Surgical,Primary
+SL016,Tonsillectomy - B/L,ENT,7500,Surgical,Primary
+SL017,Peritonsillar abscess drainage,"ENT, Pediatric Surgery",5800,Surgical,Tertiary
+SL017,Intraoral calculus removal,"ENT, Pediatric Surgery",5800,Unknown,Tertiary
+SL018,Thyroglossal cyst excision,ENT,15300,Surgical,Primary
+SL018,Thyroglossal sinus excision,ENT,15300,Unknown,Primary
+SL018,Thyroglossal fistula excision,ENT,15300,Surgical,Primary
+SL018,Branchial sinus excision,ENT,15300,Surgical,Primary
+SL018,Branchial fistula excision,ENT,15300,Surgical,Primary
+SL019,Uvulopalatopharyngoplasty (UPPP),"ENT, Pediatric Surgery",18600,Surgical,Tertiary
+SL020,Excision of tumour of oral cavity / paranasal sinus / laryngopharynx without reconstruction,"ENT, Surgical Oncology",10000,Unknown,Tertiary
+SL020,Excision of tumour of oral cavity / paranasal sinus / laryngopharynx with pedicled flap reconstruction,"ENT, Surgical Oncology",36500,Unknown,Tertiary
+SL020,Excision of tumour of oral cavity / paranasal sinus / laryngopharynx with free flap reconstruction,"ENT, Surgical Oncology",25000,Unknown,Tertiary
+SL021,Total Parotidectomy,"ENT, Surgical Oncology, General Surgery",28200,Surgical,Tertiary
+SL021,Superficial Parotidectomy,"ENT, Surgical Oncology, General Surgery",23800,Surgical,Tertiary
+SL022,Removal of Submandibular Salivary gland,ENT,9000,Surgical,Primary
+SL022,Removal of Ranula,ENT,9000,Surgical,Primary
+SL022,Removal of Submandibular Lymph node,ENT,9000,Surgical,Primary
+SL023,Rigid laryngoscopy - Diagnostic + / - biopsy,"ENT, Pediatric Surgery",7000,Unknown,Tertiary
+SL023,Rigid bronchoscopy - Diagnostic + / - biopsy,"ENT, Pediatric Surgery",7000,Unknown,Tertiary
+SL023,Rigid oesophagoscopy - Diagnostic + / - biopsy,"ENT, Pediatric Surgery",7000,Unknown,Tertiary
+SL024,Microlaryngeal surgery with or without laser,ENT,17000,Surgical,Primary
+SL025,Open laryngeal framework surgery / Thyroplasty,"ENT, Surgical Oncology",5000,Unknown,Tertiary
+SL026,Tracheostomy,"ENT, All Specialties",6000,Surgical,Tertiary
+SL026,Tracheotomy,"ENT, All Specialties",6000,Unknown,Tertiary
+SL027,Selective Benign neck tumour excision,"ENT, Surgical Oncology, General Surgery",18800,Unknown,Tertiary
+SL027,Comprehensive Benign neck tumour excision,"ENT, Surgical Oncology, General Surgery",18800,Unknown,Tertiary
+SL027,Selective Pharyngeal diverticulum excision,"ENT, Surgical Oncology, General Surgery",18800,Surgical,Tertiary
+SL027,Comprehensive Pharyngeal diverticulum excision,"ENT, Surgical Oncology, General Surgery",18800,Surgical,Tertiary
+SL028,Deep neck abscess drainage,"ENT, General Surgery, Pediatric Surgery",16800,Surgical,Tertiary
+SL028,Post trauma neck exploration,"ENT, General Surgery, Pediatric Surgery",16800,Unknown,Tertiary
+SL029,Endoscopic CSF Rhinorrhea Repair,"ENT, Surgical Oncology, Neurosurgery",26000,Surgical,Tertiary
+SL029,Optic nerve decompression,"ENT, Surgical Oncology",25500,Unknown,Tertiary
+SL029,Orbital decompression,"ENT, Surgical Oncology",25500,Unknown,Tertiary
+SL029,Craniofacial resection,"ENT, Surgical Oncology",25500,Surgical,Tertiary
+SL029,Maxillary swing,"ENT, Surgical Oncology",25500,Unknown,Tertiary
+SL030,Endoscopic Hypophysectomy,"ENT, Surgical Oncology",39800,Surgical,Tertiary
+SL030,Clival tumour excision,"ENT, Surgical Oncology",39800,Unknown,Tertiary
+SL031,Subtotal petrosectomy,"ENT, Surgical Oncology",24700,Unknown,Tertiary
+SL031,Post-traumatic facial nerve decompression,"ENT, Surgical Oncology",24700,Unknown,Tertiary
+SL031,CSF Otorrhoea repair,"ENT, Surgical Oncology",24700,Unknown,Tertiary
+SL032,Fisch approach,"ENT, Surgical Oncology",39900,Unknown,Tertiary
+SL032,Translabyrinthine approach,"ENT, Surgical Oncology",39900,Unknown,Tertiary
+SL032,Transcochlear approach,"ENT, Surgical Oncology",39900,Unknown,Tertiary
+SL032,Temporal Bone resection,"ENT, Surgical Oncology",39900,Surgical,Tertiary
+SL033,Closed reduction for fracture of maxilla,ENT,9200,Surgical,Primary
+SL033,Closed reduction for fracture of mandible,ENT,9200,Unknown,Primary
+SL033,Closed reduction for fracture of zygoma,ENT,9200,Unknown,Primary
+SL033,Closed reduction and Intermaxillary fixation for fracture of mandible,ENT,9200,Unknown,Primary
+SL034,Open reduction and internal fixation of maxilla,"ENT, Oral & Maxillofacial Surgery, Plastic Surgery",14000,Surgical,Tertiary
+SL034,Open reduction and internal fixation of mandible,"ENT, Oral & Maxillofacial Surgery, Plastic Surgery",14000,Unknown,Tertiary
+SL034,Open reduction and internal fixation of zygoma,"ENT, Oral & Maxillofacial Surgery, Plastic Surgery",14000,Unknown,Tertiary
+SL035,Turbinate reduction,ENT,1200,Unknown,Primary
+SL035,Biopsy,ENT,1200,Unknown,Primary
+SL035,Intratympanic injections,ENT,1200,Unknown,Primary
+SL035,Wide bore aspiration,ENT,1200,Unknown,Primary
+SM001,Extraction of impacted tooth under LA,Oral & Maxillofacial Surgery,500,Surgical,Tertiary
+SM002,Sequestrectomy,Oral & Maxillofacial Surgery,1500,Surgical,Tertiary
+SM003,TM joint ankylosis of both jaws - under GA,Oral & Maxillofacial Surgery,15000,Surgical,Tertiary
+SM004,Closed reduction (1 jaw) using wires - under LA,Oral & Maxillofacial Surgery,5000,Surgical,Tertiary
+SM004,Open reduction (1 jaw) and fixing of plates / wire – under GA,Oral & Maxillofacial Surgery,12000,Surgical,Tertiary
+SM005,Enucleation / excision / marsupialization for cyst & tumour of Maxilla under LA,Oral & Maxillofacial Surgery,2500,Surgical,Tertiary
+SM005,Enucleation / excision / marsupialization for cyst & tumour of Mandible under LA,Oral & Maxillofacial Surgery,2500,Surgical,Tertiary
+SM006,Mandible Tumour Resection and reconstruction / Cancer surgery,Oral & Maxillofacial Surgery,6000,Surgical,Tertiary
+SM007,Release of fibrous bands & grafting - in (OSMF) treatment under GA,Oral & Maxillofacial Surgery,3000,Surgical,Tertiary
+SN001,Depressed Fracture,Neurosurgery,40000,Surgical,Tertiary
+SN002,CranioPlasty with Endogenous graft,Neurosurgery,20000,Surgical,Tertiary
+SN002,CranioPlasty with Exogenous graft,Neurosurgery,20000,Surgical,Tertiary
+SN003,Twist Drill Craniostomy,Neurosurgery,15000,Surgical,Tertiary
+SN004,Craniostenosis,Neurosurgery,28000,Surgical,Tertiary
+SN005,Anterior,Neurosurgery,36000,Surgical,Tertiary
+SN005,Lumbar,Neurosurgery,36000,Surgical,Tertiary
+SN005,Occipital,Neurosurgery,50000,Surgical,Tertiary
+SN006,Gocussa,Neurosurgery,50000,Surgical,Tertiary
+SN006,Posterior,Neurosurgery,50000,Surgical,Tertiary
+SN007,Duroplasty with Endogenous graft,Neurosurgery,12500,Surgical,Tertiary
+SN007,Duroplasty with Exogenous graft,Neurosurgery,12500,Surgical,Tertiary
+SN008,Burr hole,Neurosurgery,7000,Surgical,Tertiary
+SN008,Burr hole surgery with chronic Sub Dural Haematoma,Neurosurgery,20000,Surgical,Tertiary
+SN009,Head injuries,Neurosurgery,55000,Surgical,Tertiary
+SN009,Hypertensive,Neurosurgery,50000,Surgical,Tertiary
+SN009,Child - subdural,Neurosurgery,50000,Surgical,Tertiary
+SN010,Excision of Brain Abscess,Neurosurgery,36000,Surgical,Tertiary
+SN011,Abscess Tapping,Neurosurgery,20000,Surgical,Tertiary
+SN012,Epilepsy Surgery,Neurosurgery,50000,Surgical,Tertiary
+SN013,Brain Biopsy,Neurosurgery,15000,Surgical,Tertiary
+SN014,Excision of Orbital Tumour,Neurosurgery,40000,Surgical,Tertiary
+SN015,Parasagital,Neurosurgery,50000,Surgical,Tertiary
+SN015,Basal,Neurosurgery,50000,Surgical,Tertiary
+SN015,Brainstem,Neurosurgery,50000,Surgical,Tertiary
+SN015,C P Angle,Neurosurgery,50000,Surgical,Tertiary
+SN015,Supratentorial & others,Neurosurgery,55000,Surgical,Tertiary
+SN016,Stereotactic Lesioning,Neurosurgery,60000,Surgical,Tertiary
+SN017,Trans Sphenoidal Surgery,Neurosurgery,50000,Surgical,Tertiary
+SN018,Trans oral Surgery,Neurosurgery,40000,Surgical,Tertiary
+SN019,Transoral surgery (Anterior) and CV Junction (Posterior Sterilisation),Neurosurgery,55000,Surgical,Tertiary
+SN020,External Ventricular Drainage (EVD) including antibiotics,Neurosurgery,30000,Surgical,Tertiary
+SN021,Ventricular Puncture,Neurosurgery,15000,Surgical,Tertiary
+SN022,Ventriculo - peritoneal,Neurosurgery,30000,Surgical,Tertiary
+SN022,Ventriculo - pleural,Neurosurgery,30000,Surgical,Tertiary
+SN022,Ventriculo - atrial,Neurosurgery,30000,Surgical,Tertiary
+SN022,Theco - peritoneal,Neurosurgery,30000,Surgical,Tertiary
+SN023,Aneurysm Clipping including angiogram,Neurosurgery,50000,Surgical,Tertiary
+SN024,Superficial Temporal Artery (STA): middle cerebral artery (MCA) or (other EC - IC) Bypass procedure,Neurosurgery,60000,Surgical,Tertiary
+SN025,Intracranial,Neurosurgery,50000,Surgical,Tertiary
+SN025,Intraspinal,Neurosurgery,50000,Surgical,Tertiary
+SN025,Scalp,Neurosurgery,25000,Surgical,Tertiary
+SN026,Foramen Magnum Decompression,Neurosurgery,45000,Surgical,Tertiary
+SN027,Skull Traction,Neurosurgery,8000,Surgical,Tertiary
+SN028,Posterior Cervical Discetomy without implant,Neurosurgery,30000,Surgical,Tertiary
+SN029,Posterior Cervical Fusion with implant (Lateral mass fixation),Neurosurgery,50000,Surgical,Tertiary
+SN030,Cervical Disc Multiple level without Fusion,Neurosurgery,40000,Surgical,Tertiary
+SN031,Excision of Cervical Ribs,Neurosurgery,20000,Surgical,Tertiary
+SN032,Thoracic Corpectomy with fusion,"Neurosurgery, Orthopedics",60000,Surgical,Tertiary
+SN032,Lumbar Corpectomy with fusion,"Neurosurgery, Orthopedics",60000,Surgical,Tertiary
+SN033,Lumbar Discectomy,Neurosurgery,30000,Surgical,Tertiary
+SN034,Laminectomy with Fusion,"Neurosurgery, Orthopedics",40000,Surgical,Tertiary
+SN034,Laminectomy with Fusion and fixation,"Neurosurgery, Orthopedics",40000,Surgical,Tertiary
+SN035,Neurectomy,Neurosurgery,16000,Surgical,Tertiary
+SN035,Neurectomy - Trigeminal,"Neurosurgery, ENT, Oral & Maxillofacial Surgery",16500,Surgical,Tertiary
+SN036,Cervical,Neurosurgery,40000,Surgical,Tertiary
+SN036,Lumbar,Neurosurgery,40000,Surgical,Tertiary
+SN037,Surgery for Spinal Canal Stenosis,Neurosurgery,40000,Surgical,Tertiary
+SN038,Spine - Decompression & Fusion,"Neurosurgery, Orthopedics",40000,Surgical,Tertiary
+SN038,Spine - Decompression & Fusion with fixation,"Neurosurgery, Orthopedics",40000,Surgical,Tertiary
+SN039,Spine - Extradural Haematoma,Neurosurgery,30000,Surgical,Tertiary
+SN039,Spine - Extradural Haematoma with fixation,Neurosurgery,30000,Surgical,Tertiary
+SN040,Spine - Intradural Haematoma,Neurosurgery,40000,Surgical,Tertiary
+SN040,Spine - Intradural Haematoma with fixation,Neurosurgery,40000,Surgical,Tertiary
+SN041,Spine - Extradural Tumour,Neurosurgery,30000,Surgical,Tertiary
+SN041,Spine - Extradural Tumour with fixation,Neurosurgery,30000,Surgical,Tertiary
+SN042,Spine - Intradural Tumour,Neurosurgery,40000,Surgical,Tertiary
+SN042,Spine - Intradural Tumour with fixation,Neurosurgery,40000,Surgical,Tertiary
+SN043,Spine - Intramedullar Tumour,Neurosurgery,50000,Surgical,Tertiary
+SN043,Spine - Intramedullar Tumour with fixation,Neurosurgery,50000,Surgical,Tertiary
+SN044,R. F. Lesioning for Trigeminal Neuralgia,Neurosurgery,16500,Surgical,Tertiary
+SN045,Brachial Plexus – Repair,Neurosurgery,27000,Surgical,Tertiary
+SN046,Carpal Tunnel Release,"Neurosurgery, Orthopedics",10000,Surgical,Tertiary
+SN047,Nerve Decompression,Neurosurgery,16000,Surgical,Tertiary
+SN048,Cranial Nerve Anastomosis,Neurosurgery,32000,Surgical,Tertiary
+SN049,Minor,Neurosurgery,15000,Surgical,Tertiary
+SN049,Major,Neurosurgery,30000,Surgical,Tertiary
+SN050,Nerve Biopsy excluding Hensens,Neurosurgery,7000,Surgical,Tertiary
+SN051,Muscle Biopsy with report,Neurosurgery,7000,Surgical,Tertiary
+SN052,Anterior Encephalocele,Neurosurgery,50000,Surgical,Tertiary
+SN053,Spina Bifida Surgery,Neurosurgery,36000,Surgical,Tertiary
+SN054,Gamma Knife radiosurgery (GKRS) / SRS for tumours / Arteriovenous malformation (AVM),Neurosurgery,75000,Surgical,Tertiary
+SO001,Lap. Salpingo-oophrectomy,Obstetrics & Gynecology,14000,Unknown,Tertiary
+SO002,Laparotomy and proceed for Ovarian Cancers. Omentomy with Bilateral Salpingo-oophorectomy,"Obstetrics & Gynecology, Surgical Oncology, Pediatric Surgery",38000,Surgical,Tertiary
+SO003,Laparoscopic tubal surgeries (for any indication including ectopic pregnancy),Obstetrics & Gynecology,13900,Surgical,Tertiary
+SO004,Procedure on Fallopian Tube for establishing Tubal Patency,Obstetrics & Gynecology,11600,Unknown,Tertiary
+SO005,Laparotomy for broad ligament haematoma,Obstetrics & Gynecology,16000,Surgical,Tertiary
+SO006,Abdominal Myomectomy,Obstetrics & Gynecology,20000,Surgical,Tertiary
+SO007,Hysteroscopic myomectomies,Obstetrics & Gynecology,9900,Surgical,Tertiary
+SO008,Polypectomy,Obstetrics & Gynecology,1500,Surgical,Tertiary
+SO009,Hysteroscopic polypectomy,Obstetrics & Gynecology,7200,Surgical,Tertiary
+SO010,Abdominal Hysterectomy,"Obstetrics & Gynecology, Surgical Oncology",20000,Unknown,Tertiary
+SO010,Abdominal Hysterectomy + Salpingo-oophorectomy,"Obstetrics & Gynecology, Surgical Oncology",20000,Surgical,Tertiary
+SO010,Non descent vaginal hysterectomy,Obstetrics & Gynecology,20000,Surgical,Tertiary
+SO010,Vaginal hysterectomy with anterior and posterior colpoperineorrhaphy,Obstetrics & Gynecology,20000,Surgical,Tertiary
+SO010,Laparoscopic hysterectomy (TLH),"Obstetrics & Gynecology, Pediatric Surgery",20000,Surgical,Tertiary
+SO010,Laparoscopically assisted vaginal hysterectomy (LAVH),"Obstetrics & Gynecology, Pediatric Surgery",20000,Unknown,Tertiary
+SO011,Caesarean hysterectomy,Obstetrics & Gynecology,20000,Surgical,Tertiary
+SO012,Manchester Repair,Obstetrics & Gynecology,15000,Unknown,Tertiary
+SO013,Surgeries for Prolapse - Sling Surgeries,Obstetrics & Gynecology,28900,Surgical,Tertiary
+SO014,Hysterotomy,Obstetrics & Gynecology,5000,Unknown,Tertiary
+SO015,Lap. Surgery for Endometriosis (Other than Hysterectomy),Obstetrics & Gynecology,11200,Unknown,Tertiary
+SO016,With biopsy,Obstetrics & Gynecology,6000,Surgical,Tertiary
+SO016,Without biopsy,Obstetrics & Gynecology,6000,Surgical,Tertiary
+SO017,Hysteroscopic IUCD removal,Obstetrics & Gynecology,4700,Surgical,Tertiary
+SO018,D&C (Dilatation&curretage),Obstetrics & Gynecology,3000,Surgical,Tertiary
+SO019,Dilation and Evacuation (D&E),Obstetrics & Gynecology,5000,Surgical,Tertiary
+SO020,Pyometra drainage,Obstetrics & Gynecology,5000,Unknown,Tertiary
+SO021,Intrauterine transfusions,Obstetrics & Gynecology,11000,Surgical,Tertiary
+SO022,Hysteroscopic adhesiolysis,Obstetrics & Gynecology,6900,Surgical,Tertiary
+SO023,Laparoscopic adhesiolysis,Obstetrics & Gynecology,6000,Surgical,Tertiary
+SO024,Trans-vaginal tape,Obstetrics & Gynecology,15200,Surgical,Tertiary
+SO024,Trans-obturator tape,Obstetrics & Gynecology,15200,Surgical,Tertiary
+SO025,Open,"Obstetrics & Gynecology, Urology",23900,Surgical,Tertiary
+SO025,Lap.,"Obstetrics & Gynecology, Urology",23900,Surgical,Tertiary
+SO026,LLETZ (including PAP smear and colposcopy),Obstetrics & Gynecology,9900,Surgical,Tertiary
+SO027,Vaginal Sacrospinus fixation with repair,Obstetrics & Gynecology,15000,Unknown,Tertiary
+SO028,Excision of Vaginal Septum (vaginal route),Obstetrics & Gynecology,14500,Surgical,Tertiary
+SO029,Hymenectomy for imperforate hymen,"Obstetrics & Gynecology, Pediatric Surgery",3000,Surgical,Tertiary
+SO030,Anterior & Posterior Colpoperineorrhapy,Obstetrics & Gynecology,8000,Unknown,Tertiary
+SO031,Vaginoplasty (McIndoe procedure),Obstetrics & Gynecology,11000,Surgical,Tertiary
+SO032,Vaginal repair for vesico-vaginal fistula,"Obstetrics & Gynecology, Urology",34000,Surgical,Tertiary
+SO033,Rectovaginal fistula repair,"Obstetrics & Gynecology, Pediatric Surgery",24000,Surgical,Tertiary
+SO034,Vulval Hamatoma drainage,Obstetrics & Gynecology,3000,Unknown,Tertiary
+SO035,Vulvectomy simple,"Obstetrics & Gynecology, Surgical Oncology",15000,Surgical,Tertiary
+SO036,Radical Vulvectomy with Inguinal and Pelvic lymph node disection,"Obstetrics & Gynecology, Surgical Oncology",38500,Surgical,Tertiary
+SO037,Abdomino Perineal repair for Mullerian Anomaly,Obstetrics & Gynecology,20000,Unknown,Tertiary
+SO038,Pelvic Abscess Management including Colpotomy,Obstetrics & Gynecology,1200,Surgical,Tertiary
+SO039,Diagnostic / Staging laparoscopy,"Obstetrics & Gynecology, Pediatric Surgery, Surgical Oncology",9700,Surgical,Tertiary
+SO040,Ectopic,Obstetrics & Gynecology,14000,Surgical,Tertiary
+SO040,PID,Obstetrics & Gynecology,14000,Unknown,Tertiary
+SO041,Laparoscopic cystectomy,Obstetrics & Gynecology,15000,Surgical,Tertiary
+SO042,Cystocele - Anterior repair,Obstetrics & Gynecology,6000,Surgical,Tertiary
+SO043,Abdominal,Obstetrics & Gynecology,30000,Surgical,Tertiary
+SO043,Laparoscopic,Obstetrics & Gynecology,30000,Surgical,Tertiary
+SO044,Electro Cauterisation / Cryo Surgery,Obstetrics & Gynecology,4000,Surgical,Tertiary
+SO045,EUA for (minor girls / unmarried sexually inactive / victims of sexual abuse),Obstetrics & Gynecology,2000,Unknown,Tertiary
+SO046,Hospitalisation for Antenatal Complications,Obstetrics & Gynecology,1800,Unknown,Tertiary
+SO047,Amniocentesis,Obstetrics & Gynecology,14500,Surgical,Tertiary
+SO048,Chorionic villus sampling,Obstetrics & Gynecology,14500,Surgical,Tertiary
+SO049,Cordocentesis,Obstetrics & Gynecology,14500,Surgical,Tertiary
+SO050,McDonald's stitch,Obstetrics & Gynecology,4000,Surgical,Tertiary
+SO051,Shirodkar's stitch,Obstetrics & Gynecology,4000,Surgical,Tertiary
+SO052,Medical management of ectopic pregnancy,Obstetrics & Gynecology,1800,Unknown,Tertiary
+SO053,MTP upto 8 weeks,Obstetrics & Gynecology,3500,Surgical,Tertiary
+SO053,MTP 8 to 12 weeks,Obstetrics & Gynecology,5000,Surgical,Tertiary
+SO053,MTP > 12 weeks,Obstetrics & Gynecology,6500,Surgical,Tertiary
+SO054,Pre-mature delivery,Obstetrics & Gynecology,11500,Surgical,Tertiary
+SO054,Mothers with eclampsia / imminent eclampsia / severe pre-eclampsia,Obstetrics & Gynecology,11500,Surgical,Tertiary
+SO054,Major Fetal malformation requiring intervention immediately after birth,Obstetrics & Gynecology,11500,Surgical,Tertiary
+SO054,Mothers with severe anaemia (<7 g/dL),Obstetrics & Gynecology,11500,Surgical,Tertiary
+SO054,"Other maternal and fetal conditions as per guidelines-eg previous caesarean section, diabetes, severe growth retardation, etc that qualify for high risk delivery.",Obstetrics & Gynecology,11500,Surgical,Tertiary
+SO055,Manual removal of placenta,Obstetrics & Gynecology,8500,Surgical,Tertiary
+SO056,Secondary suturing of episiotomy,Obstetrics & Gynecology,2500,Surgical,Tertiary
+SO057,Caesarean Delivery,Obstetrics & Gynecology,11500,Surgical,Tertiary
+SO058,Re exploration after Caesarean Section,Obstetrics & Gynecology,14000,Unknown,Tertiary
+SO058,Re exploration after laparotomy,Obstetrics & Gynecology,14000,Unknown,Tertiary
+SO059,Vulvo vaginal cyst enucleation,Obstetrics & Gynecology,4700,Surgical,Tertiary
+SO059,Vulvo vaginal cyst drainage,Obstetrics & Gynecology,4700,Unknown,Tertiary
+SP001,Pressure Sore – Surgery,Plastic & Reconstructive Surgery,30000,Surgical,Tertiary
+SP002,Diabetic Foot – Surgery,Plastic & Reconstructive Surgery,30000,Surgical,Tertiary
+SP003,Revascularization of limb / digit,Plastic & Reconstructive Surgery,25000,Surgical,Tertiary
+SP004,Ear Pinna Reconstruction with costal cartilage / Prosthesis (including the cost of prosthesis / implants),Plastic & Reconstructive Surgery,30000,Surgical,Tertiary
+SP005,Scalp avulsion reconstruction,Plastic & Reconstructive Surgery,50000,Surgical,Tertiary
+SP006,Tissue Expander for disfigurement following burns,Plastic & Reconstructive Surgery,50000,Surgical,Tertiary
+SP006,Tissue Expander for disfigurement following trauma,Plastic & Reconstructive Surgery,50000,Surgical,Tertiary
+SP006,Tissue Expander for disfigurement following congenital deformity,Plastic & Reconstructive Surgery,50000,Surgical,Tertiary
+SP007,Sclerotherapy under GA,Plastic & Reconstructive Surgery,35000,Surgical,Tertiary
+SP007,Debulking,Plastic & Reconstructive Surgery,35000,Surgical,Tertiary
+SP007,Excision,Plastic & Reconstructive Surgery,35000,Surgical,Tertiary
+SP008,NPWT,Plastic & Reconstructive Surgery,2000,Surgical,Tertiary
+SS001,Cleft Lip and Palate Surgery (per stage),"Pediatric Surgery, Oral & Maxillofacial Surgery, Plastic & Reconstructive Surgery",15000,Surgical,Tertiary
+SS002,Ankyloglossia Minor,Pediatric Surgery,5000,Surgical,Tertiary
+SS002,Ankyloglossia Major,Pediatric Surgery,15000,Surgical,Tertiary
+SS003,Anti GERD Surgery,Pediatric Surgery,10000,Surgical,Tertiary
+SS004,Gastrostomy + Esophagoscopy + Threading,Pediatric Surgery,20000,Surgical,Tertiary
+SS005,Ladds Procedure,Pediatric Surgery,30000,Surgical,Tertiary
+SS006,Duplication Cyst Excision,Pediatric Surgery,20000,Surgical,Tertiary
+SS007,Non – Operative Reduction in infants,Pediatric Surgery,20000,Surgical,Tertiary
+SS007,Operative in infants,Pediatric Surgery,25000,Surgical,Tertiary
+SS008,Myectomy,Pediatric Surgery,25000,Surgical,Tertiary
+SS008,Pull Through,Pediatric Surgery,20000,Surgical,Tertiary
+SS008,Rectal Biopsy - Punch,Pediatric Surgery,10000,Surgical,Tertiary
+SS008,Rectal Biopsy – Open,Pediatric Surgery,10000,Surgical,Tertiary
+SS008,Sphinecterotomy,Pediatric Surgery,15000,Surgical,Tertiary
+SS009,Rectal Polypectomy - Sigmoiescopic Under GA,Pediatric Surgery,8000,Surgical,Tertiary
+SS010,Abd - Perineal PSARP,Pediatric Surgery,20000,Surgical,Tertiary
+SS010,Anoplasty,Pediatric Surgery,20000,Surgical,Tertiary
+SS010,Cutback,Pediatric Surgery,20000,Surgical,Tertiary
+SS010,PSARP,Pediatric Surgery,20000,Surgical,Tertiary
+SS010,Redo - Pullthrough,Pediatric Surgery,15000,Surgical,Tertiary
+SS010,Transposition,Pediatric Surgery,15000,Surgical,Tertiary
+SS011,Fecal Fistula Closure,Pediatric Surgery,25000,Surgical,Tertiary
+SS012,GI Tumor Excision,Pediatric Surgery,30000,Surgical,Tertiary
+SS013,Congenital Diaphragmatic Hernia,Pediatric Surgery,25000,Surgical,Tertiary
+SS014,Exomphalos,Pediatric Surgery,25000,Surgical,Tertiary
+SS014,Gastroschisis,Pediatric Surgery,25000,Surgical,Tertiary
+SS015,Hernia & Hydrocele,Pediatric Surgery,20000,Surgical,Tertiary
+SS016,Retro - Peritoneal Lymphangioma Excision,Pediatric Surgery,25000,Surgical,Tertiary
+SS017,Surgery for Sacrococcygeal Teratoma,Pediatric Surgery,20000,Surgical,Tertiary
+SS018,Surgery for Congenital Lobar Emphysema,Pediatric Surgery,25000,Surgical,Tertiary
+SS019,Bilateral - Palpable + Nonpalpable,Pediatric Surgery,15000,Surgical,Tertiary
+SS019,Bilateral Palpable,Pediatric Surgery,15000,Surgical,Tertiary
+SS019,Bilateral Non - Palpable,Pediatric Surgery,20000,Surgical,Tertiary
+SS019,Unilateral - Palpable,Pediatric Surgery,15000,Surgical,Tertiary
+SS019,Reexploration / Second Stage,Pediatric Surgery,20000,Surgical,Tertiary
+ST001,Severe,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",1000,Unknown,Tertiary
+ST001,Depressed Fracture,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",5000,Surgical,Tertiary
+ST002,Head injury with repair of Facio-Maxillary Injury & fixations (including implants),"Polytrauma, Orthopedics, Neurosurgery, General Surgery, Oral & Maxillofacial Surgery",31000,Surgical,Tertiary
+ST003,Subdural hematoma along with fixation of fracture of single long bone,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",60000,Surgical,Tertiary
+ST003,Extradural hematoma along with fixation of fracture of single long bone,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",60000,Surgical,Tertiary
+ST003,Subdural hematoma along with fixation of fracture of 2 or more long bone.,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",75000,Surgical,Tertiary
+ST003,Extradural hematoma along with fixation of fracture of 2 or more long bone.,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",75000,Surgical,Tertiary
+ST004,Management of Chest injury with fixation of Single Long bone,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",30000,Surgical,Tertiary
+ST004,Management of Chest injury with fixation of 2 or more Long bones,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",45000,Surgical,Tertiary
+ST005,Surgical intervention for Visceral injury and fixation of fracture of single long bone,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",30000,Surgical,Tertiary
+ST005,Surgical intervention for Visceral injury and fixation of fracture of 2 or more long bones,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",45000,Surgical,Tertiary
+ST006,Internal fixation of Pelviacetabular fracture,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",40000,Surgical,Tertiary
+ST007,Internal fixation with Flap cover Surgery for wound in compound fracture,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",40000,Surgical,Tertiary
+ST008,Emergency tendons repair ± Peripheral Nerve repair/ reconstructive surgery,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",30000,Surgical,Tertiary
+ST009,Nerve Plexus injury repair,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",50000,Surgical,Tertiary
+ST009,Nerve Plexus injury reconstruction,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",50000,Surgical,Tertiary
+ST009,Tendon injury repair,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",50000,Surgical,Tertiary
+ST009,Tendon injury reconstruction,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",50000,Surgical,Tertiary
+ST009,Tendon Transfer,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",50000,Surgical,Tertiary
+ST010,Plexus injury along with Vascular injury repair,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",60000,Surgical,Tertiary
+ST010,Plexus injury along with Vascular injury graft,"Polytrauma, Orthopedics, Neurosurgery, General Surgery",60000,Surgical,Tertiary
+SU001,Open,Urology & Pediatric Surgery,27500,Surgical,Tertiary
+SU001,Lap.,Urology & Pediatric Surgery,27500,Surgical,Tertiary
+SU002,Open,"Urology, Pediatric Surgery",25000,Surgical,Tertiary
+SU002,Lap.,"Urology, Pediatric Surgery",25000,Surgical,Tertiary
+SU003,For Benign pathology - Open,"Urology, Pediatric Surgery, Surgical Oncology",27500,Surgical,Tertiary
+SU003,For Benign pathology - Lap.,"Urology, Pediatric Surgery, Surgical Oncology",27500,Surgical,Tertiary
+SU003,Radical (Renal tumor) - Open,"Urology, Pediatric Surgery, Surgical Oncology",27500,Surgical,Tertiary
+SU003,Radical (Renal tumor) - Lap.,"Urology, Pediatric Surgery, Surgical Oncology",27500,Surgical,Tertiary
+SU004,Open,"Urology, Pediatric Surgery, Surgical Oncology",42000,Surgical,Tertiary
+SU004,Lap.,"Urology, Pediatric Surgery, Surgical Oncology",42000,Surgical,Tertiary
+SU005,Open,Urology,30000,Surgical,Tertiary
+SU005,Anatrophic,Urology,30000,Surgical,Tertiary
+SU006,Open Nephrolithotomy - Follow Up,Urology,1000,Unknown,Tertiary
+SU007,PCNL (Percutaneous Nephrolithotomy),Urology,35000,Surgical,Tertiary
+SU008,Nephrostomy - Percutaneous ultrasound guided,"Urology, Pediatric Surgery, Interventional Radiology",14000,Surgical,Tertiary
+SU009,Nephrostomy (PCN) - Follow Up,Urology,1200,Unknown,Tertiary
+SU010,Open,"Urology, Pediatric Surgery, Surgical Oncology",27500,Surgical,Tertiary
+SU010,Lap.,"Urology, Pediatric Surgery, Surgical Oncology",27500,Surgical,Tertiary
+SU011,Open,"Urology, Pediatric Surgery, Surgical Oncology",27500,Surgical,Tertiary
+SU011,Lap.,"Urology, Pediatric Surgery, Surgical Oncology",27500,Surgical,Tertiary
+SU013,Open,Urology,14000,Surgical,Tertiary
+SU013,Percutaneous,Urology,14000,Surgical,Tertiary
+SU014,Lower Ureter,Urology,28000,Surgical,Tertiary
+SU014,Upper Ureter,Urology,28000,Surgical,Tertiary
+SU015,URSL / URSL - Laser - Follow Up,Urology,1000,Unknown,Tertiary
+SU016,"Extracoporeal shock - wave Lithotripsy (ESWL) stone, with or without stent (one side)",Urology,18500,Surgical,Tertiary
+SU017,ESWL - Follow Up,Urology,1000,Unknown,Tertiary
+SU018,Open,"Urology, Pediatric Surgery",20000,Surgical,Tertiary
+SU018,Lap.,"Urology, Pediatric Surgery",20000,Surgical,Tertiary
+SU019,Lap Ureterolithotomy - Follow Up,Urology,1000,Unknown,Tertiary
+SU020,Open Ureterolithotomy - Follow Up,Urology,1000,Unknown,Tertiary
+SU021,Pyeloplasty - Open,"Urology, Pediatric Surgery",27500,Surgical,Tertiary
+SU021,Pyeloplasty - Laparoscopic,"Urology, Pediatric Surgery",27500,Surgical,Tertiary
+SU021,Pyeloureterostomy - Open,"Urology, Pediatric Surgery",27500,Surgical,Tertiary
+SU021,Pyeloureterostomy - Laparoscopic,"Urology, Pediatric Surgery",27500,Surgical,Tertiary
+SU021,Pyelopyelostomy - Open,"Urology, Pediatric Surgery",27500,Surgical,Tertiary
+SU021,Pyelopyelostomy - Laparoscopic,"Urology, Pediatric Surgery",27500,Surgical,Tertiary
+SU022,Pyeloplasty - Follow Up,Urology,1500,Unknown,Tertiary
+SU023,Ureterocalycostomy - Open,"Urology, Pediatric Surgery",25000,Surgical,Tertiary
+SU023,Ureterocalycostomy - Laparoscopic,"Urology, Pediatric Surgery",25000,Surgical,Tertiary
+SU024,Open,"Urology, Pediatric Surgery",28000,Surgical,Tertiary
+SU024,Lap.,"Urology, Pediatric Surgery",28000,Surgical,Tertiary
+SU025,Internal Ureterotomy including cystoscopy as an independent procedure,Urology,10000,Surgical,Tertiary
+SU026,Open,Urology,28000,Surgical,Tertiary
+SU026,Lap.,Urology,28000,Surgical,Tertiary
+SU027,Ureterostomy (Cutaneous),"Urology, Pediatric Surgery",20000,Surgical,Tertiary
+SU028,Open,"Urology, Pediatric Surgery",25000,Surgical,Tertiary
+SU028,Lap.,"Urology, Pediatric Surgery",25000,Surgical,Tertiary
+SU029,Uretero - vaginal fistula repair - Open,"Urology , Obstetrics & Gynecology",25000,Surgical,Tertiary
+SU029,Uretero - Uterine fistula repair - Open,"Urology , Obstetrics & Gynecology",25000,Surgical,Tertiary
+SU029,Uretero - vaginal fistula repair - Laparoscopic,"Urology , Obstetrics & Gynecology",25000,Surgical,Tertiary
+SU029,Uretero - Uterine fistula repair - Laparoscopic,"Urology , Obstetrics & Gynecology",25000,Surgical,Tertiary
+SU030,Open,"Urology, Pediatric Surgery",23000,Surgical,Tertiary
+SU030,Lap.,"Urology, Pediatric Surgery",23000,Surgical,Tertiary
+SU031,Open,Urology,30000,Surgical,Tertiary
+SU031,Lap.,Urology,30000,Surgical,Tertiary
+SU032,Ileal replacement for ureteric stricture,Urology,46000,Surgical,Tertiary
+SU033,"DJ stenting including cystoscopy, ureteric catheterization, retrograde pyelogram","Urology, Pediatric Surgery",9800,Surgical,Tertiary
+SU034,DJ Stent Removal,Urology,5000,Unknown,Tertiary
+SU035,"Ureterocele incision including cystoscopy, ureteric catheterization, retrograde pyelogram",Urology,15000,Surgical,Tertiary
+SU036,"Ureteric sampling including cystoscopy, ureteric catheterization, retrograde pyelogram",Urology,11000,Surgical,Tertiary
+SU037,Acute management of upper urinary tract trauma – conservative,"Urology, Pediatric Surgery",2000,Surgical,Tertiary
+SU038,Retrograde with laser / bugbee,Urology,25000,Surgical,Tertiary
+SU038,Antegrade with laser / bugbee,Urology,25000,Surgical,Tertiary
+SU039,Open Pyelolithotomy - Follow Up,Urology,1200,Unknown,Tertiary
+SU040,Open - including cystoscopy,"Urology, Pediatric Surgery",18500,Surgical,Tertiary
+SU041,"Cystolithotripsy endoscopic, including cystoscopy","Urology, Pediatric Surgery",18500,Surgical,Tertiary
+SU041,"Urethral Stone removal endoscopic, including cystoscopy","Urology, Pediatric Surgery",18500,Surgical,Tertiary
+SU042,Diagnostic Cystoscopy,"Urology, Pediatric Surgery",6500,Surgical,Tertiary
+SU043,Open,"Urology, Surgical Oncology, Pediatric Surgery",23000,Surgical,Tertiary
+SU043,Lap.,"Urology, Surgical Oncology, Pediatric Surgery",23000,Surgical,Tertiary
+SU044,Partial Cystectomy - Follow Up,Urology,1000,Unknown,Tertiary
+SU045,Open,"Urology, Pediatric Surgery",30000,Surgical,Tertiary
+SU045,Lap.,"Urology, Pediatric Surgery",30000,Surgical,Tertiary
+SU046,Deflux for VUR,Urology,1200,Unknown,Tertiary
+SU047,Bladder Diverticulectomy - Follow Up,Urology,1000,Unknown,Tertiary
+SU048,Open bladder diverticulectomy with / without ureteric re-implantation,"Urology, Pediatric Surgery",25000,Surgical,Tertiary
+SU049,Bladder injury repair (with or without urethral injury),"Urology, Pediatric Surgery",23000,Surgical,Tertiary
+SU050,Bladder injury repair with colostomy (with or without urethral injury),"Urology, Pediatric Surgery",27500,Surgical,Tertiary
+SU051,Extrophy Bladder repair including osteotomy if needed + epispadias repair + ureteric reimplant,"Urology, Pediatric Surgery",65000,Surgical,Tertiary
+SU052,Neurogenic bladder - Package for evaluation / investigation (catheter + ultrasound + culture + RGU/ MCU) for 1 month (medicines - antibiotics),"Urology, Pediatric Surgery",14300,Surgical,Tertiary
+SU053,Y V Plasty of Bladder Neck / Bladder Neck Reconstruction,"Urology, Pediatric Surgery",23000,Surgical,Tertiary
+SU054,Bladder Neck incision - Endoscopic,Urology,15000,Surgical,Tertiary
+SU055,TURBT (Transurethral Resection of the Bladder Tumor),"Urology, Surgical Oncology",27500,Surgical,Tertiary
+SU056,TURBT - Restage,"Urology, Surgical Oncology",18000,Unknown,Tertiary
+SU057,Post TURBT - Check Cystoscopy (Per sitting) with cold-cup biopsy,Urology,10000,Surgical,Tertiary
+SU058,Urachal Cyst excision - Open,Urology,18500,Surgical,Tertiary
+SU058,Urachal Cyst excision - Laparoscopic,Urology,18500,Unknown,Tertiary
+SU059,VVF Repair - Follow Up,Urology,1500,Unknown,Tertiary
+SU060,Induction cycles,"Urology, Medical Oncology",15000,Surgical,Tertiary
+SU060,Maintenance,"Urology, Medical Oncology",30000,Surgical,Tertiary
+SU061,Suprapubic Drainage - Closed / Trocar,"Urology, Pediatric Surgery",5000,Surgical,Tertiary
+SU062,Stress incontinence surgery - Open,"Urology, Surgical Oncology",23000,Surgical,Tertiary
+SU063,Repair of stress incontinence - Follow Up,Urology,1000,Unknown,Tertiary
+SU064,Emergency management of Acute retention of Urine,"Urology, Pediatric Surgery",2000,Surgical,Tertiary
+SU065,Meatotomy,"Urology, Pediatric Surgery",3500,Surgical,Tertiary
+SU065,Meatoplasty,"Urology, Pediatric Surgery",3500,Surgical,Tertiary
+SU066,Urethroplasty - End to end,"Urology, Pediatric Surgery",28000,Surgical,Tertiary
+SU066,Urethroplasty - Substitution - single stage,"Urology, Pediatric Surgery",28000,Surgical,Tertiary
+SU066,Urethroplasty - Substitution - two stage,"Urology, Pediatric Surgery",41500,Surgical,Tertiary
+SU066,Urethroplasty - Transpubic,"Urology, Pediatric Surgery",32000,Surgical,Tertiary
+SU067,Urethroplasty Follow Up,Urology,1000,Unknown,Tertiary
+SU068,Non endocopic as an independent procedure,"Urology, Pediatric Surgery",2000,Surgical,Tertiary
+SU068,Endocopic as an independent procedure,"Urology, Pediatric Surgery",5000,Surgical,Tertiary
+SU069,Perineal Urethrostomy without closure,"Urology, Pediatric Surgery",20000,Surgical,Tertiary
+SU070,Post. Urethral Valve fulguration,"Urology, Pediatric Surgery",14000,Surgical,Tertiary
+SU071,Single stage,"Urology, Pediatric Surgery, Plastic & Reconstructive Surgery",28000,Surgical,Tertiary
+SU071,Two or more stage (First Stage),"Urology, Pediatric Surgery, Plastic & Reconstructive Surgery",12000,Surgical,Tertiary
+SU071,Two or more stage (Intermediate Stage),"Urology, Pediatric Surgery, Plastic & Reconstructive Surgery",2,Surgical,Tertiary
+SU071,Two or more stage (Final Stage),"Urology, Pediatric Surgery, Plastic & Reconstructive Surgery",30000,Surgical,Tertiary
+SU072,Hypospadias Repair - Follow Up,Urology,1000,Unknown,Tertiary
+SU073,Emergency management of Hematuria,"Urology, Pediatric Surgery, Emergency",2000,Surgical,Tertiary
+SU074,Excision of Urethral Caruncle,Urology,5000,Surgical,Tertiary
+SU075,Urethrovaginal fistula repair,"Urology, Obstetrics & Gynecology, Pediatric Surgery",30000,Surgical,Tertiary
+SU076,Urethrorectal fistula repair,"Urology, Pediatric Surgery",40000,Surgical,Tertiary
+SU077,Open simple prostatetctomy for BPH,Urology,27500,Surgical,Tertiary
+SU078,Open,Urology,50000,Surgical,Tertiary
+SU078,Lap.,Urology,50000,Surgical,Tertiary
+SU079,Holmium Laser Prostatectomy,Urology,40000,Surgical,Tertiary
+SU080,Monopolar,Urology,27500,Surgical,Tertiary
+SU080,Bipolar,Urology,27500,Surgical,Tertiary
+SU081,Transrectal Ultrasound guided prostate biopsy (minimum 12 core),Urology,10000,Surgical,Tertiary
+SU082,Partial Penectomy,"Urology, Surgical Oncology",15000,Surgical,Tertiary
+SU082,Total Penectomy + Perineal Urethrostomy,"Urology, Surgical Oncology",25000,Surgical,Tertiary
+SU083,Aspiration,Urology,15000,Surgical,Tertiary
+SU083,Shunt,Urology,15000,Surgical,Tertiary
+SU084,Surgery for Priaprism - Follow Up,Urology,1000,Unknown,Tertiary
+SU085,Penile prosthesis insertion,Urology,35000,Surgical,Tertiary
+SU086,High inguinal,"Urology, Surgical Oncology, Pediatric Surgery",13800,Surgical,Tertiary
+SU086,Simple,"Urology, Surgical Oncology, Pediatric Surgery",10000,Surgical,Tertiary
+SU087,Bilateral Orchidectomy for hormone ablation,"Urology, Surgical Oncology",10000,Surgical,Tertiary
+SU088,Orchiopexy with laparoscopy,"Urology, Pediatric Surgery",30000,Surgical,Tertiary
+SU088,Orchiopexy without laparoscopy - U/L,"Urology, Pediatric Surgery",15000,Surgical,Tertiary
+SU088,Orchiopexy without laparoscopy - B/L,"Urology, Pediatric Surgery",15000,Surgical,Tertiary
+SU089,Non Microsurgical,Urology,10000,Surgical,Tertiary
+SU089,Microsurgical,Urology,15000,Surgical,Tertiary
+SU090,Open,"Urology, Surgical Oncology, Obstetrics & Gynecology",36500,Surgical,Tertiary
+SU090,Lap.,"Urology, Surgical Oncology, Obstetrics & Gynecology",36500,Surgical,Tertiary
+SU091,Ilio-Inguinal lymphadenectomy,"Urology, Surgical Oncology",18500,Surgical,Tertiary
+SU092,Hysterectomy as part of VVF / uterovaginal fistula repair,"Urology, Obstetrics & Gynecology",5000,Unknown,Tertiary
+SU093,PCNL - Follow Up,Urology,1200,Unknown,Tertiary
+SU094,Emergency management of Ureteric stone - Package for evaluation / investigation (ultrasound + culture) for 3 weeks (medicines).,"Urology, Pediatric Surgery",3500,Surgical,Tertiary
+SV001,Unifocalization of MAPCA,CTVS,100000,Unknown,Tertiary
+SV001,Isolated Secundum Atrial Septal Defect (ASD) Repair,CTVS,100000,Surgical,Tertiary
+SV001,Glenn procedure,CTVS,100000,Surgical,Tertiary
+SV001,Pulmonary Artery Banding,CTVS,100000,Unknown,Tertiary
+SV001,Systemic - Pulmonary Artery shunt,CTVS,100000,Unknown,Tertiary
+SV001,Vascular Ring division,CTVS,100000,Unknown,Tertiary
+SV001,Coarctation repair,CTVS,100000,Surgical,Tertiary
+SV002,ASD closure + Partial Anomalous Venous Drainage Repair,CTVS,120000,Unknown,Tertiary
+SV002,ASD Closure + Mitral procedure,CTVS,120000,Unknown,Tertiary
+SV002,ASD Closure + Tricuspid procedure,CTVS,120000,Unknown,Tertiary
+SV002,ASD Closure + Pulmonary procedure,CTVS,120000,Unknown,Tertiary
+SV002,ASD Closure + Infundibular procedure,CTVS,120000,Unknown,Tertiary
+SV002,VSD closure,CTVS,120000,Surgical,Tertiary
+SV002,Infundibular PS repair,CTVS,120000,Unknown,Tertiary
+SV002,Valvular PS repair,CTVS,120000,Unknown,Tertiary
+SV002,Partial AV canal repair,CTVS,120000,Surgical,Tertiary
+SV002,Intermediate AV canal repair,CTVS,120000,Surgical,Tertiary
+SV002,Atrial septectomy + Glenn,CTVS,120000,Unknown,Tertiary
+SV002,Atrial septectomy + PA Band,CTVS,120000,Unknown,Tertiary
+SV002,Sinus of Valsalva aneurysm repair with aortic valve procedure,CTVS,120000,Unknown,Tertiary
+SV002,Sinus of Valsalva aneurysm repair without aortic valve procedure,CTVS,120000,Unknown,Tertiary
+SV002,Sub-aortic membrane resection,CTVS,120000,Unknown,Tertiary
+SV003,Ebstien repair,CTVS,150000,Surgical,Tertiary
+SV003,Double switch operation,CTVS,150000,Surgical,Tertiary
+SV003,Rastelli Procedure,CTVS,150000,Unknown,Tertiary
+SV003,Fontan procedure,CTVS,150000,Surgical,Tertiary
+SV003,AP window repair,CTVS,150000,Surgical,Tertiary
+SV003,Arch interruption Repair without VSD closure,CTVS,150000,Unknown,Tertiary
+SV003,Arch interruption Repair with VSD closure,CTVS,150000,Surgical,Tertiary
+SV003,DORV Repair,CTVS,150000,Unknown,Tertiary
+SV003,Supravalvular AS repair,CTVS,150000,Unknown,Tertiary
+SV003,Konno procedure,CTVS,150000,Unknown,Tertiary
+SV003,Norwood procedure,CTVS,150000,Unknown,Tertiary
+SV003,VSD closure + RV - PA conduit,CTVS,150000,Unknown,Tertiary
+SV003,VSD + Aortic procedure,CTVS,150000,Unknown,Tertiary
+SV003,VSD + Mitral procedure,CTVS,150000,Unknown,Tertiary
+SV003,VSD + Tricuspid procedure,CTVS,150000,Unknown,Tertiary
+SV003,VSD + Pulmonary procedure,CTVS,150000,Unknown,Tertiary
+SV003,VSD + Infundibular procedure,CTVS,150000,Unknown,Tertiary
+SV003,VSD + Coarctation repair,CTVS,150000,Unknown,Tertiary
+SV003,TAPVC Repair,CTVS,150000,Surgical,Tertiary
+SV003,Truncus arteriosus repair,CTVS,150000,Surgical,Tertiary
+SV003,Tetralogy of Fallot Repair,CTVS,150000,Surgical,Tertiary
+SV003,Complete AV canal repair,CTVS,150000,Surgical,Tertiary
+SV003,Arterial switch operation,CTVS,150000,Surgical,Tertiary
+SV003,Senning Operation,CTVS,150000,Surgical,Tertiary
+SV003,Mustard Operation,CTVS,150000,Surgical,Tertiary
+SV004,"Coronary artery bypass grafting (CABG), including intra operative balloon pump (if required)",CTVS,118100,Surgical,Tertiary
+SV005,Aortic Valve,CTVS,119000,Surgical,Tertiary
+SV005,Mitral Valve,CTVS,119000,Surgical,Tertiary
+SV005,Tricuspid Valve,CTVS,119000,Surgical,Tertiary
+SV006,Double Valve Procedure,CTVS,142000,Surgical,Tertiary
+SV007,Triple valve procedure,CTVS,170000,Unknown,Tertiary
+SV008,Closed Mitral Valvotomy including thoracotomy,CTVS,57000,Surgical,Tertiary
+SV009,Ross Procedure,CTVS,150000,Surgical,Tertiary
+SV010,Surgery for Hypertrophic Obstructive Cardiomyopathy (HOCM),CTVS,111000,Surgical,Tertiary
+SV011,Pericardial window (via thoracotomy),CTVS,30000,Unknown,Tertiary
+SV012,Pericardiectomy,CTVS,67000,Surgical,Tertiary
+SV013,Patent Ductus Arteriosus (PDA) Closure via thoracotomy,CTVS,57000,Surgical,Tertiary
+SV014,Bental Procedure,CTVS,150000,Surgical,Tertiary
+SV014,Aortic Dissection,CTVS,150000,Unknown,Tertiary
+SV014,Aortic Aneurysm,CTVS,150000,Unknown,Tertiary
+SV014,Valve sparing root replacement,CTVS,150000,Unknown,Tertiary
+SV014,AVR + Root enlargement,CTVS,150000,Unknown,Tertiary
+SV015,Aortic Arch Replacement using bypass,"CTVS, General Surgery",150000,Surgical,Tertiary
+SV015,Thoracoabdominal aneurysm Repair using bypass,"CTVS, General Surgery",150000,Unknown,Tertiary
+SV016,Aortic Aneurysm Repair using Cardiopulmonary bypass (CPB),"CTVS, General Surgery",120000,Surgical,Tertiary
+SV016,Aortic Aneurysm Repair using Left Heart Bypass,"CTVS, General Surgery",120000,Unknown,Tertiary
+SV016,Aortic Aneurysm Repair without using Cardiopulmonary bypass (CPB),"CTVS, General Surgery",65500,Surgical,Tertiary
+SV016,Aortic Aneurysm Repair without using Left Heart Bypass,"CTVS, General Surgery",65500,Unknown,Tertiary
+SV017,Aorto Iliac bypass - U/L,CTVS,64500,Surgical,Tertiary
+SV017,Aorto femoral bypass - U/L,CTVS,64500,Surgical,Tertiary
+SV017,Aorto Iliac bypass - B/L,CTVS,64500,Surgical,Tertiary
+SV017,Aorto femoral bypass - B/L,CTVS,64500,Surgical,Tertiary
+SV018,Pulmonary Embolectomy,CTVS,141000,Surgical,Tertiary
+SV018,Thromboendarterectomy,CTVS,141000,Unknown,Tertiary
+SV019,Femoro - Femoral Bypass,CTVS,50000,Surgical,Tertiary
+SV019,Carotid - endearterectomy,CTVS,50000,Unknown,Tertiary
+SV019,Carotid Body Tumor Excision,CTVS,50000,Surgical,Tertiary
+SV019,Thoracic Outlet syndrome Repair,CTVS,50000,Unknown,Tertiary
+SV019,Carotid aneurysm repair,CTVS,50000,Surgical,Tertiary
+SV019,Subclavian aneurysm repair,CTVS,50000,Unknown,Tertiary
+SV019,Axillary aneurysm repair,CTVS,50000,Unknown,Tertiary
+SV019,Brachial aneurysm repair,CTVS,50000,Unknown,Tertiary
+SV019,Femoral aneurysm repair,CTVS,50000,Unknown,Tertiary
+SV019,Popliteal aneurysm repair,CTVS,50000,Unknown,Tertiary
+SV019,Femoral - popliteal Bypass,CTVS,50000,Surgical,Tertiary
+SV019,Axillo - Brachial Bypass,CTVS,50000,Surgical,Tertiary
+SV019,Carotio - carotid Bypass,CTVS,50000,Unknown,Tertiary
+SV019,Carotido - subclavian bypass,CTVS,50000,Unknown,Tertiary
+SV019,Carotido - axillary bypass,CTVS,50000,Unknown,Tertiary
+SV019,Axillo - femoral bypass - U/L,CTVS,50000,Surgical,Tertiary
+SV019,Axillo - femoral bypass - B/L,CTVS,50000,Surgical,Tertiary
+SV019,Aorto - carotid bypass,CTVS,50000,Surgical,Tertiary
+SV019,Aorto - subclavian bypass,CTVS,50000,Unknown,Tertiary
+SV020,Thromboembolectomy,"CTVS, General Surgery, Pediatric Surgery",28000,Surgical,Tertiary
+SV021,Peripheral arterial injury repair (without bypass),CTVS,30000,Unknown,Tertiary
+SV022,"Thoracotomy, Thoraco Abdominal Approach","CTVS, Pediatric Surgery",30000,Surgical,Tertiary
+SV023,Lung cyst exision,"CTVS, Pediatric Surgery",45000,Surgical,Tertiary
+SV023,Decortication,"CTVS, Pediatric Surgery",45000,Surgical,Tertiary
+SV023,Hydatid cyst,"CTVS, Pediatric Surgery",45000,Unknown,Tertiary
+SV023,Other simple lung procedure excluding lung resection,"CTVS, Pediatric Surgery",45000,Unknown,Tertiary
+SV024,Pulmonary Resection,CTVS,70000,Unknown,Tertiary
+SV025,Foreign Body Removal with scope,"CTVS, General Surgery, Pediatric Surgery",20000,Surgical,Tertiary
+SV026,Surgical Correction of Bronchopleural Fistula,"CTVS, Surgical Oncology, Pediatric Surgery",65000,Surgical,Tertiary
+SV027,Space - Occupying Lesion (SOL) mediastinum,"CTVS, General Surgery, Pediatric Surgery",65500,Surgical,Tertiary
+SV028,"Isolated Intercostal Drainage and Management of ICD, Intercostal Block, Antibiotics & Physiotherapy","CTVS, General Surgery, Pediatric Surgery",10000,Surgical,Tertiary
+SV029,Diaphragmatic Repair,"CTVS, Pediatric Surgery",30000,Surgical,Tertiary
+SV030,Surgery for Cardiac Tumour,"CTVS, Surgical Oncology",95000,Surgical,Tertiary
+SV031,Tetralogy of Fallot Repair,CTVS,75000,Surgical,Tertiary
+SV031,Aortic Valve,CTVS,59500,Unknown,Tertiary
+SV031,Mitral Valve,CTVS,59500,Unknown,Tertiary
+SV031,Tricuspid Valve,CTVS,59500,Unknown,Tertiary
+SV031,Double Valve Procedure,CTVS,71000,Unknown,Tertiary
+SV031,Triple valve procedure,CTVS,85000,Unknown,Tertiary
+SV032,Low Cardiac Output syndrome requiring IABP insertion post - operatively,CTVS,50000,Unknown,Tertiary
+SV033,Re-do sternotomy,CTVS,20000,Unknown,Tertiary
+SV034,Excessive bleeding requiring re-exploration,CTVS,10000,Unknown,Tertiary
+US001,Unspecified Surgical Package,Unspecified Surgical Package,1,Unknown,Tertiary

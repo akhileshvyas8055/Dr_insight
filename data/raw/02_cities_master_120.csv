@@ -1,0 +1,121 @@
+city_id,city,state,coverage_type
+CITY001,Mumbai,Maharashtra,real_indian_city_names
+CITY002,Delhi,Delhi,real_indian_city_names
+CITY003,Bengaluru,Karnataka,real_indian_city_names
+CITY004,Hyderabad,Telangana,real_indian_city_names
+CITY005,Ahmedabad,Gujarat,real_indian_city_names
+CITY006,Chennai,Tamil Nadu,real_indian_city_names
+CITY007,Kolkata,West Bengal,real_indian_city_names
+CITY008,Pune,Maharashtra,real_indian_city_names
+CITY009,Jaipur,Rajasthan,real_indian_city_names
+CITY010,Lucknow,Uttar Pradesh,real_indian_city_names
+CITY011,Kanpur,Uttar Pradesh,real_indian_city_names
+CITY012,Nagpur,Maharashtra,real_indian_city_names
+CITY013,Indore,Madhya Pradesh,real_indian_city_names
+CITY014,Bhopal,Madhya Pradesh,real_indian_city_names
+CITY015,Patna,Bihar,real_indian_city_names
+CITY016,Ludhiana,Punjab,real_indian_city_names
+CITY017,Agra,Uttar Pradesh,real_indian_city_names
+CITY018,Nashik,Maharashtra,real_indian_city_names
+CITY019,Vadodara,Gujarat,real_indian_city_names
+CITY020,Surat,Gujarat,real_indian_city_names
+CITY021,Ranchi,Jharkhand,real_indian_city_names
+CITY022,Raipur,Chhattisgarh,real_indian_city_names
+CITY023,Varanasi,Uttar Pradesh,real_indian_city_names
+CITY024,Prayagraj,Uttar Pradesh,real_indian_city_names
+CITY025,Meerut,Uttar Pradesh,real_indian_city_names
+CITY026,Noida,Uttar Pradesh,real_indian_city_names
+CITY027,Ghaziabad,Uttar Pradesh,real_indian_city_names
+CITY028,Gurugram,Haryana,real_indian_city_names
+CITY029,Faridabad,Haryana,real_indian_city_names
+CITY030,Chandigarh,Chandigarh,real_indian_city_names
+CITY031,Amritsar,Punjab,real_indian_city_names
+CITY032,Jalandhar,Punjab,real_indian_city_names
+CITY033,Dehradun,Uttarakhand,real_indian_city_names
+CITY034,Haridwar,Uttarakhand,real_indian_city_names
+CITY035,Shimla,Himachal Pradesh,real_indian_city_names
+CITY036,Jammu,Jammu and Kashmir,real_indian_city_names
+CITY037,Srinagar,Jammu and Kashmir,real_indian_city_names
+CITY038,Udaipur,Rajasthan,real_indian_city_names
+CITY039,Jodhpur,Rajasthan,real_indian_city_names
+CITY040,Kota,Rajasthan,real_indian_city_names
+CITY041,Ajmer,Rajasthan,real_indian_city_names
+CITY042,Gwalior,Madhya Pradesh,real_indian_city_names
+CITY043,Jabalpur,Madhya Pradesh,real_indian_city_names
+CITY044,Bhubaneswar,Odisha,real_indian_city_names
+CITY045,Cuttack,Odisha,real_indian_city_names
+CITY046,Visakhapatnam,Andhra Pradesh,real_indian_city_names
+CITY047,Vijayawada,Andhra Pradesh,real_indian_city_names
+CITY048,Guntur,Andhra Pradesh,real_indian_city_names
+CITY049,Tirupati,Andhra Pradesh,real_indian_city_names
+CITY050,Warangal,Telangana,real_indian_city_names
+CITY051,Karimnagar,Telangana,real_indian_city_names
+CITY052,Coimbatore,Tamil Nadu,real_indian_city_names
+CITY053,Madurai,Tamil Nadu,real_indian_city_names
+CITY054,Tiruchirappalli,Tamil Nadu,real_indian_city_names
+CITY055,Salem,Tamil Nadu,real_indian_city_names
+CITY056,Erode,Tamil Nadu,real_indian_city_names
+CITY057,Kochi,Kerala,real_indian_city_names
+CITY058,Thiruvananthapuram,Kerala,real_indian_city_names
+CITY059,Kozhikode,Kerala,real_indian_city_names
+CITY060,Thrissur,Kerala,real_indian_city_names
+CITY061,Mysuru,Karnataka,real_indian_city_names
+CITY062,Mangaluru,Karnataka,real_indian_city_names
+CITY063,Hubballi,Karnataka,real_indian_city_names
+CITY064,Belagavi,Karnataka,real_indian_city_names
+CITY065,Davanagere,Karnataka,real_indian_city_names
+CITY066,Aurangabad,Maharashtra,real_indian_city_names
+CITY067,Kolhapur,Maharashtra,real_indian_city_names
+CITY068,Solapur,Maharashtra,real_indian_city_names
+CITY069,Navi Mumbai,Maharashtra,real_indian_city_names
+CITY070,Thane,Maharashtra,real_indian_city_names
+CITY071,Panaji,Goa,real_indian_city_names
+CITY072,Margao,Goa,real_indian_city_names
+CITY073,Guwahati,Assam,real_indian_city_names
+CITY074,Dibrugarh,Assam,real_indian_city_names
+CITY075,Silchar,Assam,real_indian_city_names
+CITY076,Shillong,Meghalaya,real_indian_city_names
+CITY077,Agartala,Tripura,real_indian_city_names
+CITY078,Aizawl,Mizoram,real_indian_city_names
+CITY079,Imphal,Manipur,real_indian_city_names
+CITY080,Itanagar,Arunachal Pradesh,real_indian_city_names
+CITY081,Kohima,Nagaland,real_indian_city_names
+CITY082,Gangtok,Sikkim,real_indian_city_names
+CITY083,Siliguri,West Bengal,real_indian_city_names
+CITY084,Durgapur,West Bengal,real_indian_city_names
+CITY085,Asansol,West Bengal,real_indian_city_names
+CITY086,Howrah,West Bengal,real_indian_city_names
+CITY087,Jamshedpur,Jharkhand,real_indian_city_names
+CITY088,Dhanbad,Jharkhand,real_indian_city_names
+CITY089,Bokaro,Jharkhand,real_indian_city_names
+CITY090,Bilaspur,Chhattisgarh,real_indian_city_names
+CITY091,Korba,Chhattisgarh,real_indian_city_names
+CITY092,Aligarh,Uttar Pradesh,real_indian_city_names
+CITY093,Bareilly,Uttar Pradesh,real_indian_city_names
+CITY094,Moradabad,Uttar Pradesh,real_indian_city_names
+CITY095,Saharanpur,Uttar Pradesh,real_indian_city_names
+CITY096,Mathura,Uttar Pradesh,real_indian_city_names
+CITY097,Gorakhpur,Uttar Pradesh,real_indian_city_names
+CITY098,Muzaffarpur,Bihar,real_indian_city_names
+CITY099,Bhagalpur,Bihar,real_indian_city_names
+CITY100,Purnia,Bihar,real_indian_city_names
+CITY101,Ujjain,Madhya Pradesh,real_indian_city_names
+CITY102,Sagar,Madhya Pradesh,real_indian_city_names
+CITY103,Hisar,Haryana,real_indian_city_names
+CITY104,Rohtak,Haryana,real_indian_city_names
+CITY105,Palakkad,Kerala,real_indian_city_names
+CITY106,Kannur,Kerala,real_indian_city_names
+CITY107,Kollam,Kerala,real_indian_city_names
+CITY108,Tirunelveli,Tamil Nadu,real_indian_city_names
+CITY109,Nellore,Andhra Pradesh,real_indian_city_names
+CITY110,Rajahmundry,Andhra Pradesh,real_indian_city_names
+CITY111,Kakinada,Andhra Pradesh,real_indian_city_names
+CITY112,Nizamabad,Telangana,real_indian_city_names
+CITY113,Kurnool,Andhra Pradesh,real_indian_city_names
+CITY114,Anantapur,Andhra Pradesh,real_indian_city_names
+CITY115,Bhavnagar,Gujarat,real_indian_city_names
+CITY116,Rajkot,Gujarat,real_indian_city_names
+CITY117,Jamnagar,Gujarat,real_indian_city_names
+CITY118,Junagadh,Gujarat,real_indian_city_names
+CITY119,Gandhinagar,Gujarat,real_indian_city_names
+CITY120,Rewa,Madhya Pradesh,real_indian_city_names

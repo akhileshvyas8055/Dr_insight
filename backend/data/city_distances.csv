@@ -1,0 +1,26 @@
+from_city,to_city,distance_km,travel_time_hours,bus_cost,train_cost,flight_cost,avg_hotel_per_night
+Mumbai,Pune,150,3.0,600,350,2500,1500
+Mumbai,Surat,300,5.0,700,450,3000,1300
+Mumbai,Ahmedabad,530,7.0,900,600,3500,1400
+Mumbai,Navi Mumbai,25,1.0,100,,,1500
+Mumbai,Thane,25,1.0,100,,,1500
+Delhi,Gurgaon,30,1.0,100,,,1500
+Delhi,Noida,25,1.0,100,,,1500
+Delhi,Ghaziabad,35,1.0,100,,,1300
+Delhi,Faridabad,35,1.0,100,,,1300
+Delhi,Chandigarh,250,4.0,600,400,3500,1400
+Bengaluru,Chennai,350,5.5,800,500,3000,1600
+Bengaluru,Hyderabad,570,8.0,900,600,3000,1400
+Chennai,Bengaluru,350,5.5,800,500,3000,1600
+Chennai,Hyderabad,630,9.0,1000,650,3000,1400
+Hyderabad,Bengaluru,570,8.0,900,600,3000,1600
+Hyderabad,Chennai,630,9.0,1000,650,3000,1600
+Hyderabad,Pune,560,8.0,900,600,3500,1500
+Pune,Mumbai,150,3.0,600,350,2500,1500
+Pune,Surat,400,6.0,750,500,3000,1500
+Ahmedabad,Mumbai,530,7.0,900,600,3500,1500
+Ahmedabad,Surat,265,4.0,500,350,,1300
+Surat,Mumbai,300,5.0,700,450,3000,1500
+Surat,Ahmedabad,265,4.0,500,350,,1300
+Surat,Pune,400,6.0,750,500,3000,1500
+Chandigarh,Delhi,250,4.0,600,400,3500,1400
